@@ -1,0 +1,522 @@
+<resources>
+    <string name="underscore" translatable="false">_</string>
+    <string name="item_price_placeholder">Tuotteen hinta</string>
+    <string name="options">Valinnat</string>
+    <string name="search">Hae</string>
+    <string name="item_name_placeholder">Tuotteen nimi</string>
+    <string name="product_image">Tuotekuva</string>
+    <string name="collection_title_placeholder">Kokoelman otsikko</string>
+    <string name="view_collection">Katso kokoelma</string>
+    <string name="collection_name_placeholder">Kokoelman nimi</string>
+    <string name="view_all">Katso kaikki</string>
+    <string name="collection_image">Kokoelman kuva</string>
+    <string name="shop_now">Shoppaile nyt</string>
+    <string name="ratting_count_placeholder">(999)</string>
+    <string name="add_to_bag">LISÄÄ KASSIIN</string>
+    <string name="add_to_cart">LISÄÄ OSTOSKORIIN</string>
+    <string name="share">Jaa</string>
+    <string name="app_logo">Sovelluksen logo</string>
+    <string name="items_count_placeholder">Tuotteiden määrä</string>
+    <string name="remove_item">poista tuote</string>
+    <string name="subtotal">Välisumma</string>
+    <plurals name="cart_items_count">
+        <item quantity="one">%d tuote</item>
+        <item quantity="other">%d tuotetta</item>
+    </plurals>
+    <string name="my_bag">KASSINI</string>
+    <string name="my_cart">OSTOSKORINI</string>
+    <string name="splash_background">Roisketaustakuva</string>
+    <string name="cancel">Peruuta</string>
+    <string name="elapsed_time">%1$d %2$s sitten&quot;</string>
+    <string name="value_currency">%1$s %2$s&quot;</string>
+    <string name="card_masked">•••• •••• •••• %1$s&quot;</string>
+    <string name="just_now">Juuri nyt</string>
+
+    <plurals name="year">
+        <item quantity="one">vuosi</item>
+        <item quantity="other">vuotta</item>
+    </plurals>
+
+    <plurals name="month">
+        <item quantity="one">kuukausi</item>
+        <item quantity="other">kuukautta</item>
+    </plurals>
+
+    <plurals name="day">
+        <item quantity="one">päivä</item>
+        <item quantity="other">päivää</item>
+    </plurals>
+
+    <plurals name="hour">
+        <item quantity="one">tunti</item>
+        <item quantity="other">tuntia</item>
+    </plurals>
+
+    <plurals name="minute">
+        <item quantity="one">minuutti</item>
+        <item quantity="other">minuuttia</item>
+    </plurals>
+
+    <plurals name="second">
+        <item quantity="one">sekunti</item>
+        <item quantity="other">sekuntia</item>
+    </plurals>
+
+    <plurals name="week">
+        <item quantity="one">viikko</item>
+        <item quantity="other">viikkoa</item>
+    </plurals>
+
+    <string name="size_guide">Koko-opas</string>
+    <string name="shipping_info">Toimitustiedot</string>
+    <string name="description">Kuvaus</string>
+    <string name="collections">Kokoelmat</string>
+    <string name="your_order_is_complete">Tilauksesi on valmis!</string>
+    <string name="web_checkout_confirmation_message">Vahvistusviesti on lähetetty osoitteeseen</string>
+    <string name="email_placeholder">test@test.com</string>
+    <string name="keep_shopping">Jatka ostoksia</string>
+    <string name="ship_box">kuljetuslaatikko</string>
+    <string name="no_internet">Tarkista internetyhteytesi</string>
+    <string name="checkout">Tilaa</string>
+    <string name="three_d_secure_authentication">3D Secure -todennus</string>
+    <string name="discount">Alennus</string>
+    <string name="review_your_order">Esikatsele tilauksesi</string>
+    <string name="google_pay_error">Google Payn virhe</string>
+    <string name="failed_to_process_payment_title">Maksun käsittely epäonnistui</string>
+    <string name="failed_to_process_payment">Maksun käsittely epäonnistui, yritä uudelleen myöhemmin.</string>
+    <string name="arrow">nuoli</string>
+    <string name="menu_item">valikkokohta</string>
+    <string name="logo">logo</string>
+    <string name="not_implemented">EI OTETTU KÄYTTÖÖN</string>
+    <string name="sold_out">Loppuunmyyty</string>
+    <string name="coming_soon">Tulossa pian</string>
+    <string name="email_address">Sähköpostiosoite</string>
+    <string name="password">Salasana</string>
+    <string name="email_error_message">Anna sähköpostiosoite ennen jatkamista.</string>
+    <string name="password_error_message">Salasana ei voi olla tyhjä.</string>
+    <string name="login_error">Virhe sisäänkirjauduttaessa</string>
+    <string name="error">Virhe</string>
+    <string name="no_results">Ei tuloksia</string>
+    <string name="urban_planet_marker">Urban Planet Marker</string>
+    <string name="try_again_error">Yritä uudelleen.</string>
+    <string name="store_credit">Palautukset: Hyvityskuitti</string>
+    <string name="fraud_prevention">Petostentorjunta</string>
+    <string name="store_credit_title">Hyvityskuitti</string>
+    <string name="return_policy_title">Palautuskäytäntö</string>
+    <string name="store_credit_text">Joitakin poikkeuksia lukuunottamatta kelvolliset palautukset hyvitetään hyvityskuitin muodossa. Vaurioituneet/vialliset tuotteet voidaan vaihtaa, jos niitä on varastossa. Kaikki hyvityskuitit, maksunpalautukset ja/tai vaihdot suoritetaan 3-5 arkipäivän sisällä palautuksen käsittelystä. Kaikkien sellaisten tuotteiden tilaukset, joiden hinta loppuu \$.00, .96, .97 tai .98, ovat lopullisia, eikä niitä voida palauttaa hyvityskuittia vastaan.
+Lue lisää palautuskäytännöstämme</string>
+    <string name="store_credit_text_hyperlink">TÄÄLLÄ</string>
+    <string name="slash" translatable="false">/</string>
+    <string name="free_gift">Ilmainen lahja</string>
+    <string name="a11y_original_and_discounted_price">Alkuperäinen hinta %1$s, myyntihinta %2$s</string><!--Account--><string name="account">Käyttäjätili</string>
+    <string name="sign_in">Kirjaudu sisään</string>
+    <string name="create_an_account">Luo käyttäjätili</string>
+    <string name="already_have_an_account">Onko sinulla jo käyttäjätili?</string>
+    <string name="log_in">Kirjaudu sisään</string>
+    <string name="log_in_to_account">Kirjaudu sisään</string>
+    <string name="create_a_new_account">Luo uusi käyttäjätili</string>
+    <string name="full_nme">Koko nimi</string>
+    <string name="sign_up">Rekisteröidy</string>
+    <string name="name_error_message">Syötä koko nimesi ennen jatkamista.</string>
+    <string name="sign_up_error">Virhe rekisteröidyttäessä</string>
+    <string name="no_address">Osoitetta ei saatavilla</string>
+    <string name="my_orders">Tilaukseni</string>
+    <string name="orders">Tilaukset</string>
+    <string name="hi_user">Hei %s.</string>
+    <string name="favorites">Suosikit</string>
+    <string name="start_browsing">Aloita selaaminen, niin tuotteesi ilmestyvät tähän</string>
+    <string name="recently_viewed">Viimeksi katsotut</string>
+    <string name="first_name_empty_error">Etunimi ei voi olla tyhjä.</string>
+    <string name="last_name_empty_error">Sukunimi ei voi olla tyhjä.</string>
+    <string name="first_name">Etunimi</string>
+    <string name="last_name">Sukunimi</string>
+    <string name="forgot_password">Unohditko salasanasi?</string>
+    <string name="forgot_password_dialog_message">Unohditko salasanasi?
+Lähetämme sinulle linkin sen nollaamiseen.</string>
+    <string name="send_reset_password_link">Lähetä linkki</string>
+    <string name="change_password_error">Virhe muutettaessa salasanaa</string>
+    <string name="reset_password_email_sended">Salasana nollattiin. Tarkista sähköpostisi.</string>
+    <string name="underlined_create_account"><u>Luo käyttäjätili</u></string>
+    <string name="default_error_message">Hups, tapahtui virhe. Yritä uudelleen myöhemmin.</string>
+    <string name="incorrect_email_or_password">Väärä sähköpostiosoite tai salasana.</string>
+    <string name="dont_have_an_account">Eikö sinulla ole käyttäjätiliä?</string>
+    <string name="log_out">Kirjaudu ulos</string><!--Cart--><string name="add_item">lisää tuote</string>
+    <string name="enter_discount_code">Syötä alennuskoodi</string>
+    <string name="enter_gift_card">Syötä lahjakortin numero</string>
+    <string name="apply_discount">Lisää alennus</string>
+    <string name="applied_discount_code">Koodi: %1$s 🔥</string>
+    <string name="applied_gift_card">•••• %s 🎁</string>
+    <string name="continue_shopping">Jatka ostoksia</string>
+    <string name="start_shopping">Aloita shoppailu</string>
+    <string name="empty_cart">tyhjä ostoskori</string>
+    <string name="empty_cart_message">Ostoskorissasi ei ole tuotteita</string>
+    <string name="your_cart_is_empty">Ostoskorisi on tyhjä</string>
+    <string name="apply_gift_card">Lisää lahjakortti</string>
+    <string name="dialog_background_image">Dialogin taustakuva</string>
+    <string name="discount_error_title">Virheellinen alennuskoodi</string>
+    <string name="variant_not_available">Joitakin tuotteista ei ole enää saatavilla. Ostoskorisi on päivitetty.</string>
+    <string name="gift_card_error_title">Virheellinen lahjakortti</string>
+    <string name="something_went_wrong_try_again">Jotain meni pieleen.
+Yritä uudelleen.</string>
+    <string name="credit_card">Luottokortti</string>
+    <string name="paypal">PayPal</string>
+    <string name="amazon_pay">Amazon Pay</string>
+    <string name="google_pay">Google Pay</string>
+    <string name="pay_with">Maksa käyttäen</string>
+    <string name="ship_to_me_title">Toimita minulle</string>
+    <string name="ship_to_me_message">Nopea toimitus mihin tahansa osoitteeseen</string>
+    <string name="ship_to_store_title">Toimita liikkeeseen</string>
+    <string name="ship_to_store_message">Valitse noutopaikka</string>
+    <string name="reach_max_cart_line_items_error_message">Ylittää %s tuotteen rajan. Poista tuotteita ostoskoristasi.</string>
+    <string name="discount_error_not_applied_to_items">Alennus ei koske ostoskorissasi olevia tuotteita</string>
+    <string name="no_internet_connection">Ei internetyhteyttä</string>
+    <string name="generic_checkout_creation_error">Virhe luotaessa kassaa</string>
+    <string name="throttle_failure">Valitettavasti tilauksesi ei onnistunut. Yritä uudelleen.</string>
+    <string name="dont_leave_page_queue_message">Jos lähdet sivulta, menetät paikkasi!</string>
+    <string name="thank_you_queue_message">Kiitos kärsivällisyydestäsi! Pieni hetki vielä!</string>
+    <string name="discount_error_not_found">Koodia vastaavaa voimassaolevaa alennusta ei löytynyt</string>
+    <string name="discount_error_general">Alennusta ei voitu soveltaa. Yritä uudelleen.</string>
+    <string name="add_items_from_favorites">Lisää tuotteita suosikeista</string>
+    <string name="add_my_favorite_items">Lisää suosikkituotteeni?</string>
+    <string name="error_add_favorite_items_cart">Virhe lisättäessä joitakin tuotteita ostoskoriin.</string>
+    <string name="product_is_sold_out_error">Valitettavasti tuote on loppuunmyyty.</string>
+    <string name="cart_update_error_title">Ostoskoria ei voitu päivittää</string>
+    <string name="cart_update_error_discount">Alennuskoodisi on poistettu ongelman vuoksi. Yritä lisätä se uudelleen.</string>
+    <string name="cart_update_error_gift_card">Lahjakorttisi on poistettu ongelman vuoksi. Yritä lisätä se uudelleen.</string><!--Checkout--><string name="gift_card">Lahjakortti</string>
+    <string name="duties">Tulli</string>
+    <string name="shipping">Toimitus</string>
+    <string name="tax">Vero</string>
+    <string name="total">Yhteensä</string>
+    <string name="submit_order">Lähetä tilaus</string>
+    <string name="complete_order">Päätä tilaus</string>
+    <string name="continue_to_payment">Jatka maksuun</string>
+    <string name="signed_in_as">&quot;Kirjautunut käyttäjänä &quot;</string>
+    <string name="already_have_account">Onko sinulla jo käyttäjätili?</string>
+    <string name="underlined_sign_in"><u>Kirjaudu sisään</u></string>
+    <string name="underlined_sign_in_sentence"><u>Kirjaudu sisään.</u></string>
+    <string name="checkout_as_guest">Tai tilaa vieraana</string>
+    <string name="add">Lisää</string>
+    <string name="add_shipping_info">Lisää toimitusosoite</string>
+    <string name="add_billing_address">Lisää laskutusosoite</string>
+    <string name="add_payment_info">Lisää maksutiedot</string>
+    <string name="free">Ilmainen</string>
+    <string name="order_note">Kommentti: %1$s</string>
+    <string name="summary">Yhteenveto</string>
+    <string name="minus">-%1$s</string>
+    <string name="payment">Maksu</string>
+    <string name="add_payment">Lisää maksu</string>
+    <string name="billing_address">Laskutusosoite on sama kuin toimitusosoite</string>
+    <string name="shipping_method">Toimitustapa</string>
+    <string name="ship_to_store">Toimita liikkeeseen</string>
+    <string name="in_store_pickup">Nouto liikkeestä</string>
+    <string name="pick_up_here">Nouda täältä</string>
+    <string name="update_shopping_cart">Päivitä ostoskori</string>
+    <string name="update_shipping_address">Päivitä toimitusosoite</string><!-- Contact Sharing--><string name="contact_sharing">&quot;Jaa kavereille&quot;</string>
+    <string name="module_title">Kutsu</string>
+    <string name="contact_sharing_cta_contacts">Kutsu yhteystiedoistani</string>
+    <string name="contact_sharing_cta_invite">Jaa kutsu</string>
+    <string name="contact_sharing_description_placeholder">Lähetämme 20 dollarin lahjakortin, kun he tekevät ostoksen. Kutsu kavereita yhteystiedoistasi.</string>
+    <string name="contact_sharing_permission_denied">Laitteen yhteystietojen käyttöoikeus vaaditaan. Anna laitteen yhteystietojen käyttöoikeus laitteesi asetuksista.</string><!--Credit Card--><string name="empty_card_error">&quot;Syötä luottokorttisi numero.&quot;</string>
+    <string name="invalid_card_error">&quot;Virheellinen luottokortin numero.&quot;</string>
+    <string name="scan_your_card">Lue korttisi</string><!--Notes--><string name="add_order_notes">Lisää kommentti</string>
+    <string name="gift_cart_or_delivery_date_notes">Lahjakortin viesti | Haluttu toimituspäivä</string>
+    <string name="add_notes">Lisää kommentti</string>
+    <string name="notes_hint">Lisää tilaukseesi kommentti</string>
+    <string name="update_notes_error">Virhe päivitettäessä kommenttia</string><!--Address--><string name="billing">Laskutus</string>
+    <string name="email">Sähköposti</string>
+    <string name="new_address">Uusi osoite</string>
+    <string name="add_new_address">Lisää uusi osoite</string>
+    <string name="update_address">Päivitä osoite</string>
+    <string name="phone_number">Puhelinnumero</string>
+    <string name="full_name">Koko nimi</string>
+    <string name="street_address">Katuosoite</string>
+    <string name="unit">Yksikkö (valinnainen)</string>
+    <string name="city">Kaupunki</string>
+    <string name="postal_code">Postinumero</string>
+    <string name="state">Osavaltio</string>
+    <string name="province">Provinssi</string>
+    <string name="country">Maa</string>
+    <string name="save_address">Tallenna osoite</string>
+    <string name="empty_email_error">Syötä sähköpostiosoitteesi.</string>
+    <string name="invalid_email_error">Anna voimassaoleva sähköpostiosoite.</string>
+    <string name="phone_error">Syötä puhelinnumerosi.</string>
+    <string name="empty_full_name_error">Syötä koko nimesi.</string>
+    <string name="full_name_error">Anna etu- ja sukunimesi.</string>
+    <string name="empty_address_error">Anna osoitteesi.</string>
+    <string name="empty_city_error">Syötä kaupunkisi.</string>
+    <string name="empty_zip_error">Syötä postinumerosi.</string>
+    <string name="empty_state_error">Syötä osavaltiosi.</string>
+    <string name="restricted_shipping_country_error">Valitettavasti ostoskorissasi on tuotteita, joita ei voida toimittaa Yhdysvaltojen ulkopuolelle.</string>
+    <string name="does_not_ship_to_country_error">Valitettavasti emme toimita valittuun maahan.</string>
+    <string name="empty_country_error">Syötä maasi.</string>
+    <string name="unknown_country_error">Valittua maata ei tunnistettu.</string>
+    <string name="update_address_error">Osoitetta ei voitu tallentaa.</string>
+    <string name="empty_phone_error">&quot;Syötä puhelinnumerosi toimituslomakkeeseen.&quot;</string>
+    <string name="beauty_items_error">Ostoskorissasi olevat kauneustuotteet voidaan toimittaa vain Yhdysvaltoihin tai Kanadaan. Päättääksesi tilauksen poista kauneustuotteet ostoskoristasi tai päivitä toimitusosoite.</string>
+    <string name="a11y_selected">Valittu</string>
+    <string name="a11y_unselected">Valinta poistettu</string><!--Processing--><string name="processing_title">Vielä hetki.
+Käsittelemme tilaustasi.</string>
+    <string name="processing_subtitle">Tämä voi viedä hetken.</string>
+    <string name="out_of_stock_title">Meillä ei ole tarpeeksi pyytämiäsi tuotteita.</string>
+    <string name="out_of_stock_subtitle">Olemme päivittäneet alla olevien tuotteiden määrät. Tarkista ostoskorisi jatkaaksesi.</string>
+    <string name="checkout_completed_title">Valmista!
+Kiitos tilauksestasi.</string>
+    <string name="checkout_completed_message">Sinun pitäisi pian saada sähköpostivahvistus.</string>
+    <string name="review_cart">Tarkista ostoskori</string>
+    <string name="processing_checkout_error">&quot;Ongelma viimeisteltäessä tilaustasi. Yritä uudelleen.&quot;</string><!--Collection--><string name="sort">Lajittele</string>
+    <string name="recommended">Suositellut</string>
+    <string name="whats_new">Uutta</string>
+    <string name="best_selling">Eniten myyty</string>
+    <string name="price_low_to_high">Hinta: halvimmasta kalleimpaan</string>
+    <string name="price_high_to_low">Hinta: kalleimmasta halvimpaan</string>
+    <string name="filter">Suodatin</string>
+    <string name="apply">Käytä</string>
+    <string name="clear">Tyhjennä</string>
+    <string name="error_get_filter">Suodatus ei onnistunut</string>
+    <string name="update_wish_list_error_dialog_message">Toivelistan päivittäminen epäonnistui. Yritä pian uudelleen.</string>
+    <string name="reach_max_favorites_error_message">%s tuotteen raja ylitetty. Poista tuotteita toivelistaltasi.</string>
+    <string name="empty_state_collection_title">EI TUOTTEITA</string>
+    <string name="empty_state_collection_message">Emme löytäneet tuotteita tästä kokoelmasta.</string>
+    <string name="unavailable_collection_message">Tämä kokoelma ei ole enää saatavilla.</string><!--Favorite--><string name="my_wishlist">Toivelistani</string>
+    <string name="my_wishlists">Toivelistani</string>
+    <string name="my_favorites">Suosikkini</string>
+    <string name="empty_wish_list">Ei suosikkeja</string>
+    <string name="favorite_header">Jaa suosikkisi</string>
+    <string name="share_wish_list">Katso %1$s suosikkiani!</string>
+    <string name="a11y_favorite_button_label">Lisää suosikkeihin -painike</string><!--  Read with an accessibility action, e.g. "Double-tap to [action]"  --><string name="a11y_favorite_button_add_action">lisää tuote suosikkeihisi.</string>
+    <string name="a11y_favorite_button_remove_action">poista tuote suosikeistasi.</string>
+    <string name="a11y_favorite_button_sign_in_action">kirjaudu sisään</string><!-- Installment Payments --> <!-- TODO move to a constants file --><string name="quad_pay" translatable="false">QuadPay</string>
+    <string name="after_pay" translatable="false">AfterPay</string>
+    <string name="klarna" translatable="false">Klarna</string>
+    <string name="affirm" translatable="false">Affirm</string>
+    <string name="sezzle" translatable="false">Sezzle</string>
+    <string name="installment_provider_text">&quot;Osta nyt, maksa myöhemmin.
+%d korotonta %s suuruista maksua&quot;</string><!--Main--><string name="cart_icon">Ostoskorikuvake</string>
+    <string name="menu_background">Valikon taustakuva</string>
+    <string name="sure_log_out">Oletko varma, että haluat kirjautua ulos sovelluksesta?</string>
+    <string name="my_account">Käyttäjätilini</string>
+    <string name="install">Asenna</string>
+    <string name="video_placeholder">Videon paikkamerkki</string>
+    <string name="exit_preview">Poistu esikatselusta</string>
+    <string name="a11y_navigation_icon">Valikko</string>
+
+    <string name="a11y_video_block_product_destination">Video. Napauta kahdesti avataksesi tuotteen.</string>
+    <string name="a11y_video_block_collection_destination">Video. Napauta kahdesti avataksesi %s -kokoelman.</string>
+    <string name="a11y_video_block_webpage_destination">Video. Napauta kahdesti avataksesi verkkosivun.</string>
+    <string name="a11y_video_block">Video</string>
+    <string name="a11y_image_block_product_destination">Kuva. Napauta kahdesti avataksesi tuotteen.</string>
+    <string name="a11y_image_block_collection_destination">Kuva. Napauta kahdesti avataksesi %s -kokoelman.</string>
+    <string name="a11y_image_block_webpage_destination">Kuva. Napauta kahdesti avataksesi verkkosivun.</string>
+    <string name="a11y_image_block">Kuva</string><!--  Read with an accessibility action, e.g. "Double-tap to [action]"  --><string name="a11y_image_block_action_open_webpage">avaa verkkosivu</string>
+    <string name="a11y_image_block_action_open_collection">avaa kokoelma</string><!--Search--><string name="barcode_scanner">Lue viivakoodi</string>
+    <string name="photo_search_button">Lataa kuva</string>
+    <string name="search_no_results_description">Emme löytäneet etsimääsi tuotetta.</string>
+    <string name="search_products">Hae tuotteita</string>
+    <string name="popular_searches">Suositut haut</string>
+    <string name="trending_searches">Tämän hetken suosituimmat haut</string><!--Order--><string name="order_description_placeholder">Tilauskuvauksen paikkamerkki</string>
+    <string name="order_total_placeholder">$99.99</string>
+    <string name="order_days_placeholder">17 päivää sitten</string>
+    <plurals name="order_quantity_count">
+        <item quantity="one">ja %d muu tuote</item>
+        <item quantity="other">ja %d muuta tuotetta</item>
+    </plurals>
+    <string name="order">Tilaus</string>
+    <string name="you_have_no_orders">Sinulla ei ole tilauksia</string>
+    <string name="check_back">Tarkista uudelleen, kun olet tehnyt ensimmäisen tilauksesi</string>
+    <string name="processing">Käsitellään</string><!--ProductDetails--><string name="keep_track">PIDÄ KIRJAA SUOSIKEISTASI</string>
+    <string name="create_account_to_save_favorites">Luo %1$s-tili tallentaaksesi ja seurataksesi kaikkia suosikkituotteitasi.</string>
+    <string name="sign_in_to_save_favorites">Kirjaudu %1$s-tilillesi tallentaakseesi ja seurataksesi kaikkia suosikkituotetteitasi.</string>
+    <string name="create_account_or_sign_in">Luo käyttäjätili tai kirjaudu sisään</string>
+    <string name="reviews">Arvostelut</string>
+    <string name="verified_icon">Vahvistettu-kuvake</string>
+    <string name="you_may_also_like">Saatat myös pitää näistä</string>
+    <string name="first_to_write_review">Kirjoita ensimmäinen arvostelu</string>
+    <string name="uber_chic_checkout_already_created_message">Et voi lisätä tuotteita ostoskoriin, kun kassa on jo luotu</string>
+    <string name="view_all_reviews">Katso kaikki
+arvostelut</string>
+    <string name="something_went_wrong">Jotain meni pieleen.</string>
+    <string name="notify_when_available">Ilmoita, kun tuotetta on saatavilla</string>
+    <string name="notify_when_available_confirmation">Ilmoitamme sinulle, kun tuotetta on taas varastossa.</string>
+    <string name="final_sale">Viimeinen ale</string>
+    <string name="clearance_tag">Tyhjennysmyynti</string>
+    <string name="plus">Plus</string>
+    <string name="misses">Misses</string>
+    <string name="petite">Petite</string>
+    <string name="select_size_range">Valitse kokoluokka:</string>
+    <string name="parenthesis">(%s)</string>
+    <string name="shop_similar">Osta samankaltaisia</string>
+    <string name="installment_provider_logo_content_desc">Osamaksun tarjoajan logo</string>
+    <string name="product_video">Tuotevideo</string>
+    <string name="color">Väri</string>
+    <string name="video_banner_play_button_content_desc">Toistopainike</string>
+    <string name="become_a_subscriber">Ryhdy tilaajaksi</string>
+    <string name="become_a_subscriber_and_save">Ryhdy tilaajaksi ja säästä %d% %</string>
+    <string name="select">Valitse</string>
+    <string name="select_something">Valitse %s</string>
+    <string name="size_range">Kokoluokka</string>
+    <string name="initial_time" translatable="false">00:00</string>
+    <string name="a11y_play">Toista</string>
+    <string name="a11y_pause">Pysäytä</string>
+    <string name="a11y_enter_fullscreen">Avaa kokoruututila</string>
+    <string name="a11y_exit_fullscreen">Poistu kokoruututilasta</string>
+    <string name="share_product">Saatat pitää tästä! Kiirehdi, tuote voi pian olla loppuunmyyty!
+%s</string>
+    <string name="unavailable_product_message">Tuotetta ei ole enää saatavilla.</string>
+    <string name="a11y_variant_sold_out">%s. Ei saatavilla.</string><!--  Read with an accessibility action, e.g. "Double-tap to [action]"  --><string name="a11y_collapse_action">pienennä</string>
+    <string name="a11y_expand_action">laajenna</string><!--StoreLocator--><string name="store_locator">Liikkeen paikannus</string>
+    <string name="list">Lista</string>
+    <string name="map">Kartta</string>
+    <string name="search_by_postal_code">Hae postinumeron perusteella</string>
+    <string name="no_results_description">Emme löytäneet liikkeitä annetulla postinumerolla</string>
+    <string name="temporarily_closed">Suljettu toistaiseksi</string>
+    <string name="store_hours">Aukioloajat</string>
+    <string name="a11y_edit_store">Muokkaa liikettä</string><!--  Read with an accessibility action, e.g. "Double-tap to [action]"  --><string name="a11y_favorite_store_button_add_action">aseta tämä liike suosikiksesi</string>
+    <string name="a11y_favorite_store_button_remove_action">poista suosikkiliike</string><!--FourSixty--><string name="shop_our_instagram">Shoppaile Instagramissamme</string>
+    <string name="four_sixty_header_message">Katso, mitä muilla on päällä Instagramissa, ja osta heti täältä.</string>
+    <string name="four_sixty_see_it_instagram_header_message">Tuote Instagramissa.</string><!--Write a Review--><string name="write_a_review">Kirjoita arvostelu</string>
+    <string name="how_would_you_rate">Minkä arvosanan antaisit tälle tuotteelle?</string>
+    <string name="name">Nimi</string>
+    <string name="title">Otsikko</string>
+    <string name="message">Viesti</string>
+    <string name="submit_review">Lähetä arvostelu</string>
+    <string name="empty_name_error">Syötä nimesi.</string>
+    <string name="review_title_error">Anna arvostelulle otsikko.</string>
+    <string name="review_title_success">Arvostelusi on lähetetty onnistuneesti!</string><!--Recharge--><string name="my_subscriptions">Tilaukseni</string>
+    <string name="manage_subscription_on_web">Hallitse tilauksiasi verkossa</string>
+    <string name="recharge" translatable="false">Lataa</string>
+    <string name="subscribe_and_save">&quot;Tilaa ja säästä&quot;</string>
+    <string name="one_time_purchase">Kertaosto</string>
+    <string name="subscribe_every">Tilaa joka %1$s</string>
+    <string name="save_percent">Säästä %1$d% %</string>
+    <string name="purchase_options">Ostovaihtoehdot</string>
+    <string name="subscription_every">Tilaus: Joka %1$d %2$s</string>
+
+    <plurals name="rating_info">
+        <item quantity="one">%2$.2f | %1$d arvostelu</item>
+        <item quantity="other">%2$.2f | %1$d arvostelua</item>
+    </plurals><!-- Quick Add/Update --><string name="view"><u>Katso</u></string>
+    <string name="select_your">Valitse %s</string>
+    <string name="quick_add_plus">+ Nopea lisäys</string>
+    <string name="update_cart">Päivitä ostoskori</string><!-- Onboarding --><string name="create_account">Luo käyttäjätili</string>
+    <string name="skip">Ohita</string>
+    <string name="title_onboarding">Käyttöönotto</string><!-- Notifications--><string name="no_notifications_title">Ei ilmoituksia</string>
+    <string name="no_notifications_message">Ei näytettäviä ilmoituksia</string>
+    <string name="notifications_error">Jotain meni pieleen. Yritä pian uudelleen.</string>
+
+    <string name="title_test">Testiotsikko</string>
+    <string name="title_shoppableinstagram">Ostettava Instagram</string>
+    <string name="title_search">Hae</string>
+    <string name="title_notifications">Ilmoitukset</string><!--Countdown Timer block --><string name="countdown_timer_number_format">%02d</string><!--QuadPay--><string name="quad_pay_eligible_message">Osta nyt, maksa myöhemmin.
+%1$d korotonta %2$s suuruista maksua</string>
+    <string name="quad_pay_ineligible_message">%1$d korotonta maksua yli $%2$s maksaville tilauksille</string><!--My Rewards--><string name="title_loyalty">Kanta-asiakkuus</string>
+    <string name="about">Tietoa</string>
+    <string name="loyalty_rewards">Kanta-asiakkuusedut</string>
+    <plurals name="your_balance">
+        <item quantity="one">Saldosi: &lt;b&gt;%,d piste&lt;/b&gt;</item>
+        <item quantity="other">Saldosi: &lt;b&gt;%,d pistettä&lt;/b&gt;</item>
+    </plurals>
+    <plurals name="tier_level">
+        <item quantity="one">%d / %d taso</item>
+        <item quantity="other">%d / %d tasoa</item>
+    </plurals>
+    <string name="number_with_comma">%,d</string>
+    <string name="of_progress">/ %,d</string>
+    <string name="tier">%s Taso</string>
+    <string name="ways_to_earn_extra">Tapoja ansaita enemmän</string>
+    <string name="view_more_underlined">&lt;u&gt;Katso lisää&lt;/u&gt;</string>
+    <string name="close_underlined">&lt;u&gt;Sulje&lt;/u&gt;</string>
+    <string name="a11y_close">Sulje</string>
+    <string name="a11y_back">Takaisin</string>
+    <string name="share_with_friends">Jaa kavereille</string><!--My Rewards Dialog--><string name="my_rewards">Palkintoni</string>
+    <string name="my_rewards_all_caps">PALKINTONI</string>
+    <string name="choose_reward">Valitse palkinto</string>
+    <string name="choose_a_reward">Valitse palkinto:</string>
+    <string name="redeem_reward">Lunasta palkinto</string>
+    <string name="remove">Poista</string>
+    <string name="points">%d pistettä</string>
+    <string name="points_non_reversible">*Palkintojen lunastamista pisteillä ei voida peruuttaa.</string>
+    <string name="redeem_points_for_discount">Lunasta pisteillä alennus</string>
+    <string name="banner_reward_applied">&lt;b&gt;%s käytetty&lt;/b&gt; - Koodi: %s</string>
+    <string name="unclaimed">Lunastamaton:</string>
+    <string name="reward_code_invalid">Virheellinen palkintokoodi.</string>
+    <string name="reward_has_zero_balance">Palkinnon saldo on tyhjä.</string>
+    <string name="reward_is_expired">Palkinto on vanhentunut.</string>
+    <string name="reward_code_not_found">Palkintokoodia ei löytynyt.</string>
+    <string name="reward_already_redeemed">Palkintosi on jo lunastettu.</string>
+    <string name="cannot_apply_reward">Palkintoa ei voida lisätä.</string>
+    <string name="cannot_apply_multiple_gift_cards">Useita lahjakortteja ei ole mahdollista lisätä.</string>
+    <string name="reward_is_disabled">Palkinto ei ole käytettävissä. Yritä uudelleen myöhemmin.</string>
+    <string name="no_rewards_available">Ei saatavilla olevia palkintoja.</string>
+    <string name="setting_up_loyalty">Kanta-asiakkuuttasi luodaan...</string>
+    <string name="discount_not_applicable_error">Alennus ei koske ostoskorissasi olevia tuotteita.</string><!--Subscriptions--><string name="title_subscriptions">Tilaukset</string>
+    <string name="active">Aktiivinen</string>
+    <string name="inactive">Ei aktiivinen</string>
+    <string name="next_billing_date">Seuraava laskutuspäivä: %1$s</string>
+    <string name="skipped_order">Tilaus ohitettu: %1$s</string>
+    <string name="subscription_inactive">Tilaus ei aktiivinen</string>
+    <string name="no_subscriptions">Ei tilauksia</string>
+    <string name="no_subscriptions_yet">Et ole luonut vielä tilauksia.</string><!--Subscription Details--><string name="subscription_details">Tilauksen tiedot</string>
+    <string name="frequency">Tiheys</string>
+    <string name="delivered_every">Joka %1$s</string>
+    <string name="reactivate_subscription">Aktivoi tilaus uudelleen</string>
+    <string name="save_changes">Tallenna muutokset</string>
+    <string name="select_a_frequency">Valitse tiheys</string>
+    <string name="select_a_quantity">Valitse määrä</string>
+    <string name="every">Joka %1$d %2$s</string>
+    <string name="skip_next_charge">Ohita seuraava veloitus</string>
+    <string name="unskip_next_charge">Peruuta seuraavan veloituksen ohitus</string>
+    <string name="deactivate_subscription">Poista tilaus käytöstä</string>
+    <string name="subscription_updated_message">Olemme päivittäneet tilauksesi</string>
+    <string name="a11y_change_quantity">Muuta määrää</string>
+
+    <plurals name="day_interval">
+        <item quantity="one">%1$d päivä</item>
+        <item quantity="other">%1$d päivää</item>
+    </plurals>
+    <plurals name="week_interval">
+        <item quantity="one">%1$d viikko</item>
+        <item quantity="other">%1$d viikkoa</item>
+    </plurals>
+    <plurals name="month_interval">
+        <item quantity="one">%1$d kuukausi</item>
+        <item quantity="other">%1$d kuukautta</item>
+    </plurals><!--Reactivate Subscription--><string name="reactivate_subscription_title">Aktivoi tilaus uudelleen</string>
+    <string name="reactivate_subscription_message">Veloitus tehdään seuraavana laskutuspäivänä.</string>
+    <string name="confirm">Vahvista</string><!--Deactivate Subscription--><string name="deactivate_subscription_title">Poista tilaus käytöstä</string>
+    <string name="deactivate_subscription_message">Oletko varma, että haluat poistaa tilauksesi käytöstä?</string>
+    <string name="deactivate">Poista käytöstä</string><!--Skip Charge--><string name="skip_charge_title">Ohita veloitus</string>
+    <string name="skip_charge_message">Oletko varma, että haluat ohittaa seuraavan tilauspäiväsi?</string>
+    <string name="skip_charge">Ohita</string><!--Unskip Charge--><string name="unskip_charge_title">Peruuta veloituksen ohitus</string>
+    <string name="unskip_charge_message">Oletko varma, että haluat peruuttaa seuraavan tilauspäiväsi ohituksen?</string>
+    <string name="unskip_charge">Peruuta ohitus</string><!--Leave Subscription Unsaved--><string name="leave_unsaved_message">Oletko varma, että haluat poistua? Kaikki tallentamattomat muutokset hylätään.</string>
+    <string name="leave">Poistu</string><!--Recharge Errors--><string name="auth_error_message">Hups! Tapahtui todennusvirhe</string>
+    <string name="parse_error_message">Hups! Virhe suoritettaessa toimenpidettä</string><!--Subscription Address--><string name="select_address">Valitse osoite</string>
+    <string name="edit_address">Muokkaa osoitetta</string>
+    <string name="deliver_to_address">Toimita tähän osoitteeseen</string><!--Abandoned Items--><string name="finish_checkout">Päätä tilaus</string>
+    <string name="view_cart">Näytä ostoskori</string>
+    <string name="abandoned_checkout_title">Jatka siitä, mihin jäit!
+Viimeistele tilauksesi nyt.</string>
+    <string name="abandoned_cart_title">Unohdit tämän ostoskoriisi.
+Tilaa tuote ennen kuin se myydään loppuun.</string>
+
+    <plurals name="extra_items_message">
+        <item quantity="one">&quot;+ %1$d muu tuote&quot;</item>
+        <item quantity="other">&quot;+ %1$d muuta tuotetta&quot;</item>
+    </plurals>
+    <string name="title_address">Osoite</string><!-- Photo Search --><string name="take_photo">Ota kuva</string>
+    <string name="select_photo">Valitse kuva</string>
+    <string name="photo_search_toolbar">Kuvahaku</string>
+    <string name="photo_search_description">Voit nyt hakea ottamalla kuvan. Tai lataa kuva, valitse siinä oleva tuote ja osta!</string>
+    <string name="photo_search_feed_description">Ei kuvaa? Kokeile somesyötteitämme</string>
+    <string name="replace_image">Korvaa kuva</string>
+
+    <string name="photo_search_sort_label" translatable="false">@string/sort</string>
+    <string name="photo_search_sort_best_match">Osuvin</string>
+    <string name="photo_search_sort_price_high_low" translatable="false">@string/price_high_to_low</string>
+    <string name="photo_search_sort_price_low_high" translatable="false">@string/price_low_to_high</string><!-- Multicurrency --><string name="change_currency">Vaihda valuutta</string>
+    <string name="change_currency_msg">Tämä päivittää sovelluksen, ja hinnat vaihtuvat valuuttaan %s.</string>
+    <string name="add_to_list_failed">Tuotteen lisääminen toivelistalle ei onnistunut</string>
+    <string name="failed_to_remove_wishlist_item">Tuotteiden poistaminen toivelistalta ei onnistunut</string>
+    <string name="default_wishlist_name">Toivelistani</string>
+
+</resources>

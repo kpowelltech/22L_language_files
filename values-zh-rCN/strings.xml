@@ -1,0 +1,511 @@
+<resources>
+    <string name="underscore" translatable="false">_</string>
+    <string name="item_price_placeholder">商品价格</string>
+    <string name="options">选项</string>
+    <string name="search">搜索</string>
+    <string name="item_name_placeholder">商品名称</string>
+    <string name="product_image">商品图片</string>
+    <string name="collection_title_placeholder">系列标题</string>
+    <string name="view_collection">查看系列</string>
+    <string name="collection_name_placeholder">系列名称</string>
+    <string name="view_all">查看全部</string>
+    <string name="collection_image">系列图片</string>
+    <string name="shop_now">立即购物</string>
+    <string name="ratting_count_placeholder">(999)</string>
+    <string name="add_to_bag">添加到购物袋</string>
+    <string name="add_to_cart">添加到购物车</string>
+    <string name="share">分享</string>
+    <string name="app_logo">添加标志</string>
+    <string name="items_count_placeholder">商品计数</string>
+    <string name="remove_item">删除商品</string>
+    <string name="subtotal">小计</string>
+    <plurals name="cart_items_count">
+        <item quantity="one">%d 商品</item>
+        <item quantity="other">%d 商品</item>
+    </plurals>
+    <string name="my_bag">我的购物袋</string>
+    <string name="my_cart">我的购物车</string>
+    <string name="splash_background">亮色块背景</string>
+    <string name="cancel">取消</string>
+    <string name="elapsed_time">%1$d %2$s 之前”</string>
+    <string name="value_currency">%1$s %2$s&quot;</string>
+    <string name="card_masked">•••• •••• •••• %1$s&quot;</string>
+    <string name="just_now">刚才</string>
+
+    <plurals name="year">
+        <item quantity="one">年</item>
+        <item quantity="other">年</item>
+    </plurals>
+
+    <plurals name="month">
+        <item quantity="one">月</item>
+        <item quantity="other">月</item>
+    </plurals>
+
+    <plurals name="day">
+        <item quantity="one">天</item>
+        <item quantity="other">天</item>
+    </plurals>
+
+    <plurals name="hour">
+        <item quantity="one">小时</item>
+        <item quantity="other">小时</item>
+    </plurals>
+
+    <plurals name="minute">
+        <item quantity="one">分钟</item>
+        <item quantity="other">分钟</item>
+    </plurals>
+
+    <plurals name="second">
+        <item quantity="one">秒</item>
+        <item quantity="other">秒</item>
+    </plurals>
+
+    <plurals name="week">
+        <item quantity="one">周</item>
+        <item quantity="other">周</item>
+    </plurals>
+
+    <string name="size_guide">尺寸指南</string>
+    <string name="shipping_info">寄送信息</string>
+    <string name="description">描述</string>
+    <string name="collections">系列</string>
+    <string name="your_order_is_complete">您的订单已完成！</string>
+    <string name="web_checkout_confirmation_message">已经向您的</string>
+    <string name="email_placeholder">test@test.com 发送确认电子邮件</string>
+    <string name="keep_shopping">继续购物</string>
+    <string name="ship_box">寄送箱</string>
+    <string name="no_internet">请检查您的网络连接</string>
+    <string name="checkout">结账</string>
+    <string name="three_d_secure_authentication">3D 安全认证</string>
+    <string name="discount">折扣</string>
+    <string name="review_your_order">查看您的订单</string>
+    <string name="google_pay_error">Google Pay 错误</string>
+    <string name="failed_to_process_payment_title">处理付款失败</string>
+    <string name="failed_to_process_payment">处理付款失败，请稍后再试。</string>
+    <string name="arrow">箭头</string>
+    <string name="menu_item">菜单项</string>
+    <string name="logo">标志</string>
+    <string name="not_implemented">未实施</string>
+    <string name="sold_out">售罄</string>
+    <string name="coming_soon">即将推出</string>
+    <string name="email_address">电子邮件地址</string>
+    <string name="password">密码</string>
+    <string name="email_error_message">请先提供一个电子邮件地址再继续。</string>
+    <string name="password_error_message">密码不能为空。</string>
+    <string name="login_error">登录错误</string>
+    <string name="error">错误</string>
+    <string name="no_results">没有结果</string>
+    <string name="urban_planet_marker">Urban Planet 标志</string>
+    <string name="try_again_error">请重试。</string>
+    <string name="store_credit">退货：店铺积分</string>
+    <string name="fraud_prevention">防止诈骗</string>
+    <string name="store_credit_title">店铺积分</string>
+    <string name="return_policy_title">退货政策</string>
+    <string name="store_credit_text">除有限的例外情况，有效退货将以店铺积分的形式退还。如有存货，我们会为您更换受损/有缺陷的商品。\n我们将在处理完退货事宜后的 3 至 5 个工作日内发出所有您应得的店铺积分、退款和/或换货商品。\n所有价格以 $.00、.96、.97 和 .98 结尾的商品都是最终折扣商品，不能退货并换取店铺积分。\n您可以找到关于我们的退货政策的其他信息</string>
+    <string name="store_credit_text_hyperlink">此处</string>
+    <string name="slash" translatable="false">/</string>
+    <string name="free_gift">免费礼品</string>
+    <string name="a11y_original_and_discounted_price">原价 %1$s，售价 %2$s</string><!--Account--><string name="account">账户</string>
+    <string name="sign_in">登录</string>
+    <string name="create_an_account">创建一个账户</string>
+    <string name="already_have_an_account">已经有账户了？</string>
+    <string name="log_in">登录</string>
+    <string name="log_in_to_account">登录到帐户</string>
+    <string name="create_a_new_account">创建一个新账户</string>
+    <string name="full_nme">全名</string>
+    <string name="sign_up">注册</string>
+    <string name="name_error_message">请先输入您的全名再继续。</string>
+    <string name="sign_up_error">注册出错</string>
+    <string name="no_address">无可用地址</string>
+    <string name="my_orders">我的订单</string>
+    <string name="orders">订单</string>
+    <string name="hi_user">您好，%s。</string>
+    <string name="favorites">收藏</string>
+    <string name="start_browsing">开始浏览，在此处显示\n商品</string>
+    <string name="recently_viewed">最近浏览的商品</string>
+    <string name="first_name_empty_error">名字不能为空。</string>
+    <string name="last_name_empty_error">姓氏不能为空。</string>
+    <string name="first_name">名字</string>
+    <string name="last_name">姓氏</string>
+    <string name="forgot_password">忘记密码？</string>
+    <string name="forgot_password_dialog_message">忘记密码？\n我们将向您发送一个重置链接。</string>
+    <string name="send_reset_password_link">发送链接</string>
+    <string name="change_password_error">更改密码出错</string>
+    <string name="reset_password_email_sended">密码已重置。请检查您的电子邮件。</string>
+    <string name="underlined_create_account"><u>创建账户</u></string>
+    <string name="default_error_message">噢，出错了。请稍后重试。</string>
+    <string name="incorrect_email_or_password">电子邮件或密码不正确。</string>
+    <string name="dont_have_an_account">还没有账户？</string>
+    <string name="log_out">登出</string><!--Cart--><string name="add_item">添加商品</string>
+    <string name="enter_discount_code">输入折扣代码</string>
+    <string name="enter_gift_card">输入礼品卡编号</string>
+    <string name="apply_discount">使用折扣</string>
+    <string name="applied_discount_code">代码：%1$s 🔥</string>
+    <string name="applied_gift_card">•••• %s 🎁</string>
+    <string name="continue_shopping">继续购物</string>
+    <string name="start_shopping">开始购物</string>
+    <string name="empty_cart">空的购物车</string>
+    <string name="empty_cart_message">当前您的购物车中\n没有商品</string>
+    <string name="your_cart_is_empty">您的购物车为空</string>
+    <string name="apply_gift_card">使用礼品卡</string>
+    <string name="dialog_background_image">对话背景图片</string>
+    <string name="discount_error_title">折扣代码无效</string>
+    <string name="variant_not_available">有些商品已无货，您的购物车已更新。</string>
+    <string name="gift_card_error_title">礼品卡无效</string>
+    <string name="something_went_wrong_try_again">出错了。\n请重试。</string>
+    <string name="credit_card">信用卡</string>
+    <string name="paypal">PayPal</string>
+    <string name="amazon_pay">Amazon Pay</string>
+    <string name="google_pay">Google Pay</string>
+    <string name="pay_with">支付方式</string>
+    <string name="ship_to_me_title">寄给我</string>
+    <string name="ship_to_me_message">输入任何地址，快速收到商品</string>
+    <string name="ship_to_store_title">寄给店铺</string>
+    <string name="ship_to_store_message">选择取货地点</string>
+    <string name="reach_max_cart_line_items_error_message">超出 %s 的限制，请从购物车中删除商品。</string>
+    <string name="discount_error_not_applied_to_items">折扣不适用于您购物车中的商品</string>
+    <string name="no_internet_connection">没有网络连接</string>
+    <string name="generic_checkout_creation_error">结账时出错</string>
+    <string name="throttle_failure">对不起，结账失败。请重试。</string>
+    <string name="dont_leave_page_queue_message">不要离开此页面，否则您将找不到位置！</string>
+    <string name="thank_you_queue_message">非常感谢您的耐心等待！请再等一会！</string>
+    <string name="discount_error_not_found">无法找到与输入的代码相匹配的有效折扣</string>
+    <string name="discount_error_general">折扣不适用。请重试。</string>
+    <string name="add_items_from_favorites">从收藏中添加商品</string>
+    <string name="add_my_favorite_items">是否添加我最喜欢的项目？</string>
+    <string name="error_add_favorite_items_cart">抱歉，将一些商品添加到购物车时出现问题。</string>
+    <string name="product_is_sold_out_error">抱歉，该产品已售罄。</string>
+    <string name="cart_update_error_title">无法更新购物车</string>
+    <string name="cart_update_error_discount">由于问题，您的折扣代码已被移除。请尝试重新添加。</string>
+    <string name="cart_update_error_gift_card">由于出现问题，您的礼品卡已被移除。请尝试重新添加。</string><!--Checkout--><string name="gift_card">礼品卡</string>
+    <string name="duties">关税</string>
+    <string name="shipping">寄送</string>
+    <string name="tax">税费</string>
+    <string name="total">总计</string>
+    <string name="submit_order">提交订单</string>
+    <string name="complete_order">完成订单</string>
+    <string name="continue_to_payment">继续支付</string>
+    <string name="signed_in_as">“登录身份”</string>
+    <string name="already_have_account">已经有账户了？</string>
+    <string name="underlined_sign_in"><u>登录</u></string>
+    <string name="underlined_sign_in_sentence"><u>登录。</u></string>
+    <string name="checkout_as_guest">以游客身份结账</string>
+    <string name="add">添加</string>
+    <string name="add_shipping_info">添加寄送地址</string>
+    <string name="add_billing_address">添加发票寄送地址</string>
+    <string name="add_payment_info">添加支付信息</string>
+    <string name="free">免费</string>
+    <string name="order_note">注释：%1$s</string>
+    <string name="summary">汇总</string>
+    <string name="minus">-%1$s</string>
+    <string name="payment">付款</string>
+    <string name="add_payment">添加付款</string>
+    <string name="billing_address">发票寄送地址与商品寄送地址相同</string>
+    <string name="shipping_method">寄送方法</string>
+    <string name="ship_to_store">寄给店铺</string>
+    <string name="in_store_pickup">到店取货</string>
+    <string name="pick_up_here">在此处取货</string>
+    <string name="update_shopping_cart">更新购物车</string>
+    <string name="update_shipping_address">更新寄送地址</string><!-- Contact Sharing--><string name="contact_sharing">与朋友分享</string>
+    <string name="module_title">推荐</string>
+    <string name="contact_sharing_cta_contacts">从我的联系人列表中邀请</string>
+    <string name="contact_sharing_cta_invite">分享邀请</string>
+    <string name="contact_sharing_description_placeholder">当他们购买时，我们将发送 $20 的礼品卡。使用您的联系人列表推荐朋友。</string>
+    <string name="contact_sharing_permission_denied">需要设备联系人的权限才能继续。请在您的设备设置中提供联系人访问权限。</string><!--Credit Card--><string name="empty_card_error">“请输入您的信用卡号。”</string>
+    <string name="invalid_card_error">“信用卡号无效。”</string>
+    <string name="scan_your_card">扫描您的卡</string><!--Notes--><string name="add_order_notes">添加订单注释</string>
+    <string name="gift_cart_or_delivery_date_notes">礼品卡信息 | 希望的交货日期</string>
+    <string name="add_notes">添加注释</string>
+    <string name="notes_hint">为您的订单写注释</string>
+    <string name="update_notes_error">更新注释出错</string><!--Address--><string name="billing">发票寄送</string>
+    <string name="email">电子邮件</string>
+    <string name="new_address">新地址</string>
+    <string name="add_new_address">添加新地址</string>
+    <string name="update_address">更新地址</string>
+    <string name="phone_number">电话号码</string>
+    <string name="full_name">全名</string>
+    <string name="street_address">街道地址</string>
+    <string name="unit">单位（可选）</string>
+    <string name="city">城市</string>
+    <string name="postal_code">邮政编码</string>
+    <string name="state">州</string>
+    <string name="province">省份</string>
+    <string name="country">国家/地区</string>
+    <string name="save_address">保存地址</string>
+    <string name="empty_email_error">请输入您的电子邮件地址。</string>
+    <string name="invalid_email_error">请输入一个有效的电子邮件地址。</string>
+    <string name="phone_error">请输入您的电话号码。</string>
+    <string name="empty_full_name_error">请输入您的全名。</string>
+    <string name="full_name_error">请填写您的名字和姓氏。</string>
+    <string name="empty_address_error">请填写您的地址。</string>
+    <string name="empty_city_error">请输入您的城市。</string>
+    <string name="empty_zip_error">请输入您的邮政编码。</string>
+    <string name="empty_state_error">请输入您的州。</string>
+    <string name="restricted_shipping_country_error">对不起，您的购物车中有不能寄送到美国以外的地区的商品。</string>
+    <string name="does_not_ship_to_country_error">很抱歉，我们不向指定国家/地区发货。</string>
+    <string name="empty_country_error">请输入您的国家/地区。</string>
+    <string name="unknown_country_error">无法识别所选国家/地区。</string>
+    <string name="update_address_error">无法保存地址。</string>
+    <string name="empty_phone_error">“请在寄送表格中输入您的电话号码。”</string>
+    <string name="beauty_items_error">您购物车中的美妆产品只能寄送至美国或加拿大。要完成结账，请删除您购物车中的美妆商品或更新您的寄送地址。</string>
+    <string name="a11y_selected">已选择</string>
+    <string name="a11y_unselected">已取消选择</string><!--Processing--><string name="processing_title">请稍等。\n我们正在处理您的订单。</string>
+    <string name="processing_subtitle">这可能会花费几秒钟。</string>
+    <string name="out_of_stock_title">您请求的商品库存不足。</string>
+    <string name="out_of_stock_subtitle">我们已经更新了以下商品的数量。请查看您的购物车以继续。</string>
+    <string name="checkout_completed_title">您已准备就绪！\n谢谢您的订单。</string>
+    <string name="checkout_completed_message">稍后您将收到一封确认邮件</string>
+    <string name="review_cart">查看购物车</string>
+    <string name="processing_checkout_error">“在完成您的结账时出错。请重试。”</string><!--Collection--><string name="sort">分类</string>
+    <string name="recommended">推荐</string>
+    <string name="whats_new">新商品</string>
+    <string name="best_selling">最畅销</string>
+    <string name="price_low_to_high">价格：从低到高</string>
+    <string name="price_high_to_low">价格：从高到低</string>
+    <string name="filter">筛选器</string>
+    <string name="apply">使用</string>
+    <string name="clear">清空</string>
+    <string name="error_get_filter">无法获得筛选器</string>
+    <string name="update_wish_list_error_dialog_message">更新购物清单失败。请立即重试。</string>
+    <string name="reach_max_favorites_error_message">超出 %s 的限制，请从购物清单中删除商品。</string>
+    <string name="empty_state_collection_title">没有商品</string>
+    <string name="empty_state_collection_message">我们无法找到此系列中的\n商品</string>
+    <string name="unavailable_collection_message">此系列无货。</string><!--Favorite--><string name="my_wishlist">我的心愿单</string>
+    <string name="my_wishlists">我的心愿单</string>
+    <string name="my_favorites">我的收藏</string>
+    <string name="empty_wish_list">我的收藏为空</string>
+    <string name="favorite_header">分享您的收藏夹</string>
+    <string name="share_wish_list">结账购买 %1$s 收藏的商品！\n</string>
+    <string name="a11y_favorite_button_label">收藏夹按钮</string><!--  Read with an accessibility action, e.g. "Double-tap to [action]"  --><string name="a11y_favorite_button_add_action">将商品添加到您的收藏夹。</string>
+    <string name="a11y_favorite_button_remove_action">从您的收藏夹中删除商品</string>
+    <string name="a11y_favorite_button_sign_in_action">登录</string><!-- Installment Payments --> <!-- TODO move to a constants file --><string name="quad_pay" translatable="false">QuadPay</string>
+    <string name="after_pay" translatable="false">AfterPay</string>
+    <string name="klarna" translatable="false">Klarna</string>
+    <string name="affirm" translatable="false">Affirm</string>
+    <string name="sezzle" translatable="false">Sezzle</string>
+    <string name="installment_provider_text">„“先买后付。%s 的订单可享受 \n%d 免息付款”</string><!--Main--><string name="cart_icon">购物车图标</string>
+    <string name="menu_background">菜单背景</string>
+    <string name="sure_log_out">您确定要注销该应用程序吗？</string>
+    <string name="my_account">我的账户</string>
+    <string name="install">安装</string>
+    <string name="video_placeholder">视频占位符</string>
+    <string name="exit_preview">退出预览</string>
+    <string name="a11y_navigation_icon">菜单</string>
+
+    <string name="a11y_video_block_product_destination">视频双击打开商品。</string>
+    <string name="a11y_video_block_collection_destination">视频双击打开%s系列。</string>
+    <string name="a11y_video_block_webpage_destination">视频双击打开网页。</string>
+    <string name="a11y_video_block">视频</string>
+    <string name="a11y_image_block_product_destination">图片双击打开商品。</string>
+    <string name="a11y_image_block_collection_destination">图片双击打开%s系列。</string>
+    <string name="a11y_image_block_webpage_destination">图片双击打开网页。</string>
+    <string name="a11y_image_block">图片</string><!--  Read with an accessibility action, e.g. "Double-tap to [action]"  --><string name="a11y_image_block_action_open_webpage">打开网页</string>
+    <string name="a11y_image_block_action_open_collection">打开系列</string><!--Search--><string name="barcode_scanner">扫描条形码</string>
+    <string name="photo_search_button">上传图片</string>
+    <string name="search_no_results_description">我们找不到您正在寻找的\n商品</string>
+    <string name="search_products">搜索商品</string>
+    <string name="popular_searches">热门搜索</string>
+    <string name="trending_searches">趋势搜索</string><!--Order--><string name="order_description_placeholder">订单描述占位符</string>
+    <string name="order_total_placeholder">$99.99</string>
+    <string name="order_days_placeholder">17 天之前</string>
+    <plurals name="order_quantity_count">
+        <item quantity="one">以及 %d 其他商品</item>
+        <item quantity="other">以及 %d 其他商品</item>
+    </plurals>
+    <string name="order">订单</string>
+    <string name="you_have_no_orders">您没有订单</string>
+    <string name="check_back">请在您完成第一个订单后再来查看</string>
+    <string name="processing">处理</string><!--ProductDetails--><string name="keep_track">跟踪您的收藏</string>
+    <string name="create_account_to_save_favorites">创建一个 %1$s 账户，以保存和跟踪所有您喜欢的商品。</string>
+    <string name="sign_in_to_save_favorites">登录您的 %1$s 账户，以保存和跟踪所有您喜欢的商品。</string>
+    <string name="create_account_or_sign_in">创建账户或登录</string>
+    <string name="reviews">评论</string>
+    <string name="verified_icon">验证图标</string>
+    <string name="you_may_also_like">您可能还喜欢</string>
+    <string name="first_to_write_review">成为第一个写评论的人</string>
+    <string name="uber_chic_checkout_already_created_message">对不起，您不能在结账后将商品添加到购物车中。</string>
+    <string name="view_all_reviews">查看所有\n评论</string>
+    <string name="something_went_wrong">噢，出错了。</string>
+    <string name="notify_when_available">有货时请通知我</string>
+    <string name="notify_when_available_confirmation">商品有货时我们将通知您。</string>
+    <string name="final_sale">最终折扣</string>
+    <string name="clearance_tag">清仓处理</string>
+    <string name="plus">加大码</string>
+    <string name="misses">纤瘦码</string>
+    <string name="petite">小号码</string>
+    <string name="select_size_range">选择尺寸范围：</string>
+    <string name="parenthesis">(%s)</string>
+    <string name="shop_similar">购买类似商品</string>
+    <string name="installment_provider_logo_content_desc">分期付款供应商标志</string>
+    <string name="product_video">商品视频</string>
+    <string name="color">颜色</string>
+    <string name="video_banner_play_button_content_desc">播放按钮</string>
+    <string name="become_a_subscriber">成为订阅者</string>
+    <string name="become_a_subscriber_and_save">成为订阅者，节省 %d%%</string>
+    <string name="select">选择</string>
+    <string name="select_something">选择 %s</string>
+    <string name="size_range">尺寸范围</string>
+    <string name="initial_time" translatable="false">00:00</string>
+    <string name="a11y_play">播放</string>
+    <string name="a11y_pause">暂停</string>
+    <string name="a11y_enter_fullscreen">进入全屏</string>
+    <string name="a11y_exit_fullscreen">退出全屏</string>
+    <string name="share_product">我猜您可能会喜欢这个！赶紧购买，手慢则无！\n%s</string>
+    <string name="unavailable_product_message">此产品无货。</string>
+    <string name="a11y_variant_sold_out">%s.无法提供</string><!--  Read with an accessibility action, e.g. "Double-tap to [action]"  --><string name="a11y_collapse_action">崩溃</string>
+    <string name="a11y_expand_action">扩展</string><!--StoreLocator--><string name="store_locator">店铺定位</string>
+    <string name="list">清单</string>
+    <string name="map">地图</string>
+    <string name="search_by_postal_code">按邮政编码搜索</string>
+    <string name="no_results_description">该邮政编码范围内没有店铺</string>
+    <string name="temporarily_closed">暂时关闭</string>
+    <string name="store_hours">店铺营业时间</string>
+    <string name="a11y_edit_store">编辑商店</string><!--  Read with an accessibility action, e.g. "Double-tap to [action]"  --><string name="a11y_favorite_store_button_add_action">将此商店设为您的收藏</string>
+    <string name="a11y_favorite_store_button_remove_action">从您的收藏中移除此商店</string><!--FourSixty--><string name="shop_our_instagram">在 Instagram 上购买我们的商品</string>
+    <string name="four_sixty_header_message">看看 Instagram 上的伙伴们都在穿什么并立即购买。</string>
+    <string name="four_sixty_see_it_instagram_header_message">在 Instagram 上查看</string><!--Write a Review--><string name="write_a_review">写评论</string>
+    <string name="how_would_you_rate">您如何评价这件商品？</string>
+    <string name="name">名称</string>
+    <string name="title">标题</string>
+    <string name="message">信息</string>
+    <string name="submit_review">提交评论</string>
+    <string name="empty_name_error">请输入您的名字。</string>
+    <string name="review_title_error">请给评论添加一个标题。</string>
+    <string name="review_title_success">您的评论已成功发布！</string><!--Recharge--><string name="my_subscriptions">我的订阅</string>
+    <string name="manage_subscription_on_web">在网上管理订阅</string>
+    <string name="recharge" translatable="false">充值</string>
+    <string name="subscribe_and_save">“订阅和保存”</string>
+    <string name="one_time_purchase">一次性购买</string>
+    <string name="subscribe_every">每 %1$s 订阅</string>
+    <string name="save_percent">节省 %1$d%%</string>
+    <string name="purchase_options">购买选项</string>
+    <string name="subscription_every">订阅：每 %1$d %2$s</string>
+
+    <plurals name="rating_info">
+        <item quantity="one">%2$.2f | %1$d 评论</item>
+        <item quantity="other">%2$.2f | %1$d 条评论</item>
+    </plurals><!-- Quick Add/Update --><string name="view"><u>查看</u></string>
+    <string name="select_your">选择您的 %s</string>
+    <string name="quick_add_plus">+ 快速添加</string>
+    <string name="update_cart">更新购物车</string><!-- Onboarding --><string name="create_account">创建账户</string>
+    <string name="skip">跳过</string>
+    <string name="title_onboarding">参与</string><!-- Notifications--><string name="no_notifications_title">没有通知</string>
+    <string name="no_notifications_message">目前\n没有通知</string>
+    <string name="notifications_error">出错了。请立即重试。</string>
+
+    <string name="title_test">测试标题</string>
+    <string name="title_shoppableinstagram">可购物的 Instagram</string>
+    <string name="title_search">搜索</string>
+    <string name="title_notifications">通知</string><!--Countdown Timer block --><string name="countdown_timer_number_format">&lt;02d</string><!--QuadPay--><string name="quad_pay_eligible_message">先买后付。%2$s 的订单可享受 \n%1$d 免息付款</string>
+    <string name="quad_pay_ineligible_message">超过 $%2$s 的订单可享受 %1$d 免息付款</string><!--My Rewards--><string name="title_loyalty">忠诚度</string>
+    <string name="about">关于</string>
+    <string name="loyalty_rewards">忠诚度奖励</string>
+    <plurals name="your_balance">
+        <item quantity="one">您的余额：&lt;b&gt;%,d 积分&lt;/b&gt;</item>
+        <item quantity="other">您的余额：&lt; b&gt;%, d 积分&lt;/b&gt;</item>
+    </plurals>
+    <plurals name="tier_level">
+        <item quantity="one">%d 中的 %d 级</item>
+        <item quantity="other">%d 中的 %d 级</item>
+    </plurals>
+    <string name="number_with_comma">%,d</string>
+    <string name="of_progress">在 %,d 中</string>
+    <string name="tier">% 级</string>
+    <string name="ways_to_earn_extra">获得额外奖励的方式</string>
+    <string name="view_more_underlined">&lt;u&gt;查看更多&lt;/u&gt;</string>
+    <string name="close_underlined">&lt;u&gt;关闭&lt;/u&gt;</string>
+    <string name="a11y_close">关闭</string>
+    <string name="a11y_back">返回</string>
+    <string name="share_with_friends">与朋友分享</string><!--My Rewards Dialog--><string name="my_rewards">我的奖励</string>
+    <string name="my_rewards_all_caps">我的奖励</string>
+    <string name="choose_reward">选择奖励</string>
+    <string name="choose_a_reward">选择一个奖励：</string>
+    <string name="redeem_reward">兑换奖励</string>
+    <string name="remove">删除</string>
+    <string name="points">%d 积分</string>
+    <string name="points_non_reversible">*用于兑换奖励的积分无法撤销。</string>
+    <string name="redeem_points_for_discount">用积分换取折扣。</string>
+    <string name="banner_reward_applied">&lt;b&gt;应用了 %s &lt;/b&gt; - 代码：%s</string>
+    <string name="unclaimed">未领奖励：</string>
+    <string name="reward_code_invalid">奖励代码无效。</string>
+    <string name="reward_has_zero_balance">奖励余额为零。</string>
+    <string name="reward_is_expired">奖励已过期。</string>
+    <string name="reward_code_not_found">未找到奖励代码。</string>
+    <string name="reward_already_redeemed">您的奖励已被兑换。</string>
+    <string name="cannot_apply_reward">无法使用奖励。</string>
+    <string name="cannot_apply_multiple_gift_cards">无法使用多张礼品卡。</string>
+    <string name="reward_is_disabled">奖励被禁用。请稍后重试。</string>
+    <string name="no_rewards_available">没有可用的奖励</string>
+    <string name="setting_up_loyalty">设置您的忠诚度账户...</string>
+    <string name="discount_not_applicable_error">折扣不适用于您购物车中的商品。</string><!--Subscriptions--><string name="title_subscriptions">订阅</string>
+    <string name="active">启用</string>
+    <string name="inactive">禁用</string>
+    <string name="next_billing_date">下一个发票开具日期：%1$s</string>
+    <string name="skipped_order">跳过的订单：%1$s</string>
+    <string name="subscription_inactive">订阅未启用</string>
+    <string name="no_subscriptions">无订阅</string>
+    <string name="no_subscriptions_yet">您还没有创建任何\n订阅。</string><!--Subscription Details--><string name="subscription_details">订阅详情</string>
+    <string name="frequency">频率</string>
+    <string name="delivered_every">每 %1$s</string>
+    <string name="reactivate_subscription">重新启用订阅</string>
+    <string name="save_changes">保存更改</string>
+    <string name="select_a_frequency">选择一个频率</string>
+    <string name="select_a_quantity">选择数量</string>
+    <string name="every">每 %1$d %2$s</string>
+    <string name="skip_next_charge">跳过下一次收费</string>
+    <string name="unskip_next_charge">不跳过下一次收费</string>
+    <string name="deactivate_subscription">停用订阅</string>
+    <string name="subscription_updated_message">我们已经更新了您的订阅</string>
+    <string name="a11y_change_quantity">更改数量</string>
+
+    <plurals name="day_interval">
+        <item quantity="one">%1$d 天</item>
+        <item quantity="other">%1$d 天</item>
+    </plurals>
+    <plurals name="week_interval">
+        <item quantity="one">%1$d 周</item>
+        <item quantity="other">%1$d 周</item>
+    </plurals>
+    <plurals name="month_interval">
+        <item quantity="one">%1$d 月</item>
+        <item quantity="other">%1$d 月</item>
+    </plurals><!--Reactivate Subscription--><string name="reactivate_subscription_title">重新启用订阅</string>
+    <string name="reactivate_subscription_message">您将在下一个发票开具日被收取费用。</string>
+    <string name="confirm">确认</string><!--Deactivate Subscription--><string name="deactivate_subscription_title">停用订阅</string>
+    <string name="deactivate_subscription_message">您确定要取消订阅吗？</string>
+    <string name="deactivate">停用</string><!--Skip Charge--><string name="skip_charge_title">跳过收费</string>
+    <string name="skip_charge_message">您确定要跳过下一个订阅日期吗？</string>
+    <string name="skip_charge">跳过</string><!--Unskip Charge--><string name="unskip_charge_title">不跳过收费</string>
+    <string name="unskip_charge_message">您确定不跳过下一个订阅日期吗？</string>
+    <string name="unskip_charge">不跳过</string><!--Leave Subscription Unsaved--><string name="leave_unsaved_message">您确定要离开吗？\n 所有未保存的更改将被丢弃。</string>
+    <string name="leave">离开</string><!--Recharge Errors--><string name="auth_error_message">噢！验证出错</string>
+    <string name="parse_error_message">噢！完成任务时出错</string><!--Subscription Address--><string name="select_address">选择地址</string>
+    <string name="edit_address">编辑地址</string>
+    <string name="deliver_to_address">送货到此地址</string><!--Abandoned Items--><string name="finish_checkout">完成结账</string>
+    <string name="view_cart">查看购物车</string>
+    <string name="abandoned_checkout_title">从上次结束的位置继续！ \n立即完成您的订单。</string>
+    <string name="abandoned_cart_title">您将此商品遗忘在了购物车中！ \n立即结账，手慢则无。</string>
+
+    <plurals name="extra_items_message">
+        <item quantity="one">“+ %1$d 其他产品”</item>
+        <item quantity="other">“+ %1$d 其他产品”</item>
+    </plurals>
+    <string name="title_address">地址</string><!-- Photo Search --><string name="take_photo">拍摄照片</string>
+    <string name="select_photo">选择照片</string>
+    <string name="photo_search_toolbar">图片搜索</string>
+    <string name="photo_search_description">现在，您可以拍照搜索。或者上传一张图片，选择其中的一个商品，然后开始购物!</string>
+    <string name="photo_search_feed_description">还没有照片？试试我们的社交订阅源上的图片</string>
+    <string name="replace_image">替换图片</string>
+
+    <string name="photo_search_sort_label" translatable="false">@string/sort</string>
+    <string name="photo_search_sort_best_match">最佳匹配</string>
+    <string name="photo_search_sort_price_high_low" translatable="false">@string/price_high_to_low</string>
+    <string name="photo_search_sort_price_low_high" translatable="false">@string/price_low_to_high</string><!-- Multicurrency --><string name="change_currency">更改货币</string>
+    <string name="change_currency_msg">这将使您的应用程序重新加载，并且当前的价格将采用 %s 货币单位。</string>
+    <string name="add_to_list_failed">无法将商品添加到心愿单</string>
+    <string name="failed_to_remove_wishlist_item">无法从心愿单中删除商品</string>
+    <string name="default_wishlist_name">我的心愿单</string>
+
+</resources>

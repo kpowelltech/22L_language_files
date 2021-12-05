@@ -1,0 +1,523 @@
+<resources>
+    <string name="underscore" translatable="false">_</string>
+    <string name="item_price_placeholder">Pris per vare</string>
+    <string name="options">Alternativer</string>
+    <string name="search">Søk</string>
+    <string name="item_name_placeholder">Varenavn</string>
+    <string name="product_image">Produktbilde</string>
+    <string name="collection_title_placeholder">Kolleksjonstittel</string>
+    <string name="view_collection">Vis kolleksjon</string>
+    <string name="collection_name_placeholder">Kolleksjonsnavn</string>
+    <string name="view_all">Vis alle</string>
+    <string name="collection_image">Kolleksjonsbilde</string>
+    <string name="shop_now">Handle nå</string>
+    <string name="ratting_count_placeholder">(999)</string>
+    <string name="add_to_bag">LEGG TIL POSE</string>
+    <string name="add_to_cart">LEGG TIL HANDLEVOGN</string>
+    <string name="share">Del</string>
+    <string name="app_logo">applogo</string>
+    <string name="items_count_placeholder">Antall varer</string>
+    <string name="remove_item">Fjern vare</string>
+    <string name="subtotal">Delsum</string>
+    <plurals name="cart_items_count">
+        <item quantity="one">%d vare</item>
+        <item quantity="other">%d varer</item>
+    </plurals>
+    <string name="my_bag">POSEN MIN</string>
+    <string name="my_cart">HANDLEVOGNEN MIN</string>
+    <string name="splash_background">Splash background</string>
+    <string name="cancel">Avbryt</string>
+    <string name="elapsed_time">%1$d %2$s siden&quot;</string>
+    <string name="value_currency">%1$s %2$s&quot;</string>
+    <string name="card_masked">•••• •••• •••• %1$s&quot;</string>
+    <string name="just_now">Akkurat nå</string>
+
+    <plurals name="year">
+        <item quantity="one">år</item>
+        <item quantity="other">år</item>
+    </plurals>
+
+    <plurals name="month">
+        <item quantity="one">måned</item>
+        <item quantity="other">måneder</item>
+    </plurals>
+
+    <plurals name="day">
+        <item quantity="one">dag</item>
+        <item quantity="other">dager</item>
+    </plurals>
+
+    <plurals name="hour">
+        <item quantity="one">time</item>
+        <item quantity="other">timer</item>
+    </plurals>
+
+    <plurals name="minute">
+        <item quantity="one">minutt</item>
+        <item quantity="other">minutter</item>
+    </plurals>
+
+    <plurals name="second">
+        <item quantity="one">sekund</item>
+        <item quantity="other">sekunder</item>
+    </plurals>
+
+    <plurals name="week">
+        <item quantity="one">uke</item>
+        <item quantity="other">uker</item>
+    </plurals>
+
+    <string name="size_guide">Størrelsesveiledning</string>
+    <string name="shipping_info">Fraktinformasjon</string>
+    <string name="description">Beskrivelse</string>
+    <string name="collections">Kplleksjoner</string>
+    <string name="your_order_is_complete">Bestillingen er fullført!</string>
+    <string name="web_checkout_confirmation_message">En beskreftelses-epost er sendt til</string>
+    <string name="email_placeholder">test@test.com</string>
+    <string name="keep_shopping">Fortsett å handle</string>
+    <string name="ship_box">frakteske</string>
+    <string name="no_internet">Kontroller Internett-tilkoblingen</string>
+    <string name="checkout">Utsjekking</string>
+    <string name="three_d_secure_authentication">3D-sikkerhetsautentisering</string>
+    <string name="discount">Rabatt</string>
+    <string name="review_your_order">Se gjennom bestillingen</string>
+    <string name="google_pay_error">Feil ved Google pay</string>
+    <string name="failed_to_process_payment_title">Klarte ikke å behandle betalingen</string>
+    <string name="failed_to_process_payment">Klarte ikke å behandle betalingen, prøv på nytt senere.</string>
+    <string name="arrow">pil</string>
+    <string name="menu_item">menyelement</string>
+    <string name="logo">logo</string>
+    <string name="not_implemented">IKKE IMPLEMENTERT</string>
+    <string name="sold_out">Utsolgt</string>
+    <string name="coming_soon">Kommer snart</string>
+    <string name="email_address">E-postadresse</string>
+    <string name="password">Passord</string>
+    <string name="email_error_message">Angi en e-postadresse før du fortsetter.</string>
+    <string name="password_error_message">Passord kan ikke være tomt.</string>
+    <string name="login_error">Påloggingsfeil</string>
+    <string name="error">Feil</string>
+    <string name="no_results">Ingen resultater</string>
+    <string name="urban_planet_marker">Urban Planet-markør</string>
+    <string name="try_again_error">Prøv på nytt.</string>
+    <string name="store_credit">Tilbakeleveringer: Butikkreditt</string>
+    <string name="fraud_prevention">Hindre bedrageri</string>
+    <string name="store_credit_title">Butikkreditt</string>
+    <string name="return_policy_title">Regler for retur</string>
+    <string name="store_credit_text">Med begrenset unntak, refunderes gyldige retur med butikkreditt. Skadde/defekte varer byttes eventuelt med varer på lager.
+All butikkreditt, refusjoner og/eller bytting som skal gjennomføres, utstedes innen 3 til 5 arbeidsdager etter at tilbakeleveringen er behandlet.
+Alle varer med priser som slutter med USD ,00, ,96, ,97, ,98, er varer for endelig salg og kan ikke returneres for å få butikkreditt.
+Du kan finne mer informasjon om reglene for retur</string>
+    <string name="store_credit_text_hyperlink">HER</string>
+    <string name="slash" translatable="false">/</string>
+    <string name="free_gift">Gratis gave</string>
+    <string name="a11y_original_and_discounted_price">Opprinnelig pris %1$s, salgspris %2$s</string><!--Account--><string name="account">Konto</string>
+    <string name="sign_in">Logg på</string>
+    <string name="create_an_account">Opprett en konto</string>
+    <string name="already_have_an_account">Har du allerede en konto?</string>
+    <string name="log_in">Logg på</string>
+    <string name="log_in_to_account">Logg inn på kontoen</string>
+    <string name="create_a_new_account">Opprett en ny konto</string>
+    <string name="full_nme">Hele navnet</string>
+    <string name="sign_up">Registrer deg</string>
+    <string name="name_error_message">Angi hele navnet før du fortsetter.</string>
+    <string name="sign_up_error">Mislykket registrering</string>
+    <string name="no_address">Ingen tilgengelig adresse</string>
+    <string name="my_orders">Bestillingene mine</string>
+    <string name="orders">Bestillinger</string>
+    <string name="hi_user">Hei %s.</string>
+    <string name="favorites">Favoritter</string>
+    <string name="start_browsing">Sett igang med nettsurfing for å vise varene her.</string>
+    <string name="recently_viewed">Nylig vist</string>
+    <string name="first_name_empty_error">Fornavnet kan ikke stå tomt.</string>
+    <string name="last_name_empty_error">Etternavnet kan ikke stå tomt.</string>
+    <string name="first_name">Fornavn</string>
+    <string name="last_name">Etternavn</string>
+    <string name="forgot_password">Har du glemt passordet?</string>
+    <string name="forgot_password_dialog_message">Har du glemt passord?
+Vi skal sende deg en tilbakestillingslenke.</string>
+    <string name="send_reset_password_link">Send lenke</string>
+    <string name="change_password_error">Feil ved endring av passordet</string>
+    <string name="reset_password_email_sended">Passordet er tilbakestlt. Sjekk e-postadressen din.</string>
+    <string name="underlined_create_account"><u>Opprett konto</u></string>
+    <string name="default_error_message">Beklager, det har oppstått en feil. Prpv på nytt senere.</string>
+    <string name="incorrect_email_or_password">Feil e-post eller passord.</string>
+    <string name="dont_have_an_account">Har du ikke konto?</string>
+    <string name="log_out">Logg ut</string><!--Cart--><string name="add_item">legg til vare</string>
+    <string name="enter_discount_code">Angi rabattkode</string>
+    <string name="enter_gift_card">Angi gavekortnummer</string>
+    <string name="apply_discount">Bruk rabatt</string>
+    <string name="applied_discount_code">Kode: %1$s </string>
+    <string name="applied_gift_card">•••• %s </string>
+    <string name="continue_shopping">Fortsett å handle</string>
+    <string name="start_shopping">Sett i gang med å handle</string>
+    <string name="empty_cart">tom handlevogn</string>
+    <string name="empty_cart_message">I øyeblikket har du ingen varer i handlevognen</string>
+    <string name="your_cart_is_empty">Handlevognen er tom</string>
+    <string name="apply_gift_card">Bruk gavekort</string>
+    <string name="dialog_background_image">Dialog bakgrunnsbilde</string>
+    <string name="discount_error_title">Ugyldig rabattkode</string>
+    <string name="variant_not_available">Noen varer er ikke lenger tilgangelig, og handlevognen er oppdatert.</string>
+    <string name="gift_card_error_title">Ugyldig gavekort</string>
+    <string name="something_went_wrong_try_again">Noen gikk galt.
+Prøv på nytt.</string>
+    <string name="credit_card">Kredittkort</string>
+    <string name="paypal">PayPal</string>
+    <string name="amazon_pay">Amazon Pay</string>
+    <string name="google_pay">Google pay</string>
+    <string name="pay_with">Betal med</string>
+    <string name="ship_to_me_title">Send til meg</string>
+    <string name="ship_to_me_message">Få den raskt på hvilken som helst adresse</string>
+    <string name="ship_to_store_title">Send til butikk</string>
+    <string name="ship_to_store_message">Velg hentested</string>
+    <string name="reach_max_cart_line_items_error_message">Overstiger grensen på %s, fjern vare(r) fra handlevognen.</string>
+    <string name="discount_error_not_applied_to_items">Rabatt gjelder ikke varer i handlevognen</string>
+    <string name="no_internet_connection">Ingen Internett-tilkobling</string>
+    <string name="generic_checkout_creation_error">Feil oppstod under oppretting av utsjekking</string>
+    <string name="throttle_failure">Beklager, utsjekking ble ikke fullført. Prøv på nytt.</string>
+    <string name="dont_leave_page_queue_message">Ikke forlat siden. Hvis du gjør det mister du plassen din!</string>
+    <string name="thank_you_queue_message">Takk for at du er tålmodig! Tar bare litt mer tid!</string>
+    <string name="discount_error_not_found">Finner ikke en gyldig rabatt som stemmer overens med den angitte koden</string>
+    <string name="discount_error_general">Rabatten ble ikke brukt. Prøv på nytt.</string>
+    <string name="add_items_from_favorites">Legg til varer fra favoritter</string>
+    <string name="add_my_favorite_items">Legge til mine favorittvarer?</string>
+    <string name="error_add_favorite_items_cart">Beklager, det var et problem med å legge til noen varer i handlevognen.</string>
+    <string name="product_is_sold_out_error">Beklager, produktet er utsolgt.</string>
+    <string name="cart_update_error_title">Kan ikke oppdatere handlevognen.</string>
+    <string name="cart_update_error_discount">Rabattkoden din er fjernet pga. et problem. Prøv å legge den inn igjen.</string>
+    <string name="cart_update_error_gift_card">Gavekortet ditt er fjernet pga. et problem. Prøv å legge det inn igjen.</string><!--Checkout--><string name="gift_card">Gavekort</string>
+    <string name="duties">Plikter</string>
+    <string name="shipping">Frakt</string>
+    <string name="tax">MVA</string>
+    <string name="total">Sum</string>
+    <string name="submit_order">Send bestilling</string>
+    <string name="complete_order">Fullfør bestillingen</string>
+    <string name="continue_to_payment">Fortsett til Betaling</string>
+    <string name="signed_in_as">«Logget på som »</string>
+    <string name="already_have_account">Har du allerede en konto?</string>
+    <string name="underlined_sign_in"><u>Logg på</u></string>
+    <string name="underlined_sign_in_sentence"><u>Logg på.</u></string>
+    <string name="checkout_as_guest">Eller gå til kassa som gjest</string>
+    <string name="add">Legg til</string>
+    <string name="add_shipping_info">Legg til forsendelsesadresse</string>
+    <string name="add_billing_address">Legg til fakturaadresse</string>
+    <string name="add_payment_info">Legg til betalingsinformasjon</string>
+    <string name="free">Gratis</string>
+    <string name="order_note">Notat: %1$s</string>
+    <string name="summary">Sammendrag</string>
+    <string name="minus">-%1$s</string>
+    <string name="payment">Betaling</string>
+    <string name="add_payment">Legg til betaling</string>
+    <string name="billing_address">Fakturaadressen er like forsendelsesadressen</string>
+    <string name="shipping_method">Forsendelsesmetode</string>
+    <string name="ship_to_store">Send til butikk</string>
+    <string name="in_store_pickup">Hente i butikk</string>
+    <string name="pick_up_here">Hente her</string>
+    <string name="update_shopping_cart">Oppdater handlevognen</string>
+    <string name="update_shipping_address">Oppdater forsendelsesadressen</string><!-- Contact Sharing--><string name="contact_sharing">Del med venner</string>
+    <string name="module_title">Henvisning</string>
+    <string name="contact_sharing_cta_contacts">Inviter fra kontaktlisten min</string>
+    <string name="contact_sharing_cta_invite">Del invitasjon</string>
+    <string name="contact_sharing_description_placeholder">Vi skal sende deg et gavekort på $ 20 når du handler. Bruk kontaktlisten din for å henvise venner.</string>
+    <string name="contact_sharing_permission_denied">Du må ha tilgang til enhetskontakter for å fortsette. Gi tilgang til kontakter i enhetsinnstillingene.</string><!--Credit Card--><string name="empty_card_error">«Angi kredittkortnummeret»</string>
+    <string name="invalid_card_error">«Ugyldig kredittkortnummer»</string>
+    <string name="scan_your_card">Skann kortet ditt</string><!--Notes--><string name="add_order_notes">Legg til bestillingsnotater</string>
+    <string name="gift_cart_or_delivery_date_notes">Gavekortmelding | Ønsket leveringsdato</string>
+    <string name="add_notes">Legg til notater</string>
+    <string name="notes_hint">Skriv et notat til bestillingen din</string>
+    <string name="update_notes_error">Feil ved oppdatering av notater</string><!--Address--><string name="billing">Faktura</string>
+    <string name="email">E-post</string>
+    <string name="new_address">Ny adresse</string>
+    <string name="add_new_address">Legg til ny adresse</string>
+    <string name="update_address">Oppdater adressen</string>
+    <string name="phone_number">Telefonnummer</string>
+    <string name="full_name">Hele navnet</string>
+    <string name="street_address">Gateadresse</string>
+    <string name="unit">Enhet (valgfritt)</string>
+    <string name="city">Poststed</string>
+    <string name="postal_code">Postnummer</string>
+    <string name="state">Stat</string>
+    <string name="province">Fylke</string>
+    <string name="country">Land</string>
+    <string name="save_address">Lagre adresse</string>
+    <string name="empty_email_error">Angi e-postadressen din.</string>
+    <string name="invalid_email_error">Angi en gyldig e-postadresse.</string>
+    <string name="phone_error">Angi telefonnummeret ditt.</string>
+    <string name="empty_full_name_error">Angi hele navnet ditt.</string>
+    <string name="full_name_error">Fyll inn ditt fornavn og etternavn.</string>
+    <string name="empty_address_error">Fyll inn adressen din.</string>
+    <string name="empty_city_error">Angi poststedet ditt.</string>
+    <string name="empty_zip_error">Angi postkoden din.</string>
+    <string name="empty_state_error">Angi staten din.</string>
+    <string name="restricted_shipping_country_error">Beklager, du har varer i handlevogen som ikke kan sendes til utenfor USA</string>
+    <string name="does_not_ship_to_country_error">Beklager, vi sender ikke til det bestemte landet.</string>
+    <string name="empty_country_error">Angi landet ditt.</string>
+    <string name="unknown_country_error">Kunne ikke identifisere det valgte landet.</string>
+    <string name="update_address_error">Kunne ikke lagre adressen.</string>
+    <string name="empty_phone_error">«Angi telefonnummeret ditt på forsendelsesskjemaet.»</string>
+    <string name="beauty_items_error">Skjønnhetsvarer i handlevognen kan bare sendes til USA eller Canada. For å fullføre utsjekking må skjønnhetsvarer fjernes fra handlevognen eller må forsendelsesadressen endres.</string>
+    <string name="a11y_selected">Valgt</string>
+    <string name="a11y_unselected">Valgt bort</string><!--Processing--><string name="processing_title">Det går greit.
+Vi behandler bestillingen din.</string>
+    <string name="processing_subtitle">Dette kan ta noen sekunder</string>
+    <string name="out_of_stock_title">Vi har ikke nok av varene du har bedt om.</string>
+    <string name="out_of_stock_subtitle">Vi har oppdatert antall varer nedenfor. Se gjennom handlevognen før du fortsetter.</string>
+    <string name="checkout_completed_title">Alt er klart!
+Takk for bestillingen.</string>
+    <string name="checkout_completed_message">Du skal mottat e-postbekreftelse om kort tid</string>
+    <string name="review_cart">Gjennomgå handlevognen</string>
+    <string name="processing_checkout_error">«Det var et problem med å fullføre utsjekkingen. Prøv på nytt</string><!--Collection--><string name="sort">Sorter</string>
+    <string name="recommended">Anbefalt</string>
+    <string name="whats_new">Nyheter</string>
+    <string name="best_selling">Bestselgere</string>
+    <string name="price_low_to_high">Pris: Lav til høy</string>
+    <string name="price_high_to_low">Pris: Høy til lav</string>
+    <string name="filter">Filter</string>
+    <string name="apply">Bruk</string>
+    <string name="clear">Slett</string>
+    <string name="error_get_filter">Kunne ikke skaffe filtre</string>
+    <string name="update_wish_list_error_dialog_message">Mislykket oppdatering av ønskelisten Prøv på nytt om kort tid.</string>
+    <string name="reach_max_favorites_error_message">Overstiger grensen på %s. Fjern vare(r) fra ønskelisten.</string>
+    <string name="empty_state_collection_title">INGEN PRODUKTER</string>
+    <string name="empty_state_collection_message">Vi klarte ikke å finne produkter i denne kolleksjonen</string>
+    <string name="unavailable_collection_message">Denne samlingen er ikke lenger tilgjengelig.</string><!--Favorite--><string name="my_wishlist">Min ønskeliste</string>
+    <string name="my_wishlists">Mine ønskelister</string>
+    <string name="my_favorites">Favorittene mine</string>
+    <string name="empty_wish_list">Favorittene mine er tom</string>
+    <string name="favorite_header">Del favorittene dine</string>
+    <string name="share_wish_list">Gå til kassa med mine %1$s favoritter!</string>
+    <string name="a11y_favorite_button_label">Favoritt-knapp</string><!--  Read with an accessibility action, e.g. "Double-tap to [action]"  --><string name="a11y_favorite_button_add_action">legg til produkt til favorittene dine.</string>
+    <string name="a11y_favorite_button_remove_action">fjern produkt fra favorittene dine</string>
+    <string name="a11y_favorite_button_sign_in_action">logg på</string><!-- Installment Payments --> <!-- TODO move to a constants file --><string name="quad_pay" translatable="false">QuadPay</string>
+    <string name="after_pay" translatable="false">AfterPay</string>
+    <string name="klarna" translatable="false">Klarna</string>
+    <string name="affirm" translatable="false">Affirm</string>
+    <string name="sezzle" translatable="false">Sezze</string>
+    <string name="installment_provider_text">«Kjøp nå, betal senere.
+%d rentefrie betalinger på %s»</string><!--Main--><string name="cart_icon">Handlevogn-ikon</string>
+    <string name="menu_background">Menybakgrunn</string>
+    <string name="sure_log_out">Er du sikker på at du vil logge ut av programmet?</string>
+    <string name="my_account">Kontoen min</string>
+    <string name="install">Installer</string>
+    <string name="video_placeholder">Videoplassholder</string>
+    <string name="exit_preview">Avslutt forhåndsvisning</string>
+    <string name="a11y_navigation_icon">Meny</string>
+
+    <string name="a11y_video_block_product_destination">Video. Trykk to ganger for å åpne produkt.</string>
+    <string name="a11y_video_block_collection_destination">Video. Trykk to ganger for å åpne %s-samling.</string>
+    <string name="a11y_video_block_webpage_destination">Video. Trykk to ganger for å åpne nettside.</string>
+    <string name="a11y_video_block">Video</string>
+    <string name="a11y_image_block_product_destination">Bilde. Trykk to ganger for å åpne produkt.</string>
+    <string name="a11y_image_block_collection_destination">Bilde. Trykk to ganger for å åpne %s-samling.</string>
+    <string name="a11y_image_block_webpage_destination">Bilde. Trykk to ganger for å åpne nettside.</string>
+    <string name="a11y_image_block">Bilde</string><!--  Read with an accessibility action, e.g. "Double-tap to [action]"  --><string name="a11y_image_block_action_open_webpage">åpne nettside</string>
+    <string name="a11y_image_block_action_open_collection">åpne samling</string><!--Search--><string name="barcode_scanner">Skann strekkode</string>
+    <string name="photo_search_button">Last opp bilde</string>
+    <string name="search_no_results_description">Vi klarte ikke å finne varen du så etter.</string>
+    <string name="search_products">Søk i produkter</string>
+    <string name="popular_searches">Populære søk</string>
+    <string name="trending_searches">Trendmessige søk</string><!--Order--><string name="order_description_placeholder">Plassholder med bestillingsbeskrivelse</string>
+    <string name="order_total_placeholder">$99.99</string>
+    <string name="order_days_placeholder">17 dager igjen</string>
+    <plurals name="order_quantity_count">
+        <item quantity="one">og %d annen vare</item>
+        <item quantity="other">og %d andre varer</item>
+    </plurals>
+    <string name="order">Bestilling</string>
+    <string name="you_have_no_orders">Du har ingen bestillinger</string>
+    <string name="check_back">Gå tilbake å sjekke etter at den første bestillingen er foretatt</string>
+    <string name="processing">Behandler</string><!--ProductDetails--><string name="keep_track">HOLD STYR PÅ FAVORITTENE DINE</string>
+    <string name="create_account_to_save_favorites">Opprett en %1$s-kontor for å lagre og spore alle favorittvarene dine.</string>
+    <string name="sign_in_to_save_favorites">Logg på %1$s-kontoen din for å lagre og spor alle favorittvarene dine.</string>
+    <string name="create_account_or_sign_in">Opprett konto eller logg på</string>
+    <string name="reviews">Anmeldelser</string>
+    <string name="verified_icon">Bekreftet ikon</string>
+    <string name="you_may_also_like">Du liker også kanskje</string>
+    <string name="first_to_write_review">Vær det første som skriver en anmeldelse</string>
+    <string name="uber_chic_checkout_already_created_message">Beklager, du kan ikke legge til produktet i handlevognen etter at en utsjekking allerede er opprettet</string>
+    <string name="view_all_reviews">Vis alle anmeldelser</string>
+    <string name="something_went_wrong">Beklager, noen gikk galt.</string>
+    <string name="notify_when_available">Varsle meg når tilgjengelig</string>
+    <string name="notify_when_available_confirmation">Vi skal varsle deg når varen er tilbake på lager.</string>
+    <string name="final_sale">Endelig salg</string>
+    <string name="clearance_tag">Opphørssalg</string>
+    <string name="plus">Plus</string>
+    <string name="misses">Misses</string>
+    <string name="petite">Petite</string>
+    <string name="select_size_range">Velg størrelsesområde:</string>
+    <string name="parenthesis">(%s)</string>
+    <string name="shop_similar">Kjøp lignende</string>
+    <string name="installment_provider_logo_content_desc">Logo avdragsleverandør</string>
+    <string name="product_video">Produktvideo</string>
+    <string name="color">Farge</string>
+    <string name="video_banner_play_button_content_desc">Spille-knapp</string>
+    <string name="become_a_subscriber">Bli abonnent</string>
+    <string name="become_a_subscriber_and_save">Bli abonnent, og spar %d%%</string>
+    <string name="select">Velg</string>
+    <string name="select_something">Velg %s</string>
+    <string name="size_range">Størrelsesområde</string>
+    <string name="initial_time" translatable="false">00.00</string>
+    <string name="a11y_play">Spill</string>
+    <string name="a11y_pause">Sett på pause</string>
+    <string name="a11y_enter_fullscreen">Gå til fullskjerm</string>
+    <string name="a11y_exit_fullscreen">Forlat fullskjem</string>
+    <string name="share_product">Jeg tenkte at du kanskje ville like dette! Skynd deg, kan være utsolgt om kort tid!
+%s</string>
+    <string name="unavailable_product_message">Dette produktet er ikke lenger tilgjengelig.</string>
+    <string name="a11y_variant_sold_out">%s. Ikke tilgjengelig.</string><!--  Read with an accessibility action, e.g. "Double-tap to [action]"  --><string name="a11y_collapse_action">skjul</string>
+    <string name="a11y_expand_action">utvid</string><!--StoreLocator--><string name="store_locator">Finn en butikk</string>
+    <string name="list">Liste</string>
+    <string name="map">Kart</string>
+    <string name="search_by_postal_code">Søk etter postkode</string>
+    <string name="no_results_description">Vi finner ingen butikker innen dette postnummeret.</string>
+    <string name="temporarily_closed">Midlertidig stengt</string>
+    <string name="store_hours">Butikkens åpningstider</string>
+    <string name="a11y_edit_store">Rediger butikk</string><!--  Read with an accessibility action, e.g. "Double-tap to [action]"  --><string name="a11y_favorite_store_button_add_action">angi denne butikken som favoritten din</string>
+    <string name="a11y_favorite_store_button_remove_action">fjern denne butikken som favoritten din</string><!--FourSixty--><string name="shop_our_instagram">Shop our Instagram</string>
+    <string name="four_sixty_header_message">Se her hva andre går med på Instagram &amp; shop</string>
+    <string name="four_sixty_see_it_instagram_header_message">Se det i Instagram</string><!--Write a Review--><string name="write_a_review">Skriv en anmeldelse</string>
+    <string name="how_would_you_rate">Hvordan rangerer du denne varen?</string>
+    <string name="name">Navn</string>
+    <string name="title">Tittel</string>
+    <string name="message">Melding</string>
+    <string name="submit_review">Send anmeldelse</string>
+    <string name="empty_name_error">Angi navnet ditt.</string>
+    <string name="review_title_error">Gi anmeldelsen en tittel.</string>
+    <string name="review_title_success">Anmeldelsen din er nå lagt inn!</string><!--Recharge--><string name="my_subscriptions">Abonnentene mine</string>
+    <string name="manage_subscription_on_web">Håndter abonnenter på nettet</string>
+    <string name="recharge" translatable="false">Lad på nytt</string>
+    <string name="subscribe_and_save">«Abonner og spar»</string>
+    <string name="one_time_purchase">Engangskjøp</string>
+    <string name="subscribe_every">Abonner hver %1$s</string>
+    <string name="save_percent">Spar %1$d%%</string>
+    <string name="purchase_options">Kjøpealternativer</string>
+    <string name="subscription_every">Abonnement: Hver %1$d %2$s</string>
+
+    <plurals name="rating_info">
+        <item quantity="one">%2$.2f | %1$d anmeldelse</item>
+        <item quantity="other">%2$.2f | %1$d anmeldelser</item>
+    </plurals><!-- Quick Add/Update --><string name="view"><u>Vis</u></string>
+    <string name="select_your">Velg %s</string>
+    <string name="quick_add_plus">+ Rask tilføyelse</string>
+    <string name="update_cart">Oppdater handlevognen</string><!-- Onboarding --><string name="create_account">Opprett konto</string>
+    <string name="skip">Hopp over</string>
+    <string name="title_onboarding">Onboarding</string><!-- Notifications--><string name="no_notifications_title">Ingen varslinger</string>
+    <string name="no_notifications_message">I øyeblikket finnes det ingen varsler å vise</string>
+    <string name="notifications_error">Noe gikk galt. Prøv på nytt om kort tid.</string>
+
+    <string name="title_test">Testtittel</string>
+    <string name="title_shoppableinstagram">Shoppable Instagram</string>
+    <string name="title_search">Søk</string>
+    <string name="title_notifications">Varsler</string><!--Countdown Timer block --><string name="countdown_timer_number_format">%02d</string><!--QuadPay--><string name="quad_pay_eligible_message">Kjøp nå, betal senere.
+%1$d rentefrie betalinger på %2$s</string>
+    <string name="quad_pay_ineligible_message">%1$d rentefrie betalinger på bestillinger på mer enn $%2$s</string><!--My Rewards--><string name="title_loyalty">Loyalitet</string>
+    <string name="about">Om</string>
+    <string name="loyalty_rewards">Loyalitetsbelønninger</string>
+    <plurals name="your_balance">
+        <item quantity="one">Saldoen din: &lt;b&gt;%,d poeng&lt;/b&gt;</item>
+        <item quantity="other">Saldoen din: &lt;b&gt;%,d poeng&lt;/b&gt;</item>
+    </plurals>
+    <plurals name="tier_level">
+        <item quantity="one">%d of %d nivå</item>
+        <item quantity="other">%d of %d nivåer</item>
+    </plurals>
+    <string name="number_with_comma">%,d</string>
+    <string name="of_progress">av %,d</string>
+    <string name="tier">%s nivå</string>
+    <string name="ways_to_earn_extra">Måter å tjene ekstra på</string>
+    <string name="view_more_underlined">&lt;u&gt;Vis mer&lt;/u&gt;</string>
+    <string name="close_underlined">&lt;u&gt;Lukk&lt;/u&gt;</string>
+    <string name="a11y_close">Lukk</string>
+    <string name="a11y_back">Tilbake</string>
+    <string name="share_with_friends">Del med venner</string><!--My Rewards Dialog--><string name="my_rewards">Belønningene mine</string>
+    <string name="my_rewards_all_caps">BELØNNINGENE MINE</string>
+    <string name="choose_reward">Velg belønning</string>
+    <string name="choose_a_reward">Velg en belønning:</string>
+    <string name="redeem_reward">Hent belønning</string>
+    <string name="remove">Fjern</string>
+    <string name="points">%d poeng</string>
+    <string name="points_non_reversible">*Poeng som brukes for å hente belønninger, kan ikke reverseres.</string>
+    <string name="redeem_points_for_discount">Hent poeng for en rabatt.</string>
+    <string name="banner_reward_applied">&lt;b&gt;%s Brukt&lt;/b&gt; - Kode: %s</string>
+    <string name="unclaimed">Ikke hentet:</string>
+    <string name="reward_code_invalid">Ugyldig belønningskode.</string>
+    <string name="reward_has_zero_balance">Belønningen har null saldo.</string>
+    <string name="reward_is_expired">Belønningen har utløpt.</string>
+    <string name="reward_code_not_found">Fant ikke belønningskoden.</string>
+    <string name="reward_already_redeemed">Belønningen er allerede hentet.</string>
+    <string name="cannot_apply_reward">Kan ikke bruke belønningen.</string>
+    <string name="cannot_apply_multiple_gift_cards">Flere gavekort kan ikke brukes.</string>
+    <string name="reward_is_disabled">Belønningen er deaktivert. Prøv på nytt senere.</string>
+    <string name="no_rewards_available">Ingen tilgjengelige belønninger</string>
+    <string name="setting_up_loyalty">Konfigurere loyalitetskontoen din …</string>
+    <string name="discount_not_applicable_error">Rabatt gjelder ikke varene i handlevognen.</string><!--Subscriptions--><string name="title_subscriptions">Abonnementer</string>
+    <string name="active">Aktiv</string>
+    <string name="inactive">Ikke aktiv</string>
+    <string name="next_billing_date">Neste fakturadato: %1$s</string>
+    <string name="skipped_order">Bestilling hoppet over: %1$s</string>
+    <string name="subscription_inactive">Ikke aktivt abonnement</string>
+    <string name="no_subscriptions">Ingen abonnementer</string>
+    <string name="no_subscriptions_yet">Ingen abonnemeter opprettet ennå</string><!--Subscription Details--><string name="subscription_details">Abonnementsdetaljer</string>
+    <string name="frequency">Hyppighet</string>
+    <string name="delivered_every">Hver %1$s</string>
+    <string name="reactivate_subscription">Aktiver abonnementet på nytt</string>
+    <string name="save_changes">Lagre endringer</string>
+    <string name="select_a_frequency">Velg en hyppighet</string>
+    <string name="select_a_quantity">Velg en mengde</string>
+    <string name="every">Hver %1$d %2$s</string>
+    <string name="skip_next_charge">Hopp over neste belastning</string>
+    <string name="unskip_next_charge">Ikke hopp over neste belastning</string>
+    <string name="deactivate_subscription">Deaktiver abonnementet</string>
+    <string name="subscription_updated_message">Abonnementet er oppdatert</string>
+    <string name="a11y_change_quantity">Endre antall</string>
+
+    <plurals name="day_interval">
+        <item quantity="one">%1$d dag</item>
+        <item quantity="other">%1$d dager</item>
+    </plurals>
+    <plurals name="week_interval">
+        <item quantity="one">%1$d uke</item>
+        <item quantity="other">%1$d uker</item>
+    </plurals>
+    <plurals name="month_interval">
+        <item quantity="one">%1$d måned</item>
+        <item quantity="other">%1$d måneder</item>
+    </plurals><!--Reactivate Subscription--><string name="reactivate_subscription_title">Aktiver abonnementet på nytt</string>
+    <string name="reactivate_subscription_message">Du blir belaste på neste fakturdato.</string>
+    <string name="confirm">Bekreft</string><!--Deactivate Subscription--><string name="deactivate_subscription_title">Deaktiver abonnementet</string>
+    <string name="deactivate_subscription_message">Er du sikker på at du vil deaktivere abonnementet?</string>
+    <string name="deactivate">Deaktiver</string><!--Skip Charge--><string name="skip_charge_title">Hopp over belastning</string>
+    <string name="skip_charge_message">Er du sikker på at du vil hoppe over neste abonnementsdato?</string>
+    <string name="skip_charge">Hopp over</string><!--Unskip Charge--><string name="unskip_charge_title">Ikke hopp over belastningen</string>
+    <string name="unskip_charge_message">Er du sikker på at du ikke vil hoppe over neste abonnementsdato?</string>
+    <string name="unskip_charge">Ikke hopp over</string><!--Leave Subscription Unsaved--><string name="leave_unsaved_message">Er du sikker på at du vil gå ut? Alle endringer som ikke er lagret, blir forkastet.</string>
+    <string name="leave">Gå ut</string><!--Recharge Errors--><string name="auth_error_message">Obs! Det oppstod en auteniseringsfeil</string>
+    <string name="parse_error_message">Obs! Det oppstod en feil ved fullføring av oppgaven</string><!--Subscription Address--><string name="select_address">Velg adresse</string>
+    <string name="edit_address">Rediger adressen</string>
+    <string name="deliver_to_address">Lever til denne adressen</string><!--Abandoned Items--><string name="finish_checkout">Fullfør utsjekking</string>
+    <string name="view_cart">Vis handlevogn</string>
+    <string name="abandoned_checkout_title">Fortsett der du avsluttet!
+Fullfør bestillingen nå.</string>
+    <string name="abandoned_cart_title">Du glemte dette i handlevognen.
+Gå til kassa nå før den blir utsolgt.</string>
+
+    <plurals name="extra_items_message">
+        <item quantity="one">«+ %1$d annet produkt»</item>
+        <item quantity="other">«+ %1$d andre produkter»</item>
+    </plurals>
+    <string name="title_address">Adresse</string><!-- Photo Search --><string name="take_photo">Ta et bilde</string>
+    <string name="select_photo">Velg et bilde</string>
+    <string name="photo_search_toolbar">Søk etter bilde</string>
+    <string name="photo_search_description">Nå kan du søke ved å ta et bilde. Eller last opp en bilde, velg et element inne i det, og sett igang med å handle!</string>
+    <string name="photo_search_feed_description">Har du ikke et bilde? Prøv ett fra din sosiale mating</string>
+    <string name="replace_image">Bytt ut bildet</string>
+
+    <string name="photo_search_sort_label" translatable="false">@string/sort</string>
+    <string name="photo_search_sort_best_match">Beste match</string>
+    <string name="photo_search_sort_price_high_low" translatable="false">@string/price_high_to_low</string>
+    <string name="photo_search_sort_price_low_high" translatable="false">@string/price_low_to_high</string><!-- Multicurrency --><string name="change_currency">Bytt valuta</string>
+    <string name="change_currency_msg">Dette laster appen din inn på nytt, og prisen vises i %s valuta.</string>
+    <string name="add_to_list_failed">Klarte ikke å legge varen til ønskelisten</string>
+    <string name="failed_to_remove_wishlist_item">Klarte ikke å fjerne produktet/produktene fra ønskelisten</string>
+    <string name="default_wishlist_name">Min ønskeliste</string>
+
+</resources>

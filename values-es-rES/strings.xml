@@ -1,0 +1,521 @@
+<resources>
+    <string name="underscore" translatable="false">_</string>
+    <string name="item_price_placeholder">Precio de artículo</string>
+    <string name="options">Opciones</string>
+    <string name="search">Buscar</string>
+    <string name="item_name_placeholder">Nombre de artículo</string>
+    <string name="product_image">Imagen de producto</string>
+    <string name="collection_title_placeholder">Título de colección</string>
+    <string name="view_collection">Ver colección</string>
+    <string name="collection_name_placeholder">Nombre de colección</string>
+    <string name="view_all">Ver todo</string>
+    <string name="collection_image">Imagen de colección</string>
+    <string name="shop_now">Comprar ahora</string>
+    <string name="ratting_count_placeholder">(999)</string>
+    <string name="add_to_bag">AÑADIR A LA BOLSA</string>
+    <string name="add_to_cart">AÑADIR AL CARRO</string>
+    <string name="share">Compartir</string>
+    <string name="app_logo">Logotipo aplicación</string>
+    <string name="items_count_placeholder">Número de artículos</string>
+    <string name="remove_item">eliminar artículo</string>
+    <string name="subtotal">Subtotal</string>
+    <plurals name="cart_items_count">
+        <item quantity="one">%d</item>
+        <item quantity="other">%d artículos</item>
+    </plurals>
+    <string name="my_bag">MI BOLSA</string>
+    <string name="my_cart">MI CARRO</string>
+    <string name="splash_background">Fondo splash</string>
+    <string name="cancel">Cancelar</string>
+    <string name="elapsed_time">%1$d %2$s antes&quot;</string>
+    <string name="value_currency">%1$s %2$s&quot;</string>
+    <string name="card_masked">•••• •••• •••• %1$s&quot;</string>
+    <string name="just_now">Ahora mismo</string>
+
+    <plurals name="year">
+        <item quantity="one">año</item>
+        <item quantity="other">años</item>
+    </plurals>
+
+    <plurals name="month">
+        <item quantity="one">mes</item>
+        <item quantity="other">meses</item>
+    </plurals>
+
+    <plurals name="day">
+        <item quantity="one">día</item>
+        <item quantity="other">días</item>
+    </plurals>
+
+    <plurals name="hour">
+        <item quantity="one">hora</item>
+        <item quantity="other">horas</item>
+    </plurals>
+
+    <plurals name="minute">
+        <item quantity="one">minuto</item>
+        <item quantity="other">minutos</item>
+    </plurals>
+
+    <plurals name="second">
+        <item quantity="one">segundo</item>
+        <item quantity="other">segundos</item>
+    </plurals>
+
+    <plurals name="week">
+        <item quantity="one">semana</item>
+        <item quantity="other">semanas</item>
+    </plurals>
+
+    <string name="size_guide">Guía de tallas</string>
+    <string name="shipping_info">Información de envío</string>
+    <string name="description">Descripción</string>
+    <string name="collections">Colecciones</string>
+    <string name="your_order_is_complete">¡Se ha completado su pedido!</string>
+    <string name="web_checkout_confirmation_message">Se ha enviado un correo electrónico de confirmación a su</string>
+    <string name="email_placeholder">test@test.com</string>
+    <string name="keep_shopping">Seguir comprando</string>
+    <string name="ship_box">caja de envío</string>
+    <string name="no_internet">Compruebe su conexión a Internet</string>
+    <string name="checkout">Pago</string>
+    <string name="three_d_secure_authentication">Autenticación segura 3D</string>
+    <string name="discount">Descuento</string>
+    <string name="review_your_order">Revisar su pedido</string>
+    <string name="google_pay_error">Error de pago de Google</string>
+    <string name="failed_to_process_payment_title">Fallo al procesar el pago</string>
+    <string name="failed_to_process_payment">Fallo al procesar el pago, vuelva a intentarlo después.</string>
+    <string name="arrow">flecha</string>
+    <string name="menu_item">artículo de menú</string>
+    <string name="logo">logotipo</string>
+    <string name="not_implemented">NO IMPLEMENTADO</string>
+    <string name="sold_out">Agotado</string>
+    <string name="coming_soon">Pronto disponible</string>
+    <string name="email_address">Dirección de correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="email_error_message">Indique una dirección de correo electrónico antes de continuar.</string>
+    <string name="password_error_message">La contraseña no puede estar vacía.</string>
+    <string name="login_error">Error de acceso</string>
+    <string name="error">Error</string>
+    <string name="no_results">Sin resultados</string>
+    <string name="urban_planet_marker">Marcador de planeta urbano</string>
+    <string name="try_again_error">Vuelva a intentarlo.</string>
+    <string name="store_credit">Devoluciones: Crédito de tienda</string>
+    <string name="fraud_prevention">Prevención de fraudes</string>
+    <string name="store_credit_title">Crédito de tienda</string>
+    <string name="return_policy_title">Política de devoluciones</string>
+    <string name="store_credit_text">Con limitadas excepciones, las devoluciones válidas se reembolsan en forma de crédito de la tienda. Los artículos dañados/defectuosos estarán sujetos a un cambio si quedan existencias. Todo el crédito de tienda, los reembolsos y/o cambios que vencen se emitirán dentro de los 3 a 5 días hábiles posteriores al procesamiento de la devolución. Todos los artículos con precios que terminan en \ ,00; ,96; ,97 y ,98 $ son una venta final y no se pueden devolver para obtener crédito en la tienda. Puede encontrar información adicional sobre nuestra Política de devoluciones</string>
+    <string name="store_credit_text_hyperlink">AQUÍ</string>
+    <string name="slash" translatable="false">/</string>
+    <string name="free_gift">Obsequio gratuito</string>
+    <string name="a11y_original_and_discounted_price">Precio original %1$s, precio de oferta %2$s</string><!--Account--><string name="account">Cuenta</string>
+    <string name="sign_in">Acceso</string>
+    <string name="create_an_account">Crear una cuenta</string>
+    <string name="already_have_an_account">¿Ya tiene una cuenta?</string>
+    <string name="log_in">Iniciar sesión</string>
+    <string name="log_in_to_account">Iniciar sesión en cuenta</string>
+    <string name="create_a_new_account">Crear una cuenta nueva</string>
+    <string name="full_nme">Nombre completo</string>
+    <string name="sign_up">Registrarse</string>
+    <string name="name_error_message">Introduzca su nombre completo antes de continuar.</string>
+    <string name="sign_up_error">Error de registro</string>
+    <string name="no_address">No hay direcciones disponibles</string>
+    <string name="my_orders">Mis pedidos</string>
+    <string name="orders">Pedidos</string>
+    <string name="hi_user">Hola, %s.</string>
+    <string name="favorites">Favoritos</string>
+    <string name="start_browsing">Comience a navegar para que sus artículos aparezcan aquí</string>
+    <string name="recently_viewed">Vistos recientemente</string>
+    <string name="first_name_empty_error">El nombre no puede estar vacío.</string>
+    <string name="last_name_empty_error">El apellido no puede estar vacío.</string>
+    <string name="first_name">Nombre</string>
+    <string name="last_name">Apellido</string>
+    <string name="forgot_password">¿Ha olvidado la contraseña?</string>
+    <string name="forgot_password_dialog_message">¿Ha olvidado la contraseña?\nLe enviaremos un enlace de restablecimiento.</string>
+    <string name="send_reset_password_link">Enviar enlace</string>
+    <string name="change_password_error">Error al cambiar la contraseña</string>
+    <string name="reset_password_email_sended">Se ha restablecido la contraseña. Compruebe su correo electrónico.</string>
+    <string name="underlined_create_account"><u>Crear cuenta</u></string>
+    <string name="default_error_message">Vaya, ha ocurrido un error. Por favor, vuelva a intentarlo más tarde.</string>
+    <string name="incorrect_email_or_password">Correo electrónico o contraseña incorrectos.</string>
+    <string name="dont_have_an_account">¿No tiene cuenta?</string>
+    <string name="log_out">Cerrar sesión</string><!--Cart--><string name="add_item">añadir artículo</string>
+    <string name="enter_discount_code">Introducir código de descuento</string>
+    <string name="enter_gift_card">Introducir número de tarjeta de regalo</string>
+    <string name="apply_discount">Aplicar descuento</string>
+    <string name="applied_discount_code">Código: %1$s 🔥</string>
+    <string name="applied_gift_card">•••• %s 🎁</string>
+    <string name="continue_shopping">Continuar comprando</string>
+    <string name="start_shopping">Empezar a comprar</string>
+    <string name="empty_cart">carro vacío</string>
+    <string name="empty_cart_message">No tiene artículos en el carro\nen estos momentos</string>
+    <string name="your_cart_is_empty">Su carro está vacío</string>
+    <string name="apply_gift_card">Aplicar tarjeta de regalo</string>
+    <string name="dialog_background_image">Imagen de fondo de diálogo</string>
+    <string name="discount_error_title">Código de descuento no válido</string>
+    <string name="variant_not_available">Algunos artículos ya no están disponibles y se ha actualizado su carro.</string>
+    <string name="gift_card_error_title">Tarjeta de regalo no válida</string>
+    <string name="something_went_wrong_try_again">Ha habido un error. Vuelva a intentarlo.</string>
+    <string name="credit_card">Tarjeta de crédito</string>
+    <string name="paypal">PayPal</string>
+    <string name="amazon_pay">Amazon Pay</string>
+    <string name="google_pay">Google Pay</string>
+    <string name="pay_with">Pagar con</string>
+    <string name="ship_to_me_title">Enviármelo a mí</string>
+    <string name="ship_to_me_message">Recíbalo rápido en cualquier dirección</string>
+    <string name="ship_to_store_title">Enviar a tienda</string>
+    <string name="ship_to_store_message">Elegir dónde recogerlo</string>
+    <string name="reach_max_cart_line_items_error_message">Supera el límite de %s, retire el/los artículo/s del carro.</string>
+    <string name="discount_error_not_applied_to_items">El descuento no se aplica a los artículos de su carro</string>
+    <string name="no_internet_connection">No hay conexión a Internet</string>
+    <string name="generic_checkout_creation_error">Ha habido un error al crear su pago</string>
+    <string name="throttle_failure">Lo sentimos, no se ha completado su pago. Vuelva a intentarlo.</string>
+    <string name="dont_leave_page_queue_message">¡No cierre la página o perderá su lugar!</string>
+    <string name="thank_you_queue_message">¡Muchas gracias por su paciencia! ¡Solo tardará un poco más!</string>
+    <string name="discount_error_not_found">No se ha podido encontrar ningún descuento válido que coincida con el código introducido</string>
+    <string name="discount_error_general">El descuento no se ha aplicado. Vuelva a intentarlo.</string>
+    <string name="add_items_from_favorites">Añadir artículos desde favoritos</string>
+    <string name="add_my_favorite_items">¿Añadir a mis artículos favoritos? </string>
+    <string name="error_add_favorite_items_cart">Lo sentimos, hubo un problema al añadir algunos artículos al carrito.</string>
+    <string name="product_is_sold_out_error">Lo sentimos, el producto está agotado.</string>
+    <string name="cart_update_error_title">No se pudo actualizar el carro</string>
+    <string name="cart_update_error_discount">Se ha eliminado su código de descuento debido a un problema. Vuelva a intentar añadirlo.</string>
+    <string name="cart_update_error_gift_card">Se ha eliminado su tarjeta regalo debido a un problema. Vuelva a intentar añadirla.</string><!--Checkout--><string name="gift_card">Tarjeta de regalo</string>
+    <string name="duties">Aranceles</string>
+    <string name="shipping">Envío</string>
+    <string name="tax">Impuestos</string>
+    <string name="total">Total</string>
+    <string name="submit_order">Enviar pedido</string>
+    <string name="complete_order">Finalizar pedido</string>
+    <string name="continue_to_payment">Continuar al pago</string>
+    <string name="signed_in_as">&quot;Sesión iniciada como &quot;</string>
+    <string name="already_have_account">¿Ya tiene una cuenta?</string>
+    <string name="underlined_sign_in"><u>Acceso</u></string>
+    <string name="underlined_sign_in_sentence"><u>Acceso.</u></string>
+    <string name="checkout_as_guest">O pague como invitado</string>
+    <string name="add">Añadir</string>
+    <string name="add_shipping_info">Añadir dirección de envío</string>
+    <string name="add_billing_address">Añadir dirección de facturación</string>
+    <string name="add_payment_info">Añadir información de pago</string>
+    <string name="free">Gratis</string>
+    <string name="order_note">Nota: %1$s</string>
+    <string name="summary">Resumen</string>
+    <string name="minus">-%1$s</string>
+    <string name="payment">Pago</string>
+    <string name="add_payment">Añadir pago</string>
+    <string name="billing_address">La dirección de facturación es igual que la dirección de envío</string>
+    <string name="shipping_method">Método de envío</string>
+    <string name="ship_to_store">Enviar a tienda</string>
+    <string name="in_store_pickup">Recoger en tienda</string>
+    <string name="pick_up_here">Recoger aquí</string>
+    <string name="update_shopping_cart">Actualizar carro de la compra</string>
+    <string name="update_shipping_address">Actualizar dirección de envío</string><!-- Contact Sharing--><string name="contact_sharing">Compartir con amigos</string>
+    <string name="module_title">Referente</string>
+    <string name="contact_sharing_cta_contacts">Invitar desde mi lista de contactos</string>
+    <string name="contact_sharing_cta_invite">Compartir invitación</string>
+    <string name="contact_sharing_description_placeholder">Enviaremos una tarjeta regalo de 20 $ cuando hagan una compra. Utilice su lista de contactos para recomendar a amigos.</string>
+    <string name="contact_sharing_permission_denied">Es necesario acceder a los contactos del dispositivo para continuar. Proporcione acceso a los contactos en la configuración de su dispositivo.</string><!--Credit Card--><string name="empty_card_error">&quot;Introduzca el número de su tarjeta de crédito&quot;.</string>
+    <string name="invalid_card_error">&quot;Número de la tarjeta de crédito no válido&quot;.</string>
+    <string name="scan_your_card">Escanee su tarjeta</string><!--Notes--><string name="add_order_notes">Añadir notas al pedido</string>
+    <string name="gift_cart_or_delivery_date_notes">Mensaje de tarjeta de regalo | Fecha de entrega deseada</string>
+    <string name="add_notes">Añadir notas</string>
+    <string name="notes_hint">Escribir una nota en su pedido</string>
+    <string name="update_notes_error">Error al actualizar las notas</string><!--Address--><string name="billing">Facturación</string>
+    <string name="email">Correo electrónico</string>
+    <string name="new_address">Dirección nueva</string>
+    <string name="add_new_address">Añadir nueva dirección</string>
+    <string name="update_address">Actualizar dirección</string>
+    <string name="phone_number">Número de teléfono</string>
+    <string name="full_name">Nombre completo</string>
+    <string name="street_address">Dirección física</string>
+    <string name="unit">Unidad (opcional)</string>
+    <string name="city">Ciudad</string>
+    <string name="postal_code">Código postal</string>
+    <string name="state">Estado</string>
+    <string name="province">Provincia</string>
+    <string name="country">País</string>
+    <string name="save_address">Guardar dirección</string>
+    <string name="empty_email_error">Introduzca su dirección de correo electrónico.</string>
+    <string name="invalid_email_error">Introduzca una dirección de correo electrónico válida.</string>
+    <string name="phone_error">Introduzca su número de teléfono.</string>
+    <string name="empty_full_name_error">Introduzca su nombre completo.</string>
+    <string name="full_name_error">Introduzca su nombre y apellido.</string>
+    <string name="empty_address_error">Rellene la dirección.</string>
+    <string name="empty_city_error">Introduzca su ciudad.</string>
+    <string name="empty_zip_error">Introduzca su código postal.</string>
+    <string name="empty_state_error">Introduzca su estado.</string>
+    <string name="restricted_shipping_country_error">Lo sentimos, tiene artículos en su carro que no pueden enviarse fuera de Estados Unidos</string>
+    <string name="does_not_ship_to_country_error">Lo sentimos, no enviamos al país especificado.</string>
+    <string name="empty_country_error">Introduzca su país.</string>
+    <string name="unknown_country_error">No se ha podido identificar el país seleccionado.</string>
+    <string name="update_address_error">No se ha podido guardar la dirección.</string>
+    <string name="empty_phone_error">&quot;Introduzca su número de teléfono en el formulario de envío&quot;.</string>
+    <string name="beauty_items_error">Los artículos de belleza de su carro solo pueden enviarse a EE. UU. o Canadá. Para completar el pago, elimine los artículos de belleza de su carro o actualice la dirección de envío.</string>
+    <string name="a11y_selected">Seleccionado</string>
+    <string name="a11y_unselected">No seleccionado</string><!--Processing--><string name="processing_title">Espere.
+Estamos procesando su pedido.</string>
+    <string name="processing_subtitle">Puede tardar unos segundos.</string>
+    <string name="out_of_stock_title">No tenemos suficientes unidades de los artículos que ha solicitado.</string>
+    <string name="out_of_stock_subtitle">Hemos actualizado las cantidades de los artículos siguientes. Revise su carro para continuar.</string>
+    <string name="checkout_completed_title">¡Ya está listo! 
+Gracias por su pedido.</string>
+    <string name="checkout_completed_message">Debería recibir un correo electrónico de confirmación en breve</string>
+    <string name="review_cart">Revisar carro</string>
+    <string name="processing_checkout_error">&quot;Ha habido un problema al completar su pago. Vuelva a intentarlo&quot;.</string><!--Collection--><string name="sort">Ordenar</string>
+    <string name="recommended">Recomendados</string>
+    <string name="whats_new">Novedades</string>
+    <string name="best_selling">Más vendidos</string>
+    <string name="price_low_to_high">Precio: Barato a caro</string>
+    <string name="price_high_to_low">Precio: Caro a barato</string>
+    <string name="filter">Filtro</string>
+    <string name="apply">Aplicar</string>
+    <string name="clear">Borrar</string>
+    <string name="error_get_filter">No se ha podido recibir filtros</string>
+    <string name="update_wish_list_error_dialog_message">Fallo al actualizar la lista de deseos. Vuelva a intentarlo pronto.</string>
+    <string name="reach_max_favorites_error_message">Supera el límite de %s, elimine los artículos de la lista de deseos.</string>
+    <string name="empty_state_collection_title">NO HAY PRODUCTOS</string>
+    <string name="empty_state_collection_message">No hemos podido encontrar productos de esta colección</string>
+    <string name="unavailable_collection_message">Esta colección ya no está disponible.</string><!--Favorite--><string name="my_wishlist">Mi lista de deseos</string>
+    <string name="my_wishlists">Mis listas de deseos</string>
+    <string name="my_favorites">Mis favoritos</string>
+    <string name="empty_wish_list">Mis favoritos está vacío</string>
+    <string name="favorite_header">Compartir favoritos</string>
+    <string name="share_wish_list">¡Compruebe mis%1$s favoritos!</string>
+    <string name="a11y_favorite_button_label">Botón de favoritoz</string><!--  Read with an accessibility action, e.g. "Double-tap to [action]"  --><string name="a11y_favorite_button_add_action">añadir producto a sus favoritos.</string>
+    <string name="a11y_favorite_button_remove_action">elimine el producto de sus favoritos</string>
+    <string name="a11y_favorite_button_sign_in_action">acceso</string><!-- Installment Payments --> <!-- TODO move to a constants file --><string name="quad_pay" translatable="false">QuadPay</string>
+    <string name="after_pay" translatable="false">AfterPay</string>
+    <string name="klarna" translatable="false">Klarna</string>
+    <string name="affirm" translatable="false">Affirm</string>
+    <string name="sezzle" translatable="false">Sezzle</string>
+    <string name="installment_provider_text">&quot;Compre ahora, pague después. 
+%d pagos sin intereses de %s&quot;</string><!--Main--><string name="cart_icon">Icono de carro</string>
+    <string name="menu_background">Fondo de menú</string>
+    <string name="sure_log_out">¿Seguro que quiere cerrar la sesión de la aplicación?</string>
+    <string name="my_account">Mi cuenta</string>
+    <string name="install">Instalar</string>
+    <string name="video_placeholder">Marcador de posición de vídeo</string>
+    <string name="exit_preview">Salir de vista previa</string>
+    <string name="a11y_navigation_icon">Menú</string>
+
+    <string name="a11y_video_block_product_destination">Vídeo. Toque dos veces para abrir el producto.</string>
+    <string name="a11y_video_block_collection_destination">Vídeo. Toque dos veces para abrir la colección %s.</string>
+    <string name="a11y_video_block_webpage_destination">Vídeo. Toque dos veces para abrir la página web.</string>
+    <string name="a11y_video_block">Vídeo</string>
+    <string name="a11y_image_block_product_destination">Imagen. Toque dos veces para abrir el producto.</string>
+    <string name="a11y_image_block_collection_destination">Imagen. Toque dos veces para abrir la colección %s.</string>
+    <string name="a11y_image_block_webpage_destination">Imagen. Toque dos veces para abrir la página web.</string>
+    <string name="a11y_image_block">Imagen</string><!--  Read with an accessibility action, e.g. "Double-tap to [action]"  --><string name="a11y_image_block_action_open_webpage">abrir página web</string>
+    <string name="a11y_image_block_action_open_collection">abrir colección</string><!--Search--><string name="barcode_scanner">Escanear código de barras</string>
+    <string name="photo_search_button">Subir foto</string>
+    <string name="search_no_results_description">No hemos podido encontrar el artículo que buscaba.</string>
+    <string name="search_products">Buscar productos</string>
+    <string name="popular_searches">Búsquedas populares</string>
+    <string name="trending_searches">Búsquedas de tendencia</string><!--Order--><string name="order_description_placeholder">Marcador de posición de descripción de pedido</string>
+    <string name="order_total_placeholder">$99.99</string>
+    <string name="order_days_placeholder">Hace 17 días</string>
+    <plurals name="order_quantity_count">
+        <item quantity="one">y %d otro artículo</item>
+        <item quantity="other">y %d otros artículos</item>
+    </plurals>
+    <string name="order">Pedido</string>
+    <string name="you_have_no_orders">No tiene pedidos</string>
+    <string name="check_back">Vuelva a consultar después de haber realizado su primer pedido</string>
+    <string name="processing">Procesando</string><!--ProductDetails--><string name="keep_track">SIGA LA PISTA A SUS FAVORITOS</string>
+    <string name="create_account_to_save_favorites">Cree una cuenta %1$ s para guardar y realizar un seguimiento de todos sus artículos favoritos.</string>
+    <string name="sign_in_to_save_favorites">Inicie sesión en su cuenta %1$s para guardar y realizar un seguimiento de todos sus artículos favoritos.</string>
+    <string name="create_account_or_sign_in">Cree una cuenta o inicie sesión</string>
+    <string name="reviews">Reseñas</string>
+    <string name="verified_icon">Icono verificado</string>
+    <string name="you_may_also_like">Quizá también le guste</string>
+    <string name="first_to_write_review">Sea el primero en escribir una reseña</string>
+    <string name="uber_chic_checkout_already_created_message">Lo sentimos, no puede añadir el producto al carro después de haber creado un pago</string>
+    <string name="view_all_reviews">Ver todas las
+reseñas</string>
+    <string name="something_went_wrong">Vaya, ha fallado algo.</string>
+    <string name="notify_when_available">Notificarme cuando esté disponible</string>
+    <string name="notify_when_available_confirmation">Le notificaremos cuando vuelva a haber existencias del artículo.</string>
+    <string name="final_sale">Venta final</string>
+    <string name="clearance_tag">De liquidación</string>
+    <string name="plus">Beneficio</string>
+    <string name="misses">Fallos</string>
+    <string name="petite">Pequeño</string>
+    <string name="select_size_range">Seleccionar rango de tallas:</string>
+    <string name="parenthesis">(%s)</string>
+    <string name="shop_similar">Comprar similares</string>
+    <string name="installment_provider_logo_content_desc">Logotipo de proveedor de instalación</string>
+    <string name="product_video">Vídeo del producto</string>
+    <string name="color">Color</string>
+    <string name="video_banner_play_button_content_desc">Botón de reproducir</string>
+    <string name="become_a_subscriber">Conviértase en suscriptor</string>
+    <string name="become_a_subscriber_and_save">Conviértase en suscriptor y ahorre %d%%</string>
+    <string name="select">Seleccionar</string>
+    <string name="select_something">Seleccione %s</string>
+    <string name="size_range">Rango de tallas</string>
+    <string name="initial_time" translatable="false">00:00</string>
+    <string name="a11y_play">Reproducir</string>
+    <string name="a11y_pause">Pausar</string>
+    <string name="a11y_enter_fullscreen">Abrir pantalla completa</string>
+    <string name="a11y_exit_fullscreen">Cerrar pantalla completa</string>
+    <string name="share_product">¡He pensado que quizá le guste esto! ¡Rápido, podría agotarse pronto! 
+%s</string>
+    <string name="unavailable_product_message">Este producto ya no está disponible.</string>
+    <string name="a11y_variant_sold_out">%s. No disponible.</string><!--  Read with an accessibility action, e.g. "Double-tap to [action]"  --><string name="a11y_collapse_action">contraer</string>
+    <string name="a11y_expand_action">ampliar</string><!--StoreLocator--><string name="store_locator">Buscador de tiendas</string>
+    <string name="list">Lista</string>
+    <string name="map">Mapa</string>
+    <string name="search_by_postal_code">Buscar por código postal</string>
+    <string name="no_results_description">No hemos podido encontrar tiendas en ese código postal</string>
+    <string name="temporarily_closed">Cerrada temporalmente</string>
+    <string name="store_hours">Horario de tienda</string>
+    <string name="a11y_edit_store">Editar tienda</string><!--  Read with an accessibility action, e.g. "Double-tap to [action]"  --><string name="a11y_favorite_store_button_add_action">ajustar esta tienda como favorita</string>
+    <string name="a11y_favorite_store_button_remove_action">eliminar esta tienda de favoritos</string><!--FourSixty--><string name="shop_our_instagram">Compre en nuestro Instagram</string>
+    <string name="four_sixty_header_message">Vea lo que llevan los demás en 
+Instagram y compre directamente desde aquí.</string>
+    <string name="four_sixty_see_it_instagram_header_message">Verlo en Instagram</string><!--Write a Review--><string name="write_a_review">Escribir una reseña</string>
+    <string name="how_would_you_rate">¿Cómo valoraría este artículo?</string>
+    <string name="name">Nombre</string>
+    <string name="title">Título</string>
+    <string name="message">Mensaje</string>
+    <string name="submit_review">Enviar reseña</string>
+    <string name="empty_name_error">Introduzca su nombre.</string>
+    <string name="review_title_error">Dé una reseña para un título.</string>
+    <string name="review_title_success">¡Su reseña se ha publicado correctamente!</string><!--Recharge--><string name="my_subscriptions">Mis suscripciones</string>
+    <string name="manage_subscription_on_web">Gestionar suscripción en Internet</string>
+    <string name="recharge" translatable="false">Recargar</string>
+    <string name="subscribe_and_save">&quot;Suscribirse y guardar&quot;</string>
+    <string name="one_time_purchase">Compra de una vez</string>
+    <string name="subscribe_every">Suscribirse cada %1$s</string>
+    <string name="save_percent">Ahorrar %1$d%%</string>
+    <string name="purchase_options">Opciones de compra</string>
+    <string name="subscription_every">Suscripción: Cada %1$d %2$s</string>
+
+    <plurals name="rating_info">
+        <item quantity="one">%2$.2f | %1$d Reseña</item>
+        <item quantity="other">%2$.2f | %1$d Reseñas</item>
+    </plurals><!-- Quick Add/Update --><string name="view"><u>Ver</u></string>
+    <string name="select_your">Seleccione su %s</string>
+    <string name="quick_add_plus">+ Añadido rápido</string>
+    <string name="update_cart">Actualizar carro</string><!-- Onboarding --><string name="create_account">Crear cuenta</string>
+    <string name="skip">Omitir</string>
+    <string name="title_onboarding">Incorporación</string><!-- Notifications--><string name="no_notifications_title">Sin notificaciones</string>
+    <string name="no_notifications_message">No hay notificaciones
+para mostrar en este momento</string>
+    <string name="notifications_error">Ha fallado algo. Vuelva a intentarlo pronto.</string>
+
+    <string name="title_test">Título de prueba</string>
+    <string name="title_shoppableinstagram">Instagram de Shoppable</string>
+    <string name="title_search">Buscar</string>
+    <string name="title_notifications">Notificaciones</string><!--Countdown Timer block --><string name="countdown_timer_number_format">%02d</string><!--QuadPay--><string name="quad_pay_eligible_message">Compre ahora, pague después.
+%1$d pagos libres de intereses de %2$s</string>
+    <string name="quad_pay_ineligible_message">%1$d pagos libres de intereses en pedidos superiores a %2$s</string><!--My Rewards--><string name="title_loyalty">Fidelidad</string>
+    <string name="about">Acerca de</string>
+    <string name="loyalty_rewards">Recompensas de fidelidad</string>
+    <plurals name="your_balance">
+        <item quantity="one">Su crédito: &lt;b&gt;%,d punto&lt;/b&gt;</item>
+        <item quantity="other">Su crédito: &lt;b&gt;%,d puntos&lt;/b&gt;</item>
+    </plurals>
+    <plurals name="tier_level">
+        <item quantity="one">Nivel %d de %d</item>
+        <item quantity="other">%d de %d niveles</item>
+    </plurals>
+    <string name="number_with_comma">%,d</string>
+    <string name="of_progress">de %,d</string>
+    <string name="tier">%s Nivel</string>
+    <string name="ways_to_earn_extra">Maneras de ganar más</string>
+    <string name="view_more_underlined">&lt;u&gt;Ver más&lt;/u&gt;</string>
+    <string name="close_underlined">&lt;u&gt;Cerrar&lt;/u&gt;</string>
+    <string name="a11y_close">Cerrar</string>
+    <string name="a11y_back">Volver</string>
+    <string name="share_with_friends">Compartir con amigos</string><!--My Rewards Dialog--><string name="my_rewards">Mis recompensas</string>
+    <string name="my_rewards_all_caps">MIS RECOMPENSAS</string>
+    <string name="choose_reward">Elegir recompensa</string>
+    <string name="choose_a_reward">Elegir una recompensa:</string>
+    <string name="redeem_reward">Canjear recompensa</string>
+    <string name="remove">Eliminar</string>
+    <string name="points">%d puntos</string>
+    <string name="points_non_reversible">*Los puntos usados para canjear recompensas no son reversibles.</string>
+    <string name="redeem_points_for_discount">Redimir puntos para un descuento.</string>
+    <string name="banner_reward_applied">&lt;b&gt;%s Aplicado&lt;/b&gt; - Código: %s</string>
+    <string name="unclaimed">Sin reclamar:</string>
+    <string name="reward_code_invalid">Código de recompensa no válido.</string>
+    <string name="reward_has_zero_balance">La recompensa tiene crédito cero.</string>
+    <string name="reward_is_expired">La recompensa ha caducado.</string>
+    <string name="reward_code_not_found">No se ha encontrado el código de recompensa.</string>
+    <string name="reward_already_redeemed">Ya se ha canjeado su recompensa.</string>
+    <string name="cannot_apply_reward">No se puede aplicar la recompensa.</string>
+    <string name="cannot_apply_multiple_gift_cards">No se pueden aplicar múltiples tarjetas de regalo.</string>
+    <string name="reward_is_disabled">La recompensa está deshabilitada. Vuelva a intentarlo más tarde.</string>
+    <string name="no_rewards_available">No hay recompensas disponibles</string>
+    <string name="setting_up_loyalty">Configurando su cuenta de fidelidad...</string>
+    <string name="discount_not_applicable_error">El descuento no se aplica a los artículos de su carro.</string><!--Subscriptions--><string name="title_subscriptions">Suscripciones</string>
+    <string name="active">Activa</string>
+    <string name="inactive">Inactiva</string>
+    <string name="next_billing_date">Siguiente fecha de facturación: %1$s</string>
+    <string name="skipped_order">Pedido omitido: %1$s</string>
+    <string name="subscription_inactive">Suscripción inactiva</string>
+    <string name="no_subscriptions">Sin suscripciones</string>
+    <string name="no_subscriptions_yet">Todavía no ha creado ninguna suscripción</string><!--Subscription Details--><string name="subscription_details">Información de suscripción</string>
+    <string name="frequency">Frecuencia</string>
+    <string name="delivered_every">Cada %1$s</string>
+    <string name="reactivate_subscription">Reactivar suscripción</string>
+    <string name="save_changes">Guardar cambios</string>
+    <string name="select_a_frequency">Seleccionar una frecuencia</string>
+    <string name="select_a_quantity">Seleccionar una cantidad</string>
+    <string name="every">Cada %1$d %2$s</string>
+    <string name="skip_next_charge">Omitir siguiente cobro</string>
+    <string name="unskip_next_charge">No omitir siguiente cobro</string>
+    <string name="deactivate_subscription">Desactivar suscripción</string>
+    <string name="subscription_updated_message">Hemos actualizado su suscripción</string>
+    <string name="a11y_change_quantity">Cambiar cantidad</string>
+
+    <plurals name="day_interval">
+        <item quantity="one">%1$d día</item>
+        <item quantity="other">%1$d días</item>
+    </plurals>
+    <plurals name="week_interval">
+        <item quantity="one">%1$d semana</item>
+        <item quantity="other">%1$d semanas</item>
+    </plurals>
+    <plurals name="month_interval">
+        <item quantity="one">%1$d mes</item>
+        <item quantity="other">%1$d meses</item>
+    </plurals><!--Reactivate Subscription--><string name="reactivate_subscription_title">Reactivar suscripción</string>
+    <string name="reactivate_subscription_message">Se le cobrará en su próxima fecha de facturación.</string>
+    <string name="confirm">Confirmar</string><!--Deactivate Subscription--><string name="deactivate_subscription_title">Desactivar suscripción</string>
+    <string name="deactivate_subscription_message">¿Seguro que quiere desactivar su suscripción?</string>
+    <string name="deactivate">Desactivar</string><!--Skip Charge--><string name="skip_charge_title">Omitir cobro</string>
+    <string name="skip_charge_message">¿Seguro que quiere omitir su próxima fecha de suscripción?</string>
+    <string name="skip_charge">Omitir</string><!--Unskip Charge--><string name="unskip_charge_title">No omitir cobro</string>
+    <string name="unskip_charge_message">¿Seguro que no quiere omitir su próxima fecha de suscripción?</string>
+    <string name="unskip_charge">No omitir</string><!--Leave Subscription Unsaved--><string name="leave_unsaved_message">¿Seguro que quiere salir? Se descartarán todos los cambios no guardados.</string>
+    <string name="leave">Salir</string><!--Recharge Errors--><string name="auth_error_message">¡Vaya! Ha habido un error de autenticación</string>
+    <string name="parse_error_message">¡Vaya! Ha habido un error al finalizar la tarea</string><!--Subscription Address--><string name="select_address">Seleccionar dirección</string>
+    <string name="edit_address">Editar dirección</string>
+    <string name="deliver_to_address">Entregar en esta dirección</string><!--Abandoned Items--><string name="finish_checkout">Finalizar pago</string>
+    <string name="view_cart">Ver carro</string>
+    <string name="abandoned_checkout_title">¡Continúe desde donde lo dejó!
+Finalice su pedido ahora.</string>
+    <string name="abandoned_cart_title">Ha olvidado esto en su carro.
+Pague ahora antes de que se agote.</string>
+
+    <plurals name="extra_items_message">
+        <item quantity="one">&quot;+ %1$d otro producto&quot;</item>
+        <item quantity="other">&quot;+ %1$d otros productos&quot;</item>
+    </plurals>
+    <string name="title_address">Dirección</string><!-- Photo Search --><string name="take_photo">Hacer una foto</string>
+    <string name="select_photo">Seleccionar una foto</string>
+    <string name="photo_search_toolbar">Búsqueda de imágenes</string>
+    <string name="photo_search_description">Ahora puede hacer una foto para buscar. ¡O suba una foto, seleccione un artículo que haya en ella y compre!</string>
+    <string name="photo_search_feed_description">¿No tiene una foto? Pruebe con una de nuestras redes sociales</string>
+    <string name="replace_image">Sustituir imagen</string>
+
+    <string name="photo_search_sort_label" translatable="false">@string/sort</string>
+    <string name="photo_search_sort_best_match">Mejor coincidencia</string>
+    <string name="photo_search_sort_price_high_low" translatable="false">@string/price_high_to_low</string>
+    <string name="photo_search_sort_price_low_high" translatable="false">@string/price_low_to_high</string><!-- Multicurrency --><string name="change_currency">Cambiar divisa</string>
+    <string name="change_currency_msg">Esto recargará su aplicación y los precios aparecerán ahora en la divisa %s.</string>
+    <string name="add_to_list_failed">Hubo un fallo al añadir el artículo a la lista de deseos</string>
+    <string name="failed_to_remove_wishlist_item">Hubo un fallo al eliminar el producto de la lista de deseos</string>
+    <string name="default_wishlist_name">Mi lista de deseos</string>
+
+</resources>

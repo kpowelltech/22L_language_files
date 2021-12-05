@@ -1,0 +1,530 @@
+<resources>
+    <string name="underscore" translatable="false">_</string>
+    <string name="item_price_placeholder">Harga Item</string>
+    <string name="options">Pilihan</string>
+    <string name="search">Carian</string>
+    <string name="item_name_placeholder">Nama Item</string>
+    <string name="product_image">Imej produk</string>
+    <string name="collection_title_placeholder">Tajuk Koleksi</string>
+    <string name="view_collection">Lihat Koleksi</string>
+    <string name="collection_name_placeholder">Nama Koleksi</string>
+    <string name="view_all">Lihat Semua</string>
+    <string name="collection_image">Imej Koleksi</string>
+    <string name="shop_now">Beli Sekarang</string>
+    <string name="ratting_count_placeholder">(999)</string>
+    <string name="add_to_bag">TAMBAH KE BEG</string>
+    <string name="add_to_cart">TAMBAH KE TROLI</string>
+    <string name="share">Kongsi</string>
+    <string name="app_logo">Logo Aplikasi</string>
+    <string name="items_count_placeholder">Kiraan item</string>
+    <string name="remove_item">alih keluar item</string>
+    <string name="subtotal">Subjumlah</string>
+    <plurals name="cart_items_count">
+        <item quantity="one">%d item</item>
+        <item quantity="other">%d item</item>
+    </plurals>
+    <string name="my_bag">BEG SAYA</string>
+    <string name="my_cart">TROLI SAYA</string>
+    <string name="splash_background">Latar belakang percikan</string>
+    <string name="cancel">Batal</string>
+    <string name="elapsed_time">%1$d %2$s yang lalu&quot;</string>
+    <string name="value_currency">%1$s %2$s&quot;</string>
+    <string name="card_masked">•••• •••• •••• %1$s&quot;</string>
+    <string name="just_now">Sebentar tadi</string>
+
+    <plurals name="year">
+        <item quantity="one">tahun</item>
+        <item quantity="other">tahun</item>
+    </plurals>
+
+    <plurals name="month">
+        <item quantity="one">bulan</item>
+        <item quantity="other">bulan</item>
+    </plurals>
+
+    <plurals name="day">
+        <item quantity="one">hari</item>
+        <item quantity="other">hari</item>
+    </plurals>
+
+    <plurals name="hour">
+        <item quantity="one">jam</item>
+        <item quantity="other">jam</item>
+    </plurals>
+
+    <plurals name="minute">
+        <item quantity="one">minit</item>
+        <item quantity="other">minit</item>
+    </plurals>
+
+    <plurals name="second">
+        <item quantity="one">saat</item>
+        <item quantity="other">saat</item>
+    </plurals>
+
+    <plurals name="week">
+        <item quantity="one">minggu</item>
+        <item quantity="other">minggu</item>
+    </plurals>
+
+    <string name="size_guide">Panduan saiz</string>
+    <string name="shipping_info">Maklumat penghantaran</string>
+    <string name="description">Perihalan</string>
+    <string name="collections">Koleksi</string>
+    <string name="your_order_is_complete">Pesanan Anda Telah Selesai!</string>
+    <string name="web_checkout_confirmation_message">E-mel pengesahan telah dihantar kepada anda</string>
+    <string name="email_placeholder">test@test.com</string>
+    <string name="keep_shopping">Teruskan membeli-belah</string>
+    <string name="ship_box">hantar kotak</string>
+    <string name="no_internet">Sila semak sambungan internet anda</string>
+    <string name="checkout">Semak Keluar</string>
+    <string name="three_d_secure_authentication">Pengesahan Selamat 3D</string>
+    <string name="discount">Diskaun</string>
+    <string name="review_your_order">Semak Pesanan Anda</string>
+    <string name="google_pay_error">Ralat bayaran Google</string>
+    <string name="failed_to_process_payment_title">Gagal memproses pembayaran</string>
+    <string name="failed_to_process_payment">Gagal memproses pembayaran, sila cuba lagi kemudian.</string>
+    <string name="arrow">anak panah</string>
+    <string name="menu_item">item menu</string>
+    <string name="logo">logo</string>
+    <string name="not_implemented">TIDAK DILAKSANAKAN</string>
+    <string name="sold_out">Habis dijual</string>
+    <string name="coming_soon">Akan datang</string>
+    <string name="email_address">Alamat E-mel</string>
+    <string name="password">Kata Laluan</string>
+    <string name="email_error_message">Sila beri alamat e-mel sebelum meneruskan.</string>
+    <string name="password_error_message">Kata laluan tidak boleh kosong.</string>
+    <string name="login_error">Ralat Log Masuk</string>
+    <string name="error">Ralat</string>
+    <string name="no_results">Tiada hasil</string>
+    <string name="urban_planet_marker">Urban Planet Marker</string>
+    <string name="try_again_error">Sila cuba lagi.</string>
+    <string name="store_credit">Pengembalian: Kredit Kedai</string>
+    <string name="fraud_prevention">Pencegahan Penipuan</string>
+    <string name="store_credit_title">Kredit Kedai</string>
+    <string name="return_policy_title">Dasar Pengembalian</string>
+    <string name="store_credit_text">Dengan pengecualian terhad, pengembalian yang sah dibayar balik dalam bentuk kredit kedai. Item yang rosak/tidak sempurna akan ditukar sekiranya ada stok.
+Semua kredit kedai, pembayaran balik dan/atau pertukaran yang perlu dibayar akan dikeluarkan dalam tempoh 3 hingga 5 hari perniagaan selepas pengembalian diproses.
+Semua item dengan harga yang berakhir dengan \$.00, .96, .97 dan .98 adalah jualan akhir dan tidak boleh dikembalikan untuk kredit kedai.
+Anda boleh mendapatkan maklumat tambahan mengenai Dasar Pengembalian kami.</string>
+    <string name="store_credit_text_hyperlink">DI SINI</string>
+    <string name="slash" translatable="false">/</string>
+    <string name="free_gift">Hadiah percuma</string>
+    <string name="a11y_original_and_discounted_price">Harga asal %1$s, harga jualan %2$s</string><!--Account--><string name="account">Akaun</string>
+    <string name="sign_in">Daftar Masuk</string>
+    <string name="create_an_account">Cipta akaun</string>
+    <string name="already_have_an_account">Sudah mempunyai akaun?</string>
+    <string name="log_in">Log Masuk</string>
+    <string name="log_in_to_account">Log masuk ke akaun</string>
+    <string name="create_a_new_account">Cipta akaun baharu</string>
+    <string name="full_nme">Nama Penuh</string>
+    <string name="sign_up">Daftar</string>
+    <string name="name_error_message">Sila masukkan nama penuh anda sebelum meneruskan.</string>
+    <string name="sign_up_error">Ralat Daftar</string>
+    <string name="no_address">Tiada Alamat Yang Tersedia</string>
+    <string name="my_orders">Pesanan Saya</string>
+    <string name="orders">Pesanan</string>
+    <string name="hi_user">Hai, %s.</string>
+    <string name="favorites">Kegemaran</string>
+    <string name="start_browsing">Mula menyemak imbas agar
+item anda dipaparkan di sini</string>
+    <string name="recently_viewed">Dilihat Baru-baru Ini</string>
+    <string name="first_name_empty_error">Nama pertama tidak boleh kosong.</string>
+    <string name="last_name_empty_error">Nama keluarga tidak boleh kosong</string>
+    <string name="first_name">Nama Pertama</string>
+    <string name="last_name">Nama Keluarga</string>
+    <string name="forgot_password">Terlupa Kata Laluan?</string>
+    <string name="forgot_password_dialog_message">Terlupa kata laluan?
+Kami akan menghantarkan pautan penetapan semula kepada anda.</string>
+    <string name="send_reset_password_link">Hantar Pautan</string>
+    <string name="change_password_error">Ralat Tukar Kata Laluan</string>
+    <string name="reset_password_email_sended">Kata laluan ditetapkan semula. Sila semak e-mel anda.</string>
+    <string name="underlined_create_account"><u>Cipta akaun</u></string>
+    <string name="default_error_message">Op, ralat telah berlaku. Sila cuba lagi kemudian.</string>
+    <string name="incorrect_email_or_password">E-mel atau kata laluan tidak betul.</string>
+    <string name="dont_have_an_account">Tidak mempunyai akaun?</string>
+    <string name="log_out">Log keluar</string><!--Cart--><string name="add_item">tambah item</string>
+    <string name="enter_discount_code">Masukkan Kod Diskaun</string>
+    <string name="enter_gift_card">Masukkan Nombor Kad Hadiah</string>
+    <string name="apply_discount">Guna diskaun</string>
+    <string name="applied_discount_code">Kod: %1$s 🔥</string>
+    <string name="applied_gift_card">•••• %s 🎁</string>
+    <string name="continue_shopping">Teruskan membeli</string>
+    <string name="start_shopping">Mula membeli-belah</string>
+    <string name="empty_cart">troli kosong</string>
+    <string name="empty_cart_message">Anda tidak mempunyai item dalam troli anda
+ketika ini</string>
+    <string name="your_cart_is_empty">Troli anda kosong</string>
+    <string name="apply_gift_card">Guna Kad Hadiah</string>
+    <string name="dialog_background_image">Imej latar belakang dialog</string>
+    <string name="discount_error_title">Kod Diskaun Tidak Sah</string>
+    <string name="variant_not_available">Beberapa item tidak lagi tersedia dan troli anda telah dikemas kini</string>
+    <string name="gift_card_error_title">Kad Hadiah Tidak Sah</string>
+    <string name="something_went_wrong_try_again">Sesuatu yang tidak kena telah berlaku.
+Sila cuba lagi.</string>
+    <string name="credit_card">Kad Kredit</string>
+    <string name="paypal">PayPal</string>
+    <string name="amazon_pay">Amazon Pay</string>
+    <string name="google_pay">Google Pay</string>
+    <string name="pay_with">Bayar dengan</string>
+    <string name="ship_to_me_title">Hantarkan kepada saya</string>
+    <string name="ship_to_me_message">Dapatkannya dengan cepat di mana-mana alamat</string>
+    <string name="ship_to_store_title">Hantar ke kedai</string>
+    <string name="ship_to_store_message">Pilih tempat untuk mengambilnya</string>
+    <string name="reach_max_cart_line_items_error_message">Melebihi had %s, sila alih keluar item daripada troli.</string>
+    <string name="discount_error_not_applied_to_items">Diskaun tidak digunakan untuk barang di troli anda</string>
+    <string name="no_internet_connection">Tiada Sambungan Internet</string>
+    <string name="generic_checkout_creation_error">Terdapat ralat semasa mencipta semak keluar anda</string>
+    <string name="throttle_failure">Harap maaf, semak keluar anda tidak berjaya. Sila cuba lagi.</string>
+    <string name="dont_leave_page_queue_message">Jangan tinggalkan halaman atau anda akan kehilangan tempat anda!</string>
+    <string name="thank_you_queue_message">Terima kasih atas kesabaran anda! Hanya beberapa saat lagi!</string>
+    <string name="discount_error_not_found">Tidak dapat menemui diskaun sah yang sepadan dengan kod yang dimasukkan</string>
+    <string name="discount_error_general">Diskaun tidak digunakan. Sila cuba lagi.</string>
+    <string name="add_items_from_favorites">Tambah item daripada kegemaran</string>
+    <string name="add_my_favorite_items">Tambahkan item kegemaran saya?</string>
+    <string name="error_add_favorite_items_cart">Harap maaf, terdapat masalah semasa menambahkan beberapa item ke troli.</string>
+    <string name="product_is_sold_out_error">Harap maaf, produk telah habis dijual.</string>
+    <string name="cart_update_error_title">Tidak dapat mengemas kini troli</string>
+    <string name="cart_update_error_discount">Kod diskaun anda telah dialih keluar kerana terdapat masalah. Sila cuba tambahkannya lagi.</string>
+    <string name="cart_update_error_gift_card">Kad hadiah anda telah dialih keluar kerana terdapat masalah. Sila cuba tambahkannya lagi.</string><!--Checkout--><string name="gift_card">Kad Hadiah</string>
+    <string name="duties">Duti</string>
+    <string name="shipping">Penghantaran</string>
+    <string name="tax">Cukai</string>
+    <string name="total">Jumlah</string>
+    <string name="submit_order">Serahkan Pesanan</string>
+    <string name="complete_order">Lengkapkan Pesanan</string>
+    <string name="continue_to_payment">Teruskan ke Pembayaran</string>
+    <string name="signed_in_as">&quot;Didaftar masuk sebagai &quot;</string>
+    <string name="already_have_account">Sudah mempunyai akaun?</string>
+    <string name="underlined_sign_in"><u>Daftar Masuk</u></string>
+    <string name="underlined_sign_in_sentence"><u>Daftar Masuk.</u></string>
+    <string name="checkout_as_guest">Atau semak keluar sebagai tetamu</string>
+    <string name="add">Tambah</string>
+    <string name="add_shipping_info">Tambah alamat penghantaran</string>
+    <string name="add_billing_address">Tambah alamat pengebilan</string>
+    <string name="add_payment_info">Tambah maklumat pembayaran</string>
+    <string name="free">Percuma</string>
+    <string name="order_note">Nota: %1$s</string>
+    <string name="summary">Ringkasan</string>
+    <string name="minus">-%1$s</string>
+    <string name="payment">Pembayaran</string>
+    <string name="add_payment">Tambah Pembayaran</string>
+    <string name="billing_address">Alamat pengebilan adalah sama seperti alamat penghantaran</string>
+    <string name="shipping_method">Kaedah Penghantaran</string>
+    <string name="ship_to_store">Hantar ke Kedai</string>
+    <string name="in_store_pickup">Pengambilan Di Kedai</string>
+    <string name="pick_up_here">Ambil Di Sini</string>
+    <string name="update_shopping_cart">Kemas kini troli beli-belah</string>
+    <string name="update_shipping_address">Kemas kini alamat penghantaran</string><!-- Contact Sharing--><string name="contact_sharing">&quot;Kongsi dengan rakan&quot;</string>
+    <string name="module_title">Rujukan</string>
+    <string name="contact_sharing_cta_contacts">Jemput daripada senarai kenalan saya</string>
+    <string name="contact_sharing_cta_invite">Kongsi jemputan</string>
+    <string name="contact_sharing_description_placeholder">Kami akan menghantar kad hadiah $20 apabila mereka membuat pembelian. Gunakan senarai kenalan anda untuk merujuk rakan.</string>
+    <string name="contact_sharing_permission_denied">Akses kepada kenalan peranti diperlukan untuk meneruskan. Sila sediakan akses kenalan dalam tetapan peranti anda.</string><!--Credit Card--><string name="empty_card_error">&quot;Sila masukkan nombor kad kredit anda.&quot;</string>
+    <string name="invalid_card_error">&quot;Nombor kad kredit tidak sah.&quot;</string>
+    <string name="scan_your_card">Imbas kad anda</string><!--Notes--><string name="add_order_notes">Tambah nota pesanan</string>
+    <string name="gift_cart_or_delivery_date_notes">Mesej Kad Hadiah | Tarikh Penghantaran Yang Diingini</string>
+    <string name="add_notes">Tambah Nota</string>
+    <string name="notes_hint">Tuliskan nota pada pesanan anda</string>
+    <string name="update_notes_error">Ralat semasa mengemas kini nota</string><!--Address--><string name="billing">Pengebilan</string>
+    <string name="email">E-mel</string>
+    <string name="new_address">Alamat Baharu</string>
+    <string name="add_new_address">Tambah Alamat Baharu</string>
+    <string name="update_address">Kemas Kini Alamat</string>
+    <string name="phone_number">Nombor Telefon</string>
+    <string name="full_name">Nama Penuh</string>
+    <string name="street_address">Alamat Jalan</string>
+    <string name="unit">Unit (Pilihan)</string>
+    <string name="city">Bandar</string>
+    <string name="postal_code">Poskod</string>
+    <string name="state">Negeri</string>
+    <string name="province">Wilayah</string>
+    <string name="country">Negara</string>
+    <string name="save_address">Simpan Alamat</string>
+    <string name="empty_email_error">Sila masukkan alamat e-mel anda.</string>
+    <string name="invalid_email_error">Sila masukkan alamat e-mel yang sah.</string>
+    <string name="phone_error">Sila masukkan nombor telefon anda.</string>
+    <string name="empty_full_name_error">Sila masukkan nama penuh anda.</string>
+    <string name="full_name_error">Sila isikan nama pertama dan nama keluarga anda.</string>
+    <string name="empty_address_error">Sila isikan alamat anda.</string>
+    <string name="empty_city_error">Sila masukkan bandar anda.</string>
+    <string name="empty_zip_error">Sila masukkan poskod anda.</string>
+    <string name="empty_state_error">Sila masukkan negeri anda.</string>
+    <string name="restricted_shipping_country_error">Harap maaf, anda mempunyai item dalam troli yang tidak boleh dihantar ke luar Amerika Syarikat</string>
+    <string name="does_not_ship_to_country_error">Harap maaf, kami tidak menghantar ke negara yang dinyatakan.</string>
+    <string name="empty_country_error">Sila masukkan negara anda.</string>
+    <string name="unknown_country_error">Tidak dapat mengenal pasti negara yang dipilih.</string>
+    <string name="update_address_error">Tidak dapat menyimpan alamat.</string>
+    <string name="empty_phone_error">&quot;Sila masukkan nombor telefon anda dalam borang penghantaran.&quot;</string>
+    <string name="beauty_items_error">Item kecantikan dalam troli anda hanya boleh dihantar ke AS atau Kanada. Untuk melengkapkan semak keluar, sila alih keluar item kecantikan dalam troli anda atau kemas kini alamat penghantaran.</string>
+    <string name="a11y_selected">Dipilih</string>
+    <string name="a11y_unselected">Tidak dipilih</string><!--Processing--><string name="processing_title">Tunggu sebentar.
+Kami sedang memproses pesanan anda.</string>
+    <string name="processing_subtitle">Proses ini mungkin akan mengambil beberapa saat.</string>
+    <string name="out_of_stock_title">Item yang anda minta tidak mencukupi.</string>
+    <string name="out_of_stock_subtitle">Kami telah mengemas kini kuantiti untuk item di bawah. Sila semak troli anda untuk meneruskan.</string>
+    <string name="checkout_completed_title">Anda telah selesai!
+Terima kasih atas pesanan anda.</string>
+    <string name="checkout_completed_message">Anda akan menerima pengesahan e-mel sebentar lagi</string>
+    <string name="review_cart">Semak Troli</string>
+    <string name="processing_checkout_error">&quot;Terdapat isu semasa melengkapkan semak keluar anda. Sila cuba lagi.&quot;</string><!--Collection--><string name="sort">Isih</string>
+    <string name="recommended">Disyorkan</string>
+    <string name="whats_new">Perkara Baharu</string>
+    <string name="best_selling">Jualan Laris</string>
+    <string name="price_low_to_high">Harga: Rendah kepada Tinggi</string>
+    <string name="price_high_to_low">Harga: Tinggi kepada Rendah</string>
+    <string name="filter">Penapis</string>
+    <string name="apply">Gunakan</string>
+    <string name="clear">Kosongkan</string>
+    <string name="error_get_filter">Tidak berjaya mendapatkan penapis</string>
+    <string name="update_wish_list_error_dialog_message">Mengemas Kini Senarai Hajat gagal. Sila cuba sebentar lagi.</string>
+    <string name="reach_max_favorites_error_message">Melebihi had %s, sila alih keluar item daripada senarai hajat.</string>
+    <string name="empty_state_collection_title">TIADA PRODUK</string>
+    <string name="empty_state_collection_message">Kami tidak dapat mencari
+produk dalam koleksi ini</string>
+    <string name="unavailable_collection_message">Koleksi ini tidak lagi tersedia.</string><!--Favorite--><string name="my_wishlist">Senarai Hajat Saya</string>
+    <string name="my_wishlists">Senarai Hajat saya</string>
+    <string name="my_favorites">Kegemaran Saya</string>
+    <string name="empty_wish_list">Kegemaran Saya Kosong</string>
+    <string name="favorite_header">Kongsi Kegemaran Anda</string>
+    <string name="share_wish_list">Semak %1$s kegemaran saya!</string>
+    <string name="a11y_favorite_button_label">Butang Kegemaran</string><!--  Read with an accessibility action, e.g. "Double-tap to [action]"  --><string name="a11y_favorite_button_add_action">tambahkan produk pada kegemaran anda.</string>
+    <string name="a11y_favorite_button_remove_action">alih keluar produk daripada kegemaran anda</string>
+    <string name="a11y_favorite_button_sign_in_action">daftar masuk</string><!-- Installment Payments --> <!-- TODO move to a constants file --><string name="quad_pay" translatable="false">QuadPay</string>
+    <string name="after_pay" translatable="false">AfterPay</string>
+    <string name="klarna" translatable="false">Klarna</string>
+    <string name="affirm" translatable="false">Affirm</string>
+    <string name="sezzle" translatable="false">Sezzle</string>
+    <string name="installment_provider_text">&quot;Beli sekarang, bayar kemudian.
+%d pembayaran tanda faedah sebanyak %s&quot;</string><!--Main--><string name="cart_icon">Ikon troli</string>
+    <string name="menu_background">Latar belakang menu</string>
+    <string name="sure_log_out">Adakah anda pasti anda ingin mengelog keluar daripada aplikasi?</string>
+    <string name="my_account">Akaun saya</string>
+    <string name="install">Pasang</string>
+    <string name="video_placeholder">Ruang letak video</string>
+    <string name="exit_preview">Keluar Daripada Pratonton</string>
+    <string name="a11y_navigation_icon">Menu</string>
+
+    <string name="a11y_video_block_product_destination">Video. Dwiketik untuk membuka produk.</string>
+    <string name="a11y_video_block_collection_destination">Video. Dwiketik untuk membuka koleksi %s.</string>
+    <string name="a11y_video_block_webpage_destination">Video. Dwiketik untuk membuka halaman web.</string>
+    <string name="a11y_video_block">Video</string>
+    <string name="a11y_image_block_product_destination">Imej. Dwiketik untuk membuka produk.</string>
+    <string name="a11y_image_block_collection_destination">Imej. Dwiketik untuk membuka koleksi %s.</string>
+    <string name="a11y_image_block_webpage_destination">Imej. Dwiketik untuk membuka halaman web.</string>
+    <string name="a11y_image_block">Imej</string><!--  Read with an accessibility action, e.g. "Double-tap to [action]"  --><string name="a11y_image_block_action_open_webpage">buka halaman web</string>
+    <string name="a11y_image_block_action_open_collection">buka koleksi</string><!--Search--><string name="barcode_scanner">Imbas kod bar</string>
+    <string name="photo_search_button">Muat Naik Foto</string>
+    <string name="search_no_results_description">Kami tidak menemui
+item yang anda cari.</string>
+    <string name="search_products">Cari produk</string>
+    <string name="popular_searches">Carian Popular</string>
+    <string name="trending_searches">Carian Yang Popular Pada Masa Ini</string><!--Order--><string name="order_description_placeholder">Ruang letak perihalan pesanan</string>
+    <string name="order_total_placeholder">$99.99</string>
+    <string name="order_days_placeholder">17 hari yang lalu</string>
+    <plurals name="order_quantity_count">
+        <item quantity="one">dan %d item lain</item>
+        <item quantity="other">dan %d item lain</item>
+    </plurals>
+    <string name="order">Pesanan</string>
+    <string name="you_have_no_orders">Anda tidak mempunyai pesanan</string>
+    <string name="check_back">Semak semula selepas anda membuat pesanan pertama anda</string>
+    <string name="processing">Sedang memproses</string><!--ProductDetails--><string name="keep_track">JEJAKI KEGEMARAN ANDA</string>
+    <string name="create_account_to_save_favorites">Cipta akaun %1$s untuk menyimpan dan menjejaki semua item kegemaran anda.</string>
+    <string name="sign_in_to_save_favorites">Daftar masuk ke akaun %1$s anda untuk menyimpan dan menjejaki semua item kegemaran anda.</string>
+    <string name="create_account_or_sign_in">Cipta akaun atau daftar masuk</string>
+    <string name="reviews">Ulasan</string>
+    <string name="verified_icon">Ikon yang disahkan</string>
+    <string name="you_may_also_like">Anda juga mungkin menyukai</string>
+    <string name="first_to_write_review">Jadilah orang pertama yang menulis ulasan</string>
+    <string name="uber_chic_checkout_already_created_message">Harap maaf, anda tidak boleh menambahkan produk ke troli selepas semak keluar dicipta</string>
+    <string name="view_all_reviews">Lihat semua
+ulasan</string>
+    <string name="something_went_wrong">Op, ada sesuatu yang tidak kena telah berlaku.</string>
+    <string name="notify_when_available">Beritahu saya apabila tersedia</string>
+    <string name="notify_when_available_confirmation">Setelah item ada stok semula, kami akan memberitahu anda.</string>
+    <string name="final_sale">Jualan Akhir</string>
+    <string name="clearance_tag">Jualan Perabis</string>
+    <string name="plus">Besar</string>
+    <string name="misses">Sederhana</string>
+    <string name="petite">Kecil</string>
+    <string name="select_size_range">Pilih julat saiz:</string>
+    <string name="parenthesis">(%s)</string>
+    <string name="shop_similar">Beli Yang Sama</string>
+    <string name="installment_provider_logo_content_desc">Logo Penyedia Ansuran</string>
+    <string name="product_video">Video Produk</string>
+    <string name="color">Warna</string>
+    <string name="video_banner_play_button_content_desc">Butang main</string>
+    <string name="become_a_subscriber">Jadi pelanggan</string>
+    <string name="become_a_subscriber_and_save">Jadi pelanggan &amp; simpan %d%%</string>
+    <string name="select">Pilih</string>
+    <string name="select_something">Pilih %s</string>
+    <string name="size_range">Julat Saiz</string>
+    <string name="initial_time" translatable="false">00:00</string>
+    <string name="a11y_play">Main</string>
+    <string name="a11y_pause">Jeda</string>
+    <string name="a11y_enter_fullscreen">Masukkan skrin penuh</string>
+    <string name="a11y_exit_fullscreen">Keluar daripada skrin penuh</string>
+    <string name="share_product">Saya fikir anda mungkin suka ini! Cepat, kerana item ini mungkin akan laku keras!
+%s</string>
+    <string name="unavailable_product_message">Produk ini tidak lagi tersedia.</string>
+    <string name="a11y_variant_sold_out">%s. Tidak tersedia.</string><!--  Read with an accessibility action, e.g. "Double-tap to [action]"  --><string name="a11y_collapse_action">runtuhkan</string>
+    <string name="a11y_expand_action">kembangkan</string><!--StoreLocator--><string name="store_locator">Pencari Kedai</string>
+    <string name="list">Senarai</string>
+    <string name="map">Peta</string>
+    <string name="search_by_postal_code">Cari mengikut poskod</string>
+    <string name="no_results_description">Kami tidak dapat menemukan kedai di dalam poskod tersebut</string>
+    <string name="temporarily_closed">Tutup Buat Sementara Waktu</string>
+    <string name="store_hours">Waktu Kedai</string>
+    <string name="a11y_edit_store">Sunting Kedai</string><!--  Read with an accessibility action, e.g. "Double-tap to [action]"  --><string name="a11y_favorite_store_button_add_action">tetapkan kedai ini sebagai kegemaran anda</string>
+    <string name="a11y_favorite_store_button_remove_action">alih keluar kedai ini sebagai kegemaran anda</string><!--FourSixty--><string name="shop_our_instagram">Beli Instagram kami</string>
+    <string name="four_sixty_header_message">Lihat pakaian yang digayakan oleh orang lain di Instagram &amp; beli terus dari sini.</string>
+    <string name="four_sixty_see_it_instagram_header_message">Lihat di Instagram</string><!--Write a Review--><string name="write_a_review">Tulis Ulasan</string>
+    <string name="how_would_you_rate">Bagaimanakah anda menilai item ini?</string>
+    <string name="name">Nama</string>
+    <string name="title">Tajuk</string>
+    <string name="message">Mesej</string>
+    <string name="submit_review">Serah Ulasan</string>
+    <string name="empty_name_error">Sila masukkan nama anda.</string>
+    <string name="review_title_error">Sila berikan tajuk ulasan.</string>
+    <string name="review_title_success">Ulasan anda telah berjaya disiarkan!</string><!--Recharge--><string name="my_subscriptions">Langganan Saya</string>
+    <string name="manage_subscription_on_web">Urus langganan pada web</string>
+    <string name="recharge" translatable="false">Caj semula</string>
+    <string name="subscribe_and_save">&quot;Langgan &amp; simpan&quot;</string>
+    <string name="one_time_purchase">Pembelian Sekali</string>
+    <string name="subscribe_every">Langgan setiap %1$s</string>
+    <string name="save_percent">Simpan %1$d%%</string>
+    <string name="purchase_options">Pilihan Pembelian</string>
+    <string name="subscription_every">Langganan: Setiap %1$d %2$s</string>
+
+    <plurals name="rating_info">
+        <item quantity="one">%2$.2f | %1$d Ulasan</item>
+        <item quantity="other">%2$.2f | %1$d Ulasan</item>
+    </plurals><!-- Quick Add/Update --><string name="view"><u>Lihat</u></string>
+    <string name="select_your">Pilih %s anda</string>
+    <string name="quick_add_plus">+ Tambah Cepat</string>
+    <string name="update_cart">Kemas Kini Troli</string><!-- Onboarding --><string name="create_account">Cipta akaun</string>
+    <string name="skip">Langkau</string>
+    <string name="title_onboarding">Penyertaan</string><!-- Notifications--><string name="no_notifications_title">Tiada pemberitahuan</string>
+    <string name="no_notifications_message">Tiada pemberitahuan
+untuk ditunjukkan ketika ini</string>
+    <string name="notifications_error">Ada sesuatu yang tidak kena telah berlaku. Sila cuba sebentar lagi.</string>
+
+    <string name="title_test">Uji Tajuk</string>
+    <string name="title_shoppableinstagram">Instagram Boleh Dibeli</string>
+    <string name="title_search">Carian</string>
+    <string name="title_notifications">Pemberitahuan</string><!--Countdown Timer block --><string name="countdown_timer_number_format">%02d</string><!--QuadPay--><string name="quad_pay_eligible_message">Beli sekarang, bayar kemudian.
+%1$d pembayaran tanpa faedah sebanyak %2$s</string>
+    <string name="quad_pay_ineligible_message">%1$d pembayaran tanpa faedah untuk pesanan melebihi $%2$s</string><!--My Rewards--><string name="title_loyalty">Kesetiaan</string>
+    <string name="about">Perihal</string>
+    <string name="loyalty_rewards">Ganjaran Kesetiaan</string>
+    <plurals name="your_balance">
+        <item quantity="one">Baki Anda: &lt;b&gt;%,d mata&lt;/b&gt;</item>
+        <item quantity="other">Baki Anda: &lt;b&gt;%,d mata&lt;/b&gt;</item>
+    </plurals>
+    <plurals name="tier_level">
+        <item quantity="one">%d daripada %d peringkat</item>
+        <item quantity="other">%d daripada %d peringkat</item>
+    </plurals>
+    <string name="number_with_comma">%,d</string>
+    <string name="of_progress">daripada %,d</string>
+    <string name="tier">%s Peringkat</string>
+    <string name="ways_to_earn_extra">Cara untuk Memperoleh Ekstra</string>
+    <string name="view_more_underlined">&lt;u&gt;Lihat selanjutnya&lt;/u&gt;</string>
+    <string name="close_underlined">&lt;u&gt;Tutup&lt;/u&gt;</string>
+    <string name="a11y_close">Tutup</string>
+    <string name="a11y_back">Kembali</string>
+    <string name="share_with_friends">Kongsi dengan Rakan</string><!--My Rewards Dialog--><string name="my_rewards">Ganjaran Saya</string>
+    <string name="my_rewards_all_caps">GANJARAN SAYA</string>
+    <string name="choose_reward">Pilih Ganjaran</string>
+    <string name="choose_a_reward">Pilih ganjaran:</string>
+    <string name="redeem_reward">Tebus Ganjaran</string>
+    <string name="remove">Alih keluar</string>
+    <string name="points">%d mata</string>
+    <string name="points_non_reversible">*Mata yang digunakan untuk menebus ganjaran tidak boleh ditukar.</string>
+    <string name="redeem_points_for_discount">Tebus mata untuk diskaun.</string>
+    <string name="banner_reward_applied">&lt;b&gt;%s Digunakan&lt;/b&gt; - Kod: %s</string>
+    <string name="unclaimed">Tidak dituntut:</string>
+    <string name="reward_code_invalid">Kod ganjaran tidak sah.</string>
+    <string name="reward_has_zero_balance">Ganjaran tidak mempunyai baki.</string>
+    <string name="reward_is_expired">Ganjaran telah tamat tempoh.</string>
+    <string name="reward_code_not_found">Kod ganjaran tidak ditemui.</string>
+    <string name="reward_already_redeemed">Ganjaran anda telah ditebus.</string>
+    <string name="cannot_apply_reward">Tidak boleh menggunakan ganjaran.</string>
+    <string name="cannot_apply_multiple_gift_cards">Berbilang kad hadiah tidak boleh digunakan.</string>
+    <string name="reward_is_disabled">Ganjaran dinyahdayakan. Cuba lagi kemudian.</string>
+    <string name="no_rewards_available">Tiada ganjaran yang tersedia</string>
+    <string name="setting_up_loyalty">Menyediakan akaun kesetiaan anda...</string>
+    <string name="discount_not_applicable_error">Diskaun tidak dapat digunakan untuk item dalam troli anda.</string><!--Subscriptions--><string name="title_subscriptions">Langganan</string>
+    <string name="active">Aktif</string>
+    <string name="inactive">Tidak Aktif</string>
+    <string name="next_billing_date">Tarikh Pengebilan Seterusnya: %1$s</string>
+    <string name="skipped_order">Pesanan Yang Dilangkau: %1$s</string>
+    <string name="subscription_inactive">Langganan Tidak Aktif</string>
+    <string name="no_subscriptions">Tiada langganan</string>
+    <string name="no_subscriptions_yet">Anda belum lagi mencipta sebarang
+langganan</string><!--Subscription Details--><string name="subscription_details">Butiran Langganan</string>
+    <string name="frequency">Kekerapan</string>
+    <string name="delivered_every">Setiap %1$s</string>
+    <string name="reactivate_subscription">Aktifkan Semula Langganan</string>
+    <string name="save_changes">Simpan Perubahan</string>
+    <string name="select_a_frequency">Pilih kekerapan</string>
+    <string name="select_a_quantity">Pilih kuantiti</string>
+    <string name="every">Setiap %1$d %2$s</string>
+    <string name="skip_next_charge">Langkau Caj Seterusnya</string>
+    <string name="unskip_next_charge">Nyahlangkau Caj Seterusnya</string>
+    <string name="deactivate_subscription">Nyahaktifkan Langganan</string>
+    <string name="subscription_updated_message">Kami telah mengemas kini langganan anda</string>
+    <string name="a11y_change_quantity">Tukar Kuantiti</string>
+
+    <plurals name="day_interval">
+        <item quantity="one">%1$d hari</item>
+        <item quantity="other">%1$d hari</item>
+    </plurals>
+    <plurals name="week_interval">
+        <item quantity="one">%1$d minggu</item>
+        <item quantity="other">%1$d minggu</item>
+    </plurals>
+    <plurals name="month_interval">
+        <item quantity="one">%1$d bulan</item>
+        <item quantity="other">%1$d bulan</item>
+    </plurals><!--Reactivate Subscription--><string name="reactivate_subscription_title">Aktifkan Semula Langganan</string>
+    <string name="reactivate_subscription_message">Anda akan dicaj pada tarikh pengebilan anda yang seterusnya.</string>
+    <string name="confirm">Sahkan</string><!--Deactivate Subscription--><string name="deactivate_subscription_title">Nyahaktifkan Langganan</string>
+    <string name="deactivate_subscription_message">Adakah anda pasti anda ingin menyahaktifkan langganan anda?</string>
+    <string name="deactivate">Nyahaktif</string><!--Skip Charge--><string name="skip_charge_title">Langkau Perubahan</string>
+    <string name="skip_charge_message">Adakah anda pasti anda ingin melangkau tarikh langganan yang seterusnya?</string>
+    <string name="skip_charge">Langkau</string><!--Unskip Charge--><string name="unskip_charge_title">Nyahlangkau Caj</string>
+    <string name="unskip_charge_message">Adakah anda pasti anda ingin menyahlangkau tarikh langganan yang seterusnya?</string>
+    <string name="unskip_charge">Nyahlangkau</string><!--Leave Subscription Unsaved--><string name="leave_unsaved_message">Adakah anda pasti anda mahu pergi? Semua perubahan yang tidak disimpan akan dibuang.</string>
+    <string name="leave">Pergi</string><!--Recharge Errors--><string name="auth_error_message">Op! Terdapat ralat pengesahan</string>
+    <string name="parse_error_message">Op! Terdapat ralat semasa melengkapkan tugasan</string><!--Subscription Address--><string name="select_address">Pilih Alamat</string>
+    <string name="edit_address">Sunting Alamat</string>
+    <string name="deliver_to_address">Hantar Ke Alamat Ini</string><!--Abandoned Items--><string name="finish_checkout">Selesaikan Semak Keluar</string>
+    <string name="view_cart">Lihat Troli</string>
+    <string name="abandoned_checkout_title">Sambung di tempat anda berhenti!
+Lengkapkan pesanan anda sekarang.</string>
+    <string name="abandoned_cart_title">Anda terlupa item ini dalam troli anda.
+Semak keluar sekarang sebelum habis.</string>
+
+    <plurals name="extra_items_message">
+        <item quantity="one">&quot;+ %1$d produk lain&quot;</item>
+        <item quantity="other">&quot;+ %1$d produk lain&quot;</item>
+    </plurals>
+    <string name="title_address">Alamat</string><!-- Photo Search --><string name="take_photo">Ambil Foto</string>
+    <string name="select_photo">Pilih Foto</string>
+    <string name="photo_search_toolbar">Carian Imej</string>
+    <string name="photo_search_description">Anda kini boleh membuat carian dengan mengambil gambar. Atau memuat naik gambar, memilih item di dalamnya dan mula membeli-belah!</string>
+    <string name="photo_search_feed_description">Tidak mempunyai foto? Cuba satu daripada suapan sosial kami</string>
+    <string name="replace_image">Gantikan Imej</string>
+
+    <string name="photo_search_sort_label" translatable="false">@string/sort</string>
+    <string name="photo_search_sort_best_match">Padanan terbaik</string>
+    <string name="photo_search_sort_price_high_low" translatable="false">@string/price_high_to_low</string>
+    <string name="photo_search_sort_price_low_high" translatable="false">@string/price_low_to_high</string><!-- Multicurrency --><string name="change_currency">Tukar Mata Wang</string>
+    <string name="change_currency_msg">Ini akan memuatkan aplikasi anda dan harga kini akan ditunjukkan dalam mata wang %s.</string>
+    <string name="add_to_list_failed">Gagal menambahkan item ke senarai hajat</string>
+    <string name="failed_to_remove_wishlist_item">Gagal mengalih keluar produk daripada senarai hajat</string>
+    <string name="default_wishlist_name">Senarai Hajat Saya</string>
+
+</resources>

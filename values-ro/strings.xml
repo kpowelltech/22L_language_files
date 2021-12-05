@@ -1,0 +1,511 @@
+<resources>
+    <string name="underscore" translatable="false">_</string>
+    <string name="item_price_placeholder">Preț unitar</string>
+    <string name="options">Opțiuni</string>
+    <string name="search">Căutați</string>
+    <string name="item_name_placeholder">Denumire articol</string>
+    <string name="product_image">Imaginea produsului</string>
+    <string name="collection_title_placeholder">Titlul colecției</string>
+    <string name="view_collection">Vizualizare colecție</string>
+    <string name="collection_name_placeholder">Numele colecției</string>
+    <string name="view_all">Vezi tot</string>
+    <string name="collection_image">Imaginea colecției</string>
+    <string name="shop_now">Cumpărați acum</string>
+    <string name="ratting_count_placeholder">(999)</string>
+    <string name="add_to_bag">ADĂUGAȚI ÎN COȘ</string>
+    <string name="add_to_cart">ADĂUGAȚI ÎN COȘ</string>
+    <string name="share">Distribuie</string>
+    <string name="app_logo">Logo-ul aplicației</string>
+    <string name="items_count_placeholder">Numărul de articole</string>
+    <string name="remove_item">elimină articol</string>
+    <string name="subtotal">Subtotal</string>
+    <plurals name="cart_items_count">
+        <item quantity="one">%d articol</item>
+        <item quantity="other">%d articole</item>
+    </plurals>
+    <string name="my_bag">COȘUL MEU</string>
+    <string name="my_cart">COȘUL MEU</string>
+    <string name="splash_background">Imagine de fundal</string>
+    <string name="cancel">Anulare</string>
+    <string name="elapsed_time">acum %1$d %2$s&quot;</string>
+    <string name="value_currency">%1$s %2$s&quot;</string>
+    <string name="card_masked">•••• •••• •••• %1$s&quot;</string>
+    <string name="just_now">Acum câteva momente</string>
+
+    <plurals name="year">
+        <item quantity="one">an</item>
+        <item quantity="other">ani</item>
+    </plurals>
+
+    <plurals name="month">
+        <item quantity="one">lună</item>
+        <item quantity="other">luni</item>
+    </plurals>
+
+    <plurals name="day">
+        <item quantity="one">zi</item>
+        <item quantity="other">zile</item>
+    </plurals>
+
+    <plurals name="hour">
+        <item quantity="one">oră</item>
+        <item quantity="other">ore</item>
+    </plurals>
+
+    <plurals name="minute">
+        <item quantity="one">minut</item>
+        <item quantity="other">minute</item>
+    </plurals>
+
+    <plurals name="second">
+        <item quantity="one">secundă</item>
+        <item quantity="other">secunde</item>
+    </plurals>
+
+    <plurals name="week">
+        <item quantity="one">săptămână</item>
+        <item quantity="other">săptămâni</item>
+    </plurals>
+
+    <string name="size_guide">Ghid de măsuri</string>
+    <string name="shipping_info">Informații privind expedierea</string>
+    <string name="description">Descriere</string>
+    <string name="collections">Colecții</string>
+    <string name="your_order_is_complete">Comanda dvs. este finalizată!</string>
+    <string name="web_checkout_confirmation_message">Ți-a fost trimis un e-mail de confirmare</string>
+    <string name="email_placeholder">test@test.com</string>
+    <string name="keep_shopping">Continuați cumpărăturile</string>
+    <string name="ship_box">cutia de expediere</string>
+    <string name="no_internet">Vă rugăm să verificați conexiunea la internet</string>
+    <string name="checkout">Finalizarea comenzii</string>
+    <string name="three_d_secure_authentication">Autentificare securizată 3D</string>
+    <string name="discount">Reducere</string>
+    <string name="review_your_order">Revizuiți comanda</string>
+    <string name="google_pay_error">Eroare Google Pay</string>
+    <string name="failed_to_process_payment_title">Eroare de procesare a plății</string>
+    <string name="failed_to_process_payment">Eroare de procesare a plății, încercați din nou mai târziu.</string>
+    <string name="arrow">săgeată</string>
+    <string name="menu_item">element din meniu</string>
+    <string name="logo">logo</string>
+    <string name="not_implemented">NEIMPLEMENTAT</string>
+    <string name="sold_out">Epuizat</string>
+    <string name="coming_soon">În curând</string>
+    <string name="email_address">Adresa de email</string>
+    <string name="password">Parola</string>
+    <string name="email_error_message">Vă rugăm să furnizați o adresă de e-mail înainte de a continua.</string>
+    <string name="password_error_message">Parola nu poate fi goală.</string>
+    <string name="login_error">Eroare de autentificare</string>
+    <string name="error">Eroare</string>
+    <string name="no_results">Niciun rezultat</string>
+    <string name="urban_planet_marker">Urban Planet Marker</string>
+    <string name="try_again_error">Vă rugăm să încercați din nou.</string>
+    <string name="store_credit">Retururi: Credit de magazin</string>
+    <string name="fraud_prevention">Prevenirea fraudei</string>
+    <string name="store_credit_title">Credit de magazin</string>
+    <string name="return_policy_title">Politica de returnare</string>
+    <string name="store_credit_text">Cu excepții limitate, returnările valide sunt rambursate sub formă de credit de magazin. Articolele deteriorate / defecte vor fi schimbate dacă sunt în stoc. Toate creditele din magazin, rambursările și / sau schimburile în așteptare vor fi emise în termen de 3 până la 5 zile lucrătoare de la procesarea returnării. Toate articolele cu prețuri care se termină cu \$.00, .96, .97 și .98 sunt vânzari finale și nu pot fi returnate pentru credit în magazin. Puteți găsi informații suplimentare despre politica noastră de returnare</string>
+    <string name="store_credit_text_hyperlink">AICI</string>
+    <string name="slash" translatable="false">/</string>
+    <string name="free_gift">Cadou gratuit</string>
+    <string name="a11y_original_and_discounted_price">Prețul inițial %1$s, prețul de vânzare %2$s</string><!--Account--><string name="account">Cont</string>
+    <string name="sign_in">Conectare</string>
+    <string name="create_an_account">Creează un cont</string>
+    <string name="already_have_an_account">Aveți deja un cont?</string>
+    <string name="log_in">Autentificare</string>
+    <string name="log_in_to_account">Autentificare în cont</string>
+    <string name="create_a_new_account">Creează un cont nou</string>
+    <string name="full_nme">Numele complet</string>
+    <string name="sign_up">Înregistrează-te</string>
+    <string name="name_error_message">Vă rugăm să introduceți numele dvs. complet înainte de a continua.</string>
+    <string name="sign_up_error">Eroare de înregistrare</string>
+    <string name="no_address">Nicio adresă disponibilă</string>
+    <string name="my_orders">Comenzile mele</string>
+    <string name="orders">Comenzi</string>
+    <string name="hi_user">Salut, %s.</string>
+    <string name="favorites">Favorite</string>
+    <string name="start_browsing">Începeți să navigați pentru a vizualiza aici articolele</string>
+    <string name="recently_viewed">Vizualizate recent</string>
+    <string name="first_name_empty_error">Prenumele nu poate fi gol.</string>
+    <string name="last_name_empty_error">Numele de familie nu poate fi gol.</string>
+    <string name="first_name">Prenumele</string>
+    <string name="last_name">Numele de familie</string>
+    <string name="forgot_password">Ați uitat parola?</string>
+    <string name="forgot_password_dialog_message">Ați uitat parola? Vă vom trimite un link de resetare.</string>
+    <string name="send_reset_password_link">Trimite linkul</string>
+    <string name="change_password_error">Eroare la schimbarea parolei</string>
+    <string name="reset_password_email_sended">Parola a fost resetată. Vă rugăm să vă verificați email-ul.</string>
+    <string name="underlined_create_account"><u>Creați cont</u></string>
+    <string name="default_error_message">Hopa, a apărut o eroare. Vă rugăm să încercați din nou mai târziu.</string>
+    <string name="incorrect_email_or_password">Adresă de e-mail sau parolă incorecte.</string>
+    <string name="dont_have_an_account">Nu aveți un cont?</string>
+    <string name="log_out">Deconectare</string><!--Cart--><string name="add_item">adaugă element</string>
+    <string name="enter_discount_code">Introduceți codul de reducere</string>
+    <string name="enter_gift_card">Introduceți numărul cardului cadou</string>
+    <string name="apply_discount">Aplicați reducere</string>
+    <string name="applied_discount_code">Cod: %1$s 🔥</string>
+    <string name="applied_gift_card">•••• %s 🎁</string>
+    <string name="continue_shopping">Continuați cumparaturile</string>
+    <string name="start_shopping">Începeți să cumpărați</string>
+    <string name="empty_cart">cărucior gol</string>
+    <string name="empty_cart_message">Nu aveți articole în coș în acest moment</string>
+    <string name="your_cart_is_empty">Coșul dvs. este gol</string>
+    <string name="apply_gift_card">Aplicați cardul cadou</string>
+    <string name="dialog_background_image">Imagine de fundal pentru dialog</string>
+    <string name="discount_error_title">Cod de reducere nevalid</string>
+    <string name="variant_not_available">Unele articole nu mai sunt disponibile, iar coșul dvs. a fost actualizat.</string>
+    <string name="gift_card_error_title">Card cadou nevalid</string>
+    <string name="something_went_wrong_try_again">A apărut o eroare. Vă rugăm să încercați din nou.</string>
+    <string name="credit_card">Card de credit</string>
+    <string name="paypal">PayPal</string>
+    <string name="amazon_pay">Amazon Pay</string>
+    <string name="google_pay">Google Pay</string>
+    <string name="pay_with">Plătește cu</string>
+    <string name="ship_to_me_title">Livrează la adresa mea</string>
+    <string name="ship_to_me_message">Obțineți-l rapid la orice adresă</string>
+    <string name="ship_to_store_title">Livrează în magazin</string>
+    <string name="ship_to_store_message">Alegeți de unde să ridicați</string>
+    <string name="reach_max_cart_line_items_error_message">Depășește limita de% s, vă rugăm să eliminați articol(e) din coș.</string>
+    <string name="discount_error_not_applied_to_items">Reducerea nu se aplică articolelor din coșul dvs.</string>
+    <string name="no_internet_connection">Fără conexiune la internet</string>
+    <string name="generic_checkout_creation_error">A apărut o eroare la finalizarea comenzii</string>
+    <string name="throttle_failure">Ne pare rău, finalizarea comenzii nu a reușit. Vă rugăm să încercați din nou.</string>
+    <string name="dont_leave_page_queue_message">Nu părăsiți pagina sau vă veți pierde poziția!</string>
+    <string name="thank_you_queue_message">Vă mulțumim mult pentru răbdare! Mai durează doar câteva momente!</string>
+    <string name="discount_error_not_found">Nu se poate găsi o reducere validă care să se potrivească codului introdus</string>
+    <string name="discount_error_general">Reducerea nu s-a aplicat. Vă rugăm să încercați din nou.</string>
+    <string name="add_items_from_favorites">Adăugare articole din favorite</string>
+    <string name="add_my_favorite_items">Adăugați articolele mele preferate?</string>
+    <string name="error_add_favorite_items_cart">Ne pare rău, a apărut o problemă la adăugarea unor articole în coș.</string>
+    <string name="product_is_sold_out_error">Ne pare rău, produsul este epuizat.</string>
+    <string name="cart_update_error_title">Imposibil de actualizat coșul de cumpărături</string>
+    <string name="cart_update_error_discount">Codul de reducere a fost eliminat din cauza unei probleme. Vă rugăm să încercați să îl adăugați din nou.</string>
+    <string name="cart_update_error_gift_card">Cardul dumneavoastră cadou a fost eliminat din cauza unei probleme. Vă rugăm să încercați să îl adăugați din nou.</string><!--Checkout--><string name="gift_card">Card cadou</string>
+    <string name="duties">Taxe vamale</string>
+    <string name="shipping">Costuri de livrare</string>
+    <string name="tax">Taxe și impozite</string>
+    <string name="total">Total</string>
+    <string name="submit_order">Trimite comanda</string>
+    <string name="complete_order">Finalizează comanda</string>
+    <string name="continue_to_payment">Continuați cu plata</string>
+    <string name="signed_in_as">„Conectat ca ”</string>
+    <string name="already_have_account">Aveți deja un cont?</string>
+    <string name="underlined_sign_in"><u>Conectare</u></string>
+    <string name="underlined_sign_in_sentence"><u>Conectare.</u></string>
+    <string name="checkout_as_guest">Sau finalizați comanda ca utilizator neînregistrat</string>
+    <string name="add">Adăugați</string>
+    <string name="add_shipping_info">Adăugați adresa de expediere</string>
+    <string name="add_billing_address">Adăugați adresa de facturare</string>
+    <string name="add_payment_info">Adăugați informații de plată</string>
+    <string name="free">Gratuit</string>
+    <string name="order_note">Notă: %1$s</string>
+    <string name="summary">Rezumat</string>
+    <string name="minus">-%1$s</string>
+    <string name="payment">Plată</string>
+    <string name="add_payment">Adăugați o plată</string>
+    <string name="billing_address">Adresa de facturare este aceeași cu adresa de expediere</string>
+    <string name="shipping_method">Metodă de livrare</string>
+    <string name="ship_to_store">Livrează în magazin</string>
+    <string name="in_store_pickup">Ridicare din magazin</string>
+    <string name="pick_up_here">Ridicați de aici</string>
+    <string name="update_shopping_cart">Actualizați coșul de cumpărături</string>
+    <string name="update_shipping_address">Actualizați adresa de expediere</string><!-- Contact Sharing--><string name="contact_sharing">Împărtășiți cu prietenii</string>
+    <string name="module_title">Recomandare</string>
+    <string name="contact_sharing_cta_contacts">Invitați din lista mea de contacte</string>
+    <string name="contact_sharing_cta_invite">Distribuiți invitația</string>
+    <string name="contact_sharing_description_placeholder">Vom trimite un card cadou de 20$ când vor face o achiziție. Folosiți lista de contacte pentru a recomanda prietenilor.</string>
+    <string name="contact_sharing_permission_denied">Accesul la contactele dispozitivului este necesar pentru a continua. Vă rugăm să furnizați acces la contacte în setările dispozitivului.</string><!--Credit Card--><string name="empty_card_error">„Vă rugăm să introduceți numărul cardului dvs. de credit.”</string>
+    <string name="invalid_card_error">„Numărul cardului de credit nu este valid.”</string>
+    <string name="scan_your_card">Scanați cardul</string><!--Notes--><string name="add_order_notes">Adăugați note la comandă</string>
+    <string name="gift_cart_or_delivery_date_notes">Mesajul cardului cadou | Data de livrare dorită</string>
+    <string name="add_notes">Adăugați note</string>
+    <string name="notes_hint">Scrieți o notă la comanda dvs.</string>
+    <string name="update_notes_error">Eroare la actualizarea notelor</string><!--Address--><string name="billing">Facturare</string>
+    <string name="email">E-mail</string>
+    <string name="new_address">Adresă nouă</string>
+    <string name="add_new_address">Adaugă adresă nouă</string>
+    <string name="update_address">Actualizați adresa</string>
+    <string name="phone_number">Număr de telefon</string>
+    <string name="full_name">Numele complet</string>
+    <string name="street_address">Strada</string>
+    <string name="unit">Unitate (opțional)</string>
+    <string name="city">Orașul</string>
+    <string name="postal_code">Codul poștal</string>
+    <string name="state">Statul</string>
+    <string name="province">Provincia</string>
+    <string name="country">Țara</string>
+    <string name="save_address">Salvați adresa</string>
+    <string name="empty_email_error">Vă rugăm să introduceți adresa dvs. de e-mail.</string>
+    <string name="invalid_email_error">Vă rugăm să introduceți o adresă de e-mail validă.</string>
+    <string name="phone_error">Vă rugăm să introduceți numărul dvs. de telefon.</string>
+    <string name="empty_full_name_error">Vă rugăm să introduceți numele dvs. complet.</string>
+    <string name="full_name_error">Vă rugăm să completați numele și prenumele.</string>
+    <string name="empty_address_error">Vă rugăm să vă completați adresa.</string>
+    <string name="empty_city_error">Vă rugăm să introduceți orașul.</string>
+    <string name="empty_zip_error">Vă rugăm să introduceți codul dvs. poștal.</string>
+    <string name="empty_state_error">Vă rugăm să introduceți statul dvs.</string>
+    <string name="restricted_shipping_country_error">Ne pare rău, aveți în coș articole care nu pot fi expediate în afara Statelor Unite</string>
+    <string name="does_not_ship_to_country_error">Ne pare rău, nu expediem în țara specificată.</string>
+    <string name="empty_country_error">Vă rugăm să introduceți țara dvs.</string>
+    <string name="unknown_country_error">Nu s-a putut identifica țara selectată.</string>
+    <string name="update_address_error">Nu s-a putut salva adresa.</string>
+    <string name="empty_phone_error">„Vă rugăm să introduceți numărul de telefon în formularul de expediere.”</string>
+    <string name="beauty_items_error">Articolele de cosmetică din coș pot fi expediate numai în SUA sau Canada. Pentru a finaliza comanda, vă rugăm să eliminați articolele de cosmetică din coș sau să actualizați adresa de expediere.</string>
+    <string name="a11y_selected">Selectat(e)</string>
+    <string name="a11y_unselected">Neselectat(e)</string><!--Processing--><string name="processing_title">Aveți puțină răbdare. Vă procesăm comanda.</string>
+    <string name="processing_subtitle">Acest lucru ar putea dura câteva secunde.</string>
+    <string name="out_of_stock_title">Nu avem suficiente dintre articolele solicitate de dvs.</string>
+    <string name="out_of_stock_subtitle">Am actualizat cantitățile pentru articolele de mai jos. Vă rugăm să examinați coșul de cumpărături pentru a continua.</string>
+    <string name="checkout_completed_title">Ați terminat! Vă mulțumim pentru comanda dvs.</string>
+    <string name="checkout_completed_message">Ar trebui să primiți o confirmare prin e-mail în scurt timp</string>
+    <string name="review_cart">Revedeți coșul</string>
+    <string name="processing_checkout_error">„A apărut o problemă la finalizarea comenzii dvs. Vă rugăm să încercați din nou.&quot;</string><!--Collection--><string name="sort">Ordonați</string>
+    <string name="recommended">Recomandate</string>
+    <string name="whats_new">Noutăți</string>
+    <string name="best_selling">Cele mai bine vândute</string>
+    <string name="price_low_to_high">Preț: Crescător</string>
+    <string name="price_high_to_low">Preț: Descrescător</string>
+    <string name="filter">Filtrați</string>
+    <string name="apply">Aplicați</string>
+    <string name="clear">Ștergeți</string>
+    <string name="error_get_filter">Nu s-au putut prelua filtrele</string>
+    <string name="update_wish_list_error_dialog_message">Actualizarea listei de dorințe nu a reușit. Vă rugăm să încercați din nou în curând.</string>
+    <string name="reach_max_favorites_error_message">Depășește limita de% s, vă rugăm să eliminați articole din lista de dorințe.</string>
+    <string name="empty_state_collection_title">NICIUN PRODUS</string>
+    <string name="empty_state_collection_message">Nu am reușit să localizăm produse din această colecție</string>
+    <string name="unavailable_collection_message">Această colecție nu mai este disponibilă.</string><!--Favorite--><string name="my_wishlist">Lista mea de dorințe</string>
+    <string name="my_wishlists">Listele mele de dorințe</string>
+    <string name="my_favorites">Preferatele mele</string>
+    <string name="empty_wish_list">Lista mea de preferate este goală</string>
+    <string name="favorite_header">Distribuiți-vă preferințele</string>
+    <string name="share_wish_list">Vedeți preferințele mele %1$s!</string>
+    <string name="a11y_favorite_button_label">Butonul Favorite</string><!--  Read with an accessibility action, e.g. "Double-tap to [action]"  --><string name="a11y_favorite_button_add_action">adăugați produsul la preferatele dvs.</string>
+    <string name="a11y_favorite_button_remove_action">eliminați produsul din preferatele dvs.</string>
+    <string name="a11y_favorite_button_sign_in_action">conectare</string><!-- Installment Payments --> <!-- TODO move to a constants file --><string name="quad_pay" translatable="false">QuadPay</string>
+    <string name="after_pay" translatable="false">AfterPay</string>
+    <string name="klarna" translatable="false">Klarna</string>
+    <string name="affirm" translatable="false">Affirm</string>
+    <string name="sezzle" translatable="false">Sezzle</string>
+    <string name="installment_provider_text">&quot;Cumpărați acum, plătiți mai târziu. Plăți fără dobândă %d de %s&quot;</string><!--Main--><string name="cart_icon">Pictograma coșului de cumpărături</string>
+    <string name="menu_background">Fundalul meniului</string>
+    <string name="sure_log_out">Sigur doriți să vă deconectați din aplicație?</string>
+    <string name="my_account">Contul meu</string>
+    <string name="install">Instalați</string>
+    <string name="video_placeholder">Substituent element video</string>
+    <string name="exit_preview">Ieșiți din previzualizare</string>
+    <string name="a11y_navigation_icon">Meniu</string>
+
+    <string name="a11y_video_block_product_destination">Video. Atingeți de două ori pentru a deschide produsul.</string>
+    <string name="a11y_video_block_collection_destination">Video. Atingeți de două ori pentru a deschide colecția %s.</string>
+    <string name="a11y_video_block_webpage_destination">Video. Atingeți de două ori pentru a deschide pagina web.</string>
+    <string name="a11y_video_block">Video</string>
+    <string name="a11y_image_block_product_destination">Imagine. Atingeți de două ori pentru a deschide produsul.</string>
+    <string name="a11y_image_block_collection_destination">Imagine. Atingeți de două ori pentru a deschide colecția %s.</string>
+    <string name="a11y_image_block_webpage_destination">Imagine. Atingeți de două ori pentru a deschide pagina web.</string>
+    <string name="a11y_image_block">Imagine</string><!--  Read with an accessibility action, e.g. "Double-tap to [action]"  --><string name="a11y_image_block_action_open_webpage">deschideți pagina web</string>
+    <string name="a11y_image_block_action_open_collection">deschideți colecția</string><!--Search--><string name="barcode_scanner">Scanați codul de bare</string>
+    <string name="photo_search_button">Încărcați fotografie</string>
+    <string name="search_no_results_description">Nu am reușit să găsim articolul pe care îl căutați.</string>
+    <string name="search_products">Căutați produse</string>
+    <string name="popular_searches">Căutări populare</string>
+    <string name="trending_searches">Căutări în tendințe</string><!--Order--><string name="order_description_placeholder">Substituent de descriere a comenzii</string>
+    <string name="order_total_placeholder">$99.99</string>
+    <string name="order_days_placeholder">Acum 17 zile</string>
+    <plurals name="order_quantity_count">
+        <item quantity="one">și %d alt articol</item>
+        <item quantity="other">și %d alte articole</item>
+    </plurals>
+    <string name="order">Comandă</string>
+    <string name="you_have_no_orders">Nu aveți nicio comandă</string>
+    <string name="check_back">Reveniți după ce ați făcut prima comandă</string>
+    <string name="processing">Se procesează</string><!--ProductDetails--><string name="keep_track">URMĂRIȚI FAVORITELE DVS.</string>
+    <string name="create_account_to_save_favorites">Creați un cont %1$s pentru a salva și urmări toate articolele dvs. preferate.</string>
+    <string name="sign_in_to_save_favorites">Conectați-vă la contul dvs. %1$s pentru a salva și urmări toate articolele preferate.</string>
+    <string name="create_account_or_sign_in">Creați cont sau conectați-vă</string>
+    <string name="reviews">Recenzii</string>
+    <string name="verified_icon">Pictogramă verificată</string>
+    <string name="you_may_also_like">Ați putea aprecia și</string>
+    <string name="first_to_write_review">Fiți primul care scrie o recenzie</string>
+    <string name="uber_chic_checkout_already_created_message">Ne pare rău, nu puteți adăuga produsul în coș după ce a fost deja finalizată comanda</string>
+    <string name="view_all_reviews">Vizualizați toate recenziile</string>
+    <string name="something_went_wrong">Ah! Ceva a mers prost.</string>
+    <string name="notify_when_available">Anunță-mă când este disponibil</string>
+    <string name="notify_when_available_confirmation">Odată ce articolul este înapoi pe stoc, vă vom notifica.</string>
+    <string name="final_sale">Vânzare finală</string>
+    <string name="clearance_tag">La reducere</string>
+    <string name="plus">Plus</string>
+    <string name="misses">Doamne</string>
+    <string name="petite">Mic</string>
+    <string name="select_size_range">Selectați gama de mărimi:</string>
+    <string name="parenthesis">(%s)</string>
+    <string name="shop_similar">Cumpărați articole similare</string>
+    <string name="installment_provider_logo_content_desc">Sigla instituției care asigură plata în rate</string>
+    <string name="product_video">Video privind produsul</string>
+    <string name="color">Culoare</string>
+    <string name="video_banner_play_button_content_desc">Buton de redare</string>
+    <string name="become_a_subscriber">Deveniți abonat</string>
+    <string name="become_a_subscriber_and_save">Deveniți abonat și economisiți %d%%</string>
+    <string name="select">Selectați</string>
+    <string name="select_something">Selectați %s</string>
+    <string name="size_range">Gama de mărimi</string>
+    <string name="initial_time" translatable="false">00:00</string>
+    <string name="a11y_play">Redare</string>
+    <string name="a11y_pause">Pauză</string>
+    <string name="a11y_enter_fullscreen">Intră pe ecran complet</string>
+    <string name="a11y_exit_fullscreen">Ieși din ecran complet</string>
+    <string name="share_product">Cred că ți-ar plăcea asta! Grăbește-te, pentru că s-ar putea epuiza rapid! % s</string>
+    <string name="unavailable_product_message">Acest produs nu mai este disponibil.</string>
+    <string name="a11y_variant_sold_out">%s. Indisponibil.</string><!--  Read with an accessibility action, e.g. "Double-tap to [action]"  --><string name="a11y_collapse_action">redu</string>
+    <string name="a11y_expand_action">extinde</string><!--StoreLocator--><string name="store_locator">Localizator magazin</string>
+    <string name="list">Listă</string>
+    <string name="map">Hartă</string>
+    <string name="search_by_postal_code">Căutare după cod poștal</string>
+    <string name="no_results_description">Nu am putut găsi magazine cu acel cod poștal</string>
+    <string name="temporarily_closed">Închis temporar</string>
+    <string name="store_hours">Orele de deschidere ale magazinului</string>
+    <string name="a11y_edit_store">Editați magazinul</string><!--  Read with an accessibility action, e.g. "Double-tap to [action]"  --><string name="a11y_favorite_store_button_add_action">setați acest magazin ca preferat</string>
+    <string name="a11y_favorite_store_button_remove_action">eliminați acest magazin ca preferat</string><!--FourSixty--><string name="shop_our_instagram">Cumpărați din Instagram-ul nostru</string>
+    <string name="four_sixty_header_message">Vedeți ce poartă alții pe Instagram și faceți cumpărături chiar de aici.</string>
+    <string name="four_sixty_see_it_instagram_header_message">Vedeți pe Instagram</string><!--Write a Review--><string name="write_a_review">Scrieți o recenzie</string>
+    <string name="how_would_you_rate">Cum ați evalua acest articol?</string>
+    <string name="name">Nume</string>
+    <string name="title">Titlu</string>
+    <string name="message">Mesaj</string>
+    <string name="submit_review">Trimiteți recenzia</string>
+    <string name="empty_name_error">Vă rugăm să vă scrieți numele.</string>
+    <string name="review_title_error">Vă rugăm să dați recenziei un titlu.</string>
+    <string name="review_title_success">Recenzia dvs. a fost publicată cu succes!</string><!--Recharge--><string name="my_subscriptions">Abonamentele mele</string>
+    <string name="manage_subscription_on_web">Gestionați abonamentele pe web</string>
+    <string name="recharge" translatable="false">Reîncarcă</string>
+    <string name="subscribe_and_save">„Abonați-vă și economisiți”</string>
+    <string name="one_time_purchase">Achiziție unică</string>
+    <string name="subscribe_every">Abonament recurent la fiecare %1$s</string>
+    <string name="save_percent">Economisiți %1$d%%</string>
+    <string name="purchase_options">Opțiuni de cumpărare</string>
+    <string name="subscription_every">Abonament: La fiecare %1$d %2$s</string>
+
+    <plurals name="rating_info">
+        <item quantity="one">%2$.2f | %1$d Recenzie</item>
+        <item quantity="other">%2$.2f | %1$d Recenzii</item>
+    </plurals><!-- Quick Add/Update --><string name="view"><u>Vizualizați</u></string>
+    <string name="select_your">Selectați-vă %s</string>
+    <string name="quick_add_plus">+ Adăugare rapidă</string>
+    <string name="update_cart">Actualizați coșul</string><!-- Onboarding --><string name="create_account">Creați cont</string>
+    <string name="skip">Omiteți</string>
+    <string name="title_onboarding">Înregistrare în curs</string><!-- Notifications--><string name="no_notifications_title">Nicio notificare</string>
+    <string name="no_notifications_message">Nu există notificări de afișat în acest moment</string>
+    <string name="notifications_error">Ceva nu a mers bine. Vă rugăm să încercați din nou în curând.</string>
+
+    <string name="title_test">Titlu test</string>
+    <string name="title_shoppableinstagram">Instagram cumpărabil</string>
+    <string name="title_search">Căutați</string>
+    <string name="title_notifications">Notificări</string><!--Countdown Timer block --><string name="countdown_timer_number_format">%02d</string><!--QuadPay--><string name="quad_pay_eligible_message">Cumpărați acum, plătiți mai târziu. %1$d plăți fără dobândă de %2$s</string>
+    <string name="quad_pay_ineligible_message">%1$d plăți fără dobândă pentru comenzile cu valoarea peste $%2$s</string><!--My Rewards--><string name="title_loyalty">Loialitate</string>
+    <string name="about">Despre</string>
+    <string name="loyalty_rewards">Recompense de loialitate</string>
+    <plurals name="your_balance">
+        <item quantity="one">Soldul tău: &lt;b&gt;%,d punct&lt;/b&gt;</item>
+        <item quantity="other">Soldul tău: &lt;b&gt;%,d puncte&lt;/b&gt;</item>
+    </plurals>
+    <plurals name="tier_level">
+        <item quantity="one">%d din %d nivel</item>
+        <item quantity="other">%d din %d niveluri</item>
+    </plurals>
+    <string name="number_with_comma">%,d</string>
+    <string name="of_progress">al %,d</string>
+    <string name="tier">%s Nivel</string>
+    <string name="ways_to_earn_extra">Modalități de a câștiga în plus</string>
+    <string name="view_more_underlined">&lt;u&gt;Vezi mai mult&lt;/u&gt;</string>
+    <string name="close_underlined">&lt;u&gt;Închide&lt;/u&gt;</string>
+    <string name="a11y_close">Închide</string>
+    <string name="a11y_back">Înapoi</string>
+    <string name="share_with_friends">Împărtășiți cu prietenii</string><!--My Rewards Dialog--><string name="my_rewards">Recompensele mele</string>
+    <string name="my_rewards_all_caps">RECOMPENSELE MELE</string>
+    <string name="choose_reward">Alegeți recompensa</string>
+    <string name="choose_a_reward">Alegeți o recompensă:</string>
+    <string name="redeem_reward">Valorificați recompensa</string>
+    <string name="remove">Eliminați</string>
+    <string name="points">%d puncte</string>
+    <string name="points_non_reversible">*Punctele utilizate pentru valorificarea recompenselor nu sunt reversibile.</string>
+    <string name="redeem_points_for_discount">Valorificați punctele pentru o reducere.</string>
+    <string name="banner_reward_applied">&lt;b&gt;%s Aplicat&lt;/b&gt; - Cod: %s</string>
+    <string name="unclaimed">Nerevendicate:</string>
+    <string name="reward_code_invalid">Codul de recompensă nu este valid.</string>
+    <string name="reward_has_zero_balance">Recompensa are un sold zero.</string>
+    <string name="reward_is_expired">Recompensa a expirat.</string>
+    <string name="reward_code_not_found">Codul de recompensă nu a fost găsit.</string>
+    <string name="reward_already_redeemed">Recompensa dvs. a fost deja utilizată.</string>
+    <string name="cannot_apply_reward">Nu se poate aplica recompensa.</string>
+    <string name="cannot_apply_multiple_gift_cards">Nu se pot aplica mai multe carduri cadou.</string>
+    <string name="reward_is_disabled">Recompensa este dezactivată. Încercați din nou mai târziu.</string>
+    <string name="no_rewards_available">Nu există recompense disponibile</string>
+    <string name="setting_up_loyalty">Se configurează contul de loialitate ...</string>
+    <string name="discount_not_applicable_error">Reducerea nu se aplică articolelor din coș.</string><!--Subscriptions--><string name="title_subscriptions">Abonamente</string>
+    <string name="active">Activ</string>
+    <string name="inactive">Inactiv</string>
+    <string name="next_billing_date">Data următoare de facturare: %1$s</string>
+    <string name="skipped_order">Comanda omisă: %1$s</string>
+    <string name="subscription_inactive">Abonament inactiv</string>
+    <string name="no_subscriptions">Niciun abonament</string>
+    <string name="no_subscriptions_yet">Nu ați creat încă niciun abonament</string><!--Subscription Details--><string name="subscription_details">Detaliile abonamentului</string>
+    <string name="frequency">Frecvență</string>
+    <string name="delivered_every">La fiecare %1$s</string>
+    <string name="reactivate_subscription">Reactivați abonamentul</string>
+    <string name="save_changes">Salvați modificările</string>
+    <string name="select_a_frequency">Selectați o frecvență</string>
+    <string name="select_a_quantity">Selectați o cantitate</string>
+    <string name="every">La fiecare %1$d %2$s</string>
+    <string name="skip_next_charge">Omiteți următoarea taxă</string>
+    <string name="unskip_next_charge">Anulați omiterea următoarei taxe</string>
+    <string name="deactivate_subscription">Dezactivați abonamentul</string>
+    <string name="subscription_updated_message">V-am actualizat abonamentul</string>
+    <string name="a11y_change_quantity">Schimbați cantitatea</string>
+
+    <plurals name="day_interval">
+        <item quantity="one">%1$d zi</item>
+        <item quantity="other">%1$d zile</item>
+    </plurals>
+    <plurals name="week_interval">
+        <item quantity="one">%1$d săptămână</item>
+        <item quantity="other">%1$d săptămâni</item>
+    </plurals>
+    <plurals name="month_interval">
+        <item quantity="one">%1$d lună</item>
+        <item quantity="other">%1$d luni</item>
+    </plurals><!--Reactivate Subscription--><string name="reactivate_subscription_title">Reactivați abonamentul</string>
+    <string name="reactivate_subscription_message">Veți fi taxat la următoarea dată de facturare.</string>
+    <string name="confirm">Confirmați</string><!--Deactivate Subscription--><string name="deactivate_subscription_title">Dezactivați abonamentul</string>
+    <string name="deactivate_subscription_message">Sigur doriți să vă dezactivați abonamentul?</string>
+    <string name="deactivate">Dezactivați</string><!--Skip Charge--><string name="skip_charge_title">Omiteți taxa</string>
+    <string name="skip_charge_message">Sigur doriți să omiteți următoarea scadență de abonament?</string>
+    <string name="skip_charge">Omiteți</string><!--Unskip Charge--><string name="unskip_charge_title">Anulați omiterea taxei</string>
+    <string name="unskip_charge_message">Sigur doriți să anulați omiterea următoarei scadențe de abonament?</string>
+    <string name="unskip_charge">Anulați omiterea</string><!--Leave Subscription Unsaved--><string name="leave_unsaved_message">Sunteți sigur că vreți să abandonați? Toate modificările nesalvate vor fi eliminate.</string>
+    <string name="leave">Părăsiți</string><!--Recharge Errors--><string name="auth_error_message">Ah! A apărut o eroare de autentificare</string>
+    <string name="parse_error_message">Ah! A apărut o eroare la finalizarea sarcinii</string><!--Subscription Address--><string name="select_address">Selectați adresa</string>
+    <string name="edit_address">Editați adresa</string>
+    <string name="deliver_to_address">Livrați la această adresă</string><!--Abandoned Items--><string name="finish_checkout">Finalizați comanda</string>
+    <string name="view_cart">Vizualizare coș</string>
+    <string name="abandoned_checkout_title">Reluați de unde ați rămas! Finalizați comanda acum.</string>
+    <string name="abandoned_cart_title">Ați uitat acest articol în coș. Finalizați comanda acum înainte ca acesta să se epuizeze.</string>
+
+    <plurals name="extra_items_message">
+        <item quantity="one">&quot;+ %1$d alt produs&quot;</item>
+        <item quantity="other">&quot;+ %1$d alte produse&quot;</item>
+    </plurals>
+    <string name="title_address">Adresă</string><!-- Photo Search --><string name="take_photo">Faceți o poză</string>
+    <string name="select_photo">Selectați o fotografie</string>
+    <string name="photo_search_toolbar">Căutare imagine</string>
+    <string name="photo_search_description">Acum puteți căuta făcând o fotografie. Sau încărcați o imagine, selectați un articol din ea și începeți să faceți cumpărături!</string>
+    <string name="photo_search_feed_description">Nu aveți o fotografie? Încercați una din feedul nostru social</string>
+    <string name="replace_image">Înlocuiți imaginea</string>
+
+    <string name="photo_search_sort_label" translatable="false">@string/sort</string>
+    <string name="photo_search_sort_best_match">Cea mai bună potrivire</string>
+    <string name="photo_search_sort_price_high_low" translatable="false">@string/price_high_to_low</string>
+    <string name="photo_search_sort_price_low_high" translatable="false">@string/price_low_to_high</string><!-- Multicurrency --><string name="change_currency">Schimbă valuta</string>
+    <string name="change_currency_msg">Acest lucru vă va reîncărca aplicația, iar prețurile vor fi reflectate acum în moneda %s.</string>
+    <string name="add_to_list_failed">Adăugarea articolului la lista de dorințe nu a reușit</string>
+    <string name="failed_to_remove_wishlist_item">Eliminarea produselor din lista de dorințe nu a reușit</string>
+    <string name="default_wishlist_name">Lista mea de dorințe</string>
+
+</resources>

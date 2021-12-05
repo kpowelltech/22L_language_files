@@ -1,0 +1,519 @@
+<resources>
+    <string name="underscore" translatable="false">_</string>
+    <string name="item_price_placeholder">Varupris</string>
+    <string name="options">Alternativ</string>
+    <string name="search">Sök</string>
+    <string name="item_name_placeholder">Artikelnamn</string>
+    <string name="product_image">Produktbild</string>
+    <string name="collection_title_placeholder">Kollektionstitel</string>
+    <string name="view_collection">Visa kollektion</string>
+    <string name="collection_name_placeholder">Kollektionsnamn</string>
+    <string name="view_all">Visa alla</string>
+    <string name="collection_image">Kollektionsbild</string>
+    <string name="shop_now">Köp nu</string>
+    <string name="ratting_count_placeholder">(999)</string>
+    <string name="add_to_bag">LÄGG TILL I VARUKORG</string>
+    <string name="add_to_cart">LÄGG TILL I KUNDVAGN</string>
+    <string name="share">Dela med sig</string>
+    <string name="app_logo">Appens logotyp</string>
+    <string name="items_count_placeholder">Antal artiklar</string>
+    <string name="remove_item">ta bort artikeln</string>
+    <string name="subtotal">Delsumma</string>
+    <plurals name="cart_items_count">
+        <item quantity="one">%d artikel</item>
+        <item quantity="other">%d artiklar</item>
+    </plurals>
+    <string name="my_bag">MIN VARUKORG</string>
+    <string name="my_cart">MIN KUNDVAGN</string>
+    <string name="splash_background">Utspridda bakgrunden</string>
+    <string name="cancel">Annullera</string>
+    <string name="elapsed_time">%1$d %2$s sedan&quot;</string>
+    <string name="value_currency">%1$s %2$s&quot;</string>
+    <string name="card_masked">•••• •••• •••• %1$s&quot;</string>
+    <string name="just_now">Just nu</string>
+
+    <plurals name="year">
+        <item quantity="one">år</item>
+        <item quantity="other">år</item>
+    </plurals>
+
+    <plurals name="month">
+        <item quantity="one">månad</item>
+        <item quantity="other">månader</item>
+    </plurals>
+
+    <plurals name="day">
+        <item quantity="one">dag</item>
+        <item quantity="other">dagar</item>
+    </plurals>
+
+    <plurals name="hour">
+        <item quantity="one">timme</item>
+        <item quantity="other">timmar</item>
+    </plurals>
+
+    <plurals name="minute">
+        <item quantity="one">minut</item>
+        <item quantity="other">minuter</item>
+    </plurals>
+
+    <plurals name="second">
+        <item quantity="one">sekund</item>
+        <item quantity="other">sekunder</item>
+    </plurals>
+
+    <plurals name="week">
+        <item quantity="one">vecka</item>
+        <item quantity="other">veckor</item>
+    </plurals>
+
+    <string name="size_guide">Storleksguide</string>
+    <string name="shipping_info">Fraktinformation</string>
+    <string name="description">Beskrivning</string>
+    <string name="collections">Kollektioner</string>
+    <string name="your_order_is_complete">Din beställning är klar!</string>
+    <string name="web_checkout_confirmation_message">Ett bekräftelsemeddelande har skickats till din</string>
+    <string name="email_placeholder">test@test.com</string>
+    <string name="keep_shopping">Fortsätt handla</string>
+    <string name="ship_box">skicka låda</string>
+    <string name="no_internet">Kontrollera din internetanslutning</string>
+    <string name="checkout">Gå till kassan</string>
+    <string name="three_d_secure_authentication">3D-säker autentisering</string>
+    <string name="discount">Rabatt</string>
+    <string name="review_your_order">Granska din beställning</string>
+    <string name="google_pay_error">Google betalningsfel</string>
+    <string name="failed_to_process_payment_title">Det gick inte att behandla betalningen</string>
+    <string name="failed_to_process_payment">Det gick inte att behandla betalningen. Försök igen senare.</string>
+    <string name="arrow">pil</string>
+    <string name="menu_item">menyartikel</string>
+    <string name="logo">logotyp</string>
+    <string name="not_implemented">EJ IMPLEMENTERAD</string>
+    <string name="sold_out">Utsåld</string>
+    <string name="coming_soon">Kommer snart</string>
+    <string name="email_address">E-postadress</string>
+    <string name="password">Lösenord</string>
+    <string name="email_error_message">Ange en e-postadress innan du fortsätter.</string>
+    <string name="password_error_message">Lösenordet kan inte vara tomt.</string>
+    <string name="login_error">Inloggningsfel</string>
+    <string name="error">Fel</string>
+    <string name="no_results">Inga resultat</string>
+    <string name="urban_planet_marker">Urban Planet Marker</string>
+    <string name="try_again_error">Var god försök igen.</string>
+    <string name="store_credit">Returer: Butikskredit</string>
+    <string name="fraud_prevention">Bedrägeri förhindring</string>
+    <string name="store_credit_title">Butikskredit</string>
+    <string name="return_policy_title">Returpolicy</string>
+    <string name="store_credit_text">Med begränsade undantag återbetalas giltiga returer i form av butikskredit. Skadade/defekta artiklar kommer att bytas ut om de finns i lager. Alla butikskrediter, återbetalningar och/eller byten som förfaller kommer att utfärdas inom 3 till 5 arbetsdagar efter att returen har behandlats.
+Alla artiklar med priser som slutar på $ ,00; ,96; ,97 och ,98 tillhör slutrean och kan inte returneras för butikskredit. 
+Du kan hitta ytterligare information om vår returpolicy</string>
+    <string name="store_credit_text_hyperlink">HÄR</string>
+    <string name="slash" translatable="false">/</string>
+    <string name="free_gift">Gratis present</string>
+    <string name="a11y_original_and_discounted_price">Originalpris %1$s, försäljningspris %2$s</string><!--Account--><string name="account">Konto</string>
+    <string name="sign_in">Logga in</string>
+    <string name="create_an_account">Skapa ett konto</string>
+    <string name="already_have_an_account">Har du redan ett konto?</string>
+    <string name="log_in">Logga in</string>
+    <string name="log_in_to_account">Logga in på kontot</string>
+    <string name="create_a_new_account">Skapa ett nytt konto</string>
+    <string name="full_nme">Fullständigt namn</string>
+    <string name="sign_up">Bli medlem</string>
+    <string name="name_error_message">Ange ditt fullständiga namn innan du fortsätter.</string>
+    <string name="sign_up_error">Registreringsfel</string>
+    <string name="no_address">Ingen adress tillgänglig</string>
+    <string name="my_orders">Mina beställningar</string>
+    <string name="orders">Beställningar</string>
+    <string name="hi_user">Hej, %s.</string>
+    <string name="favorites">Favoriter</string>
+    <string name="start_browsing">Börja surfa så att dina artiklar visas här</string>
+    <string name="recently_viewed">Nyligen sett</string>
+    <string name="first_name_empty_error">Förnamnet får inte vara tomt.</string>
+    <string name="last_name_empty_error">Efternamnet får inte vara tomt.</string>
+    <string name="first_name">Förnamn</string>
+    <string name="last_name">Efternamn</string>
+    <string name="forgot_password">Glömt ditt lösenord?</string>
+    <string name="forgot_password_dialog_message">Har du glömt lösenordet? Vi skickar dig en återställningslänk.</string>
+    <string name="send_reset_password_link">Skicka länk</string>
+    <string name="change_password_error">Ändra lösenordsfel</string>
+    <string name="reset_password_email_sended">Lösenordet återställdes. Kontrollera din e-post.</string>
+    <string name="underlined_create_account"><u>Skapa konto</u></string>
+    <string name="default_error_message">Hoppsan, ett fel inträffade. Vänligen försök igen senare.</string>
+    <string name="incorrect_email_or_password">Felaktig e-postadress eller lösenord.</string>
+    <string name="dont_have_an_account">Har du inte ett konto?</string>
+    <string name="log_out">Logga ut</string><!--Cart--><string name="add_item">lägg till artikel</string>
+    <string name="enter_discount_code">Ange rabattkod</string>
+    <string name="enter_gift_card">Ange presentkortnummer</string>
+    <string name="apply_discount">Använd rabatt</string>
+    <string name="applied_discount_code">Kod: %1$s </string>
+    <string name="applied_gift_card">•••• %s </string>
+    <string name="continue_shopping">Fortsätt handla</string>
+    <string name="start_shopping">Börja handla</string>
+    <string name="empty_cart">tom vagn</string>
+    <string name="empty_cart_message">Du har inga artiklar i din kundvagn just nu</string>
+    <string name="your_cart_is_empty">Din kundvagn är tom</string>
+    <string name="apply_gift_card">Använd presentkort</string>
+    <string name="dialog_background_image">Dialog bakgrundsbild</string>
+    <string name="discount_error_title">Ogiltig rabattkod</string>
+    <string name="variant_not_available">Vissa artiklar är inte längre tillgängliga och din kundvagn har uppdaterats.</string>
+    <string name="gift_card_error_title">Ogiltigt presentkort</string>
+    <string name="something_went_wrong_try_again">Något gick fel. Försök igen.</string>
+    <string name="credit_card">Kreditkort</string>
+    <string name="paypal">PayPal</string>
+    <string name="amazon_pay">Amazon Pay</string>
+    <string name="google_pay">Google Pay</string>
+    <string name="pay_with">Betala med</string>
+    <string name="ship_to_me_title">Skicka till mig</string>
+    <string name="ship_to_me_message">Få det snabbt på vilken adress som helst</string>
+    <string name="ship_to_store_title">Skicka till butik</string>
+    <string name="ship_to_store_message">Välj vart du ska hämta den</string>
+    <string name="reach_max_cart_line_items_error_message">Överskrider gränsen på %s, ta bort artikel(lar) från kundvagnen.</string>
+    <string name="discount_error_not_applied_to_items">Rabatten gäller inte artiklarna i din kundvagn</string>
+    <string name="no_internet_connection">Ingen internetanslutning</string>
+    <string name="generic_checkout_creation_error">Ett fel uppstod vid kassan</string>
+    <string name="throttle_failure">Tyvärr gick slutförande av kassan inte igenom. Var god försök igen.</string>
+    <string name="dont_leave_page_queue_message">Lämna inte sidan, annars förlorar du din plats!</string>
+    <string name="thank_you_queue_message">Tack så mycket för ditt tålamod! Det kommer att ta bara en stund till!</string>
+    <string name="discount_error_not_found">Det gick inte att hitta en giltig rabatt som matchar den angivna koden</string>
+    <string name="discount_error_general">Rabatten kunde inte användas. Var god försök igen.</string>
+    <string name="add_items_from_favorites">Lägg till artiklar från favoriter</string>
+    <string name="add_my_favorite_items">Lägga till mina favoritartiklar?</string>
+    <string name="error_add_favorite_items_cart">Tyvärr uppstod det ett problem när några artiklar skulle läggas till i vagnen.</string>
+    <string name="product_is_sold_out_error">Tyvärr är produkten slutsåld.</string>
+    <string name="cart_update_error_title">Det gick inte att uppdatera kundvagnen</string>
+    <string name="cart_update_error_discount">Din rabattkod har tagits bort på grund av ett problem. Försök att lägga till den igen.</string>
+    <string name="cart_update_error_gift_card">Ditt presentkort har tagits bort på grund av ett problem. Försök att lägga till den igen.</string><!--Checkout--><string name="gift_card">Presentkort</string>
+    <string name="duties">Tullavgifter</string>
+    <string name="shipping">Frakt</string>
+    <string name="tax">Skatt</string>
+    <string name="total">Summa</string>
+    <string name="submit_order">Skicka beställning</string>
+    <string name="complete_order">Avsluta beställning</string>
+    <string name="continue_to_payment">Fortsätt till betalning</string>
+    <string name="signed_in_as">&quot;Inloggad som&quot;</string>
+    <string name="already_have_account">Har du redan ett konto?</string>
+    <string name="underlined_sign_in"><u>Logga in</u></string>
+    <string name="underlined_sign_in_sentence"><u>Logga in.</u></string>
+    <string name="checkout_as_guest">Eller gå till kassan som gäst</string>
+    <string name="add">Lägg till</string>
+    <string name="add_shipping_info">Lägg till leveransadress</string>
+    <string name="add_billing_address">Lägg till faktureringsadress</string>
+    <string name="add_payment_info">Lägg till betalningsinformation</string>
+    <string name="free">Gratis</string>
+    <string name="order_note">Anteckning: %1$s</string>
+    <string name="summary">Sammanfattning</string>
+    <string name="minus">-%1$s</string>
+    <string name="payment">Betalning</string>
+    <string name="add_payment">Lägg till betalning</string>
+    <string name="billing_address">Faktureringsadress är samma som leveransadress</string>
+    <string name="shipping_method">Fraktmetod</string>
+    <string name="ship_to_store">Skicka till butik</string>
+    <string name="in_store_pickup">Hämta i butik</string>
+    <string name="pick_up_here">Hämta här</string>
+    <string name="update_shopping_cart">Uppdatera kundvagn</string>
+    <string name="update_shipping_address">Uppdatera leveransadress</string><!-- Contact Sharing--><string name="contact_sharing">&quot;Dela med vänner&quot;</string>
+    <string name="module_title">Hänvisad av</string>
+    <string name="contact_sharing_cta_contacts">Bjud in från min kontaktlista</string>
+    <string name="contact_sharing_cta_invite">Dela inbjudan</string>
+    <string name="contact_sharing_description_placeholder">Vi skickar ett presentkort på 20 dollar när de gör ett köp. Använd din kontaktlista för att hänvisa vänner.</string>
+    <string name="contact_sharing_permission_denied">Åtkomst till enhetskontakter krävs för att fortsätta. Ange kontaktåtkomst i dina enhetsinställningar.</string><!--Credit Card--><string name="empty_card_error">&quot;Fyll i ditt kreditkortsnummer.&quot;</string>
+    <string name="invalid_card_error">&quot;Kreditkortsnumret är ogiltigt.&quot;</string>
+    <string name="scan_your_card">Skanna ditt kort</string><!--Notes--><string name="add_order_notes">Lägg till beställningsanteckningar</string>
+    <string name="gift_cart_or_delivery_date_notes">Presentkortmeddelande | Önskat leveransdatum</string>
+    <string name="add_notes">Lägg till anteckningar</string>
+    <string name="notes_hint">Skriv en anteckning till din beställning</string>
+    <string name="update_notes_error">Fel vid uppdatering av anteckningar</string><!--Address--><string name="billing">Fakturering</string>
+    <string name="email">E-post</string>
+    <string name="new_address">Ny adress</string>
+    <string name="add_new_address">Lägg till ny adress</string>
+    <string name="update_address">Uppdatera adress</string>
+    <string name="phone_number">Telefonnummer</string>
+    <string name="full_name">Fullständigt namn</string>
+    <string name="street_address">Gatuadress</string>
+    <string name="unit">Enhet (valfritt)</string>
+    <string name="city">Stad</string>
+    <string name="postal_code">Postnummer</string>
+    <string name="state">Stat</string>
+    <string name="province">Provins</string>
+    <string name="country">Land</string>
+    <string name="save_address">Spara adress</string>
+    <string name="empty_email_error">Var god skriv in din e-postadress.</string>
+    <string name="invalid_email_error">Ange en giltig e-postadress.</string>
+    <string name="phone_error">Vänligen skriv ditt telefonnummer.</string>
+    <string name="empty_full_name_error">Vänligen fyll i ditt fullständiga namn.</string>
+    <string name="full_name_error">Fyll i ditt för- och efternamn.</string>
+    <string name="empty_address_error">Fyll i din adress.</string>
+    <string name="empty_city_error">Vänligen ange din stad.</string>
+    <string name="empty_zip_error">Ange ditt postnummer.</string>
+    <string name="empty_state_error">Vänligen ange din stat.</string>
+    <string name="restricted_shipping_country_error">Tyvärr, du har artiklar i din kundvagn som inte kan skickas utanför USA</string>
+    <string name="does_not_ship_to_country_error">Vi beklagar, vi skickar inte till det angivna landet.</string>
+    <string name="empty_country_error">Vänligen ange ditt land.</string>
+    <string name="unknown_country_error">Det gick inte att identifiera valt land.</string>
+    <string name="update_address_error">Det gick inte att spara adressen.</string>
+    <string name="empty_phone_error">&quot;Ange ditt telefonnummer i fraktformuläret.&quot;</string>
+    <string name="beauty_items_error">Skönhetsartiklar i din kundvagn kan bara skickas till USA eller Kanada. För att slutföra kassan, ta bort skönhetsartiklarna i din kundvagn eller uppdatera leveransadressen.</string>
+    <string name="a11y_selected">Valda</string>
+    <string name="a11y_unselected">Inte valda</string><!--Processing--><string name="processing_title">Vänta.
+Vi bearbetar din beställning.</string>
+    <string name="processing_subtitle">Det kan ta några sekunder.</string>
+    <string name="out_of_stock_title">Vi har inte tillräckligt med dina önskade artiklar.</string>
+    <string name="out_of_stock_subtitle">Vi har uppdaterat antalen för artiklarna nedan. Granska din vagn för att fortsätta.</string>
+    <string name="checkout_completed_title">Du är klar!
+Tack för din beställning.</string>
+    <string name="checkout_completed_message">Du får en e-postbekräftelse inom kort</string>
+    <string name="review_cart">Granska kundvagn</string>
+    <string name="processing_checkout_error">&quot;Det uppstod ett problem med att slutföra din kassa. Var god försök igen.&quot;</string><!--Collection--><string name="sort">Sortera</string>
+    <string name="recommended">Rekommenderad</string>
+    <string name="whats_new">Vad är nytt</string>
+    <string name="best_selling">Bästsäljare</string>
+    <string name="price_low_to_high">Pris: Pris lågt till högt</string>
+    <string name="price_high_to_low">Pris: Pris högt till lågt</string>
+    <string name="filter">Filtrera</string>
+    <string name="apply">Tillämpa</string>
+    <string name="clear">Rensa</string>
+    <string name="error_get_filter">Det gick inte att filtrera</string>
+    <string name="update_wish_list_error_dialog_message">Det gick inte att uppdatera önskelistan. Försök igen snart.</string>
+    <string name="reach_max_favorites_error_message">Överskrider gränsen på %s, ta bort artilkeln(ar) från önskelistan.</string>
+    <string name="empty_state_collection_title">INGA PRODUKTER</string>
+    <string name="empty_state_collection_message">Vi kunde inte hitta produkter i den här kollektionen</string>
+    <string name="unavailable_collection_message">Denna kollektion finns inte längre</string><!--Favorite--><string name="my_wishlist">Min önskelista</string>
+    <string name="my_wishlists">Mina önskelistor</string>
+    <string name="my_favorites">Mina favoriter</string>
+    <string name="empty_wish_list">Mina favoriter är tomma</string>
+    <string name="favorite_header">Dela dina favoriter</string>
+    <string name="share_wish_list">Kolla in mina %1$s favoriter!</string>
+    <string name="a11y_favorite_button_label">Knappen favoriter</string><!--  Read with an accessibility action, e.g. "Double-tap to [action]"  --><string name="a11y_favorite_button_add_action">lägg till produkter i dina favoriter.</string>
+    <string name="a11y_favorite_button_remove_action">ta bort produkter från dina favoriter</string>
+    <string name="a11y_favorite_button_sign_in_action">logga in</string><!-- Installment Payments --> <!-- TODO move to a constants file --><string name="quad_pay" translatable="false">QuadPay</string>
+    <string name="after_pay" translatable="false">AfterPay</string>
+    <string name="klarna" translatable="false">Klarna</string>
+    <string name="affirm" translatable="false">Affirm</string>
+    <string name="sezzle" translatable="false">Sezzle</string>
+    <string name="installment_provider_text">&quot;Köp nu, betala senare.
+%d räntefria betalningar på %s&quot;</string><!--Main--><string name="cart_icon">Ikonen för vagn</string>
+    <string name="menu_background">Menybakgrund</string>
+    <string name="sure_log_out">Är du säker på att du vill logga ut från appen?</string>
+    <string name="my_account">Mitt konto</string>
+    <string name="install">Installera</string>
+    <string name="video_placeholder">Platshållare för video</string>
+    <string name="exit_preview">Avsluta förhandsgranskning</string>
+    <string name="a11y_navigation_icon">Meny</string>
+
+    <string name="a11y_video_block_product_destination">Video. Dubbeltrycka för att öppna produkten.</string>
+    <string name="a11y_video_block_collection_destination">Video. Dubbeltrycka för att öppna %s kollektion.</string>
+    <string name="a11y_video_block_webpage_destination">Video. Dubbeltrycka för att öppna webbsida.</string>
+    <string name="a11y_video_block">Video</string>
+    <string name="a11y_image_block_product_destination">Bild. Dubbeltrycka för att öppna produkten.</string>
+    <string name="a11y_image_block_collection_destination">Bild. Dubbeltrycka för att öppna %s kollektion.</string>
+    <string name="a11y_image_block_webpage_destination">Bild. Dubbeltrycka för att öppna webbsida.</string>
+    <string name="a11y_image_block">Bild</string><!--  Read with an accessibility action, e.g. "Double-tap to [action]"  --><string name="a11y_image_block_action_open_webpage">öppna webbsida</string>
+    <string name="a11y_image_block_action_open_collection">öppna kollektion</string><!--Search--><string name="barcode_scanner">Skanna streckkod</string>
+    <string name="photo_search_button">Ladda upp foto</string>
+    <string name="search_no_results_description">Vi kunde inte hitta artikeln du letade efter.</string>
+    <string name="search_products">Sök efter produkter</string>
+    <string name="popular_searches">Populära sökningar</string>
+    <string name="trending_searches">Trendande sökningar</string><!--Order--><string name="order_description_placeholder">Platshållare för orderbeskrivning</string>
+    <string name="order_total_placeholder">$99,99</string>
+    <string name="order_days_placeholder">För 17 dagar sedan</string>
+    <plurals name="order_quantity_count">
+        <item quantity="one">och %d annan vara</item>
+        <item quantity="other">och %d andra varor</item>
+    </plurals>
+    <string name="order">Beställ</string>
+    <string name="you_have_no_orders">Du har inga beställningar</string>
+    <string name="check_back">Kom tillbaka efter du har gjort din första beställning</string>
+    <string name="processing">Bearbetning</string><!--ProductDetails--><string name="keep_track">SPÅRA DINA FAVORITER</string>
+    <string name="create_account_to_save_favorites">Skapa ett %1$s-konto för att spara och spåra alla dina favoritartiklar.</string>
+    <string name="sign_in_to_save_favorites">Logga in på ditt %1$s-konto för att spara och spåra alla dina favoritartiklar.</string>
+    <string name="create_account_or_sign_in">Skapa konto eller logga in</string>
+    <string name="reviews">Recensioner</string>
+    <string name="verified_icon">Ikonen för verifierade</string>
+    <string name="you_may_also_like">Du kanske också gillar</string>
+    <string name="first_to_write_review">Bli den första att skriva en recension</string>
+    <string name="uber_chic_checkout_already_created_message">Du kan tyvärr inte lägga till en produkt i kundvagnen efter att en kassa redan har skapats</string>
+    <string name="view_all_reviews">Visa alla recensioner</string>
+    <string name="something_went_wrong">Hoppsan! Något gick fel.</string>
+    <string name="notify_when_available">Meddela mig när den är tillgänglig</string>
+    <string name="notify_when_available_confirmation">När varan finns tillbaka i lager igen kommer vi att meddela dig.</string>
+    <string name="final_sale">Slutrea</string>
+    <string name="clearance_tag">Utrensning</string>
+    <string name="plus">Plus</string>
+    <string name="misses">Damer</string>
+    <string name="petite">Små</string>
+    <string name="select_size_range">Välj storlek:</string>
+    <string name="parenthesis">(%s)</string>
+    <string name="shop_similar">Handla liknande</string>
+    <string name="installment_provider_logo_content_desc">Avbetalningsleverantörens logotyp</string>
+    <string name="product_video">Produktvideo</string>
+    <string name="color">Färg</string>
+    <string name="video_banner_play_button_content_desc">Spela-knappen</string>
+    <string name="become_a_subscriber">Bli prenumerant</string>
+    <string name="become_a_subscriber_and_save">Bli prenumerant och spara %d%%</string>
+    <string name="select">Välj</string>
+    <string name="select_something">Välj %s</string>
+    <string name="size_range">Storlekintervall</string>
+    <string name="initial_time" translatable="false">00:00</string>
+    <string name="a11y_play">Spela</string>
+    <string name="a11y_pause">Pausa</string>
+    <string name="a11y_enter_fullscreen">Ange helskärm</string>
+    <string name="a11y_exit_fullscreen">Avsluta helskärm</string>
+    <string name="share_product">Jag trodde att du kanske gillar det här! Skynda dig, för det kan snabbt ta slut! %s</string>
+    <string name="unavailable_product_message">Den här produkten finns inte längre.</string>
+    <string name="a11y_variant_sold_out">%s. Ej tillgänglig.</string><!--  Read with an accessibility action, e.g. "Double-tap to [action]"  --><string name="a11y_collapse_action">förminska</string>
+    <string name="a11y_expand_action">expandera</string><!--StoreLocator--><string name="store_locator">Butikssökare</string>
+    <string name="list">Lista</string>
+    <string name="map">Karta</string>
+    <string name="search_by_postal_code">Sök efter postnummer</string>
+    <string name="no_results_description">Vi kunde inte hitta butiker med det angivna postnumret</string>
+    <string name="temporarily_closed">Tillfälligt stängt</string>
+    <string name="store_hours">Öppettider</string>
+    <string name="a11y_edit_store">Redigera butik</string><!--  Read with an accessibility action, e.g. "Double-tap to [action]"  --><string name="a11y_favorite_store_button_add_action">ange denna butik som din favorit</string>
+    <string name="a11y_favorite_store_button_remove_action">ta bort denna butik som din favorit</string><!--FourSixty--><string name="shop_our_instagram">Handla i vår Instagram-butik</string>
+    <string name="four_sixty_header_message">Se vad andra har på sig på Instagram och handla direkt härifrån.</string>
+    <string name="four_sixty_see_it_instagram_header_message">Se det på Instagram</string><!--Write a Review--><string name="write_a_review">Skriv en recension</string>
+    <string name="how_would_you_rate">Hur skulle du betygsätta den här produkten?</string>
+    <string name="name">Namn</string>
+    <string name="title">Titel</string>
+    <string name="message">Meddelande</string>
+    <string name="submit_review">Skicka recension</string>
+    <string name="empty_name_error">Vänligen fyll i ditt namn.</string>
+    <string name="review_title_error">Vänligen ge recensionen en titel.</string>
+    <string name="review_title_success">Din recension har publicerats!</string><!--Recharge--><string name="my_subscriptions">Mina prenumerationer</string>
+    <string name="manage_subscription_on_web">Hantera prenumerationer på webben</string>
+    <string name="recharge" translatable="false">Ladda om</string>
+    <string name="subscribe_and_save">&quot;Prenumerera och spara&quot;</string>
+    <string name="one_time_purchase">Engångsköp</string>
+    <string name="subscribe_every">Prenumerera varje %1$s</string>
+    <string name="save_percent">Spara %1$ d%%</string>
+    <string name="purchase_options">Köpalternativ</string>
+    <string name="subscription_every">Prenumeration: Varje %1$d %2$s</string>
+
+    <plurals name="rating_info">
+        <item quantity="one">%2 $.2f | %1$d recension</item>
+        <item quantity="other">%2$.2f | %1$d recensioner</item>
+    </plurals><!-- Quick Add/Update --><string name="view"><u>Granska</u></string>
+    <string name="select_your">Välj din %s</string>
+    <string name="quick_add_plus">+ Snabbtillägg</string>
+    <string name="update_cart">Uppdatera kundvagn</string><!-- Onboarding --><string name="create_account">Skapa konto</string>
+    <string name="skip">Hoppa över</string>
+    <string name="title_onboarding">Ombordstigning</string><!-- Notifications--><string name="no_notifications_title">Inga aviseringar</string>
+    <string name="no_notifications_message">Det finns inga aviseringar att visa just nu</string>
+    <string name="notifications_error">Något gick fel. Försök igen snart.</string>
+
+    <string name="title_test">Test titel</string>
+    <string name="title_shoppableinstagram">Shoppable Instagram</string>
+    <string name="title_search">Sök</string>
+    <string name="title_notifications">Aviseringar</string><!--Countdown Timer block --><string name="countdown_timer_number_format">%02d</string><!--QuadPay--><string name="quad_pay_eligible_message">Köp nu, betala senare.
+%1$d räntefria betalningar på %2$s</string>
+    <string name="quad_pay_ineligible_message">%1$d räntefria betalningar på beställningar över $%2$s</string><!--My Rewards--><string name="title_loyalty">Lojalitet</string>
+    <string name="about">Om</string>
+    <string name="loyalty_rewards">Lojalitetsbelöningar</string>
+    <plurals name="your_balance">
+        <item quantity="one">Ditt saldo: &lt;b&gt;%,d poäng&lt;/b&gt;</item>
+        <item quantity="other">Ditt saldo: &lt;b&gt;%,d poäng&lt;/b&gt;</item>
+    </plurals>
+    <plurals name="tier_level">
+        <item quantity="one">%d av %d nivå</item>
+        <item quantity="other">%d av %d nivåer</item>
+    </plurals>
+    <string name="number_with_comma">%,d</string>
+    <string name="of_progress">av %,d</string>
+    <string name="tier">%s nivå</string>
+    <string name="ways_to_earn_extra">Sätt att tjäna extra</string>
+    <string name="view_more_underlined">&lt;u&gt;Visa mer&lt;/u&gt;</string>
+    <string name="close_underlined">&lt;u&gt;Stäng&lt;/u&gt;</string>
+    <string name="a11y_close">Stäng</string>
+    <string name="a11y_back">Tillbaka</string>
+    <string name="share_with_friends">Dela med vänner</string><!--My Rewards Dialog--><string name="my_rewards">Mina belöningar</string>
+    <string name="my_rewards_all_caps">MINA BELÖNINGAR</string>
+    <string name="choose_reward">Välj belöning</string>
+    <string name="choose_a_reward">Välj en belöning:</string>
+    <string name="redeem_reward">Lös in belöning</string>
+    <string name="remove">Ta bort</string>
+    <string name="points">%d poäng</string>
+    <string name="points_non_reversible">* Poäng som används för att lösa in belöningar är icke-reversibla.</string>
+    <string name="redeem_points_for_discount">Lös in poäng för rabatt.</string>
+    <string name="banner_reward_applied">&lt;b&gt;%s tillämpas&lt;/b&gt; - Kod: %s</string>
+    <string name="unclaimed">Ej utnyttjade:</string>
+    <string name="reward_code_invalid">Belöningskoden är ogiltig.</string>
+    <string name="reward_has_zero_balance">Belöning har noll saldo.</string>
+    <string name="reward_is_expired">Belöningen har upphört att gälla.</string>
+    <string name="reward_code_not_found">Belöningskoden hittades inte.</string>
+    <string name="reward_already_redeemed">Din belöning har redan lösts in.</string>
+    <string name="cannot_apply_reward">Det går inte att tillämpa belöning.</string>
+    <string name="cannot_apply_multiple_gift_cards">Det går inte att använda flera presentkort.</string>
+    <string name="reward_is_disabled">Belöningen är inaktiverad. Försök igen senare.</string>
+    <string name="no_rewards_available">Inga belöningar tillgängliga</string>
+    <string name="setting_up_loyalty">Ställer in ditt lojalitetskonto ...</string>
+    <string name="discount_not_applicable_error">Rabatten gäller inte artiklar i din kundvagn.</string><!--Subscriptions--><string name="title_subscriptions">Prenumerationer</string>
+    <string name="active">Aktiva</string>
+    <string name="inactive">Inaktiva</string>
+    <string name="next_billing_date">Nästa faktureringsdatum: %1$s</string>
+    <string name="skipped_order">Beställning hoppad över: %1$s</string>
+    <string name="subscription_inactive">Prenumeration inaktiv</string>
+    <string name="no_subscriptions">Inga prenumerationer</string>
+    <string name="no_subscriptions_yet">Du har inte skapat några prenumerationer än</string><!--Subscription Details--><string name="subscription_details">Information om prenumeration</string>
+    <string name="frequency">Förekomst</string>
+    <string name="delivered_every">Varje %1$s</string>
+    <string name="reactivate_subscription">Återaktivera prenumeration</string>
+    <string name="save_changes">Spara ändringar</string>
+    <string name="select_a_frequency">Välj en förekomst</string>
+    <string name="select_a_quantity">Välj ett antal</string>
+    <string name="every">Varje %1$d %2$s</string>
+    <string name="skip_next_charge">Hoppa över nästa avgift</string>
+    <string name="unskip_next_charge">Hoppa inte över nästa avgift</string>
+    <string name="deactivate_subscription">Inaktivera prenumeration</string>
+    <string name="subscription_updated_message">Vi har uppdaterat din prenumeration</string>
+    <string name="a11y_change_quantity">Ändra antal</string>
+
+    <plurals name="day_interval">
+        <item quantity="one">%1$d dag</item>
+        <item quantity="other">%1$d dagar</item>
+    </plurals>
+    <plurals name="week_interval">
+        <item quantity="one">%1$d vecka</item>
+        <item quantity="other">%1$d veckor</item>
+    </plurals>
+    <plurals name="month_interval">
+        <item quantity="one">%1$d månad</item>
+        <item quantity="other">%1$d månader</item>
+    </plurals><!--Reactivate Subscription--><string name="reactivate_subscription_title">Återaktivera prenumeration</string>
+    <string name="reactivate_subscription_message">Du debiteras nästa faktureringsdatum.</string>
+    <string name="confirm">Bekräfta</string><!--Deactivate Subscription--><string name="deactivate_subscription_title">Inaktivera prenumeration</string>
+    <string name="deactivate_subscription_message">Är du säker på att du vill inaktivera din prenumeration?</string>
+    <string name="deactivate">Inaktivera</string><!--Skip Charge--><string name="skip_charge_title">Hoppa över avgift</string>
+    <string name="skip_charge_message">Är du säker på att du vill hoppa över ditt nästa prenumerationsdatum?</string>
+    <string name="skip_charge">Hoppa över</string><!--Unskip Charge--><string name="unskip_charge_title">Hoppa inte över nästa avgift</string>
+    <string name="unskip_charge_message">Är du säker på att du vill inte hoppa över ditt nästa prenumerationsdatum?</string>
+    <string name="unskip_charge">Hoppa inte över</string><!--Leave Subscription Unsaved--><string name="leave_unsaved_message">Är du säker på att du vill lämna? Alla osparade ändringar kommer att ignoreras.</string>
+    <string name="leave">Lämna</string><!--Recharge Errors--><string name="auth_error_message">Hoppsan! Det uppstod ett autentiseringsfel</string>
+    <string name="parse_error_message">Hoppsan! Det gick inte att slutföra uppgiften</string><!--Subscription Address--><string name="select_address">Välj adress</string>
+    <string name="edit_address">Redigera adress</string>
+    <string name="deliver_to_address">Leverera till denna adress</string><!--Abandoned Items--><string name="finish_checkout">Avsluta kassan</string>
+    <string name="view_cart">Visa kundvagn</string>
+    <string name="abandoned_checkout_title">Hämta rätt där du slutade!
+Slutför din beställning nu.</string>
+    <string name="abandoned_cart_title">Du glömde detta i din kundvagn.
+Gå till kassan innan den säljs ut.</string>
+
+    <plurals name="extra_items_message">
+        <item quantity="one">&quot;+ %1$d annan produkt&quot;</item>
+        <item quantity="other">&quot;+ %1$d andra produkter&quot;</item>
+    </plurals>
+    <string name="title_address">Adress</string><!-- Photo Search --><string name="take_photo">Ta ett foto</string>
+    <string name="select_photo">Välj ett foto</string>
+    <string name="photo_search_toolbar">Bildsökning</string>
+    <string name="photo_search_description">Du kan nu söka genom att ta en bild. Eller ladda upp en bild, välj en artikel inifrån den och börja handla!</string>
+    <string name="photo_search_feed_description">Har du inget foto? Prova en från vår social feed</string>
+    <string name="replace_image">Ersätt bild</string>
+
+    <string name="photo_search_sort_label" translatable="false">@string/sort</string>
+    <string name="photo_search_sort_best_match">Bästa matchning</string>
+    <string name="photo_search_sort_price_high_low" translatable="false">@string/price_high_to_low</string>
+    <string name="photo_search_sort_price_low_high" translatable="false">@string/price_low_to_high</string><!-- Multicurrency --><string name="change_currency">Ändra valuta</string>
+    <string name="change_currency_msg">Detta uppdaterar din app och priserna kommer nu att återspeglas i %s valuta.</string>
+    <string name="add_to_list_failed">Det gick inte att lägga till artikel i önskelistan</string>
+    <string name="failed_to_remove_wishlist_item">Det gick inte att ta bort produkt(er) från önskelistan</string>
+    <string name="default_wishlist_name">Min önskelista</string>
+
+</resources>

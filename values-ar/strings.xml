@@ -1,0 +1,515 @@
+<resources>
+    <string name="underscore" translatable="false">_</string>
+    <string name="item_price_placeholder">سعر العنصر</string>
+    <string name="options">الخيارات</string>
+    <string name="search">البحث</string>
+    <string name="item_name_placeholder">اسم العنصر</string>
+    <string name="product_image">صورة العنصر</string>
+    <string name="collection_title_placeholder">عنوان المجموعة</string>
+    <string name="view_collection">عرض المجموعة</string>
+    <string name="collection_name_placeholder">اسم المجموعة</string>
+    <string name="view_all">عرض الكل</string>
+    <string name="collection_image">صورة المجموعة</string>
+    <string name="shop_now">تسوق الآن</string>
+    <string name="ratting_count_placeholder">(999)</string>
+    <string name="add_to_bag">إضافة إلى الحقيبة</string>
+    <string name="add_to_cart">إضافة إلى عربة التسوق</string>
+    <string name="share">مشاركة</string>
+    <string name="app_logo">شعار التطبيق</string>
+    <string name="items_count_placeholder">عدد العناصر</string>
+    <string name="remove_item">إزالة العنصر</string>
+    <string name="subtotal">المجموع الفرعي</string>
+    <plurals name="cart_items_count">
+        <item quantity="one">%d عنصر</item>
+        <item quantity="other">%d من العناصر</item>
+    </plurals>
+    <string name="my_bag">حقيبتي</string>
+    <string name="my_cart">عربة التسوق الخاصة بي</string>
+    <string name="splash_background">خلفية سبلاش</string>
+    <string name="cancel">إلغاء</string>
+    <string name="elapsed_time">منذ %1$d %2$s &quot;</string>
+    <string name="value_currency">%1$s %2$s&quot;</string>
+    <string name="card_masked">•••• •••• •••• %1$s&quot;</string>
+    <string name="just_now">فقط الآن</string>
+
+    <plurals name="year">
+        <item quantity="one">سنة </item>
+        <item quantity="other">سنوات </item>
+    </plurals>
+
+    <plurals name="month">
+        <item quantity="one">شهر </item>
+        <item quantity="other">شهور </item>
+    </plurals>
+
+    <plurals name="day">
+        <item quantity="one">يوم </item>
+        <item quantity="other">أيام </item>
+    </plurals>
+
+    <plurals name="hour">
+        <item quantity="one">ساعة </item>
+        <item quantity="other">ساعات </item>
+    </plurals>
+
+    <plurals name="minute">
+        <item quantity="one">دقيقة </item>
+        <item quantity="other">دقائق </item>
+    </plurals>
+
+    <plurals name="second">
+        <item quantity="one">ثانية </item>
+        <item quantity="other">ثواني </item>
+    </plurals>
+
+    <plurals name="week">
+        <item quantity="one">أسبوع </item>
+        <item quantity="other">أسابيع </item>
+    </plurals>
+
+    <string name="size_guide">دليل المقاسات </string>
+    <string name="shipping_info">معلومات الشحن </string>
+    <string name="description">الوصف </string>
+    <string name="collections">المجموعات </string>
+    <string name="your_order_is_complete">طلبك مكتمل! </string>
+    <string name="web_checkout_confirmation_message">تم إرسال بريد إلكتروني للتأكيد </string>
+    <string name="email_placeholder">test@test.com</string>
+    <string name="keep_shopping">متابعة التسوق</string>
+    <string name="ship_box">خانة الشخن </string>
+    <string name="no_internet">يرجى التحقق من اتصال الانترنت الخاص بك </string>
+    <string name="checkout">إتمام عملية الدفع</string>
+    <string name="three_d_secure_authentication">مصادقة ثلاثية الأبعاد آمنة</string>
+    <string name="discount">خصم </string>
+    <string name="review_your_order">راجع طلبك </string>
+    <string name="google_pay_error">خطأ في جوجل باي</string>
+    <string name="failed_to_process_payment_title">فشل في معالجة الدفع</string>
+    <string name="failed_to_process_payment">فشل في معالجة الدفع، يرجى المحاولة مرة أخرى في وقت لاحق. </string>
+    <string name="arrow">سهم </string>
+    <string name="menu_item">عنصر القائمة </string>
+    <string name="logo">شعار   </string>
+    <string name="not_implemented">لم تنفذ حتى الآن</string>
+    <string name="sold_out">نفذت </string>
+    <string name="coming_soon">قريباً</string>
+    <string name="email_address">عنوان البريد الإلكتروني </string>
+    <string name="password">كلمة المرور</string>
+    <string name="email_error_message">يرجى كتابة عنوان بريد إلكتروني قبل المتابعة. </string>
+    <string name="password_error_message">لا يمكن ترك كلمة المرور فارغة.   </string>
+    <string name="login_error">خطأ في تسجيل الدخول </string>
+    <string name="error">خطأ </string>
+    <string name="no_results">لا توجد نتائج </string>
+    <string name="urban_planet_marker">علامة الكوكب الحضري</string>
+    <string name="try_again_error">حاول مرة اخرى.</string>
+    <string name="store_credit">المرتجعات:  رصيد شراء من المتجر</string>
+    <string name="fraud_prevention">منع الاحتيال</string>
+    <string name="store_credit_title">رصيد شراء من المتجر</string>
+    <string name="return_policy_title">سياسة الإرجاع</string>
+    <string name="store_credit_text">مع وجود استثناءات محدودة، يتم رد المرتجعات الصالحة في صورة رصيد شراء من المتجر ستخضع العناصر التالفة/المعيبة لعملية تبادل إذا كانت متوفرة في المخزن.سيتم إصدار كل أرصدة الشراء من المتجر و/أو المبالغ المستردة و/أوعمليات التبادل المستحقة في غضون 3 إلى 5 أيام عمل بعد معالجة الإرجاع. جميع العناصر التي تنتهي أسعارها بـ \$.00, .96, 97 و.98 هي بيع نهائي ولا يمكن إرجاعها للحصول على رصيد شراء من المتجر. يمكنك العثور على معلومات إضافية حول سياسة الإرجاع الخاصة بنا</string>
+    <string name="store_credit_text_hyperlink">هنا</string>
+    <string name="slash" translatable="false">/</string>
+    <string name="free_gift">هدية مجانية </string>
+    <string name="a11y_original_and_discounted_price">السعر الأصلي %1$s، السعر المخفَّض %2$s</string><!--Account--><string name="account">الحساب </string>
+    <string name="sign_in">تسجيل الدخول</string>
+    <string name="create_an_account">إنشاء حساب</string>
+    <string name="already_have_an_account">هل لديك حساب بالفعل؟</string>
+    <string name="log_in">تسجيل الدخول</string>
+    <string name="log_in_to_account">تسجيل الدخول إلى الحساب </string>
+    <string name="create_a_new_account">إنشاء حساب جديد </string>
+    <string name="full_nme">الاسم بالكامل </string>
+    <string name="sign_up">إنشاء حساب</string>
+    <string name="name_error_message">يرجى إدخال اسمك الكامل قبل المتابعة. </string>
+    <string name="sign_up_error">خطأ في إنشاء حساب </string>
+    <string name="no_address">لا يوجد عنوان متاح </string>
+    <string name="my_orders">طلباتي </string>
+    <string name="orders">الطبات </string>
+    <string name="hi_user">مرحبًا، %s. </string>
+    <string name="favorites">المفضلات</string>
+    <string name="start_browsing">ابدأ التصفح لتظهر العناصر الخاصة بك هنا</string>
+    <string name="recently_viewed">منتجات شوهدت مؤخراً</string>
+    <string name="first_name_empty_error">لا يمكن ترك الاسم الأول فارغًا.</string>
+    <string name="last_name_empty_error">لا يمكن ترك الاسم الأخير فارغًا. </string>
+    <string name="first_name">الاسم الأول</string>
+    <string name="last_name">اللقب</string>
+    <string name="forgot_password">هل نسيت كلمة المرور؟</string>
+    <string name="forgot_password_dialog_message">هل نسيت كلمة المرور؟                                                            سنرسل لك رابط إعادة تعيين.</string>
+    <string name="send_reset_password_link">أرسل الرابط </string>
+    <string name="change_password_error">خطأ في تغيير كلمة المرور</string>
+    <string name="reset_password_email_sended">تم إعادة تعيين كلمة المرور.  يرجى التحقق من بريدك الالكتروني. </string>
+    <string name="underlined_create_account"><u>إنشاء حساب</u></string>
+    <string name="default_error_message">عفوًا، حدث خطأ.  يرجى إعادة المحاولة في وقت لاحق. </string>
+    <string name="incorrect_email_or_password">البريد الإلكتروني أو كلمة مرورغير صحيحة. </string>
+    <string name="dont_have_an_account">لا/ تملك حساب؟ </string>
+    <string name="log_out">تسجيل الخروج </string><!--Cart--><string name="add_item">إضافة عنصر</string>
+    <string name="enter_discount_code">أدخل كود الخصم</string>
+    <string name="enter_gift_card">أدخل رقم بطاقة الهدايا </string>
+    <string name="apply_discount">تطبيق الخصم  </string>
+    <string name="applied_discount_code">🔥كود : %1$s </string>
+    <string name="applied_gift_card">🎁•••• %s </string>
+    <string name="continue_shopping">متابعة التسوق</string>
+    <string name="start_shopping">ابدأ التسوق</string>
+    <string name="empty_cart">عربة فارغة </string>
+    <string name="empty_cart_message">ليس لديك أي عناصر في عربة التسوق الخاصة بك في الوقت الحالي</string>
+    <string name="your_cart_is_empty">عربة التسوق الخاصة بك فارغة </string>
+    <string name="apply_gift_card">تطبيق بطاقة الهدايا </string>
+    <string name="dialog_background_image">صورة خلفية الحوار </string>
+    <string name="discount_error_title">كود الخصم غير صالح </string>
+    <string name="variant_not_available">لم تعد بعض العناصر متوفرة وتم تحديث عربة التسوق الخاصة بك.  </string>
+    <string name="gift_card_error_title">بطاقة هدية غير صالحة </string>
+    <string name="something_went_wrong_try_again">حدث خطأ ما.                                                                        يرجى المحاولة مرة أخرى. </string>
+    <string name="credit_card">بطاقة الائتمان </string>
+    <string name="paypal">باي بال ‏</string>
+    <string name="amazon_pay">أمازون باي</string>
+    <string name="google_pay">جوجل باي</string>
+    <string name="pay_with">دفع عن طريق </string>
+    <string name="ship_to_me_title">الشحن إليّ </string>
+    <string name="ship_to_me_message">احصل عليه بسرعة في أي عنوان </string>
+    <string name="ship_to_store_title">الشحن للمتجر</string>
+    <string name="ship_to_store_message">اختر مكان استلامه </string>
+    <string name="reach_max_cart_line_items_error_message">يتجاوز حد٪s، يرجى إزالة عنصر (عناصر) من عربة التسوق.</string>
+    <string name="discount_error_not_applied_to_items">لا ينطبق الخصم على العناصر الموجودة في عربة التسوق الخاصة بك  </string>
+    <string name="no_internet_connection">لا يوجد اتصال بالإنترنت</string>
+    <string name="generic_checkout_creation_error">كان هناك خطأ في إنشاء عملية الدفع الخاصة بك</string>
+    <string name="throttle_failure">معذرة ، لم تنجح عملية الدفع الخاص بك. حاول مرة اخرى.</string>
+    <string name="dont_leave_page_queue_message">لا تغادر الصفحة وإلا ستفقد مكانك! </string>
+    <string name="thank_you_queue_message">شكرا جزيلا لصبرك!   ستكون بضع لحظات فقط! </string>
+    <string name="discount_error_not_found">يتعذر العثور على خصم صالح يطابق الرمز الذي تم إدخاله  </string>
+    <string name="discount_error_general">لم يتم تطبيق الخصم.  حاول مرة اخرى.</string>
+    <string name="add_items_from_favorites">إضافة عناصر من المفضلات </string>
+    <string name="add_my_favorite_items">إضافة العناصر المفضلة الخاصة بي؟</string>
+    <string name="error_add_favorite_items_cart">عذرا، كانت هناك مشكلة في إضافة بعض العناصر إلى سلة التسوق.</string>
+    <string name="product_is_sold_out_error">عذرا، تم بيع المنتج.</string>
+    <string name="cart_update_error_title">تعذر تحديث عربة التسوق</string>
+    <string name="cart_update_error_discount">تمت كود رمز الخصم الخاص بك بسبب مشكلة. يرجى محاولة إضافته مرة أخرى.</string>
+    <string name="cart_update_error_gift_card">تمت إزالة بطاقة الهدايا الخاصة بك بسبب مشكلة. يرجى محاولة إضافته مرة أخرى.</string><!--Checkout--><string name="gift_card">بطافة الهدايا </string>
+    <string name="duties">الواجبات </string>
+    <string name="shipping">الشحن   </string>
+    <string name="tax">الضريبة </string>
+    <string name="total">المجموع  </string>
+    <string name="submit_order">تأكيد الطلب </string>
+    <string name="complete_order">أكمل الطلب </string>
+    <string name="continue_to_payment">تابع إلى الدفع   </string>
+    <string name="signed_in_as">&quot;تم التوقيع كـ&quot;  </string>
+    <string name="already_have_account">هل لديك حساب بالفعل؟ </string>
+    <string name="underlined_sign_in"><u>تسجيل الدخول</u></string>
+    <string name="underlined_sign_in_sentence"><u>سجّل الدخول. </u></string>
+    <string name="checkout_as_guest">أو إكمال الدفع كضيف </string>
+    <string name="add">إضافة   </string>
+    <string name="add_shipping_info">إضافة عنوان الشحن </string>
+    <string name="add_billing_address">إضافة عنوان الفاتورة </string>
+    <string name="add_payment_info">أضف معلومات الدفع    </string>
+    <string name="free">مجاني </string>
+    <string name="order_note">ملاحظة:  %1$s</string>
+    <string name="summary">ملخص </string>
+    <string name="minus">-%1$s</string>
+    <string name="payment">الدفع </string>
+    <string name="add_payment">إضافة عملية دفع </string>
+    <string name="billing_address">عنوان الفاتورة هو نفسه عنوان الشحن </string>
+    <string name="shipping_method">طريقة الشحن </string>
+    <string name="ship_to_store">الشحن للمتجر</string>
+    <string name="in_store_pickup">الاستلام في المتجر</string>
+    <string name="pick_up_here">استلم هنا </string>
+    <string name="update_shopping_cart">تحديث عربة التسوق</string>
+    <string name="update_shipping_address">تحديث عنوان الشحن </string><!-- Contact Sharing--><string name="contact_sharing">مشاركة مع الأصدقاء</string>
+    <string name="module_title">الإحالة</string>
+    <string name="contact_sharing_cta_contacts">دعوة من قائمة جهات الاتصال الخاصة بي</string>
+    <string name="contact_sharing_cta_invite">مشاركة دعوة</string>
+    <string name="contact_sharing_description_placeholder">سنرسل بطاقة هدايا بقيمة 20 دولارًا أمريكيًا عند إجراء عملية شراء. استخدم قائمة الاتصال الخاصة بك لإحالة الأصدقاء.</string>
+    <string name="contact_sharing_permission_denied">مطلوب الوصول إلى جهات اتصال الجهاز للمتابعة. يرجى توفير الوصول إلى جهات الاتصال في إعدادات جهازك.</string><!--Credit Card--><string name="empty_card_error">&quot;يرجى إدخال رقم بطاقة الائتمان.&quot; </string>
+    <string name="invalid_card_error">&quot;رقم بطاقة الائتمان غير صالح.&quot; </string>
+    <string name="scan_your_card">امسح بطاقتك ضوئيًا  </string><!--Notes--><string name="add_order_notes">إضافة ملاحظات الطلب  </string>
+    <string name="gift_cart_or_delivery_date_notes">رسالة بطاقة الهدية | تاريخ التسليم المطلوب </string>
+    <string name="add_notes">إضافة ملاحظات </string>
+    <string name="notes_hint">اكتب ملاحظة في طلبك </string>
+    <string name="update_notes_error">خطأ في تحديث الملاحظات </string><!--Address--><string name="billing">إعداد الفواتير </string>
+    <string name="email">البريد الإلكتروني </string>
+    <string name="new_address">عنوان جديد </string>
+    <string name="add_new_address">أضف عنوان جديد </string>
+    <string name="update_address">تحديث العنوان </string>
+    <string name="phone_number">رقم الهاتف </string>
+    <string name="full_name">الاسم بالكامل </string>
+    <string name="street_address">عنوان الشارع </string>
+    <string name="unit">الوحدة (اختياري) </string>
+    <string name="city">المدينة </string>
+    <string name="postal_code">الرمز البريدي  </string>
+    <string name="state">الولاية </string>
+    <string name="province">المقاطعة </string>
+    <string name="country">البلد </string>
+    <string name="save_address">حفظ العنوان  </string>
+    <string name="empty_email_error">يرجى إدخال عنوان البريد الإلكتروني الخاص بك. </string>
+    <string name="invalid_email_error">يُرجى إدخال بريد الكتروني صحيح.   </string>
+    <string name="phone_error">يُرجى إدخال رقم هاتفك. </string>
+    <string name="empty_full_name_error">يٌرجى إدخال اسمك بالكامل. </string>
+    <string name="full_name_error">يرجى إدخال اسمك الأول والأخير. </string>
+    <string name="empty_address_error">يرجى إدخال عنوانك. </string>
+    <string name="empty_city_error">يُرجى إدخال مدينتك. </string>
+    <string name="empty_zip_error">يُرجى إدخال رمز البريد. </string>
+    <string name="empty_state_error">يُرجى إدخال بلدك. </string>
+    <string name="restricted_shipping_country_error">عذرًا، لديك عناصر في عربة التسوق الخاصة بك لا يمكن شحنها خارج الولايات المتحدة   </string>
+    <string name="does_not_ship_to_country_error">نحن آسفون، نحن لا نشحن إلى البلد المحدد. </string>
+    <string name="empty_country_error">يرجى إدخال بلدك. </string>
+    <string name="unknown_country_error">يتعذر تحديد البلد المحدد. </string>
+    <string name="update_address_error">يتعذر حفظ العنوان. </string>
+    <string name="empty_phone_error">&quot;يرجى إدخال رقم هاتفك في نموذج الشحن.&quot; </string>
+    <string name="beauty_items_error">لا يمكن شحن عناصر التجميل الموجودة في عربة التسوق إلا إلى الولايات المتحدة الأمريكية أو كندا.  لإتمام عملية الدفع، يرجى إزالة عناصر التجميل في عربة التسوق الخاصة بك أو تحديث عنوان الشحن. </string>
+    <string name="a11y_selected">محدد </string>
+    <string name="a11y_unselected">غير محدد</string><!--Processing--><string name="processing_title">انتظر قليلاً\. نحاول معالجة طلبك. </string>
+    <string name="processing_subtitle">قد يستغرق هذا بضع ثوانٍ. </string>
+    <string name="out_of_stock_title">ليس لدينا ما يكفي من العناصر التي طلبتها. </string>
+    <string name="out_of_stock_subtitle">لقد حدّثنا كميات العناصر أدناه. يرجى مراجعة عربة التسوق الخاصة بك للمتابعة. </string>
+    <string name="checkout_completed_title">أنت جاهز تمامًا!\nشكرًا لك على طلبك. </string>
+    <string name="checkout_completed_message">من المفترض أن تتلقى تأكيدًا عبر البريد الإلكتروني قريبًا </string>
+    <string name="review_cart">مراجعة عربة التسوق </string>
+    <string name="processing_checkout_error">&quot;كانت هناك مشكلة في إكمال عملية الدفع.  يرجى المحاولة مرة أخرى.</string><!--Collection--><string name="sort">فرز </string>
+    <string name="recommended">الموصى به </string>
+    <string name="whats_new">الجديد </string>
+    <string name="best_selling">الأفضل مبيعًا </string>
+    <string name="price_low_to_high">السعر:  من الأرخص للأغلى </string>
+    <string name="price_high_to_low">السعر:  من الأغلى للأرخص   </string>
+    <string name="filter">عامل التصفية </string>
+    <string name="apply">تطبيق </string>
+    <string name="clear">مسح</string>
+    <string name="error_get_filter">يتعذر الحصول على عوامل التصفية</string>
+    <string name="update_wish_list_error_dialog_message">فشل تحديث قائمة الرغب ات.  حاول مرة اخرى قريبًا.</string>
+    <string name="reach_max_favorites_error_message">يتجاوز حد٪s، يرجى إزالة عنصر (عناصر) من قائمة الرغبات.</string>
+    <string name="empty_state_collection_title">لا توجد منتجات </string>
+    <string name="empty_state_collection_message">لم نتمكن من تحديد موقع                                                                المنتجات في هذه المجموعة</string>
+    <string name="unavailable_collection_message">هذه المجموعة لم تعد متوفرة.</string>
+    <!--Favorite-->
+    <string name="my_wishlist">قائمة رغباتي</string>
+    <string name="my_wishlists">قائمات رغباتي</string>
+    <string name="my_favorites">مفضلاتي </string>
+    <string name="empty_wish_list">المفضلة الخاصة بي فارغة</string>
+    <string name="favorite_header">مشاركة مفضلاتك  </string>
+    <string name="share_wish_list">تحقق من %1$s المفضلة!\n </string>
+    <string name="a11y_favorite_button_label"> زر المفضلة</string>
+    
+    <!--  Read with an accessibility action, e.g. "Double-tap to [action]"  --><string name="a11y_favorite_button_add_action">أضف المنتج إلى مفضلاتك.</string>
+    <string name="a11y_favorite_button_remove_action">إزالة المنتج من المفضلة</string>
+    <string name="a11y_favorite_button_sign_in_action">تسجيل الدخول</string><!-- Installment Payments --> <!-- TODO move to a constants file --><string name="quad_pay" translatable="false">الدفع المقدم </string>
+    <string name="after_pay" translatable="false">الدفع اللاحق </string>
+    <string name="klarna" translatable="false">Klarna</string>
+    <string name="affirm" translatable="false">يؤكد</string>
+    <string name="sezzle" translatable="false">Sezzle</string>
+    <string name="installment_provider_text">&quot;اشتر الآن، وادفع لاحقًا.\n%d مدفوعات بدون فوائد لـ %s&quot; </string><!--Main--><string name="cart_icon">أيقونة العربة </string>
+    <string name="menu_background">خلفية القائمة </string>
+    <string name="sure_log_out">هل أنت متأكد أنك تريد تسجيل الخروج من التطبيق؟ </string>
+    <string name="my_account">حسابي </string>
+    <string name="install">تثبيت </string>
+    <string name="video_placeholder">عنصر نائب للفيديو </string>
+    <string name="exit_preview">الخروج من المعاينة </string>
+    <string name="a11y_navigation_icon"> قائمة</string>
+
+    <string name="a11y_video_block_product_destination">فيديو. انقر نقرًا مزدوجًا لفتح المنتج.</string>
+    <string name="a11y_video_block_collection_destination">فيديو. انقر نقرًا مزدوجًا %s لفتح المجموعة.</string>
+    <string name="a11y_video_block_webpage_destination">فيديو. انقر نقرًا مزدوجًا لفتح صفحة الويب.</string>
+    <string name="a11y_video_block">فيديو</string>
+    <string name="a11y_image_block_product_destination">صورة. انقر نقرًا مزدوجًا لفتح المنتج.</string>
+    <string name="a11y_image_block_collection_destination">صورة. انقر نقرًا مزدوجًا %s لفتح المجموعة.</string>
+    <string name="a11y_image_block_webpage_destination">صورة. انقر نقرًا مزدوجًا لفتح صفحة الويب.</string>
+    <string name="a11y_image_block">صورة</string><!--  Read with an accessibility action, e.g. "Double-tap to [action]"  --><string name="a11y_image_block_action_open_webpage">افتح صفحة الويب</string>
+    <string name="a11y_image_block_action_open_collection">افتح مجموعة</string><!--Search--><string name="barcode_scanner">مسح الرمز الشريطى ضوئيًا </string>
+    <string name="photo_search_button">ارفع صورة</string>
+    <string name="search_no_results_description">لم نتمكن من العثور على العنصر/الذي كنت تبحث عنه.</string>
+    <string name="search_products">البحث عن المنتجات </string>
+    <string name="popular_searches">عمليات البحث العامة </string>
+    <string name="trending_searches">عمليات البحث الشائعة </string><!--Order--><string name="order_description_placeholder">العنصر النائب لوصف الطلب </string>
+    <string name="order_total_placeholder">99.99 دولار</string>
+    <string name="order_days_placeholder">منذ 17 يوم </string>
+    <plurals name="order_quantity_count">
+        <item quantity="one">و%d عنصر آخر  </item>
+        <item quantity="other">و%d من العناصر الأخرى </item>
+    </plurals>
+    <string name="order">اطلب</string>
+    <string name="you_have_no_orders">ليس لديك طلبات </string>
+    <string name="check_back">تحقق مرة أخرى بعد إجراء طلبك الأول </string>
+    <string name="processing">جارٍ المعالجة </string><!--ProductDetails--><string name="keep_track">حافظ على تتبع ملفاتك المفضلة </string>
+    <string name="create_account_to_save_favorites">قم بإنشاء حساب %1$s لحفظ وتتبع جميع العناصر المفضلة لديك. </string>
+    <string name="sign_in_to_save_favorites">سجّل الدخول إلى حسابك %1$s لحفظ وتتبع جميع العناصر المفضلة لديك. </string>
+    <string name="create_account_or_sign_in">إنشاء حساب أو تسجيل الدخول </string>
+    <string name="reviews">التقييمات </string>
+    <string name="verified_icon">رمز التحقق </string>
+    <string name="you_may_also_like">ربما يعجبك </string>
+    <string name="first_to_write_review">كن أول من يقيّم </string>
+    <string name="uber_chic_checkout_already_created_message">عذرًا، لا يمكنك إضافة منتج إلى عربة التسوق بعد إتمام عملية الدفع بالفعل </string>
+    <string name="view_all_reviews">عرض كل                                                                                التقييمات </string>
+    <string name="something_went_wrong">تبا، حدث خطأ ما. </string>
+    <string name="notify_when_available">أعلمني عند توفره </string>
+    <string name="notify_when_available_confirmation">بمجرد توفر العنصر في المخزن، سنخطرك </string>
+    <string name="final_sale">عرض أخير </string>
+    <string name="clearance_tag">في التصفيات </string>
+    <string name="plus">المقاسات الكبيرة </string>
+    <string name="misses">المفقودات </string>
+    <string name="petite">المقاسات الصغيرة </string>
+    <string name="select_size_range">حدد نطاق الحجم </string>
+    <string name="parenthesis">(%s)</string>
+    <string name="shop_similar">تسوق المشابه </string>
+    <string name="installment_provider_logo_content_desc">شعار مقدم خدمة التقسيط </string>
+    <string name="product_video">فيديو المنتج </string>
+    <string name="color">اللون </string>
+    <string name="video_banner_play_button_content_desc">زر التشغيل</string>
+    <string name="become_a_subscriber">اشترك </string>
+    <string name="become_a_subscriber_and_save">اشترك واحفظ %d%% </string>
+    <string name="select">حدد </string>
+    <string name="select_something">حدد %s </string>
+    <string name="size_range">نطاق الحجم </string>
+    <string name="initial_time" translatable="false">00:00</string>
+    <string name="a11y_play"> تشغيل</string>
+    <string name="a11y_pause">إيقاف مؤقت</string>
+    <string name="a11y_enter_fullscreen">أدخل ملء الشاشة</string>
+    <string name="a11y_exit_fullscreen">الخروج من وضع ملئ الشاشة</string>
+    <string name="share_product">أعتقد أنك قد ترغب في هذا!  أسرع، لأنه قد ينفد بسرعة!                                                           \n%s</string>
+    <string name="unavailable_product_message">هذا المنتج لم يعد متاحا.</string>
+    <string name="a11y_variant_sold_out">%s غير متاح</string><!--  Read with an accessibility action, e.g. "Double-tap to [action]"  --><string name="a11y_collapse_action">انهيار</string>
+    <string name="a11y_expand_action">توسيع </string><!--StoreLocator--><string name="store_locator">فروعنا </string>
+    <string name="list">قائمة </string>
+    <string name="map">خريطة </string>
+    <string name="search_by_postal_code">البحث عبر الرمز البريدي</string>
+    <string name="no_results_description">لم نتمكن من العثور على متاجر داخل هذا الرمز البريدي</string>
+    <string name="temporarily_closed">مغلق مؤقتًا </string>
+    <string name="store_hours">ساعات عمل المتجر </string>
+    <string name="a11y_edit_store">تحرير المتجر</string><!--  Read with an accessibility action, e.g. "Double-tap to [action]"  --><string name="a11y_favorite_store_button_add_action">اجعل هذا المتجر المفضل لديك</string>
+    <string name="a11y_favorite_store_button_remove_action">إزالة هذا المتجر كمفضل لديك</string><!--FourSixty--><string name="shop_our_instagram">تسوق على الانستغرام لدينا </string>
+    <string name="four_sixty_header_message">شاهد ما يرتديه الآخرون على انستغرام وتسوق من هنا. </string>
+    <string name="four_sixty_see_it_instagram_header_message">شاهده على انستغرام </string><!--Write a Review--><string name="write_a_review">اكتب تعليق</string>
+    <string name="how_would_you_rate">كيف تقيم هذا العنصر؟</string>
+    <string name="name">الاسم </string>
+    <string name="title">الكنية</string>
+    <string name="message">رسالة</string>
+    <string name="submit_review">إرسال التعليق</string>
+    <string name="empty_name_error">يُرجى إدخال اسمك.</string>
+    <string name="review_title_error">يُرجى إعطاء عنوان للتقييم. </string>
+    <string name="review_title_success">تم نشر تقييمك بنجاح! </string><!--Recharge--><string name="my_subscriptions">اشتراكاتي </string>
+    <string name="manage_subscription_on_web">إدارة الاشتراكات على شبكة الإنترنت </string>
+    <string name="recharge" translatable="false">إعادة شحن </string>
+    <string name="subscribe_and_save">&quot;اشتراك وحفظ&quot; </string>
+    <string name="one_time_purchase">الشراء مرة واحدة </string>
+    <string name="subscribe_every">اشترك كل %1$s </string>
+    <string name="save_percent">حفظ %1$d%% </string>
+    <string name="purchase_options">خيارات الشراء </string>
+    <string name="subscription_every">اشتراكات:  كل %1$d %2$s </string>
+
+    <plurals name="rating_info">
+        <item quantity="one">%2$.2f | %1$d تقييم </item>
+        <item quantity="other">%2$.2f | %1$d تقييمات </item>
+    </plurals><!-- Quick Add/Update --><string name="view"><u>عرض </u></string>
+    <string name="select_your">اختر %s الخاص بك </string>
+    <string name="quick_add_plus">+ إضافة سريعة </string>
+    <string name="update_cart">تحديث عربة التسوق</string><!-- Onboarding --><string name="create_account">إنشاء حساب</string>
+    <string name="skip">تخطي </string>
+    <string name="title_onboarding">الإعداد </string><!-- Notifications--><string name="no_notifications_title">لا توجد إشعارات </string>
+    <string name="no_notifications_message">لا توجد إشعارات\لإظهارها في الوقت الحالي </string>
+    <string name="notifications_error">هناك خطأ ما.  حاول مرة اخرى قريبًا.</string>
+
+    <string name="title_test">عنوان الاختبار </string>
+    <string name="title_shoppableinstagram">تسوق على الانستغرام </string>
+    <string name="title_search">البحث </string>
+    <string name="title_notifications">إشعارات</string><!--Countdown Timer block --><string name="countdown_timer_number_format">%02d</string><!--QuadPay--><string name="quad_pay_eligible_message">اشترِ الآن وادفع لاحقًا.\n%1$d مدفوعات بدون فوائد%2$s  </string>
+    <string name="quad_pay_ineligible_message">%1$dمدفوعات بدون فوائد على الطلبات التي تزيد عن $%2$s </string><!--My Rewards--><string name="title_loyalty">الولاء </string>
+    <string name="about">حول   </string>
+    <string name="loyalty_rewards">مكافآت الولاء </string>
+    <plurals name="your_balance">
+        <item quantity="one">رصيدك:  &lt;b&gt;%,d نقطة&lt;/b&gt; </item>
+        <item quantity="other">رصيدك:  &lt;b&gt;%,d نقاط&lt;/b&gt; </item>
+    </plurals>
+    <plurals name="tier_level">
+        <item quantity="one">%d من %d مستوى </item>
+        <item quantity="other">%d من %d مستويات </item>
+    </plurals>
+    <string name="number_with_comma">%,d</string>
+    <string name="of_progress">من %,d </string>
+    <string name="tier">%s مستوى </string>
+    <string name="ways_to_earn_extra">طرق لكسب المزيد </string>
+    <string name="view_more_underlined">&lt;u&gt;عرض المزيد&lt;/u&gt; </string>
+    <string name="close_underlined">&lt;u&gt;إغلاق&lt;/u&gt; </string>
+    <string name="a11y_close">إغلاق </string>
+    <string name="a11y_back">مرة ثاني</string>
+    <string name="share_with_friends">مشاركة مع الأصدقاء</string><!--My Rewards Dialog--><string name="my_rewards">مكافآتي</string>
+    <string name="my_rewards_all_caps">مكافآتي</string>
+    <string name="choose_reward">اختر مكافأة </string>
+    <string name="choose_a_reward">اختر مكافأة: </string>
+    <string name="redeem_reward">استرداد المكافأة </string>
+    <string name="remove">إزالة  </string>
+    <string name="points">%d من النقاط </string>
+    <string name="points_non_reversible">*لا يمكن التراجع عن النقاط المستخدمة لاسترداد المكافآت. </string>
+    <string name="redeem_points_for_discount">استبدال النقاط بخصم. </string>
+    <string name="banner_reward_applied">&lt;b&gt;%s مُطبّق&lt;/b&gt; - الرمز:  %s</string>
+    <string name="unclaimed">غير مُطالب به: </string>
+    <string name="reward_code_invalid">رمز المكافأة غير صالح. </string>
+    <string name="reward_has_zero_balance">المكافأة ليس لها رصيد. </string>
+    <string name="reward_is_expired">انتهت صلاحية المكافأة. </string>
+    <string name="reward_code_not_found">كود المكافأة غير موجود.</string>
+    <string name="reward_already_redeemed">تم استرداد مكافأتك بالفعل. </string>
+    <string name="cannot_apply_reward">لا يمكن تطبيق المكافأة. </string>
+    <string name="cannot_apply_multiple_gift_cards">لا يمكن تطبيق بطاقات هدايا متعددة.</string>
+    <string name="reward_is_disabled">تم تعطيل المكافأة.  يُرجى المحاولة مرة أخرى لاحقًا. </string>
+    <string name="no_rewards_available">لا توجد مكافآت متاحة </string>
+    <string name="setting_up_loyalty">إعداد حساب الولاء الخاص بك... </string>
+    <string name="discount_not_applicable_error">لا ينطبق الخصم على العناصر الموجودة في عربة التسوق الخاصة بك. </string><!--Subscriptions--><string name="title_subscriptions">الاشتراكات </string>
+    <string name="active">نشط </string>
+    <string name="inactive">غير نشط </string>
+    <string name="next_billing_date">موعد دفع الفواتيرالتالي:  %1$s</string>
+    <string name="skipped_order">تم تخطي الطلب: %1$s</string>
+    <string name="subscription_inactive">اشتراك غير نشط </string>
+    <string name="no_subscriptions">لا توجد اشتراكات </string>
+    <string name="no_subscriptions_yet">لم تقم بإنشاء أي \اشتراكات حتى الآن </string><!--Subscription Details--><string name="subscription_details">تفاصيل الاشتراك </string>
+    <string name="frequency">التكرار </string>
+    <string name="delivered_every">كل %1$s </string>
+    <string name="reactivate_subscription">إعادة تنشيط الاشتراك </string>
+    <string name="save_changes">حفظ التغييرات </string>
+    <string name="select_a_frequency">حدد التكرار </string>
+    <string name="select_a_quantity">حدد كمية </string>
+    <string name="every">كل %1$d %2$s</string>
+    <string name="skip_next_charge">تخطي المحاسبة التالية </string>
+    <string name="unskip_next_charge">إلغاء تخطي المحاسبة التالية </string>
+    <string name="deactivate_subscription">إلغاء الاشتراك </string>
+    <string name="subscription_updated_message">لقد / قمنا بتحديث اشتراكك </string>
+    <string name="a11y_change_quantity">تغيير الكمية</string>
+
+    <plurals name="day_interval">
+        <item quantity="one">%1$d يوم </item>
+        <item quantity="other">%1$d أيام </item>
+    </plurals>
+    <plurals name="week_interval">
+        <item quantity="one">%1$d أسبوع </item>
+        <item quantity="other">%1$d أسابيع </item>
+    </plurals>
+    <plurals name="month_interval">
+        <item quantity="one">%1$d شهر </item>
+        <item quantity="other">%1$d أشهر </item>
+    </plurals><!--Reactivate Subscription--><string name="reactivate_subscription_title">إعادة تنشيط الاشتراك </string>
+    <string name="reactivate_subscription_message">سيتم محاسبتك في تاريخ الفاتورة التالية. </string>
+    <string name="confirm">تأكيد</string><!--Deactivate Subscription--><string name="deactivate_subscription_title">إلغاء الاشتراك </string>
+    <string name="deactivate_subscription_message">هل أنت متأكد أنك تريد إلغاء اشتراكك؟ </string>
+    <string name="deactivate">إلغاء تنشيط </string><!--Skip Charge--><string name="skip_charge_title">تخطي المحاسبة </string>
+    <string name="skip_charge_message">هل أنت متأكد أنك تريد تخطي تاريخ اشتراكك القادم؟ </string>
+    <string name="skip_charge">تخطي </string><!--Unskip Charge--><string name="unskip_charge_title">إلغاء تخطي المحاسبة </string>
+    <string name="unskip_charge_message">هل أنت متأكد أنك تريد إلغاء تخطي تاريخ اشتراكك التالي؟ </string>
+    <string name="unskip_charge">إلغاء التخطي </string><!--Leave Subscription Unsaved--><string name="leave_unsaved_message">هل أنت متاكد أنك تريد المغادرة؟ \n سيتم تجاهل كافة التغييرات غير المحفوظة.</string>
+    <string name="leave">مغادرة</string><!--Recharge Errors--><string name="auth_error_message">عفوًا! حدث خطأ في المصادقة</string>
+    <string name="parse_error_message">عفوًا! حدث خطأ في إكمال المهمة</string><!--Subscription Address--><string name="select_address">اختر عنوان</string>
+    <string name="edit_address">تعديل العنوان</string>
+    <string name="deliver_to_address">التوصيل لهذا العنوان</string><!--Abandoned Items--><string name="finish_checkout">إتمام الدفع</string>
+    <string name="view_cart">عرض عربة التسوق</string>
+    <string name="abandoned_checkout_title">يمكنك المتابعة من حيث توقفت! أكمل طلبك الآن.</string>
+    <string name="abandoned_cart_title">لقد نسيت هذا في عربة التسوق الخاصة بك. استكمل العملية الآن قبل أن ينفد.</string>
+
+    <plurals name="extra_items_message">
+        <item quantity="one">&quot;+ %1$d منتج آخر&quot;</item>
+        <item quantity="other">&quot;+ %1$d من المنتجات الأخرى&quot;</item>
+    </plurals>
+    <string name="title_address">العنوان</string><!-- Photo Search --><string name="take_photo">التقط صورة</string>
+    <string name="select_photo">اختر صورة</string>
+    <string name="photo_search_toolbar">بحث في الصور</string>
+    <string name="photo_search_description">يمكنك الآن البحث عن طريق التقاط صورة. أو قم بتحميل صورة واختر عنصرًا بداخلها وتسوق!</string>
+    <string name="photo_search_feed_description">ليس لديك صورة؟ جرب واحدة من صفحاتنا الرئيسية الاجتماعية</string>
+    <string name="replace_image">استبدال الصورة</string>
+
+    <string name="photo_search_sort_label" translatable="false">@string / فرز</string>
+    <string name="photo_search_sort_best_match">أفضل تطابق</string>
+    <string name="photo_search_sort_price_high_low" translatable="false">@string/price_high_to_low</string>
+    <string name="photo_search_sort_price_low_high" translatable="false">@string/price_low_to_high</string><!-- Multicurrency --><string name="change_currency">تغيير العملة</string>
+    <string name="change_currency_msg">سيؤدي هذا إلى إعادة تحميل تطبيقك وسوف تظهر الأسعار الآن بعملة %s.</string>
+    <string name="add_to_list_failed">فشل في إضافة عنصر إلى قائمة الرغبات</string>
+    <string name="failed_to_remove_wishlist_item">فشل في إزالة المنتج (المنتجات) من قائمة الرغبات</string>
+    <string name="default_wishlist_name">قائمة رغباتي</string>
+
+</resources>

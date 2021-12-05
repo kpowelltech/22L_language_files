@@ -1,0 +1,639 @@
+<resources>
+    <string name="underscore" translatable="false">_</string>
+    <string name="item_price_placeholder">Item Price</string>
+    <string name="options">Options</string>
+    <string name="search">Search</string>
+    <string name="item_name_placeholder">Item Name</string>
+    <string name="product_image">Product\'s image</string>
+    <string name="collection_title_placeholder">Collection Title</string>
+    <string name="view_collection">View Collection</string>
+    <string name="collection_name_placeholder">Collection Name</string>
+    <string name="view_all">View All</string>
+    <string name="collection_image">Collection Image</string>
+    <string name="shop_now">Shop Now</string>
+    <string name="ratting_count_placeholder">(999)</string>
+    <string name="add_to_bag">ADD TO BAG</string>
+    <string name="add_to_cart">ADD TO CART</string>
+    <string name="share">Share</string>
+    <string name="app_logo">App Logo</string>
+    <string name="items_count_placeholder">Items count</string>
+    <string name="remove_item">remove item</string>
+    <string name="subtotal">Subtotal</string>
+    <plurals name="cart_items_count">
+        <item quantity="one">%d item</item>
+        <item quantity="other">%d items</item>
+    </plurals>
+    <string name="my_bag">MY BAG</string>
+    <string name="my_cart">MY CART</string>
+    <string name="splash_background">Splash background</string>
+    <string name="cancel">Cancel</string>
+    <string name="elapsed_time">%1$d %2$s ago"</string>
+    <string name="value_currency">%1$s %2$s"</string>
+    <string name="card_masked">•••• •••• •••• %1$s"</string>
+    <string name="just_now">Just now</string>
+
+    <plurals name="year">
+        <item quantity="one">year</item>
+        <item quantity="other">years</item>
+    </plurals>
+
+    <plurals name="month">
+        <item quantity="one">month</item>
+        <item quantity="other">months</item>
+    </plurals>
+
+    <plurals name="day">
+        <item quantity="one">day</item>
+        <item quantity="other">days</item>
+    </plurals>
+
+    <plurals name="hour">
+        <item quantity="one">hour</item>
+        <item quantity="other">hours</item>
+    </plurals>
+
+    <plurals name="minute">
+        <item quantity="one">minute</item>
+        <item quantity="other">minutes</item>
+    </plurals>
+
+    <plurals name="second">
+        <item quantity="one">second</item>
+        <item quantity="other">seconds</item>
+    </plurals>
+
+    <plurals name="week">
+        <item quantity="one">week</item>
+        <item quantity="other">weeks</item>
+    </plurals>
+
+    <string name="size_guide">Size guide</string>
+    <string name="shipping_info">Shipping info</string>
+    <string name="description">Description</string>
+    <string name="collections">Collections</string>
+    <string name="your_order_is_complete">Your Order is Complete!</string>
+    <string name="web_checkout_confirmation_message">A Confirmation email has been sent your</string>
+    <string name="email_placeholder">test@test.com</string>
+    <string name="keep_shopping">Keep shopping</string>
+    <string name="ship_box">ship box</string>
+    <string name="no_internet">Please check your internet connection</string>
+    <string name="checkout">Checkout</string>
+    <string name="three_d_secure_authentication">3D Secure Authentication</string>
+    <string name="discount">Discount</string>
+    <string name="review_your_order">Review Your Order</string>
+    <string name="google_pay_error">Google pay error</string>
+    <string name="failed_to_process_payment_title">Failed to process payment</string>
+    <string name="failed_to_process_payment">Failed to process payment, please try again later.</string>
+    <string name="arrow">arrow</string>
+    <string name="menu_item">menu item</string>
+    <string name="logo">logo</string>
+    <string name="not_implemented">NOT IMPLEMENTED</string>
+    <string name="sold_out">Sold out</string>
+    <string name="coming_soon">Coming soon</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="email_error_message">Please provide an email address before proceeding.</string>
+    <string name="password_error_message">Password cannot be empty.</string>
+    <string name="login_error">Login Error</string>
+    <string name="error">Error</string>
+    <string name="no_results">No results</string>
+    <string name="urban_planet_marker">Urban Planet Marker</string>
+    <string name="try_again_error">Please try again.</string>
+    <string name="store_credit">Returns: Store Credit</string>
+    <string name="fraud_prevention">Fraud Prevention</string>
+    <string name="store_credit_title">Store Credit</string>
+    <string name="return_policy_title">Return Policy</string>
+    <string name="store_credit_text">With limited exceptions, valid returns are refunded in the form of store credit. Damaged/defective items will be subject to an exchange if in stock.\nAll store credit, refunds, and/or exchanges that are due will be issued within 3 to 5 business days after the return is processed.\nAll items with prices ending in \$.00, .96, .97 and .98 are final sale and cannot be returned for store credit.\nYou can find additional information about our Return Policy</string>
+    <string name="store_credit_text_hyperlink">HERE</string>
+    <string name="slash" translatable="false">/</string>
+    <string name="free_gift">Free gift</string>
+    <string name="a11y_original_and_discounted_price">Original price %1$s, sale price %2$s</string>
+
+    <!--Account-->
+    <string name="account">Account</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="log_in">Log In</string>
+    <string name="log_in_to_account">Log in to account</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="full_nme">Full Name</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name_error_message">Please enter your full name before proceeding.</string>
+    <string name="sign_up_error">Sign Up Error</string>
+    <string name="no_address">No Address Available</string>
+    <string name="my_orders">My Orders</string>
+    <string name="orders">Orders</string>
+    <string name="hi_user">Hi, %s.</string>
+    <string name="favorites">Favorites</string>
+    <string name="start_browsing">Start browsing to have your\nitems show up here</string>
+    <string name="recently_viewed">Recently Viewed</string>
+    <string name="first_name_empty_error">First name cannot be empty.</string>
+    <string name="last_name_empty_error">Last name cannot be empty.</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="forgot_password_dialog_message">Forgot password?\nWe’ll send you a reset link.</string>
+    <string name="send_reset_password_link">Send Link</string>
+    <string name="change_password_error">Change Password Error</string>
+    <string name="reset_password_email_sended">Password was reset. Please check your email.</string>
+    <string name="underlined_create_account"><u>Create account</u></string>
+    <string name="default_error_message">Oops, an error occurred. Please try again later.</string>
+    <string name="incorrect_email_or_password">Incorrect email or password.</string>
+    <string name="dont_have_an_account">Don\'t have an account?</string>
+    <string name="log_out">Log out</string>
+
+    <!--Cart-->
+    <string name="add_item">add item</string>
+    <string name="enter_discount_code">Enter Discount Code</string>
+    <string name="enter_gift_card">Enter Gift Card Number</string>
+    <string name="apply_discount">Apply discount</string>
+    <string name="applied_discount_code">Code: %1$s 🔥</string>
+    <string name="applied_gift_card">•••• %s 🎁</string>
+    <string name="continue_shopping">Continue shopping</string>
+    <string name="start_shopping">Start shopping</string>
+    <string name="empty_cart">empty cart</string>
+    <string name="empty_cart_message">You have no items in your cart \n at the moment</string>
+    <string name="your_cart_is_empty">Your cart is empty</string>
+    <string name="apply_gift_card">Apply Gift Card</string>
+    <string name="dialog_background_image">Dialog background image</string>
+    <string name="discount_error_title">Invalid Discount Code</string>
+    <string name="variant_not_available">Some items are no longer available and your cart has been updated.</string>
+    <string name="gift_card_error_title">Invalid Gift Card</string>
+    <string name="something_went_wrong_try_again">Something went wrong.\nPlease try again.</string>
+    <string name="credit_card">Credit Card</string>
+    <string name="paypal">PayPal</string>
+    <string name="amazon_pay">Amazon Pay</string>
+    <string name="google_pay">Google Pay</string>
+    <string name="pay_with">Pay with</string>
+    <string name="ship_to_me_title">Ship to me</string>
+    <string name="ship_to_me_message">Get it fast at any address</string>
+    <string name="ship_to_store_title">Ship to store</string>
+    <string name="ship_to_store_message">Choose where to pick it up</string>
+    <string name="reach_max_cart_line_items_error_message">Exceeds limit of %s, please remove item(s) from cart.</string>
+    <string name="discount_error_not_applied_to_items">Discount does not apply to the items in your cart</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="generic_checkout_creation_error">There was an error creating your checkout</string>
+    <string name="throttle_failure">Sorry, your checkout didn\'t make it through. Please try again.</string>
+    <string name="dont_leave_page_queue_message">Don\'t leave the page or you\'ll lose your spot!</string>
+    <string name="thank_you_queue_message">Thank you so much for your patience! It\'ll only be a few more moments!</string>
+    <string name="discount_error_not_found">Unable to find a valid discount matching the code entered</string>
+    <string name="discount_error_general">Discount did not apply. Please try again.</string>
+    <string name="add_items_from_favorites">Add items from favorites</string>
+    <string name="add_my_favorite_items">Add my favorited items?</string>
+    <string name="error_add_favorite_items_cart">Sorry, there was a problem adding some items to the cart.</string>
+    <string name="product_is_sold_out_error">Sorry, the product is sold out.</string>
+    <string name="cart_update_error_title">Unable to update cart</string>
+    <string name="cart_update_error_discount">Your discount code has been removed due to a problem. Please try adding it again.</string>
+    <string name="cart_update_error_gift_card">Your gift card has been removed due to a problem. Please try adding it again.</string>
+
+    <!--Checkout-->
+    <string name="gift_card">Gift Card</string>
+    <string name="duties">Duties</string>
+    <string name="shipping">Shipping</string>
+    <string name="tax">Tax</string>
+    <string name="total">Total</string>
+    <string name="submit_order">Submit Order</string>
+    <string name="complete_order">Complete Order</string>
+    <string name="continue_to_payment">Continue to Payment</string>
+    <string name="signed_in_as">"Signed in as "</string>
+    <string name="already_have_account">Already have an account?</string>
+    <string name="underlined_sign_in"><u>Sign In</u></string>
+    <string name="underlined_sign_in_sentence"><u>Sign In.</u></string>
+    <string name="checkout_as_guest">Or checkout as guest</string>
+    <string name="add">Add</string>
+    <string name="add_shipping_info">Add shipping address</string>
+    <string name="add_billing_address">Add billing address</string>
+    <string name="add_payment_info">Add payment info</string>
+    <string name="free">Free</string>
+    <string name="order_note">Note: %1$s</string>
+    <string name="summary">Summary</string>
+    <string name="minus">-%1$s</string>
+    <string name="payment">Payment</string>
+    <string name="add_payment">Add Payment</string>
+    <string name="billing_address">Billing address is the same as shipping address</string>
+    <string name="shipping_method">Shipping Method </string>
+    <string name="ship_to_store">Ship to Store</string>
+    <string name="in_store_pickup">In Store Pickup</string>
+    <string name="pick_up_here">Pick Up Here</string>
+    <string name="update_shopping_cart">Update shopping cart</string>
+    <string name="update_shipping_address">Update shipping address</string>
+
+    <!-- Contact Sharing-->
+    <string name="contact_sharing">"Share with friends"</string>
+    <string name="module_title">Referral</string>
+    <string name="contact_sharing_cta_contacts">Invite from my contact list</string>
+    <string name="contact_sharing_cta_invite">Share invite</string>
+    <string name="contact_sharing_description_placeholder">We’ll send a $20 gift card when they make a purchase. Use your contact list to refer friends.</string>
+    <string name="contact_sharing_permission_denied">Access to device contacts is needed to proceed. Please provide contact access in your device settings.</string>
+
+    <!--Credit Card-->
+    <string name="empty_card_error">"Please enter your credit card number."</string>
+    <string name="invalid_card_error">"Credit card number is invalid."</string>
+    <string name="scan_your_card">Scan your card</string>
+
+    <!--Notes-->
+    <string name="add_order_notes">Add order notes</string>
+    <string name="gift_cart_or_delivery_date_notes">Gift Card Message | Desired Delivery Date</string>
+    <string name="add_notes">Add Notes</string>
+    <string name="notes_hint">Write a note to your order</string>
+    <string name="update_notes_error">Error updating notes</string>
+
+    <!--Address-->
+    <string name="billing">Billing</string>
+    <string name="email">Email</string>
+    <string name="new_address">New Address</string>
+    <string name="add_new_address">Add New Address</string>
+    <string name="update_address">Update Address</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="full_name">Full Name</string>
+    <string name="street_address">Street Address</string>
+    <string name="unit">Unit (Optional)</string>
+    <string name="city">City</string>
+    <string name="postal_code">Postal Code</string>
+    <string name="state">State</string>
+    <string name="province">Province</string>
+    <string name="country">Country</string>
+    <string name="save_address">Save Address</string>
+    <string name="empty_email_error">Please enter your email address.</string>
+    <string name="invalid_email_error">Please enter a valid email address.</string>
+    <string name="phone_error">Please enter your phone number.</string>
+    <string name="empty_full_name_error">Please enter your full name.</string>
+    <string name="full_name_error">Please fill in your first and last name.</string>
+    <string name="empty_address_error">Please fill out your address.</string>
+    <string name="empty_city_error">Please enter your city.</string>
+    <string name="empty_zip_error">Please enter your postal code.</string>
+    <string name="empty_state_error">Please enter your state.</string>
+    <string name="restricted_shipping_country_error">Sorry, you have items in your cart that cannot be shipped outside of the United States</string>
+    <string name="does_not_ship_to_country_error">We’re sorry, we do not ship to the specified country.</string>
+    <string name="empty_country_error">Please enter your country.</string>
+    <string name="unknown_country_error">Could not identify selected country.</string>
+    <string name="update_address_error">Could not save address.</string>
+    <string name="empty_phone_error">"Please enter your phone number in the shipping form."</string>
+    <string name="beauty_items_error">Beauty items in your cart can only be shipped to the USA or Canada. To complete checkout, please remove the beauty items in your cart or update the shipping address.</string>
+    <string name="a11y_selected">Selected</string>
+    <string name="a11y_unselected">Unselected</string>
+
+    <!--Processing-->
+    <string name="processing_title">Hang tight.\nWe are processing your order.</string>
+    <string name="processing_subtitle">This could take a few seconds.</string>
+    <string name="out_of_stock_title">We don’t have enough of your requested items.</string>
+    <string name="out_of_stock_subtitle">We’ve updated the quantities for the items below. Please review your cart to proceed.</string>
+    <string name="checkout_completed_title">You’re all set!\nThank you for your order.</string>
+    <string name="checkout_completed_message">You should receive an email confirmation shortly</string>
+    <string name="review_cart">Review Cart</string>
+    <string name="processing_checkout_error">"There was an issue with completing your checkout. Please try again."</string>
+
+    <!--Collection-->
+    <string name="sort">Sort</string>
+    <string name="recommended">Recommended</string>
+    <string name="whats_new">What\'s New</string>
+    <string name="best_selling">Best Selling</string>
+    <string name="price_low_to_high">Price: Low to High</string>
+    <string name="price_high_to_low">Price: High to Low</string>
+    <string name="filter">Filter</string>
+    <string name="apply">Apply</string>
+    <string name="clear">Clear</string>
+    <string name="error_get_filter">Could not get filters</string>
+    <string name="update_wish_list_error_dialog_message">Updating Wishlist failed. Please try again soon.</string>
+    <string name="reach_max_favorites_error_message">Exceeds limit of %s, please remove item(s) from wishlist.</string>
+    <string name="empty_state_collection_title">NO PRODUCTS</string>
+    <string name="empty_state_collection_message">We were not able to locate \nproducts in this collection</string>
+    <string name="unavailable_collection_message">This collection is no longer available.</string>
+
+    <!--Favorite-->
+    <string name="my_wishlist">My Wishlist</string>
+    <string name="my_wishlists">My Wishlists</string>
+    <string name="my_favorites">My Favorites</string>
+    <string name="empty_wish_list">My Favorites is Empty</string>
+    <string name="favorite_header">Share Your Favorites</string>
+    <string name="share_wish_list">Check out my %1$s favorites!\n</string>
+    <string name="a11y_favorite_button_label">Favorite Button</string>
+
+    <!--  Read with an accessibility action, e.g. "Double-tap to [action]"  -->
+    <string name="a11y_favorite_button_add_action">add product to your favorites.</string>
+    <string name="a11y_favorite_button_remove_action">remove product from your favorites</string>
+    <string name="a11y_favorite_button_sign_in_action">sign in</string>
+
+    <!-- Installment Payments -->
+    <!-- TODO move to a constants file -->
+    <string name="quad_pay" translatable="false">QuadPay</string>
+    <string name="after_pay" translatable="false">AfterPay</string>
+    <string name="klarna" translatable="false">Klarna</string>
+    <string name="affirm" translatable="false">Affirm</string>
+    <string name="sezzle" translatable="false">Sezzle</string>
+    <string name="installment_provider_text">"Buy now, pay later.\n%d interest-free payments of %s"</string>
+
+    <!--Main-->
+    <string name="cart_icon">Cart icon</string>
+    <string name="menu_background">Menu background</string>
+    <string name="sure_log_out">Are you sure you would like to log out of the application?</string>
+    <string name="my_account">My account</string>
+    <string name="install">Install</string>
+    <string name="video_placeholder">Video placeholder</string>
+    <string name="exit_preview">Exit Preview</string>
+    <string name="a11y_navigation_icon">Menu</string>
+
+    <string name="a11y_video_block_product_destination">Video. Double-tap to open product.</string>
+    <string name="a11y_video_block_collection_destination">Video. Double-tap to open %s collection.</string>
+    <string name="a11y_video_block_webpage_destination">Video. Double-tap to open webpage.</string>
+    <string name="a11y_video_block">Video</string>
+    <string name="a11y_image_block_product_destination">Image. Double-tap to open product.</string>
+    <string name="a11y_image_block_collection_destination">Image. Double-tap to open %s collection.</string>
+    <string name="a11y_image_block_webpage_destination">Image. Double-tap to open webpage.</string>
+    <string name="a11y_image_block">Image</string>
+
+    <!--  Read with an accessibility action, e.g. "Double-tap to [action]"  -->
+    <string name="a11y_image_block_action_open_webpage">open webpage</string>
+    <string name="a11y_image_block_action_open_collection">open collection</string>
+
+    <!--Search-->
+    <string name="barcode_scanner">Scan barcode</string>
+    <string name="photo_search_button">Upload Photo</string>
+    <string name="search_no_results_description">We were unable to find the\nitem you were looking for.</string>
+    <string name="search_products">Search products</string>
+    <string name="popular_searches">Popular Searches</string>
+    <string name="trending_searches">Trending Searches</string>
+
+    <!--Order-->
+    <string name="order_description_placeholder">Order description placeholder</string>
+    <string name="order_total_placeholder">$99.99</string>
+    <string name="order_days_placeholder">17 days ago</string>
+    <plurals name="order_quantity_count">
+        <item quantity="one">and %d other item</item>
+        <item quantity="other">and %d other items</item>
+    </plurals>
+    <string name="order">Order</string>
+    <string name="you_have_no_orders">You have no orders</string>
+    <string name="check_back">Check back after you\'ve made your first order</string>
+    <string name="processing">Processing</string>
+
+    <!--ProductDetails-->
+    <string name="keep_track">KEEP TRACK OF YOUR FAVS</string>
+    <string name="create_account_to_save_favorites">Create a %1$s account to save and track all your favorite items.</string>
+    <string name="sign_in_to_save_favorites">Sign in to your %1$s account to save and track all your favorite items.</string>
+    <string name="create_account_or_sign_in">Create account or sign in</string>
+    <string name="reviews">Reviews</string>
+    <string name="verified_icon">Verified icon</string>
+    <string name="you_may_also_like">You may also like</string>
+    <string name="first_to_write_review">Be the first to write a review</string>
+    <string name="uber_chic_checkout_already_created_message">Sorry, you cannot add product to the cart after a checkout has already been created</string>
+    <string name="view_all_reviews">View all \nreviews</string>
+    <string name="something_went_wrong">Oops, something went wrong.</string>
+    <string name="notify_when_available">Notify me when available</string>
+    <string name="notify_when_available_confirmation">Once item is back in stock, we will notify you.</string>
+    <string name="final_sale">Final Sale</string>
+    <string name="clearance_tag">On Clearance</string>
+    <string name="plus">Plus</string>
+    <string name="misses">Misses</string>
+    <string name="petite">Petite</string>
+    <string name="select_size_range">Select size range:</string>
+    <string name="parenthesis">(%s)</string>
+    <string name="shop_similar">Shop Similar</string>
+    <string name="installment_provider_logo_content_desc">Installment Provider Logo</string>
+    <string name="product_video">Product Video</string>
+    <string name="color">Color</string>
+    <string name="video_banner_play_button_content_desc">Play button</string>
+    <string name="become_a_subscriber">Become a subscriber</string>
+    <string name="become_a_subscriber_and_save">Become a subscriber &amp; save %d%%</string>
+    <string name="select">Select</string>
+    <string name="select_something">Select %s</string>
+    <string name="size_range">Size Range</string>
+    <string name="initial_time" translatable="false">00:00</string>
+    <string name="a11y_play">Play</string>
+    <string name="a11y_pause">Pause</string>
+    <string name="a11y_enter_fullscreen">Enter fullscreen</string>
+    <string name="a11y_exit_fullscreen">Exit fullscreen</string>
+    <string name="share_product">I thought you might like this! Hurry, because it might sell out quick!\n%s</string>
+    <string name="unavailable_product_message">This product is no longer available.</string>
+    <string name="a11y_variant_sold_out">%s. Unavailable.</string>
+
+    <!--  Read with an accessibility action, e.g. "Double-tap to [action]"  -->
+    <string name="a11y_collapse_action">collapse</string>
+    <string name="a11y_expand_action">expand</string>
+
+    <!--StoreLocator-->
+    <string name="store_locator">Store Locator</string>
+    <string name="list">List</string>
+    <string name="map">Map</string>
+    <string name="search_by_postal_code">Search by postal code</string>
+    <string name="no_results_description">We were unable to find stores within that postal code</string>
+    <string name="temporarily_closed">Temporarily Closed</string>
+    <string name="store_hours">Store Hours</string>
+    <string name="a11y_edit_store">Edit Store</string>
+
+    <!--  Read with an accessibility action, e.g. "Double-tap to [action]"  -->
+    <string name="a11y_favorite_store_button_add_action">set this store as your favorite</string>
+    <string name="a11y_favorite_store_button_remove_action">remove this store as your favorite</string>
+
+    <!--FourSixty-->
+    <string name="shop_our_instagram">Shop our Instagram</string>
+    <string name="four_sixty_header_message">See what others are wearing on Instagram &amp; shop right from here.</string>
+    <string name="four_sixty_see_it_instagram_header_message">See it on Instagram</string>
+
+    <!--Write a Review-->
+    <string name="write_a_review">Write a Review</string>
+    <string name="how_would_you_rate">How would you rate this item?</string>
+    <string name="name">Name</string>
+    <string name="title">Title</string>
+    <string name="message">Message</string>
+    <string name="submit_review">Submit Review</string>
+    <string name="empty_name_error">Please enter your name.</string>
+    <string name="review_title_error">Please give the review a title.</string>
+    <string name="review_title_success">Your review was successfully posted!</string>
+
+    <!--Recharge-->
+    <string name="my_subscriptions">My Subscriptions</string>
+    <string name="manage_subscription_on_web">Manage subscriptions on web</string>
+    <string name="recharge" translatable="false">Recharge</string>
+    <string name="subscribe_and_save">"Subscribe &amp; save"</string>
+    <string name="one_time_purchase">One-Time Purchase</string>
+    <string name="subscribe_every">Subscribe every %1$s</string>
+    <string name="save_percent">Save %1$d%%</string>
+    <string name="purchase_options">Purchase Options</string>
+    <string name="subscription_every">Subscription: Every %1$d %2$s</string>
+
+    <plurals name="rating_info">
+        <item quantity="one">%2$.2f | %1$d Review</item>
+        <item quantity="other">%2$.2f | %1$d Reviews</item>
+    </plurals>
+
+    <!-- Quick Add/Update -->
+    <string name="view"><u>View</u></string>
+    <string name="select_your">Select your %s</string>
+    <string name="quick_add_plus">+ Quick Add</string>
+    <string name="update_cart">Update Cart</string>
+
+    <!-- Onboarding -->
+    <string name="create_account">Create account</string>
+    <string name="skip">Skip</string>
+    <string name="title_onboarding">Onboarding</string>
+
+    <!-- Notifications-->
+    <string name="no_notifications_title">No notifications</string>
+    <string name="no_notifications_message">There are no notifications\nto show at this time</string>
+    <string name="notifications_error">Something went wrong. Please try again soon.</string>
+
+    <string name="title_test">Test Title</string>
+    <string name="title_shoppableinstagram">Shoppable Instagram</string>
+    <string name="title_search">Search</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!--Countdown Timer block -->
+    <string name="countdown_timer_number_format">%02d</string>
+
+    <!--QuadPay-->
+    <string name="quad_pay_eligible_message">Buy now, pay later.\n%1$d interest-free payments of %2$s</string>
+    <string name="quad_pay_ineligible_message">%1$d interest-free payments on orders over $%2$s</string>
+
+    <!--My Rewards-->
+    <string name="title_loyalty">Loyalty</string>
+    <string name="about">About</string>
+    <string name="loyalty_rewards">Loyalty Rewards</string>
+    <plurals name="your_balance">
+        <item quantity="one">Your Balance: &lt;b>%,d point&lt;&#47;b></item>
+        <item quantity="other">Your Balance: &lt;b>%,d points&lt;&#47;b></item>
+    </plurals>
+    <plurals name="tier_level">
+        <item quantity="one">%d of %d tier</item>
+        <item quantity="other">%d of %d tiers</item>
+    </plurals>
+    <string name="number_with_comma">%,d</string>
+    <string name="of_progress">of %,d</string>
+    <string name="tier">%s Tier</string>
+    <string name="ways_to_earn_extra">Ways to Earn Extra</string>
+    <string name="view_more_underlined">&lt;u>View more&lt;&#47;u></string>
+    <string name="close_underlined">&lt;u>Close&lt;&#47;u></string>
+    <string name="a11y_close">Close</string>
+    <string name="a11y_back">Back</string>
+    <string name="share_with_friends">Share with Friends</string>
+
+    <!--My Rewards Dialog-->
+    <string name="my_rewards">My Rewards</string>
+    <string name="my_rewards_all_caps">MY REWARDS</string>
+    <string name="choose_reward">Choose Reward</string>
+    <string name="choose_a_reward">Choose a reward:</string>
+    <string name="redeem_reward">Redeem Reward</string>
+    <string name="remove">Remove</string>
+    <string name="points">%d points</string>
+    <string name="points_non_reversible">*Points used to redeem rewards are non-reversible.</string>
+    <string name="redeem_points_for_discount">Redeem points for a discount.</string>
+    <string name="banner_reward_applied">&lt;b>%s Applied&lt;&#47;b> - Code: %s</string>
+    <string name="unclaimed">Unclaimed:</string>
+    <string name="reward_code_invalid">Reward code invalid.</string>
+    <string name="reward_has_zero_balance">Reward has a zero balance.</string>
+    <string name="reward_is_expired">Reward is expired.</string>
+    <string name="reward_code_not_found">Reward code not found.</string>
+    <string name="reward_already_redeemed">Your reward has already been redeemed.</string>
+    <string name="cannot_apply_reward">Cannot apply reward.</string>
+    <string name="cannot_apply_multiple_gift_cards">Multiple gift cards cannot be applied.</string>
+    <string name="reward_is_disabled">Reward is disabled. Try again later.</string>
+    <string name="no_rewards_available">No rewards available</string>
+    <string name="setting_up_loyalty">Setting up your loyalty account…</string>
+    <string name="discount_not_applicable_error">Discount does not apply to the items in your cart.</string>
+
+    <!--Subscriptions-->
+    <string name="title_subscriptions">Subscriptions</string>
+    <string name="active">Active</string>
+    <string name="inactive">Inactive</string>
+    <string name="next_billing_date">Next Billing Date: %1$s</string>
+    <string name="skipped_order">Order Skipped: %1$s</string>
+    <string name="subscription_inactive">Subscription Inactive</string>
+    <string name="no_subscriptions">No subscriptions</string>
+    <string name="no_subscriptions_yet">You have not created any \nsubscriptions yet</string>
+
+    <!--Subscription Details-->
+    <string name="subscription_details">Subscription Details</string>
+    <string name="frequency">Frequency</string>
+    <string name="delivered_every">Every %1$s</string>
+    <string name="reactivate_subscription">Reactivate Subscription</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="select_a_frequency">Select a frequency</string>
+    <string name="select_a_quantity">Select a quantity</string>
+    <string name="every">Every %1$d %2$s</string>
+    <string name="skip_next_charge">Skip Next Charge</string>
+    <string name="unskip_next_charge">Unskip Next Charge</string>
+    <string name="deactivate_subscription">Deactivate Subscription</string>
+    <string name="subscription_updated_message">We\'ve updated your subscription</string>
+    <string name="a11y_change_quantity">Change Quantity</string>
+
+    <plurals name="day_interval">
+        <item quantity="one">%1$d day</item>
+        <item quantity="other">%1$d days</item>
+    </plurals>
+    <plurals name="week_interval">
+        <item quantity="one">%1$d week</item>
+        <item quantity="other">%1$d weeks</item>
+    </plurals>
+    <plurals name="month_interval">
+        <item quantity="one">%1$d month</item>
+        <item quantity="other">%1$d months</item>
+    </plurals>
+
+    <!--Reactivate Subscription-->
+    <string name="reactivate_subscription_title">Reactivate Subscription</string>
+    <string name="reactivate_subscription_message">You will be charged on your next billing date.</string>
+    <string name="confirm">Confirm</string>
+
+    <!--Deactivate Subscription-->
+    <string name="deactivate_subscription_title">Deactivate Subscription</string>
+    <string name="deactivate_subscription_message">Are you sure you want to deactivate your subscription?</string>
+    <string name="deactivate">Deactivate</string>
+
+    <!--Skip Charge-->
+    <string name="skip_charge_title">Skip Charge</string>
+    <string name="skip_charge_message">Are you sure you want to skip your next subscription date?</string>
+    <string name="skip_charge">Skip</string>
+
+    <!--Unskip Charge-->
+    <string name="unskip_charge_title">Unskip Charge</string>
+    <string name="unskip_charge_message">Are you sure you want to unskip your next subscription date?</string>
+    <string name="unskip_charge">Unskip</string>
+
+    <!--Leave Subscription Unsaved-->
+    <string name="leave_unsaved_message">Are you sure you want to leave? \nAll unsaved changes will be discarded.</string>
+    <string name="leave">Leave</string>
+
+    <!--Recharge Errors-->
+    <string name="auth_error_message">Oops! There was an authentication error</string>
+    <string name="parse_error_message">Oops! There was an error completing the task</string>
+
+    <!--Subscription Address-->
+    <string name="select_address">Select Address</string>
+    <string name="edit_address">Edit Address</string>
+    <string name="deliver_to_address">Deliver To This Address</string>
+
+    <!--Abandoned Items-->
+    <string name="finish_checkout">Finish Checkout</string>
+    <string name="view_cart">View Cart</string>
+    <string name="abandoned_checkout_title">Pick up right where you left off!\n Complete your order now.</string>
+    <string name="abandoned_cart_title">You forgot this in your cart.\n Checkout now before it sells out.</string>
+
+    <plurals name="extra_items_message">
+        <item quantity="one">"+ %1$d other product"</item>
+        <item quantity="other">"+ %1$d other products"</item>
+    </plurals>
+    <string name="title_address">Address</string>
+
+    <!-- Photo Search -->
+
+    <string name="take_photo">Take a Photo</string>
+    <string name="select_photo">Select a Photo</string>
+    <string name="photo_search_toolbar">Image Search</string>
+    <string name="photo_search_description">You can now search by taking a picture. Or upload a picture, select an item within it, and get shopping!</string>
+    <string name="photo_search_feed_description">Don’t have a photo? Try one from our social feed</string>
+    <string name="replace_image">Replace Image</string>
+
+    <string name="photo_search_sort_label" translatable="false">@string/sort</string>
+    <string name="photo_search_sort_best_match">Best match</string>
+    <string name="photo_search_sort_price_high_low" translatable="false">@string/price_high_to_low</string>
+    <string name="photo_search_sort_price_low_high" translatable="false">@string/price_low_to_high</string>
+
+    <!-- Multicurrency -->
+    <string name="change_currency">Change Currency</string>
+    <string name="change_currency_msg">This will reload your app and prices will now be reflected in %s currency.</string>
+    <string name="add_to_list_failed">Failed to add item to wishlist</string>
+    <string name="failed_to_remove_wishlist_item">Failed to remove product(s) from wishlist</string>
+    <string name="default_wishlist_name">My Wishlist</string>
+
+</resources>

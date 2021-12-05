@@ -1,0 +1,529 @@
+<resources>
+    <string name="underscore" translatable="false">_</string>
+    <string name="item_price_placeholder">Presyo ng Item</string>
+    <string name="options">Mga Opsyon</string>
+    <string name="search">Maghanap</string>
+    <string name="item_name_placeholder">Pangalan ng Item</string>
+    <string name="product_image">Imahe ng produkto</string>
+    <string name="collection_title_placeholder">Pamagat ng Koleksyon</string>
+    <string name="view_collection">Tingnan ang Koleksyon</string>
+    <string name="collection_name_placeholder">Pangalan ng Koleksyon</string>
+    <string name="view_all">Tingnan Lahat</string>
+    <string name="collection_image">Imahe ng Koleksyon</string>
+    <string name="shop_now">Mamili Ngayon</string>
+    <string name="ratting_count_placeholder">(999)</string>
+    <string name="add_to_bag">IDAGDAG SA BAG</string>
+    <string name="add_to_cart">IDAGDAG SA CART</string>
+    <string name="share">Ibahagi</string>
+    <string name="app_logo">Logo ng App</string>
+    <string name="items_count_placeholder">Bilang ng mga item</string>
+    <string name="remove_item">alisin ang item</string>
+    <string name="subtotal">Subtotal</string>
+    <plurals name="cart_items_count">
+        <item quantity="one">%d item</item>
+        <item quantity="other">%d na mga item</item>
+    </plurals>
+    <string name="my_bag">ANG AKING BAG</string>
+    <string name="my_cart">ANG AKING CART</string>
+    <string name="splash_background">Splash na background</string>
+    <string name="cancel">Kanselahin</string>
+    <string name="elapsed_time">%1$d %2$s ang nakakaraan&quot;</string>
+    <string name="value_currency">%1$s %2$s&quot;</string>
+    <string name="card_masked">•••• •••• •••• %1$s&quot;</string>
+    <string name="just_now">Ngayon lang</string>
+
+    <plurals name="year">
+        <item quantity="one">taon</item>
+        <item quantity="other">mga taon</item>
+    </plurals>
+
+    <plurals name="month">
+        <item quantity="one">buwan</item>
+        <item quantity="other">mga buwan</item>
+    </plurals>
+
+    <plurals name="day">
+        <item quantity="one">araw</item>
+        <item quantity="other">mga araw</item>
+    </plurals>
+
+    <plurals name="hour">
+        <item quantity="one">oras</item>
+        <item quantity="other">mga oras</item>
+    </plurals>
+
+    <plurals name="minute">
+        <item quantity="one">minuto</item>
+        <item quantity="other">mga minuto</item>
+    </plurals>
+
+    <plurals name="second">
+        <item quantity="one">segundo</item>
+        <item quantity="other">mga segundo</item>
+    </plurals>
+
+    <plurals name="week">
+        <item quantity="one">linggo</item>
+        <item quantity="other">mga linggo</item>
+    </plurals>
+
+    <string name="size_guide">Gabay sa laki</string>
+    <string name="shipping_info">Impormasyon sa pagpapadala</string>
+    <string name="description">Paglalarawan</string>
+    <string name="collections">Mga Koleksyon</string>
+    <string name="your_order_is_complete">Kumpleto na ang iyong Order!</string>
+    <string name="web_checkout_confirmation_message">Nagpadala ng email sa Pagkumpirma sa iyong</string>
+    <string name="email_placeholder">test@test.com</string>
+    <string name="keep_shopping">Magpatuloy sa pamimili</string>
+    <string name="ship_box">kahon ng pagpapadala</string>
+    <string name="no_internet">Pakisuri ang iyong koneksyon sa internet</string>
+    <string name="checkout">Mag-checkout</string>
+    <string name="three_d_secure_authentication">3D na Ligtas na Pagpapatunay</string>
+    <string name="discount">Diskwento</string>
+    <string name="review_your_order">Suriin ang Iyong Order</string>
+    <string name="google_pay_error">Error sa Google pay</string>
+    <string name="failed_to_process_payment_title">Nabigong maproseso ang pagbabayad</string>
+    <string name="failed_to_process_payment">Nabigong maproseso ang pagbayad, pakisubukan muli mamaya.</string>
+    <string name="arrow">palaso</string>
+    <string name="menu_item">item ng menu</string>
+    <string name="logo">logo</string>
+    <string name="not_implemented">HINDI IPINATUPAD</string>
+    <string name="sold_out">Ubos na</string>
+    <string name="coming_soon">Paparating na</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="email_error_message">Pakibigay ang email address bago magpatuloy.</string>
+    <string name="password_error_message">Hindi maaaring walang laman ang password.</string>
+    <string name="login_error">Error sa Pag-login</string>
+    <string name="error">Error</string>
+    <string name="no_results">Walang mga resulta</string>
+    <string name="urban_planet_marker">Urban Planet Marker</string>
+    <string name="try_again_error">Pakisubukan muli.</string>
+    <string name="store_credit">Mga Ibinabalik: Credit sa Tindahan</string>
+    <string name="fraud_prevention">Pagpigil sa Pandaraya</string>
+    <string name="store_credit_title">Credit sa Tindahan</string>
+    <string name="return_policy_title">Patakaran sa Pagbabalik</string>
+    <string name="store_credit_text">Sa mga limitadong pagbubukod, isinasauli ang pagbabayad ng mga wastong pagbabalik sa anyo ng credit sa tindahan. Sasailalim ang mga item na nasira/may sira sa palitan kung may stock.
+Lahat ng credit sa tindahan, pagsasauli ng pagbabayad, at/o palitan na dapat bayaran ay ibibigay sa loob ng 3 hanggang 5 araw ng negosyo pagkatapos maproseso ang pagbabalik.
+Lahat ng mga item na may mga presyo na nagtatapos sa \$.00, .96, .97 and .98 ay huling pagbebenta at hindi maibabalik para sa credit sa tindahan.
+Maaari kang makahanap ng karagdagang impormasyon tungkol sa aming Patakaran sa Pagbabalik</string>
+    <string name="store_credit_text_hyperlink">DITO</string>
+    <string name="slash" translatable="false">/</string>
+    <string name="free_gift">Libreng regalo</string>
+    <string name="a11y_original_and_discounted_price">Orihinal na presyo %1$s, sale na presyo %2$s</string><!--Account--><string name="account">Account</string>
+    <string name="sign_in">Mag-sign In</string>
+    <string name="create_an_account">Gumawa ng account</string>
+    <string name="already_have_an_account">Mayroon nang account?</string>
+    <string name="log_in">Mag log in</string>
+    <string name="log_in_to_account">Mag-log in sa account</string>
+    <string name="create_a_new_account">Gumawa ng bagong account</string>
+    <string name="full_nme">Buong Pangalan</string>
+    <string name="sign_up">Mag-sign Up</string>
+    <string name="name_error_message">Pakilagay ang iyong buong pangalan bago magpatuloy.</string>
+    <string name="sign_up_error">Error sa Pag-sign Up</string>
+    <string name="no_address">Walang Magagamit na Address</string>
+    <string name="my_orders">Ang Mga Order Ko</string>
+    <string name="orders">Mga Order</string>
+    <string name="hi_user">Kumusta,%s.</string>
+    <string name="favorites">Mga Paborito</string>
+    <string name="start_browsing">Simulang mag-browse para maipakita
+ang iyong mga item dito</string>
+    <string name="recently_viewed">Mga Tiningnan Kamakailan Lang</string>
+    <string name="first_name_empty_error">Hindi maaaring walang laman ang pangalan.</string>
+    <string name="last_name_empty_error">Hindi maaaring walang laman ang apelyido.</string>
+    <string name="first_name">Unang Pangalan</string>
+    <string name="last_name">Apelyido</string>
+    <string name="forgot_password">Nalimutan ang password?</string>
+    <string name="forgot_password_dialog_message">Nakalimutan ang password?
+Papadalhan ka namin ng link ng pag-reset.</string>
+    <string name="send_reset_password_link">Magpadala ng Link</string>
+    <string name="change_password_error">Baguhin ang Error sa Password</string>
+    <string name="reset_password_email_sended">Na-reset ang password. Pakiuri ang iyong email.</string>
+    <string name="underlined_create_account"><u>Gumawa ng account</u></string>
+    <string name="default_error_message">Oops, may naganap na error. Pakisubukan muli mamaya.</string>
+    <string name="incorrect_email_or_password">Maling email o password.</string>
+    <string name="dont_have_an_account">Walang account?</string>
+    <string name="log_out">Mag-log out</string><!--Cart--><string name="add_item">magdagdag ng item</string>
+    <string name="enter_discount_code">Ilagay ang Code ng Diskwento</string>
+    <string name="enter_gift_card">Ilagay ang Numero ng Gift Card</string>
+    <string name="apply_discount">Ilapat ang diskwento</string>
+    <string name="applied_discount_code">Code: %1$s 🔥</string>
+    <string name="applied_gift_card">•••• %s 🎁</string>
+    <string name="continue_shopping">Magpatuloy sa Pamimili</string>
+    <string name="start_shopping">Simulan ang pamimili</string>
+    <string name="empty_cart">alisan ng laman ang cart</string>
+    <string name="empty_cart_message">Wala kang item sa iyong cart 
+sa ngayon</string>
+    <string name="your_cart_is_empty">Walang laman ang iyong cart</string>
+    <string name="apply_gift_card">Ilapat ang Gift Card</string>
+    <string name="dialog_background_image">Imahe sa background ng dialog</string>
+    <string name="discount_error_title">Hindi wastong Code ng Diskwento</string>
+    <string name="variant_not_available">Hindi na magagamit ang ilang mga item at na-update na ang iyong cart.</string>
+    <string name="gift_card_error_title">Hindi Wastong Gift Card</string>
+    <string name="something_went_wrong_try_again">Nagkaroon ng problema.
+Pakisubukan muli.</string>
+    <string name="credit_card">Credit Card</string>
+    <string name="paypal">PayPal</string>
+    <string name="amazon_pay">Amazon Pay</string>
+    <string name="google_pay">Google Pay</string>
+    <string name="pay_with">Bayaran gamit ang</string>
+    <string name="ship_to_me_title">Ipadala sa akin</string>
+    <string name="ship_to_me_message">Kunin ito nang mabilis sa anumang address</string>
+    <string name="ship_to_store_title">Ipadala sa store</string>
+    <string name="ship_to_store_message">Piliin kung saan ito kukunin</string>
+    <string name="reach_max_cart_line_items_error_message">Lumagpas sa limitasyong %s, pakialis ang (mga) item mula sa cart.</string>
+    <string name="discount_error_not_applied_to_items">Hindi nalalapat ang diskwento sa mga item sa iyong cart.</string>
+    <string name="no_internet_connection">Walang Koneksyon sa Internet</string>
+    <string name="generic_checkout_creation_error">Nagkaroon ng error sa paggawa ng iyong pag-checkout</string>
+    <string name="throttle_failure">Paumanhin, hindi nakalusot ang iyong pag-checkout. Pakisubukan muli.</string>
+    <string name="dont_leave_page_queue_message">Huwag iwanan ang pahina o mawawala ang iyong puwesto!</string>
+    <string name="thank_you_queue_message">Salamat sa iyong pasensya! Ilang sandali lamang ito!</string>
+    <string name="discount_error_not_found">Hindi makahanap ng wastong diskwentong tumutugma sa inilagay na code</string>
+    <string name="discount_error_general">Hindi nailapat ang diskwento. Pakisubukan muli.</string>
+    <string name="add_items_from_favorites">Magdagdag ng mga item mula sa iyong mga paborito</string>
+    <string name="add_my_favorite_items">Idagdag ang mga paborito kong item?</string>
+    <string name="error_add_favorite_items_cart">Paumanhin, nagkaroon ng problem sa pagdagdag ng ilang mga item sa cart.</string>
+    <string name="product_is_sold_out_error">Paumanhin, ubos na ang produkto.</string>
+    <string name="cart_update_error_title">Hindi ma-update ang cart</string>
+    <string name="cart_update_error_discount">Inalis ang iyong code ng diskwento dahil sa isang problema. Pakisubukang idagdag ito muli</string>
+    <string name="cart_update_error_gift_card">Inalis ang iyong gift card dahil sa isang problema. Pakisubukang idagdag ito muli</string><!--Checkout--><string name="gift_card">Gift Card</string>
+    <string name="duties">Mga Tungkulin</string>
+    <string name="shipping">Pagpapadala</string>
+    <string name="tax">Buwis</string>
+    <string name="total">Kabuuan</string>
+    <string name="submit_order">Isumite ang Order</string>
+    <string name="complete_order">Kumpletuhin ang Order</string>
+    <string name="continue_to_payment">Magpatuloy sa Pagbayad</string>
+    <string name="signed_in_as">&quot;Naka-sign in bilang &quot;</string>
+    <string name="already_have_account">Mayroon nang account?</string>
+    <string name="underlined_sign_in"><u>Mag-sign In</u></string>
+    <string name="underlined_sign_in_sentence"><u>Mag-sign In.</u></string>
+    <string name="checkout_as_guest">O mag-checkout bilang panauhin</string>
+    <string name="add">Idagdag</string>
+    <string name="add_shipping_info">Idagdag ang address sa pagpapadala</string>
+    <string name="add_billing_address">Magdagdag ng address ng pagsingil</string>
+    <string name="add_payment_info">Magdagdag ng info sa pagbayad</string>
+    <string name="free">Libre</string>
+    <string name="order_note">Paalala: %1$s</string>
+    <string name="summary">Buod</string>
+    <string name="minus">-%1$s</string>
+    <string name="payment">Pagbayad</string>
+    <string name="add_payment">Magdagdag ng Pagbayad</string>
+    <string name="billing_address">Ang address ng pagsingil ay pareho sa address ng pagpapadala</string>
+    <string name="shipping_method">Paraan ng Pagpapadala</string>
+    <string name="ship_to_store">Ipadala sa store</string>
+    <string name="in_store_pickup">Kinukuha sa Tindahan</string>
+    <string name="pick_up_here">Kukunin Dito</string>
+    <string name="update_shopping_cart">I-update ang shopping cart</string>
+    <string name="update_shipping_address">I-update ang address sa pagpapadala</string><!-- Contact Sharing--><string name="contact_sharing">&quot;Ibahagi sa Mga Kaibigan&quot;</string>
+    <string name="module_title">Referral</string>
+    <string name="contact_sharing_cta_contacts">Mag-imbita mula sa aking listahan ng kontak</string>
+    <string name="contact_sharing_cta_invite">Ibahagi ang imbitasyon</string>
+    <string name="contact_sharing_description_placeholder">Magpapadala kami ng $20 na gift card kapag may binili sila. Gamitin ang iyong listahan ng kontak upang mag-refer ng mga kaibigan.</string>
+    <string name="contact_sharing_permission_denied">Ang akses sa mga kontak ng device ay kailangan upang magpatuloy. Pakibigay ang akses sa kontak sa mga setting ng iyong device.</string><!--Credit Card--><string name="empty_card_error">&quot;Pakilagay ang numero ng iyong credit card.&quot;</string>
+    <string name="invalid_card_error">&quot;Hindi wasto ang numero ng credit card.&quot;</string>
+    <string name="scan_your_card">I-scan ang iyong card</string><!--Notes--><string name="add_order_notes">Magdagdag ng mga tala ng order</string>
+    <string name="gift_cart_or_delivery_date_notes">Mensahe ng Gift Card | Gustong Petsa ng Paghahatid</string>
+    <string name="add_notes">Magdagdag ng Mga Tala</string>
+    <string name="notes_hint">Sumulat ng tala sa iyong order</string>
+    <string name="update_notes_error">May error sa pag-update ng mga tala</string><!--Address--><string name="billing">Pagsingil</string>
+    <string name="email">Email</string>
+    <string name="new_address">Bagong Address</string>
+    <string name="add_new_address">Magdagdag ng Bagong Address</string>
+    <string name="update_address">I-update ang Address</string>
+    <string name="phone_number">Numero ng Telepono</string>
+    <string name="full_name">Buong Pangalan</string>
+    <string name="street_address">Address ng Kalye</string>
+    <string name="unit">Yunit (opsyonal)</string>
+    <string name="city">Lungsod</string>
+    <string name="postal_code">Postal Code</string>
+    <string name="state">Estado</string>
+    <string name="province">Probinsiya</string>
+    <string name="country">Bansa</string>
+    <string name="save_address">I-save Ang Address</string>
+    <string name="empty_email_error">Pakilagay ang iyong email address.</string>
+    <string name="invalid_email_error">Pakilagay ang wastong email address.</string>
+    <string name="phone_error">Pakilagay ang numero ng iyong telepono.</string>
+    <string name="empty_full_name_error">Pakilagay ang iyong buong pangalan.</string>
+    <string name="full_name_error">Pakilagay ang iyong pangalan at apelyido.</string>
+    <string name="empty_address_error">Pakilagay ang iyong address.</string>
+    <string name="empty_city_error">Pakilagay ang iyong lungsod.</string>
+    <string name="empty_zip_error">Pakilagay ang iyong postal code.</string>
+    <string name="empty_state_error">Pakilagay ang iyong estado.</string>
+    <string name="restricted_shipping_country_error">Paumanhin, may mga item ka sa iyong cart na hindi maaaring ipadala sa labas ng Estados Unidos.</string>
+    <string name="does_not_ship_to_country_error">Humihingi kami ng paumanhin, hindi kami nagpapadala sa tinukoy na bansa.</string>
+    <string name="empty_country_error">Pakilagay ang iyong bansa.</string>
+    <string name="unknown_country_error">Hindi makilala ang piniling bansa.</string>
+    <string name="update_address_error">Hindi mai-save ang address.</string>
+    <string name="empty_phone_error">&quot;Pakilagay ang iyong numero ng telepono sa form sa pagpapadala.&quot;</string>
+    <string name="beauty_items_error">Ang mga item sa pagpapaganda sa iyong cart ay maipapadala lamang sa USA o Canada. Para makumpleto ang pag-checkout, paki-alis ang mga item sa pagpapaganda sa iyong cart o i-update ang address sa pagpapadala.</string>
+    <string name="a11y_selected">Pinili</string>
+    <string name="a11y_unselected">Hinid Pinili</string><!--Processing--><string name="processing_title">Sandali lang.
+Pinoproseso namin ang iyong order.</string>
+    <string name="processing_subtitle">Maaari itong tumagal ng ilang segundo.</string>
+    <string name="out_of_stock_title">Hindi sapat ang mayroon kami sa iyong mga hiniling na item.</string>
+    <string name="out_of_stock_subtitle">Na-update na namin ang dami para sa mga item sa ibaba. Pakireview&quot; ang iyong cart upang magpatuloy.</string>
+    <string name="checkout_completed_title">Handa ka na!
+Salamat sa iyong order.</string>
+    <string name="checkout_completed_message">Makakatanggap ka ng isang kumpirmasyon sa email sa ilang sandali</string>
+    <string name="review_cart">I-review ang Cart</string>
+    <string name="processing_checkout_error">&quot;Nagkaroon ng isyu sa pagkumpleto ng iyong pag-checkout. Pakisubukan muli.&quot;</string><!--Collection--><string name="sort">Uriin</string>
+    <string name="recommended">Inirerekomenda</string>
+    <string name="whats_new">Anong Bago</string>
+    <string name="best_selling">Pinakamabenta</string>
+    <string name="price_low_to_high">Presyo: Mababa hanggang Mataas</string>
+    <string name="price_high_to_low">Presyo: Mataas hanggang Mababa</string>
+    <string name="filter">I-filter</string>
+    <string name="apply">Ilapat</string>
+    <string name="clear">I-clear</string>
+    <string name="error_get_filter">Hindi makuha ang mga filter</string>
+    <string name="update_wish_list_error_dialog_message">Nabigo ang pag-update sa Wishlist. Pakisubukan muli sa lalong madaling panahon.</string>
+    <string name="reach_max_favorites_error_message">Lumagpas sa limitasyon na %s, paki-alis ang (mga) item mula sa wishlist.</string>
+    <string name="empty_state_collection_title">WALANG MGA PRODUKTO</string>
+    <string name="empty_state_collection_message">Hindi kami nakahanap ng
+mga produkto sa koleksyong ito</string>
+    <string name="unavailable_collection_message">Wala na ang koleksyong ito</string><!--Favorite--><string name="my_wishlist">Ang Aking Wishlist</string>
+    <string name="my_wishlists">Ang Aking Mga Wishlist</string>
+    <string name="my_favorites">Mga Paborito</string>
+    <string name="empty_wish_list">Walang Laman ang Aking Mga Paborito</string>
+    <string name="favorite_header">Ibahagi Ang Iyong Mga Paborito</string>
+    <string name="share_wish_list">Tingnan ang aking %1$s mga paborito!</string>
+    <string name="a11y_favorite_button_label">Paboritong Button</string><!--  Read with an accessibility action, e.g. "Double-tap to [action]"  --><string name="a11y_favorite_button_add_action">magdagdag ng mga produkto sa iyong mga paborito.</string>
+    <string name="a11y_favorite_button_remove_action">magtanggal ng mga produkto sa iyong mga paborito.</string>
+    <string name="a11y_favorite_button_sign_in_action">mag-sign in</string><!-- Installment Payments --> <!-- TODO move to a constants file --><string name="quad_pay" translatable="false">QuadPay</string>
+    <string name="after_pay" translatable="false">AfterPay</string>
+    <string name="klarna" translatable="false">Klarna</string>
+    <string name="affirm" translatable="false">Affirm</string>
+    <string name="sezzle" translatable="false">Sezzle</string>
+    <string name="installment_provider_text">&quot;Bumili ngayon, magbayad sa ibang panahon.
+%d walang interes na mga pagbabayad na %s&quot;</string><!--Main--><string name="cart_icon">Icon ng cart</string>
+    <string name="menu_background">Background ng menu</string>
+    <string name="sure_log_out">Sigurado ka bang gusto mong mag-log out sa aplikasyon?</string>
+    <string name="my_account">Ang account ko</string>
+    <string name="install">I-install</string>
+    <string name="video_placeholder">Placeholder ng Video</string>
+    <string name="exit_preview">Lumabas sa Preview</string>
+    <string name="a11y_navigation_icon">Menu</string>
+
+    <string name="a11y_video_block_product_destination">Video. I-double-tap upang buksan ang produkto.</string>
+    <string name="a11y_video_block_collection_destination">Video. I-double-tap upang buksan ang koleksyong %s.</string>
+    <string name="a11y_video_block_webpage_destination">Video. I-double-tap upang buksan ang webpage.</string>
+    <string name="a11y_video_block">Video</string>
+    <string name="a11y_image_block_product_destination">Imahe. I-double-tap upang buksan ang produkto.</string>
+    <string name="a11y_image_block_collection_destination">Imahe. I-double-tap upang buksan ang koleksyong %s.</string>
+    <string name="a11y_image_block_webpage_destination">Imahe. I-double-tap upang buksan ang webpage.</string>
+    <string name="a11y_image_block">Imahe</string><!--  Read with an accessibility action, e.g. "Double-tap to [action]"  --><string name="a11y_image_block_action_open_webpage">buksan ang webpage</string>
+    <string name="a11y_image_block_action_open_collection">buksan ang koleksyon</string><!--Search--><string name="barcode_scanner">I-scan ang barcode</string>
+    <string name="photo_search_button">Mag-upload ng Larawan</string>
+    <string name="search_no_results_description">Hindi namin mahanap ang
+item na hinahanap mo.</string>
+    <string name="search_products">Maghanap ng Mga Produkto</string>
+    <string name="popular_searches">Mga Sikat na Paghahanap</string>
+    <string name="trending_searches">Nagte-trend na Mga Paghahanap</string><!--Order--><string name="order_description_placeholder">Placeholder ng paglalarawan ng order</string>
+    <string name="order_total_placeholder">$99.99</string>
+    <string name="order_days_placeholder">17 araw ang nakakalipas</string>
+    <plurals name="order_quantity_count">
+        <item quantity="one">at %d iba pang item</item>
+        <item quantity="other">at %d iba pang mga item</item>
+    </plurals>
+    <string name="order">Order</string>
+    <string name="you_have_no_orders">Wala kang mga order</string>
+    <string name="check_back">Tingnan muli pagkatapos mong magawa ang iyong unang order</string>
+    <string name="processing">Pinoproseso</string><!--ProductDetails--><string name="keep_track">SUBAYBAYAN ANG IYONG MGA PABORITO</string>
+    <string name="create_account_to_save_favorites">Gumawa ng %1$s na account para i-save at subaybayan ang lahat ng iyong mga paboritong item.</string>
+    <string name="sign_in_to_save_favorites">Mag-sign in sa iyong %1$s na account para i-save at subaybayan ang lahat ng iyong mga paboritong item.</string>
+    <string name="create_account_or_sign_in">Gumawa ng account o mag-sign in</string>
+    <string name="reviews">Mga Review</string>
+    <string name="verified_icon">Beripikadong icon</string>
+    <string name="you_may_also_like">Maaaring gusto mo rin</string>
+    <string name="first_to_write_review">Maunang sumulat ng review</string>
+    <string name="uber_chic_checkout_already_created_message">Paumanhin, hindi ka na maaaring magdagdag ng produkto sa cart pagkatapos makagawa ng pag-checkout</string>
+    <string name="view_all_reviews">Tingnan ang lahat ng
+mga review</string>
+    <string name="something_went_wrong">Oops, nakaroon ng problema.</string>
+    <string name="notify_when_available">Abisuhan ako kapag mayroon na</string>
+    <string name="notify_when_available_confirmation">Kapag may stock na muli ang item, aabisuhan ka namin.</string>
+    <string name="final_sale">Huling Sale</string>
+    <string name="clearance_tag">Nasa Clearance</string>
+    <string name="plus">Malaki</string>
+    <string name="misses">Mga Na-miss</string>
+    <string name="petite">Maliit</string>
+    <string name="select_size_range">Piliin ang saklaw ng laki:</string>
+    <string name="parenthesis">(%s)</string>
+    <string name="shop_similar">Mamili ng Katulad</string>
+    <string name="installment_provider_logo_content_desc">Logo ng Installment Provider</string>
+    <string name="product_video">Video ng Produkto</string>
+    <string name="color">Kulay</string>
+    <string name="video_banner_play_button_content_desc">Button sa Pag-play</string>
+    <string name="become_a_subscriber">Maging subscriber</string>
+    <string name="become_a_subscriber_and_save">Maging subscriber at makatipad ng %d%%</string>
+    <string name="select">Pumili</string>
+    <string name="select_something">Piliin ang %s</string>
+    <string name="size_range">Saklaw ng laki</string>
+    <string name="initial_time" translatable="false">00:00</string>
+    <string name="a11y_play">I-play</string>
+    <string name="a11y_pause">I-pause</string>
+    <string name="a11y_enter_fullscreen">Pumasok sa fullscreen</string>
+    <string name="a11y_exit_fullscreen">Lumabas sa fullscreen</string>
+    <string name="share_product">Sa tingin ko ay magugustuhan mo ito! Magmadali, dahil baka mabilis itong maibenta!
+%s</string>
+    <string name="unavailable_product_message">Wala na ang produktong ito.</string>
+    <string name="a11y_variant_sold_out">%s. Hindi magagamit.</string><!--  Read with an accessibility action, e.g. "Double-tap to [action]"  --><string name="a11y_collapse_action">paliitin</string>
+    <string name="a11y_expand_action">palakihin</string><!--StoreLocator--><string name="store_locator">Tagahanap ng Tindahan</string>
+    <string name="list">Listahan</string>
+    <string name="map">Mapa</string>
+    <string name="search_by_postal_code">Maghanap ayon sa postal code</string>
+    <string name="no_results_description">Hindi kami nakahanap ng mga tindahan sa loob ng postal code na iyan</string>
+    <string name="temporarily_closed">Pansamantalang Sarado</string>
+    <string name="store_hours">Mga Oras ng Tindahan</string>
+    <string name="a11y_edit_store">I-edit Ang Tindahan</string><!--  Read with an accessibility action, e.g. "Double-tap to [action]"  --><string name="a11y_favorite_store_button_add_action">itakda ang tindahang ito bilang iyong paborito</string>
+    <string name="a11y_favorite_store_button_remove_action">alisin ang tindahang ito bilang iyong paborito</string><!--FourSixty--><string name="shop_our_instagram">Mamili sa aming Instagram</string>
+    <string name="four_sixty_header_message">Tingnan kung ano ang isinusuot ng iba sa instagram at mamili nang direkta mula rito.</string>
+    <string name="four_sixty_see_it_instagram_header_message">Tingnan ito sa Instagram</string><!--Write a Review--><string name="write_a_review">Magsulat Ng Isang Review</string>
+    <string name="how_would_you_rate">Paano mo ire-rate ang item na ito?</string>
+    <string name="name">Pangalan</string>
+    <string name="title">Titulo</string>
+    <string name="message">Mensahe</string>
+    <string name="submit_review">Isumite ang Review</string>
+    <string name="empty_name_error">Pakilagay ang iyong buong pangalan.</string>
+    <string name="review_title_error">Pakibigyan ang review ng pamagat.</string>
+    <string name="review_title_success">Matagumpay na nai-post ang iyong review!</string><!--Recharge--><string name="my_subscriptions">Ang Mga Subskripsyon Ko</string>
+    <string name="manage_subscription_on_web">Pamahalaan ang mga subskrispsiyon sa web</string>
+    <string name="recharge" translatable="false">Mag-recharge</string>
+    <string name="subscribe_and_save">&quot;Mag-subscribe at i-save&quot;</string>
+    <string name="one_time_purchase">Minsanang Pagbili</string>
+    <string name="subscribe_every">Mag-subscribe tuwing %1$s</string>
+    <string name="save_percent">Makatipid ng %1$d%%</string>
+    <string name="purchase_options">Mga Opsyon sa Pagbili</string>
+    <string name="subscription_every">Subskripsyon: Tuwing %1$d%2$s</string>
+
+    <plurals name="rating_info">
+        <item quantity="one">%2$.2f | %1$d Review</item>
+        <item quantity="other">%2$.2f |%1$d (na) Review</item>
+    </plurals><!-- Quick Add/Update --><string name="view"><u>Tingnan</u></string>
+    <string name="select_your">Piliin ang iyong %s</string>
+    <string name="quick_add_plus">+ Mabilis na Pagdagdag</string>
+    <string name="update_cart">I-update ang Cart</string><!-- Onboarding --><string name="create_account">Gumawa ng account</string>
+    <string name="skip">Laktawan</string>
+    <string name="title_onboarding">Onboarding</string><!-- Notifications--><string name="no_notifications_title">Walang mga notipikasyon</string>
+    <string name="no_notifications_message">Walang mga abisong\nmaipapakita sa oras na ito</string>
+    <string name="notifications_error">Nagkaroon ng problema. Pakisubukan muli sa lalong madaling panahon.</string>
+
+    <string name="title_test">Titulo ng Pagsubok</string>
+    <string name="title_shoppableinstagram">Shoppable na Instagram</string>
+    <string name="title_search">Maghanap</string>
+    <string name="title_notifications">Mga Notipikasyon</string><!--Countdown Timer block --><string name="countdown_timer_number_format">%02d</string><!--QuadPay--><string name="quad_pay_eligible_message">Bumili ngayon, magbayad sa ibang panahon.
+%1$d walang interes na pagbabayad na %2$s</string>
+    <string name="quad_pay_ineligible_message">%1$d walang interes na pagbabayad sa mga order na higit sa $%2$s</string><!--My Rewards--><string name="title_loyalty">Katapatan</string>
+    <string name="about">Tungkol sa</string>
+    <string name="loyalty_rewards">Mga Pabuya sa Katapatan</string>
+    <plurals name="your_balance">
+        <item quantity="one">Ang Iyong Balanse: &lt;b&gt;%,d puntos&lt;/b&gt;</item>
+        <item quantity="other">Ang Iyong Balanse: &lt;b&gt;%,d na mga puntos&lt;/b&gt;</item>
+    </plurals>
+    <plurals name="tier_level">
+        <item quantity="one">%d sa %d tier</item>
+        <item quantity="other">%d sa %d (na) tier</item>
+    </plurals>
+    <string name="number_with_comma">%,d</string>
+    <string name="of_progress">ng %,d</string>
+    <string name="tier">%s Tier</string>
+    <string name="ways_to_earn_extra">Mga Paraan para sa Dagdag na Kita</string>
+    <string name="view_more_underlined">&lt;u&gt;Tingnan ang higit pa&lt;/u&gt;</string>
+    <string name="close_underlined">&lt;u&gt;Isara&lt;/u&gt;</string>
+    <string name="a11y_close">Isara</string>
+    <string name="a11y_back">Bumalik</string>
+    <string name="share_with_friends">Ibahagi sa Mga Kaibigan</string><!--My Rewards Dialog--><string name="my_rewards">Ang Aking Mga Pabuya</string>
+    <string name="my_rewards_all_caps">ANG AKING MGA PABUYA</string>
+    <string name="choose_reward">Pumili ng pabuya</string>
+    <string name="choose_a_reward">Pumili ng pabuya:</string>
+    <string name="redeem_reward">Kunin ang Pabuya</string>
+    <string name="remove">Alisin</string>
+    <string name="points">%d na mga puntos</string>
+    <string name="points_non_reversible">*Hindi maibabalik ang mga puntos na ginamit para makuha ang mga pabuya.</string>
+    <string name="redeem_points_for_discount">Gamitn ang mga puntos para sa diskwento.</string>
+    <string name="banner_reward_applied">&lt;b&gt;%s Nailapat&lt;/b&gt; - Code: %s</string>
+    <string name="unclaimed">Hindi Nagamit:</string>
+    <string name="reward_code_invalid">Hindi tama ang code ng pabuya.</string>
+    <string name="reward_has_zero_balance">Ang pabuya ay walang balanse.</string>
+    <string name="reward_is_expired">Paso na ang pabuya.</string>
+    <string name="reward_code_not_found">Hindi nahanap ang code ng pabuya.</string>
+    <string name="reward_already_redeemed">Nakuha na ang iyong pabuya.</string>
+    <string name="cannot_apply_reward">Hindi mailapat ang pabuya.</string>
+    <string name="cannot_apply_multiple_gift_cards">Hindi magagamit ang maraming mga gift card.</string>
+    <string name="reward_is_disabled">Hindi gumagana ang pabuya. Subukan muli mamaya.</string>
+    <string name="no_rewards_available">Walang magagamit na pabuya</string>
+    <string name="setting_up_loyalty">Pag-set up ng iyong account ng katapatan…</string>
+    <string name="discount_not_applicable_error">Hindi nalalapat ang diskwento sa mga item sa iyong cart.</string><!--Subscriptions--><string name="title_subscriptions">Mga Subskripsyon</string>
+    <string name="active">Aktibo</string>
+    <string name="inactive">Hindi Aktibo</string>
+    <string name="next_billing_date">Sunod na Petsa ng Pagsingil: %1$s</string>
+    <string name="skipped_order">Nilaktawan Ang Order: %1$s</string>
+    <string name="subscription_inactive">Hindi Aktibo ang Subskripsyon</string>
+    <string name="no_subscriptions">Walang mga subskripsyon</string>
+    <string name="no_subscriptions_yet">Hindi ka pa nakakagawa ng anumang
+subskripsyon</string><!--Subscription Details--><string name="subscription_details">Mga Detalye ng Subskripsyon</string>
+    <string name="frequency">Kadalasan</string>
+    <string name="delivered_every">Tuwing %1$s</string>
+    <string name="reactivate_subscription">Muling Isaaktibo ang Subskripsyon</string>
+    <string name="save_changes">I-save ang mga Pagbabago</string>
+    <string name="select_a_frequency">Pumili ng kadalasan</string>
+    <string name="select_a_quantity">Pumili ng dami</string>
+    <string name="every">Tuwing %1$d%2$s</string>
+    <string name="skip_next_charge">Laktawan ang Susunod na Pagsingil</string>
+    <string name="unskip_next_charge">Huwag Laktawan ang Susunod na Pagsingil</string>
+    <string name="deactivate_subscription">I-deactivate ang Subskripsyon</string>
+    <string name="subscription_updated_message">Na-update na namin ang iyong subskripsyon</string>
+    <string name="a11y_change_quantity">Palitan Ang Dami</string>
+
+    <plurals name="day_interval">
+        <item quantity="one">%1$d araw</item>
+        <item quantity="other">%1$d na mga araw</item>
+    </plurals>
+    <plurals name="week_interval">
+        <item quantity="one">%1$d linggo</item>
+        <item quantity="other">%1$d na mga linggo</item>
+    </plurals>
+    <plurals name="month_interval">
+        <item quantity="one">%1$d buwan</item>
+        <item quantity="other">%1$d na mga buwan</item>
+    </plurals><!--Reactivate Subscription--><string name="reactivate_subscription_title">Muling Isaaktibo ang Subskripsyon</string>
+    <string name="reactivate_subscription_message">Sisingilin ka sa iyong susunod na petsa ng pagsingil</string>
+    <string name="confirm">Kumpirmahin</string><!--Deactivate Subscription--><string name="deactivate_subscription_title">I-deactivate ang Subskripsyon</string>
+    <string name="deactivate_subscription_message">Sigurado ka bang gusto mong i-deactivate ang iyong subskripsyon?</string>
+    <string name="deactivate">I-deactivate</string><!--Skip Charge--><string name="skip_charge_title">Laktawan ang Pagsingil</string>
+    <string name="skip_charge_message">Sigurado ka bang gusto mong laktawan ang iyong susunod na petsa ng subskripsyon?</string>
+    <string name="skip_charge">Laktawan</string><!--Unskip Charge--><string name="unskip_charge_title">Huwag Laktawan ang Pagsingil</string>
+    <string name="unskip_charge_message">Sigurado ka bang gusto mong hindi laktawan ang iyong susunod na petsa ng subskripsyon?</string>
+    <string name="unskip_charge">Huwag Laktawan</string><!--Leave Subscription Unsaved--><string name="leave_unsaved_message">Sigurado ka bang gusto mong umalis? Aalisin ang lahat ng hindi nai-save na pagbabago.</string>
+    <string name="leave">Umalis</string><!--Recharge Errors--><string name="auth_error_message">Naku! Nagkaroon ng error sa pagpapatunay</string>
+    <string name="parse_error_message">Naku! Nagkaroon ng error sa pagkumpleto ng gawain</string><!--Subscription Address--><string name="select_address">Piliin ang Address</string>
+    <string name="edit_address">I-edit ang Address</string>
+    <string name="deliver_to_address">Ihatid Sa Address na Ito</string><!--Abandoned Items--><string name="finish_checkout">Tapusin ang Pag-checkout</string>
+    <string name="view_cart">Tingnan Ang Cart</string>
+    <string name="abandoned_checkout_title">Magsimula muli kung saan ka dating tumigil!
+Kumpletuhin ang iyong order ngayon.</string>
+    <string name="abandoned_cart_title">Nakalimutan mo ito sa iyong cart.
+Mag-checkout ngayon bago ito maubos.</string>
+
+    <plurals name="extra_items_message">
+        <item quantity="one">&quot;+% 1$d iba pang mga produkto&quot;</item>
+        <item quantity="other">&quot;+% 1$d na iba pang mga produkto&quot;</item>
+    </plurals>
+    <string name="title_address">Address</string><!-- Photo Search --><string name="take_photo">Kumuha ng Larawan</string>
+    <string name="select_photo">Pumili ng Larawan</string>
+    <string name="photo_search_toolbar">Maghanap ng Imahe</string>
+    <string name="photo_search_description">Maaari ka na ngayong maghanap sa pamamagitan ng pagkuha ng larawan O mag-upload ng larawan, pumili ng item sa loob nito, at magsimulang mamili!</string>
+    <string name="photo_search_feed_description">Walang larawan? Subukang gumamit ng isa mula sa aming social feed</string>
+    <string name="replace_image">Palitan Ang Imahe</string>
+
+    <string name="photo_search_sort_label" translatable="false">@ string/sort</string>
+    <string name="photo_search_sort_best_match">Pinakamahusay na Tugma</string>
+    <string name="photo_search_sort_price_high_low" translatable="false">@string/price_high_to_low</string>
+    <string name="photo_search_sort_price_low_high" translatable="false">@string/price_low_to_high</string><!-- Multicurrency --><string name="change_currency">Baguhin ang Currency</string>
+    <string name="change_currency_msg">Ire-reload nito ang iyong app at makikita na ang mga presyo sa %s na currency.</string>
+    <string name="add_to_list_failed">Nabigong magdagdag ng item sa wishlist</string>
+    <string name="failed_to_remove_wishlist_item">Nabigong alisin ang (mga) produkto mula sa wishlist</string>
+    <string name="default_wishlist_name">Ang Aking Wishlist</string>
+
+</resources>

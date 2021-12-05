@@ -1,0 +1,532 @@
+<resources>
+    <string name="underscore" translatable="false">_</string>
+    <string name="item_price_placeholder">आइटम की कीमत</string>
+    <string name="options">विकल्प</string>
+    <string name="search">खोजें</string>
+    <string name="item_name_placeholder">आइटम का नाम</string>
+    <string name="product_image">प्रोडक्ट\ की इमेज</string>
+    <string name="collection_title_placeholder">कलेक्शन टाइटल</string>
+    <string name="view_collection">कलेक्शन देखें</string>
+    <string name="collection_name_placeholder">कलेक्शन का नाम</string>
+    <string name="view_all">सभी को देखें</string>
+    <string name="collection_image">कलेक्शन इमेज</string>
+    <string name="shop_now">अभी खरीदें</string>
+    <string name="ratting_count_placeholder">(999)</string>
+    <string name="add_to_bag">बैग में जोड़ें</string>
+    <string name="add_to_cart">कार्ट में जोड़ें</string>
+    <string name="share">शेयर करें</string>
+    <string name="app_logo">ऐप का लोगो</string>
+    <string name="items_count_placeholder">आइटमों की संख्या</string>
+    <string name="remove_item">आइटम हटाएँ</string>
+    <string name="subtotal">कुल योग</string>
+    <plurals name="cart_items_count">
+        <item quantity="one">%d आइटम</item>
+        <item quantity="other">%d आइटम</item>
+    </plurals>
+    <string name="my_bag">मेरा बैग</string>
+    <string name="my_cart">मेरा कार्ट</string>
+    <string name="splash_background">स्प्लैश बैकग्राउंड</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="elapsed_time">%1$d %2$s पहले&quot;</string>
+    <string name="value_currency">%1$s %2$s&quot;</string>
+    <string name="card_masked">•••• •••• •••• %1$s&quot;</string>
+    <string name="just_now">बस अभी-अभी</string>
+
+    <plurals name="year">
+        <item quantity="one">साल</item>
+        <item quantity="other">साल</item>
+    </plurals>
+
+    <plurals name="month">
+        <item quantity="one">माह</item>
+        <item quantity="other">माह</item>
+    </plurals>
+
+    <plurals name="day">
+        <item quantity="one">दिन</item>
+        <item quantity="other">दिन</item>
+    </plurals>
+
+    <plurals name="hour">
+        <item quantity="one">घंटा</item>
+        <item quantity="other">घंटे</item>
+    </plurals>
+
+    <plurals name="minute">
+        <item quantity="one">मिनट</item>
+        <item quantity="other">मिनट</item>
+    </plurals>
+
+    <plurals name="second">
+        <item quantity="one">सेकेंड</item>
+        <item quantity="other">सेकेंड</item>
+    </plurals>
+
+    <plurals name="week">
+        <item quantity="one">सप्ताह</item>
+        <item quantity="other">सप्ताह</item>
+    </plurals>
+
+    <string name="size_guide">आकार गाइड</string>
+    <string name="shipping_info">शिपिंग की जानकारी</string>
+    <string name="description">विवरण</string>
+    <string name="collections">कलेक्शन्स</string>
+    <string name="your_order_is_complete">आपका ऑर्डर पूरा हो गया है!</string>
+    <string name="web_checkout_confirmation_message">एक पुष्टि करने वाला ईमेल भेजा गया है</string>
+    <string name="email_placeholder">test@test.com</string>
+    <string name="keep_shopping">शॉपिंग जारी रखें</string>
+    <string name="ship_box">शिप बाक्स</string>
+    <string name="no_internet">कृपया अपना इंटरनेट कनेक्शन जाँचें</string>
+    <string name="checkout">चेकआउट</string>
+    <string name="three_d_secure_authentication">3D सुरक्षित पहचान</string>
+    <string name="discount">डिस्काउंट</string>
+    <string name="review_your_order">अपने ऑर्डर को रीव्यू करें</string>
+    <string name="google_pay_error">Google pay की समस्या है</string>
+    <string name="failed_to_process_payment_title">भुगतान करने में विफल हो गया</string>
+    <string name="failed_to_process_payment">भुगतान करने में विफल हो गया, कृपया बाद में दोबारा प्रयास करें।</string>
+    <string name="arrow">arrow</string>
+    <string name="menu_item">मेनू आइटम</string>
+    <string name="logo">लोगो</string>
+    <string name="not_implemented">लागू नहीं हुआ</string>
+    <string name="sold_out">बिक गया</string>
+    <string name="coming_soon">जल्दी ही आ रहा है</string>
+    <string name="email_address">ईमेल ऐड्रेस</string>
+    <string name="password">पासवर्ड</string>
+    <string name="email_error_message">कृपया आगे बढ़ने से पहले एक ईमेल ऐड्रेस दें।</string>
+    <string name="password_error_message">पासवर्ड खाली नहीं रह सकता है।</string>
+    <string name="login_error">लॉगइन समस्या</string>
+    <string name="error">समस्या</string>
+    <string name="no_results">कोई परिणाम नहीं</string>
+    <string name="urban_planet_marker">अर्बन प्लैनेट मार्कर</string>
+    <string name="try_again_error">कृपया दोबारा प्रयास करें।</string>
+    <string name="store_credit">वापसियाँ: स्टोर क्रेडिट</string>
+    <string name="fraud_prevention">धोखेबाजी से बचाव</string>
+    <string name="store_credit_title">स्टोर क्रेडिट</string>
+    <string name="return_policy_title">वापसी की नीति</string>
+    <string name="store_credit_text">ऐसा होने की कभ संभावना के साथ, वैध वापसियाँ स्टोर क्रेडिट के रूप में रिफंड की जाती हैं। क्षतिग्रस्त/ख़राब आइटम स्टॉक में होने के आधार पर एक्सचेंज किए जाएंगे।
+सभी देय स्टोर क्रेडिट, रिफंड, और/या एक्सचेंज को वापसी की प्रक्रिया शुरू होने के 3 से 5 कार्यदिवसों के भीत जारी किया जाएगा।
+सभी आइटम जिनकी कीमतों के अंत में \$.00, .96, .97 और .98 हैं वे अंतिम बिक्री के लिए हैं और इनको स्टोर क्रेडिट के लिए वापस नहीं किया जा सकता है।
+आप हमारी वापसी की नीति के बारे में अतिरिक्त जानकारी प्राप्त कर सकते हैं</string>
+    <string name="store_credit_text_hyperlink">यहाँ से</string>
+    <string name="slash" translatable="false">/</string>
+    <string name="free_gift">मुफ़्त गिफ्ट</string>
+    <string name="a11y_original_and_discounted_price">असली कीमत %1$s, सेल की कीमत %2$s</string><!--Account--><string name="account">अकाउंट</string>
+    <string name="sign_in">साइन इन करें</string>
+    <string name="create_an_account">एक अकाउंट बनाएँ</string>
+    <string name="already_have_an_account">पहले से ही अकाउंट है?</string>
+    <string name="log_in">लॉग इन करें</string>
+    <string name="log_in_to_account">अकाउंट में लॉग इन करें</string>
+    <string name="create_a_new_account">एक नया अकाउंट बनाएँ</string>
+    <string name="full_nme">पूरा नाम</string>
+    <string name="sign_up">साइन अप करें</string>
+    <string name="name_error_message">आगे बढ़ने से पहले अपना पूरा नाम दर्ज करें।</string>
+    <string name="sign_up_error">साइन अप में समस्या</string>
+    <string name="no_address">कोई पता उपलब्ध नहीं है</string>
+    <string name="my_orders">मेरे ऑर्डर</string>
+    <string name="orders">ऑर्डर</string>
+    <string name="hi_user">हैलो, %s।</string>
+    <string name="favorites">पसंदीदा</string>
+    <string name="start_browsing">अपने आइटमों को यहाँ देखने के लिए
+ब्राउज़िंग करना शुरू करें</string>
+    <string name="recently_viewed">हाल ही में देखे गए</string>
+    <string name="first_name_empty_error">पहला नाम खाली नहीं हो सकता है।</string>
+    <string name="last_name_empty_error">अंतिम नाम खाली नहीं हो सकता है।</string>
+    <string name="first_name">पहला नाम</string>
+    <string name="last_name">अंतिम नाम</string>
+    <string name="forgot_password">पासवर्ड भूल गए?</string>
+    <string name="forgot_password_dialog_message">पासवर्ड भूल गए?
+हम आपको एक लिंक भेजेंगे।</string>
+    <string name="send_reset_password_link">लिंक भेजें</string>
+    <string name="change_password_error">पासवर्ड की समस्या को बदलें</string>
+    <string name="reset_password_email_sended">पासवर्ड रीसेट हो गया था। कृपया अपना ईमेल जाँचें।</string>
+    <string name="underlined_create_account"><u>अकाउंट बनाएँ</u></string>
+    <string name="default_error_message">अरे, एक समस्या हो गई। कृपया बाद में दोबारा प्रयास करें।</string>
+    <string name="incorrect_email_or_password">गलत ईमेल या पासवर्ड।</string>
+    <string name="dont_have_an_account">क्या\ आपके पास अकाउंट नहीं है?</string>
+    <string name="log_out">लॉग आउट करें</string><!--Cart--><string name="add_item">आइटम जोड़ें</string>
+    <string name="enter_discount_code">डिस्काउंट कोड दर्ज करें</string>
+    <string name="enter_gift_card">गिफ्ट कार्ड नंबर दर्ज करें</string>
+    <string name="apply_discount">डिस्काउंट लगाएँ</string>
+    <string name="applied_discount_code">कोड: %1$s 🔥</string>
+    <string name="applied_gift_card">•••• %s 🎁</string>
+    <string name="continue_shopping">शॉपिंग जारी रखें</string>
+    <string name="start_shopping">शॉपिंग शुरू करें</string>
+    <string name="empty_cart">कार्ट खाली है</string>
+    <string name="empty_cart_message">इस समय
+आपके कार्ट में कोई आइटम नहीं है</string>
+    <string name="your_cart_is_empty">आपका कार्ट खाली है</string>
+    <string name="apply_gift_card">गिफ्ट कार्ड उपयोग करें</string>
+    <string name="dialog_background_image">डायलॉग बैकग्राउंड इमेज</string>
+    <string name="discount_error_title">अवैध डिस्काउंट कोड</string>
+    <string name="variant_not_available">कुछ आइटम अब उपलब्ध नहीं है और आपका कार्ट अपडेट कर दिया गया है।</string>
+    <string name="gift_card_error_title">अवैध गिफ्ट कार्ड</string>
+    <string name="something_went_wrong_try_again">कुछ गलत हो गया।
+कृपया दोबारा प्रयास करें।</string>
+    <string name="credit_card">क्रेडिट कार्ड</string>
+    <string name="paypal">PayPal</string>
+    <string name="amazon_pay">Amazon Pay</string>
+    <string name="google_pay">Google Pay</string>
+    <string name="pay_with">भुगतान करें</string>
+    <string name="ship_to_me_title">मुझे शिप करें</string>
+    <string name="ship_to_me_message">मेरे पते पर तेजी से भेजें</string>
+    <string name="ship_to_store_title">स्टोर पर शिप करें</string>
+    <string name="ship_to_store_message">चुनें कहाँ से इसे पिक करना है</string>
+    <string name="reach_max_cart_line_items_error_message">%s की सीमा पार हो गई, कृपया कार्ट आइटम(मों) को निकालें।</string>
+    <string name="discount_error_not_applied_to_items">आपके कार्ट में मौजूद आइटमों पर डिस्काउंट लागू नहीं होता है</string>
+    <string name="no_internet_connection">इंटरनेट कनेक्शन मौजूद नहीं है</string>
+    <string name="generic_checkout_creation_error">आपका चेकआउट करते समय एक समस्या आ गई थी</string>
+    <string name="throttle_failure">माफ कीजिए, आपका चेकआउट\ हो नहीं पाया। कृपया दोबारा प्रयास करें।</string>
+    <string name="dont_leave_page_queue_message">पेज\ को ना छोड़ें नहीं तो आप\ अपनी जगह खो देंगे!</string>
+    <string name="thank_you_queue_message">आपके धैर्य के लिए आपका धन्यवाद! इसमें\ बस कुछ और समय लगेगा!</string>
+    <string name="discount_error_not_found">दर्ज किए गए कोड से मेल खाता हुआ एक वैध डिस्काउंट ढूँढने में असमर्थ हैं</string>
+    <string name="discount_error_general">डिस्काउंट लागू नहीं हो पाया। कृपया दोबारा प्रयास करें।</string>
+    <string name="add_items_from_favorites">पसंदीदा में से आइटमों को जोड़ें</string>
+    <string name="add_my_favorite_items">मेरे पसंद किए गए जोड़ें?</string>
+    <string name="error_add_favorite_items_cart">क्षमा कीजिए, कार्ट में कुछ आइटमो को जोड़ने में समस्या थी।</string>
+    <string name="product_is_sold_out_error">क्षमा कीजिए, प्रोडक्ट बिक गया है।</string>
+    <string name="cart_update_error_title">कार्ट को अपडेट करने में असमर्थ हैं</string>
+    <string name="cart_update_error_discount">किसी समस्या के कारण आपका डिस्काउंट कोड हटा दिया गया है। कृपया दोबारा जोड़ने का प्रयास करें।</string>
+    <string name="cart_update_error_gift_card">किसी समस्या के कारण आपका गिफ्ट कार्ड हटा दिया गया है। कृपया दोबारा जोड़ने का प्रयास करें।</string><!--Checkout--><string name="gift_card">गिफ्ट कार्ड</string>
+    <string name="duties">कर्तव्य</string>
+    <string name="shipping">शिपिंग</string>
+    <string name="tax">टैक्स</string>
+    <string name="total">कुल</string>
+    <string name="submit_order">ऑर्डर सब्मिट करें</string>
+    <string name="complete_order">ऑर्डर पूरा करें</string>
+    <string name="continue_to_payment">भुगतान की ओर आगे बढ़ें</string>
+    <string name="signed_in_as">“इस रूप में साइन इन करें ”</string>
+    <string name="already_have_account">पहले से ही अकाउंट है?</string>
+    <string name="underlined_sign_in"><u>साइन इन करें</u></string>
+    <string name="underlined_sign_in_sentence"><u>साइन इन करें।</u></string>
+    <string name="checkout_as_guest">या बतौर गेस्ट चेकआउट करें</string>
+    <string name="add">जोड़े</string>
+    <string name="add_shipping_info">शिपिंग का पता जोड़ें</string>
+    <string name="add_billing_address">बिलिंग का पता जोड़ें</string>
+    <string name="add_payment_info">भुगतान संबंधी जानकारी जोड़ें</string>
+    <string name="free">मुफ़्त</string>
+    <string name="order_note">नोट: %1$s</string>
+    <string name="summary">सारांश</string>
+    <string name="minus">-%1$s</string>
+    <string name="payment">भुगतान</string>
+    <string name="add_payment">भुगतान करें</string>
+    <string name="billing_address">बिलिंग का पता और शिपिंग का पता एक समान है</string>
+    <string name="shipping_method">शिपिंग का तरीका</string>
+    <string name="ship_to_store">स्टोर पर शिप करें</string>
+    <string name="in_store_pickup">इन स्टोर पिकअप</string>
+    <string name="pick_up_here">यहाँ से पिक अप करें</string>
+    <string name="update_shopping_cart">शॉपिंग कार्ट को अपडेट करें</string>
+    <string name="update_shipping_address">शिपिंग पते को अपडेट करें</string><!-- Contact Sharing--><string name="contact_sharing">दोस्तों के साथ शेयर करें</string>
+    <string name="module_title">रेफरल</string>
+    <string name="contact_sharing_cta_contacts">मेरी कांटैक्ट लिस्ट से आमंत्रित करें</string>
+    <string name="contact_sharing_cta_invite">आमंत्रण साझा करें</string>
+    <string name="contact_sharing_description_placeholder">जैसे ही वे कोई खरीद करते हैं हम एक $20 का गिफ्ट कार्ड भेजेंगे। दोस्तों को रेफर करने के लिए अपनी कांटैक्ट लिस्ट का उपयोग करें।</string>
+    <string name="contact_sharing_permission_denied">जारी रखने के लिए डिवाइस के कांटैक्ट्स के लिए एक्सेस आवश्यक है। कृपया अपनी डिवाइस सेटिंग्स में कांटैक्ट एक्सेस उपलब्ध कराएँ।</string><!--Credit Card--><string name="empty_card_error">&quot;कृपया अपना क्रेडिट कार्ड नंबर दर्ज करें।&quot;</string>
+    <string name="invalid_card_error">&quot;क्रेडिट कार्ड नंबर अवैध है।&quot;</string>
+    <string name="scan_your_card">अपना कार्ड स्कैन करें</string><!--Notes--><string name="add_order_notes">ऑर्डर नोट जोड़ें</string>
+    <string name="gift_cart_or_delivery_date_notes">गिफ़्ट कार्ड के मैसेज | चुनी गई डिलीवरी डेट</string>
+    <string name="add_notes">नोट जोड़ें</string>
+    <string name="notes_hint">अपने ऑर्डर के लिए एक नोट लिखें</string>
+    <string name="update_notes_error">नोट को अपडेट करने में समस्या है</string><!--Address--><string name="billing">बिलिंग</string>
+    <string name="email">ईमेल</string>
+    <string name="new_address">नया पता</string>
+    <string name="add_new_address">नया पता जोड़ें</string>
+    <string name="update_address">पता अपडेट करें</string>
+    <string name="phone_number">फोन नंबर</string>
+    <string name="full_name">पूरा नाम</string>
+    <string name="street_address">सड़क का नाम</string>
+    <string name="unit">ईकाई (वैकल्पिक)</string>
+    <string name="city">शहर</string>
+    <string name="postal_code">पोस्टल कोड</string>
+    <string name="state">राज्य</string>
+    <string name="province">प्रांत</string>
+    <string name="country">देश</string>
+    <string name="save_address">पता सेव करें</string>
+    <string name="empty_email_error">कृपया अपना ईमेल ऐड्रेस दर्ज करें।</string>
+    <string name="invalid_email_error">कृपया एक वैध ईमेल ऐड्रेस दर्ज करें।</string>
+    <string name="phone_error">कृपया अपना फोन नंबर दर्ज करें।</string>
+    <string name="empty_full_name_error">कृपया अपना पूरा नाम दर्ज करें।</string>
+    <string name="full_name_error">कृपया अपना पहला और अंतिम नाम दर्ज करें।</string>
+    <string name="empty_address_error">कृपया अपना पता भरें।</string>
+    <string name="empty_city_error">कृपया अपना शहर दर्ज करें।</string>
+    <string name="empty_zip_error">कृपया अपना पोस्टल कोड दर्ज करें।</string>
+    <string name="empty_state_error">कृपया अपना राज्य दर्ज करें।</string>
+    <string name="restricted_shipping_country_error">क्षमा कीजिए, आपके कार्ट में वे आइटम हैं जिनको यूनाइटेड स्टेट्स के बाहर शिप नहीं किया जा सकता है।</string>
+    <string name="does_not_ship_to_country_error">क्षमा कीजिए, हम विशिष्ट देश में शिप नहीं करते हैं।</string>
+    <string name="empty_country_error">कृपया अपना देश दर्ज करें।</string>
+    <string name="unknown_country_error">चुने गए देश की पहचान नहीं हो सकी।</string>
+    <string name="update_address_error">डाक पते को सेव नहीं कर सका।</string>
+    <string name="empty_phone_error">&quot;कृपया शिपिंग फार्म में अपना फोन नंबर दर्ज करें।&quot;</string>
+    <string name="beauty_items_error">आपके कार्ट में मौजूद ब्यूटी आइटमों को केवल अमेरिका या कनाडा में शिप किया जा सकता है। चेकआउट को पूरा करने के लिए, कृपया अपने कार्ट में से ब्यूटी आइटमों को हटाएँ या अपने शिपिंग के पते को अपडेट करें।</string>
+    <string name="a11y_selected">चुना गया</string>
+    <string name="a11y_unselected">चयन से हटाया गया</string><!--Processing--><string name="processing_title">तैयार रहें।
+हम आपके ऑर्डर पर कार्यवाही कर रहे हैं।</string>
+    <string name="processing_subtitle">इसमें कुछ सेकेंड लग सकते हैं</string>
+    <string name="out_of_stock_title">हमारे पास आपके अनुरोध किए गए पर्याप्त आइटम नहीं हैं।</string>
+    <string name="out_of_stock_subtitle">हमने नीचे दिए गए आइटमों के लिए संख्याओं को अपडेट किया गया है। कृपया आगे बढ़ने के लिए अपने कार्ट को देखें।</string>
+    <string name="checkout_completed_title">आप तैयार हैं!
+आपके ऑर्डर के लिए धन्यवाद।</string>
+    <string name="checkout_completed_message">आपको जल्दी ही ईमेल द्वारा पुष्टि की सूचना मिलनी चाहिए।</string>
+    <string name="review_cart">कार्ट को देखें</string>
+    <string name="processing_checkout_error">&quot;आपके चेकआउट को पूरा करने में एक समस्या थी। कृपया दोबारा प्रयास करें।&quot;</string><!--Collection--><string name="sort">छांटें</string>
+    <string name="recommended">सुझाया गया</string>
+    <string name="whats_new">नया\ क्या है</string>
+    <string name="best_selling">सबसे अधिक बिक रहा है</string>
+    <string name="price_low_to_high">कीमत: कम से अधिक</string>
+    <string name="price_high_to_low">कीमत: अधिक से कम</string>
+    <string name="filter">फिल्टर</string>
+    <string name="apply">लागू करें</string>
+    <string name="clear">मिटाएँ</string>
+    <string name="error_get_filter">फिल्टर नहीं प्राप्त कर सका</string>
+    <string name="update_wish_list_error_dialog_message">विशलिस्ट को अपडेट करना विफल हो गया। कृपया जल्दी ही दोबारा प्रयास करें।</string>
+    <string name="reach_max_favorites_error_message">%s की सीमा से अधिक है, कृपया विशलिस्ट से आइटम(मों) को निकालें।</string>
+    <string name="empty_state_collection_title">कोई प्रोडक्ट नहीं</string>
+    <string name="empty_state_collection_message">हम इस कलेक्शन में
+प्रोडक्टों को खोजने में असमर्थ थे</string>
+    <string name="unavailable_collection_message">यह कलेक्शन अब उपलब्ध नहीं है</string><!--Favorite--><string name="my_wishlist">मेरी विशलिस्ट</string>
+    <string name="my_wishlists">मेरी विशलिस्ट्स</string>
+    <string name="my_favorites">मेरी पसंद</string>
+    <string name="empty_wish_list">मेरी पसंद खाली है</string>
+    <string name="favorite_header">अपनी पसंद शेयर करें</string>
+    <string name="share_wish_list">मेरे %1$s पसंद को चेक आउट करें!</string>
+    <string name="a11y_favorite_button_label">पसंद करने का बटन</string><!--  Read with an accessibility action, e.g. "Double-tap to [action]"  --><string name="a11y_favorite_button_add_action">प्रोडक्ट को अपनी पसंद में जोड़ें।</string>
+    <string name="a11y_favorite_button_remove_action">प्रोडक्ट को अपनी पसंद से हटाएँ</string>
+    <string name="a11y_favorite_button_sign_in_action">साइन इन करें</string><!-- Installment Payments --> <!-- TODO move to a constants file --><string name="quad_pay" translatable="false">QuadPay</string>
+    <string name="after_pay" translatable="false">AfterPay</string>
+    <string name="klarna" translatable="false">Klarna</string>
+    <string name="affirm" translatable="false">Affirm</string>
+    <string name="sezzle" translatable="false">Sezzle</string>
+    <string name="installment_provider_text">&quot;अभी खरीदें, बाद में भुगतान करें।
+%s का %d ब्याज-मुक्त भुगतान&quot;</string><!--Main--><string name="cart_icon">कार्ट आइकन</string>
+    <string name="menu_background">मेनू बैकग्राउंड</string>
+    <string name="sure_log_out">क्या आपको वाकई ऐप्लीकेशन से लॉग आउट करना है?</string>
+    <string name="my_account">मेरा अकाउंट</string>
+    <string name="install">इंस्टाल करें</string>
+    <string name="video_placeholder">वीडियो प्लेसहोल्डर</string>
+    <string name="exit_preview">प्रीव्यू से बाहर आएँ</string>
+    <string name="a11y_navigation_icon">मेन्यू</string>
+
+    <string name="a11y_video_block_product_destination">वीडियो। प्रोडक्ट को खोलने के लिए दो बार टैप करें</string>
+    <string name="a11y_video_block_collection_destination">वीडियो। %s कलेक्शन को खोलने के लिए दो बार टैप करें।</string>
+    <string name="a11y_video_block_webpage_destination">वीडियो। वेबपेज को खोलने के लिए दो बार टैप करें।</string>
+    <string name="a11y_video_block">वीडियो</string>
+    <string name="a11y_image_block_product_destination">इमेज। प्रोडक्ट को खोलने के लिए दो बार टैप करें</string>
+    <string name="a11y_image_block_collection_destination">इमेज। %s कलेक्शन को खोलने के लिए दो बार टैप करें।</string>
+    <string name="a11y_image_block_webpage_destination">इमेज। वेबपेज को खोलने के लिए दो बार टैप करें।</string>
+    <string name="a11y_image_block">इमेज</string><!--  Read with an accessibility action, e.g. "Double-tap to [action]"  --><string name="a11y_image_block_action_open_webpage">वेबपेज खोलें</string>
+    <string name="a11y_image_block_action_open_collection">कलेक्शन खोलें</string><!--Search--><string name="barcode_scanner">बॉरकोड स्कैन करें</string>
+    <string name="photo_search_button">फोटो अपलोड करें</string>
+    <string name="search_no_results_description">हम उस आइटम को खोज नहीं पाए
+जिसकी आप तलाश कर रहे थे</string>
+    <string name="search_products">प्रोडक्टों को खोजें</string>
+    <string name="popular_searches">मशहूर खोज</string>
+    <string name="trending_searches">ट्रेंड हो रहे खोज</string><!--Order--><string name="order_description_placeholder">ऑर्डर के विवरण का प्लेसहोल्डर</string>
+    <string name="order_total_placeholder">$99.99</string>
+    <string name="order_days_placeholder">17 दिन पहले</string>
+    <plurals name="order_quantity_count">
+        <item quantity="one">और %d अन्य आइटम</item>
+        <item quantity="other">और %d अन्य आइटम</item>
+    </plurals>
+    <string name="order">ऑर्डर</string>
+    <string name="you_have_no_orders">आपने कोई ऑर्डर नहीं किया है</string>
+    <string name="check_back">बाद में वापस आएँ जब आप\ अपना पहला ऑर्डर कर लें</string>
+    <string name="processing">कार्यवाही हो रही है</string><!--ProductDetails--><string name="keep_track">अपनी पसंद का ट्रैक रखें</string>
+    <string name="create_account_to_save_favorites">अपने सभी पसंदीदा आइटमों को सेव और ट्रैक करने के लिए एक %1$s अकाउंट बनाएँ।</string>
+    <string name="sign_in_to_save_favorites">अपने सभी पसंदीदा आइटमों को सेव और ट्रैक करने के लिए अपने %1$s अकाउंट में साइन इन करें।</string>
+    <string name="create_account_or_sign_in">अकाउंट बनाएँ या साइन इन करें</string>
+    <string name="reviews">रीव्यू</string>
+    <string name="verified_icon">वेरीफाइ किए गए आइकन</string>
+    <string name="you_may_also_like">हो सकता है आपके ये भी पसंद हों</string>
+    <string name="first_to_write_review">रीव्यू लिखने वाले पहले बनें</string>
+    <string name="uber_chic_checkout_already_created_message">क्षमा कीजिए, किसी चेकआउट के लिए पहले से कर दिए जाने के बाद आप कार्ट में प्रोडक्ट को जोड़ नहीं सकते हैं।</string>
+    <string name="view_all_reviews">सभी रिव्यू
+देखें</string>
+    <string name="something_went_wrong">उफ़, कुछ गड़बड़ी हो गई।</string>
+    <string name="notify_when_available">उपलब्ध होने पर मुझे सूचित करें</string>
+    <string name="notify_when_available_confirmation">जैसे ही आइटम स्टॉक में आता है, हम आपको सूचित करेंगे।</string>
+    <string name="final_sale">अंतिम सेल</string>
+    <string name="clearance_tag">क्लीरेंस पर</string>
+    <string name="plus">Plus</string>
+    <string name="misses">Misses</string>
+    <string name="petite">Petite</string>
+    <string name="select_size_range">साइज की रेंज चुनें:</string>
+    <string name="parenthesis">(%s)</string>
+    <string name="shop_similar">इसी तरह का खरीदें</string>
+    <string name="installment_provider_logo_content_desc">इंस्टालमेंट पर देने वाला लोगो</string>
+    <string name="product_video">प्रोडक्ट का वीडियो</string>
+    <string name="color">रंग</string>
+    <string name="video_banner_play_button_content_desc">प्ले बटन</string>
+    <string name="become_a_subscriber">एक सब्सक्राइबर बनें</string>
+    <string name="become_a_subscriber_and_save">एक सब्सक्राइबर बनें और बचाएँ %d%%</string>
+    <string name="select">चुनें</string>
+    <string name="select_something">चुनें %s</string>
+    <string name="size_range">साइज रेंज</string>
+    <string name="initial_time" translatable="false">00:00</string>
+    <string name="a11y_play">प्ले करें</string>
+    <string name="a11y_pause">पॉज करें</string>
+    <string name="a11y_enter_fullscreen">फुलस्क्रीन में प्रवेश करें</string>
+    <string name="a11y_exit_fullscreen">फुलस्क्रीन से बाहर आएँ</string>
+    <string name="share_product">हमने सोचा शायद आपको यह पसंद आए! जल्दी कीजिए, क्योंकि हो सकता है यह जल्दी बिक जाए!
+%s</string>
+    <string name="unavailable_product_message">यह प्रोडक्ट अब उपलब्ध नहीं है।</string>
+    <string name="a11y_variant_sold_out">%s। अनुपलब्ध।</string><!--  Read with an accessibility action, e.g. "Double-tap to [action]"  --><string name="a11y_collapse_action">छोटा करें</string>
+    <string name="a11y_expand_action">बड़ा करें</string><!--StoreLocator--><string name="store_locator">स्टोर लोकेटर</string>
+    <string name="list">लिस्ट</string>
+    <string name="map">नक्शा</string>
+    <string name="search_by_postal_code">पोस्टल कोड के द्वारा खोजें</string>
+    <string name="no_results_description">हम उस पोस्टल कोड के भीतर स्टोर को ढूँढने में असमर्थ रहे</string>
+    <string name="temporarily_closed">अस्थायी रूप से बंद है</string>
+    <string name="store_hours">स्टोर के खुलने के घंटे</string>
+    <string name="a11y_edit_store">स्टोर एडिट करें</string><!--  Read with an accessibility action, e.g. "Double-tap to [action]"  --><string name="a11y_favorite_store_button_add_action">इस स्टोर को अपनी पसंद के रूप में सेट करें</string>
+    <string name="a11y_favorite_store_button_remove_action">इस स्टोर को अपनी पसंद से हटाएँ</string><!--FourSixty--><string name="shop_our_instagram">हमारे Instagram से खरीदें</string>
+    <string name="four_sixty_header_message">देखें दूसरे Instagram पर क्या पहन रहें हैं
+और सीधे यहाँ से खरीदें।</string>
+    <string name="four_sixty_see_it_instagram_header_message">इसे Instagram पर देखें</string><!--Write a Review--><string name="write_a_review">एक रीव्यू लिखें</string>
+    <string name="how_would_you_rate">आप इस आइटम को कैसे रेट करेंगे?</string>
+    <string name="name">नाम</string>
+    <string name="title">टाइटल</string>
+    <string name="message">मैसेज</string>
+    <string name="submit_review">रीव्यू सब्मिट करें</string>
+    <string name="empty_name_error">कृपया अपना नाम दर्ज करें।</string>
+    <string name="review_title_error">कृपया रीव्यू को एक टाइटल दें</string>
+    <string name="review_title_success">आपका रीव्यू सफलतापूर्व पोस्ट हो गया!</string><!--Recharge--><string name="my_subscriptions">मेरे सब्सक्रिप्शन</string>
+    <string name="manage_subscription_on_web">वेब पर सब्सक्रिपश्न को मैनेज करें</string>
+    <string name="recharge" translatable="false">रिचार्ज करें</string>
+    <string name="subscribe_and_save">&quot;सब्सक्राइब करें और बचाएँ&quot;</string>
+    <string name="one_time_purchase">एक बार खरीद</string>
+    <string name="subscribe_every">प्रत्येक %1$s को सब्सक्राइब करें</string>
+    <string name="save_percent">बचाएँ %1$d%%</string>
+    <string name="purchase_options">खरीद के विकल्प</string>
+    <string name="subscription_every">सब्सक्रिप्शन
+: प्रत्येक %1$d %2$s</string>
+
+    <plurals name="rating_info">
+        <item quantity="one">%2$.2f | %1$d रीव्यू</item>
+        <item quantity="other">%2$.2f | %1$d रीव्यूज़</item>
+    </plurals><!-- Quick Add/Update --><string name="view"><u>देखें</u></string>
+    <string name="select_your">चुनें अपना %s</string>
+    <string name="quick_add_plus">+ तेजी से जोड़ें</string>
+    <string name="update_cart">कार्ट अपडेट करें</string><!-- Onboarding --><string name="create_account">अकाउंट बनाएँ</string>
+    <string name="skip">छोड़ें</string>
+    <string name="title_onboarding">ऑनबोर्डिंग</string><!-- Notifications--><string name="no_notifications_title">कोई नोटिफिकेशन नहीं</string>
+    <string name="no_notifications_message">इस समय दिखाने के लिए
+कोई नोटिफिकेशन नहीं है</string>
+    <string name="notifications_error">कुछ गड़बड़ी हो गई। कृपया जल्दी ही दोबारा प्रयास करें।</string>
+
+    <string name="title_test">टेस्ट टाइटल</string>
+    <string name="title_shoppableinstagram">खरीददारी वाला Instagram</string>
+    <string name="title_search">खोजें</string>
+    <string name="title_notifications">नोटिफिकेशन</string><!--Countdown Timer block --><string name="countdown_timer_number_format">%02d</string><!--QuadPay--><string name="quad_pay_eligible_message">अभी खरीदें, भुगतान बाद में करें।
+%2$s का %1$d ब्याज-मुक्त भुगतान</string>
+    <string name="quad_pay_ineligible_message">$%2$s से अधिक के ऑर्डरों पर %1$d ब्याज-मुक्त भुगतान</string><!--My Rewards--><string name="title_loyalty">लायल्टी</string>
+    <string name="about">बारे में</string>
+    <string name="loyalty_rewards">लायल्टी रिवार्ड्स</string>
+    <plurals name="your_balance">
+        <item quantity="one">आपका बैलेंस: &lt;b&gt;%,d पॉइंट&lt;/b&gt;</item>
+        <item quantity="other">आपका बैलेंस: &lt;b&gt;%,d पॉइंट्स&lt;/b&gt;</item>
+    </plurals>
+    <plurals name="tier_level">
+        <item quantity="one">%d टियर का %d</item>
+        <item quantity="other">%d टियर का %d</item>
+    </plurals>
+    <string name="number_with_comma">%,d</string>
+    <string name="of_progress">%,d का</string>
+    <string name="tier">%s टियर</string>
+    <string name="ways_to_earn_extra">अतिरिक्त कमाई के रास्ते</string>
+    <string name="view_more_underlined">&lt;u&gt;और अधिक देखें&lt;/u&gt;</string>
+    <string name="close_underlined">&lt;u&gt;बंद करें&lt;/u&gt;</string>
+    <string name="a11y_close">बंद करें</string>
+    <string name="a11y_back">पीछे</string>
+    <string name="share_with_friends">दोस्तों के साथ शेयर करें</string><!--My Rewards Dialog--><string name="my_rewards">मेरे रिवार्ड्स</string>
+    <string name="my_rewards_all_caps">मेरे रिवार्ड्स</string>
+    <string name="choose_reward">रिवार्ड चुनें</string>
+    <string name="choose_a_reward">किसी एक रिवार्ड को चुनें:</string>
+    <string name="redeem_reward">रिवार्ड को रिडीम करें</string>
+    <string name="remove">हटाएँ</string>
+    <string name="points">%d पॉइंट्स</string>
+    <string name="points_non_reversible">*रिवार्ड्स को रिडीम करने के लिए उपयोग किए गए पॉइंट्स वापस नहीं होते हैं।</string>
+    <string name="redeem_points_for_discount">डिस्काउंट के लिए पॉइंट्स को रिडीम करें।</string>
+    <string name="banner_reward_applied">&lt;b&gt;%s लागू किया गया&lt;/b&gt; - कोड: %s</string>
+    <string name="unclaimed">बिना क्लेम किया हुआ:</string>
+    <string name="reward_code_invalid">रिवार्ड कोड अवैध है।</string>
+    <string name="reward_has_zero_balance">रिवार्ड में शून्य बैलेंस है।</string>
+    <string name="reward_is_expired">रिवार्ड समाप्त हो गया है।</string>
+    <string name="reward_code_not_found">रिवार्ड कोड नहीं मिला।</string>
+    <string name="reward_already_redeemed">आपका रिवार्ड पहले ही रिडीम हो गया है।</string>
+    <string name="cannot_apply_reward">रिवार्ड नहीं लागू किया जा सकता है।</string>
+    <string name="cannot_apply_multiple_gift_cards">कई गिफ्ट कार्डों को लागू नहीं किया जा सकता है।</string>
+    <string name="reward_is_disabled">रिवार्ड निष्क्रिय है। बाद में दोबारा प्रयास करें।</string>
+    <string name="no_rewards_available">कोई रिवार्ड्स उपलब्ध नहीं है</string>
+    <string name="setting_up_loyalty">आपका लायल्टी अकाउंट सेट किया जा रहा है...</string>
+    <string name="discount_not_applicable_error">आपके कार्ड में मौजूद आइटमों के लिए डिस्काउंट लागू नहीं होता है।</string><!--Subscriptions--><string name="title_subscriptions">सब्सक्रिप्शन</string>
+    <string name="active">सक्रिय</string>
+    <string name="inactive">निष्क्रिय</string>
+    <string name="next_billing_date">बिलिंग की अगली तारीख़: %1$s</string>
+    <string name="skipped_order">छोड़े गए ऑर्डर: %1$s</string>
+    <string name="subscription_inactive">सब्सक्रिप्शन निष्क्रिय है</string>
+    <string name="no_subscriptions">कोई सब्सक्रिप्शन नहीं</string>
+    <string name="no_subscriptions_yet">आपने अभी तक कोई सब्सक्रिप्शन
+नहीं लिया है।</string><!--Subscription Details--><string name="subscription_details">का विवरण</string>
+    <string name="frequency">बार-बार उपयोग</string>
+    <string name="delivered_every">प्रत्येक %1$s</string>
+    <string name="reactivate_subscription">सब्सक्रिप्शन को फिर से सक्रिय करें</string>
+    <string name="save_changes">बदलावों को सेव करें</string>
+    <string name="select_a_frequency">बार-बार उपयोग को चुनें</string>
+    <string name="select_a_quantity">किसी मात्रा को चुनें</string>
+    <string name="every">प्रत्येक %1$d %2$s</string>
+    <string name="skip_next_charge">अगले चार्ज को छोड़ें</string>
+    <string name="unskip_next_charge">अगले चार्ज को ना छोड़ें</string>
+    <string name="deactivate_subscription">सब्सक्रिप्शन निष्क्रिय करें</string>
+    <string name="subscription_updated_message">हमने\ आपके सब्सक्रिप्शन को अपडेट कर दिया है</string>
+    <string name="a11y_change_quantity">मात्रा बदलें</string>
+
+    <plurals name="day_interval">
+        <item quantity="one">%1$d दिन</item>
+        <item quantity="other">%1$d दिन</item>
+    </plurals>
+    <plurals name="week_interval">
+        <item quantity="one">%1$d सप्ताह</item>
+        <item quantity="other">%1$d सप्ताह</item>
+    </plurals>
+    <plurals name="month_interval">
+        <item quantity="one">%1$d माह</item>
+        <item quantity="other">%1$d माह</item>
+    </plurals><!--Reactivate Subscription--><string name="reactivate_subscription_title">सब्सक्रिप्शन को फिर से सक्रिय करें</string>
+    <string name="reactivate_subscription_message">आपसे आपके अगले बिलिंग चक्र पर चार्ज लिया जाएगा।</string>
+    <string name="confirm">पुष्टि करें</string><!--Deactivate Subscription--><string name="deactivate_subscription_title">सब्सक्रिप्शन निष्क्रिय करें</string>
+    <string name="deactivate_subscription_message">वाकई आपको सब्सक्रिप्शन निष्क्रिय करना है?</string>
+    <string name="deactivate">निष्क्रिय करें</string><!--Skip Charge--><string name="skip_charge_title">चार्ज को छोड़ें</string>
+    <string name="skip_charge_message">वाकई आपको अपने सब्सक्रिप्शन की अगली तारीख़ को छोड़ना है?</string>
+    <string name="skip_charge">छोड़ें</string><!--Unskip Charge--><string name="unskip_charge_title">चार्ज को ना छोड़ें</string>
+    <string name="unskip_charge_message">वाकई आपको अपने सब्सक्रिप्शन की अगली तारीख़ को नहीं छोड़ना है?</string>
+    <string name="unskip_charge">नहीं छोड़ें</string><!--Leave Subscription Unsaved--><string name="leave_unsaved_message">वाकई आपको जाना है? सभी सेव नहीं किए गए बदलाव मिट जाएंगे।</string>
+    <string name="leave">जाना है</string><!--Recharge Errors--><string name="auth_error_message">अरे! एक पहचान संबंधी समस्या हो गई थी।</string>
+    <string name="parse_error_message">अरे! टॉस्क को पूरा करने में एक समस्या हो गई थी</string><!--Subscription Address--><string name="select_address">पता चुनें</string>
+    <string name="edit_address">डाक पते को एडिट करें</string>
+    <string name="deliver_to_address">इस पते पर डिलीवर करें</string><!--Abandoned Items--><string name="finish_checkout">चेकआउट पूरा करें</string>
+    <string name="view_cart">कार्ट देखें</string>
+    <string name="abandoned_checkout_title">जहाँ आपने छोड़ा था वहीं से शुरू करें!
+अपना ऑर्डर अभी पूरा करें।</string>
+    <string name="abandoned_cart_title">आप इसे अपने कार्ट में भूल गए थे!
+इसके बिक जाने से पहले अभी चेकआउट करें।</string>
+
+    <plurals name="extra_items_message">
+        <item quantity="one">&quot;+ %1$d अन्य प्रोडक्ट&quot;</item>
+        <item quantity="other">&quot;+ %1$d अन्य प्रोडक्ट&quot;</item>
+    </plurals>
+    <string name="title_address">पता</string><!-- Photo Search --><string name="take_photo">एक फोटो लें</string>
+    <string name="select_photo">किसी फोटो को चुनें</string>
+    <string name="photo_search_toolbar">इमेज खोज</string>
+    <string name="photo_search_description">अब आप एक तस्वीर लेकर खोज सकते हैं। या किसी तस्वीर को अपलोड करें, इसके भीतर के आइटम को चुनें, और शॉपिंग करें!</string>
+    <string name="photo_search_feed_description">आपके पास कोई फोटो नहीं है? हमारे सोशल फीड में से किसी को आजमाएँ</string>
+    <string name="replace_image">इमेज को बदलें</string>
+
+    <string name="photo_search_sort_label" translatable="false">@string/sort</string>
+    <string name="photo_search_sort_best_match">सबसे बेहतर मैच</string>
+    <string name="photo_search_sort_price_high_low" translatable="false">@string/price_high_to_low</string>
+    <string name="photo_search_sort_price_low_high" translatable="false">@string/price_low_to_high</string><!-- Multicurrency --><string name="change_currency">करंसी बदलें</string>
+    <string name="change_currency_msg">इस चुनाव से आपका ऐप फिर से लोड होगा और कीमतें अब %s करंसी में दिखाई देंगीं।</string>
+    <string name="add_to_list_failed">आइटम को विशलिस्ट में जोड़ने में विफल</string>
+    <string name="failed_to_remove_wishlist_item">प्रोडक्ट(टों) को विशलिस्ट से हटाने में विफल</string>
+    <string name="default_wishlist_name">मेरी विशलिस्ट</string>
+
+</resources>
