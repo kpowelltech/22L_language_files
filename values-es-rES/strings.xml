@@ -365,7 +365,7 @@
 
     <!--ProductDetails-->
     <string name="keep_track">SIGA LA PISTA A SUS FAVORITOS</string>
-    <string name="create_account_to_save_favorites">Cree una cuenta %1$ s para guardar y realizar un seguimiento de todos sus artículos favoritos.</string>
+    <string name="create_account_to_save_favorites">Crea una %1$s cuenta para guardar y seguir tus artículos favoritos.</string>
     <string name="sign_in_to_save_favorites">Inicie sesión en su cuenta %1$s para guardar y realizar un seguimiento de todos sus artículos favoritos.</string>
     <string name="create_account_or_sign_in">Cree una cuenta o inicie sesión</string>
     <string name="reviews">Reseñas</string>
