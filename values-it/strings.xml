@@ -293,7 +293,7 @@ Grazie del vostro ordine.</string>
     <string name="affirm" translatable="false">Affirm</string>
     <string name="sezzle" translatable="false">Sezzle</string>
     <string name="installment_provider_text">&quot;Compra ora, paga dopo.
-%d pagamenti senza interessi di %s&quot;</string><!--Main--><string name="cart_icon">Icona del carrello</string>
+%1$d pagamenti senza interessi di %2$s&quot;</string><!--Main--><string name="cart_icon">Icona del carrello</string>
     <string name="menu_background">Sfondo del menu</string>
     <string name="sure_log_out">Uscire dall&apos;applicazione?</string>
     <string name="my_account">Il mio account</string>

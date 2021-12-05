@@ -290,7 +290,7 @@ Tack för din beställning.</string>
     <string name="affirm" translatable="false">Affirm</string>
     <string name="sezzle" translatable="false">Sezzle</string>
     <string name="installment_provider_text">&quot;Köp nu, betala senare.
-%d räntefria betalningar på %s&quot;</string><!--Main--><string name="cart_icon">Ikonen för vagn</string>
+%1$d räntefria betalningar på %2$s&quot;</string><!--Main--><string name="cart_icon">Ikonen för vagn</string>
     <string name="menu_background">Menybakgrund</string>
     <string name="sure_log_out">Är du säker på att du vill logga ut från appen?</string>
     <string name="my_account">Mitt konto</string>

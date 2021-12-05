@@ -293,7 +293,7 @@ Bedankt voor uw bestelling.</string>
     <string name="affirm" translatable="false">Affirm</string>
     <string name="sezzle" translatable="false">Sezzle</string>
     <string name="installment_provider_text">&quot;Koop nu, betaal later.
-%d renteloze betalingen van %s&quot;</string><!--Main--><string name="cart_icon">Winkelwagen-icoon</string>
+%1$d renteloze betalingen van %2$s&quot;</string><!--Main--><string name="cart_icon">Winkelwagen-icoon</string>
     <string name="menu_background">Menu-achtergrond</string>
     <string name="sure_log_out">Weet u zeker dat u wilt uitloggen uit de applicatie?</string>
     <string name="my_account">Mijn account</string>

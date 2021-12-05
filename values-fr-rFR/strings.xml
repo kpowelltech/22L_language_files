@@ -188,7 +188,7 @@ items show up here</string>
     <string name="submit_order">Soumettre la commande</string>
     <string name="complete_order">Compléter la commande</string>
     <string name="continue_to_payment">Continuer vers Paiement</string>
-    <string name="signed_in_as">« Connecté(e) sous »</string>
+    <string name="signed_in_as"> Connecté(e) sous </string>
     <string name="already_have_account">Vous avez déjà un compte ?</string>
     <string name="underlined_sign_in"><u>Se connecter</u></string>
     <string name="underlined_sign_in_sentence"><u>Connectez-vous</u></string>
@@ -214,8 +214,8 @@ items show up here</string>
     <string name="contact_sharing_cta_contacts">Invitation à partir de ma liste de contacts</string>
     <string name="contact_sharing_cta_invite">Partager l&apos;invitation</string>
     <string name="contact_sharing_description_placeholder">Nous leur enverrons une carte-cadeau de 20 $ lorsqu&apos;ils effectueront un achat. Utilisez votre liste de contacts pour recommander des amis.</string>
-    <string name="contact_sharing_permission_denied">L&apos;accès aux contacts de l&apos;appareil est nécessaire pour poursuivre. Veuillez fournir un accès de contact dans les paramètres de votre appareil.</string><!--Credit Card--><string name="empty_card_error">« Veuillez saisir votre numéro de carte de crédit. »</string>
-    <string name="invalid_card_error">« Le numéro de carte de crédit est invalide. »</string>
+    <string name="contact_sharing_permission_denied">L&apos;accès aux contacts de l&apos;appareil est nécessaire pour poursuivre. Veuillez fournir un accès de contact dans les paramètres de votre appareil.</string><!--Credit Card--><string name="empty_card_error"> Veuillez saisir votre numéro de carte de crédit. </string>
+    <string name="invalid_card_error"> Le numéro de carte de crédit est invalide. </string>
     <string name="scan_your_card">Scannez votre carte</string><!--Notes--><string name="add_order_notes">Ajouter des notes concernant la commande</string>
     <string name="gift_cart_or_delivery_date_notes">Message de la carte-cadeau | Date de livraison souhaitée</string>
     <string name="add_notes">Ajouter des notes</string>
@@ -249,7 +249,7 @@ items show up here</string>
     <string name="empty_country_error">Veuillez saisir votre pays de résidence.</string>
     <string name="unknown_country_error">Impossible d&apos;identifier le pays sélectionné.</string>
     <string name="update_address_error">Impossible d&apos;enregistrer l&apos;adresse.</string>
-    <string name="empty_phone_error">« Veuillez saisir votre numéro de téléphone dans le formulaire d&apos;expédition. »</string>
+    <string name="empty_phone_error"> Veuillez saisir votre numéro de téléphone dans le formulaire d&apos;expédition. </string>
     <string name="beauty_items_error">Les articles de beauté contenus dans votre panier peuvent uniquement être expédiés vers les États-Unis ou le Canada. Pour finaliser le paiement, veuillez retirer les articles de beauté de votre panier ou mettre à jour l&apos;adresse d&apos;expédition.</string>
     <string name="a11y_selected">Sélectionné</string>
     <string name="a11y_unselected">Non sélectionné</string><!--Processing--><string name="processing_title">Patientez un instant.
@@ -260,7 +260,7 @@ Nous sommes en train de traiter votre commande.</string>
     <string name="checkout_completed_title">Vous êtes fin prêt(e)!\nMerci d’avoir passé commande.</string>
     <string name="checkout_completed_message">Vous devriez recevoir un e-mail de confirmation sous peu</string>
     <string name="review_cart">Passer en revue le panier</string>
-    <string name="processing_checkout_error">« Un problème s’est produit au moment de passer votre commande. Veuillez essayer à nouveau. »</string><!--Collection--><string name="sort">Trier</string>
+    <string name="processing_checkout_error"> Un problème s’est produit au moment de passer votre commande. Veuillez essayer à nouveau. </string><!--Collection--><string name="sort">Trier</string>
     <string name="recommended">Recommandé</string>
     <string name="whats_new">Quoi de neuf</string>
     <string name="best_selling">Meilleures ventes</string>
@@ -287,7 +287,7 @@ Nous sommes en train de traiter votre commande.</string>
     <string name="klarna" translatable="false">Klarna</string>
     <string name="affirm" translatable="false">Affirm</string>
     <string name="sezzle" translatable="false">Sezzle</string>
-    <string name="installment_provider_text">« Achetez maintenant et payez plus tard.\n%d paiements sans intérêt de %s »</string><!--Main--><string name="cart_icon">Icône du panier</string>
+    <string name="installment_provider_text"> Achetez maintenant et payez plus tard.\n%1$d paiements sans intérêt de %2$s </string><!--Main--><string name="cart_icon">Icône du panier</string>
     <string name="menu_background">Arrière-plan du menu</string>
     <string name="sure_log_out">Êtes-vous sûr(e) de vouloir vous déconnecter de l&apos;application?</string>
     <string name="my_account">Mon compte</string>
@@ -309,7 +309,7 @@ Nous sommes en train de traiter votre commande.</string>
     <string name="search_no_results_description">Impossible de trouver l’\narticle que vous recherchiez.</string>
     <string name="search_products">Rechercher des produits</string>
     <string name="popular_searches">Recherches populaires</string>
-    <string name="trending_searches">Recherches « tendance »</string><!--Order--><string name="order_description_placeholder">Description générique de la commande</string>
+    <string name="trending_searches">Recherches  tendance </string><!--Order--><string name="order_description_placeholder">Description générique de la commande</string>
     <string name="order_total_placeholder">99,99 $</string>
     <string name="order_days_placeholder">Il y a 17 jours</string>
     <plurals name="order_quantity_count">
@@ -378,7 +378,7 @@ Nous sommes en train de traiter votre commande.</string>
     <string name="review_title_success">Votre évaluation a été publiée avec succès!</string><!--Recharge--><string name="my_subscriptions">Mes abonnements</string>
     <string name="manage_subscription_on_web">Gérer les abonnements sur le Web</string>
     <string name="recharge" translatable="false">Recharger</string>
-    <string name="subscribe_and_save">« S&apos;abonner et enregistrer »</string>
+    <string name="subscribe_and_save"> S&apos;abonner et enregistrer </string>
     <string name="one_time_purchase">Achat ponctuel</string>
     <string name="subscribe_every">S&apos;abonner tous les %1$s.</string>
     <string name="save_percent">Économisez %1$d%%</string>
@@ -493,8 +493,8 @@ Finalisez votre commande dès maintenant.</string>
 Passez votre commande avant que l’article ne disparaisse.</string>
 
     <plurals name="extra_items_message">
-        <item quantity="one">« + %1$d autre produit »</item>
-        <item quantity="other">« + %1$d autres produits »</item>
+        <item quantity="one"> + %1$d autre produit </item>
+        <item quantity="other"> + %1$d autres produits </item>
     </plurals>
     <string name="title_address">Adresse</string><!-- Photo Search --><string name="take_photo">Prendre une photo</string>
     <string name="select_photo">Sélectionner une photo</string>

@@ -285,7 +285,7 @@
     <string name="klarna" translatable="false">Klarna</string>
     <string name="affirm" translatable="false">Affirm</string>
     <string name="sezzle" translatable="false">Sezzle</string>
-    <string name="installment_provider_text">&quot;Cumpărați acum, plătiți mai târziu. Plăți fără dobândă %d de %s&quot;</string><!--Main--><string name="cart_icon">Pictograma coșului de cumpărături</string>
+    <string name="installment_provider_text">&quot;Cumpărați acum, plătiți mai târziu. Plăți fără dobândă %1$d de %2$s&quot;</string><!--Main--><string name="cart_icon">Pictograma coșului de cumpărături</string>
     <string name="menu_background">Fundalul meniului</string>
     <string name="sure_log_out">Sigur doriți să vă deconectați din aplicație?</string>
     <string name="my_account">Contul meu</string>

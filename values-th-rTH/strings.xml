@@ -293,7 +293,7 @@
     <string name="affirm" translatable="false">Affirm</string>
     <string name="sezzle" translatable="false">Sezzle</string>
     <string name="installment_provider_text">&quot;ซื้อตอนนี้ จ่ายทีหลัง
-ชำระเงิน %s ปลอดดอกเบี้ย %d&quot;</string><!--Main--><string name="cart_icon">ไอคอน รถเข็น</string>
+ชำระเงิน %2$s ปลอดดอกเบี้ย %1$d&quot;</string><!--Main--><string name="cart_icon">ไอคอน รถเข็น</string>
     <string name="menu_background">พื้นหลังเมนู</string>
     <string name="sure_log_out">คุณแน่ใจหรือไม่ว่าต้องการออกจากแอปปพลิเคชัน?</string>
     <string name="my_account">บัญชีของฉัน</string>

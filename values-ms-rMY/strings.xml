@@ -296,7 +296,7 @@ produk dalam koleksi ini</string>
     <string name="affirm" translatable="false">Affirm</string>
     <string name="sezzle" translatable="false">Sezzle</string>
     <string name="installment_provider_text">&quot;Beli sekarang, bayar kemudian.
-%d pembayaran tanda faedah sebanyak %s&quot;</string><!--Main--><string name="cart_icon">Ikon troli</string>
+%1$d pembayaran tanda faedah sebanyak %2$s&quot;</string><!--Main--><string name="cart_icon">Ikon troli</string>
     <string name="menu_background">Latar belakang menu</string>
     <string name="sure_log_out">Adakah anda pasti anda ingin mengelog keluar daripada aplikasi?</string>
     <string name="my_account">Akaun saya</string>

@@ -296,7 +296,7 @@ produktów w tej kolekcji</string>
     <string name="affirm" translatable="false">Affirm</string>
     <string name="sezzle" translatable="false">Sezzle</string>
     <string name="installment_provider_text">„Kup teraz, zapłać później.
-%d nieoprocentowane płatności w wysokości %s&quot;</string><!--Main--><string name="cart_icon">Ikona koszyka</string>
+%1$d nieoprocentowane płatności w wysokości %2$s&quot;</string><!--Main--><string name="cart_icon">Ikona koszyka</string>
     <string name="menu_background">Tło menu</string>
     <string name="sure_log_out">Czy na pewno chcesz wylogować się z aplikacji?</string>
     <string name="my_account">Moje konto</string>

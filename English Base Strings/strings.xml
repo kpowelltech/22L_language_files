@@ -322,7 +322,7 @@
     <string name="klarna" translatable="false">Klarna</string>
     <string name="affirm" translatable="false">Affirm</string>
     <string name="sezzle" translatable="false">Sezzle</string>
-    <string name="installment_provider_text">"Buy now, pay later.\n%d interest-free payments of %s"</string>
+    <string name="installment_provider_text">"Buy now, pay later.\n%1$d interest-free payments of %2$s"</string>
 
     <!--Main-->
     <string name="cart_icon">Cart icon</string>

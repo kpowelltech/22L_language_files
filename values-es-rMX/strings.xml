@@ -295,8 +295,7 @@ productos en esta colección</string>
     <string name="klarna" translatable="false">Klarna</string>
     <string name="affirm" translatable="false">Affirm</string>
     <string name="sezzle" translatable="false">Sezzle</string>
-    <string name="installment_provider_text">&quot;Compra ahora, paga después.
-%d pagos sin intereses de %s&quot;</string><!--Main--><string name="cart_icon">Ícono de carrito</string>
+    <string name="installment_provider_text">&quot;Compra ahora, paga después. %1$d pagos sin intereses de %2$s&quot;</string><!--Main--><string name="cart_icon">Ícono de carrito</string>
     <string name="menu_background">Fondo del menú</string>
     <string name="sure_log_out">¿Estás seguro de que quieres cerrar la sesión en la aplicación?</string>
     <string name="my_account">Mi cuenta</string>

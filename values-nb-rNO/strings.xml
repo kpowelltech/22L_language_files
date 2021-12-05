@@ -192,7 +192,7 @@ Prøv på nytt.</string>
     <string name="submit_order">Send bestilling</string>
     <string name="complete_order">Fullfør bestillingen</string>
     <string name="continue_to_payment">Fortsett til Betaling</string>
-    <string name="signed_in_as">«Logget på som »</string>
+    <string name="signed_in_as">Logget på som </string>
     <string name="already_have_account">Har du allerede en konto?</string>
     <string name="underlined_sign_in"><u>Logg på</u></string>
     <string name="underlined_sign_in_sentence"><u>Logg på.</u></string>
@@ -218,8 +218,8 @@ Prøv på nytt.</string>
     <string name="contact_sharing_cta_contacts">Inviter fra kontaktlisten min</string>
     <string name="contact_sharing_cta_invite">Del invitasjon</string>
     <string name="contact_sharing_description_placeholder">Vi skal sende deg et gavekort på $ 20 når du handler. Bruk kontaktlisten din for å henvise venner.</string>
-    <string name="contact_sharing_permission_denied">Du må ha tilgang til enhetskontakter for å fortsette. Gi tilgang til kontakter i enhetsinnstillingene.</string><!--Credit Card--><string name="empty_card_error">«Angi kredittkortnummeret»</string>
-    <string name="invalid_card_error">«Ugyldig kredittkortnummer»</string>
+    <string name="contact_sharing_permission_denied">Du må ha tilgang til enhetskontakter for å fortsette. Gi tilgang til kontakter i enhetsinnstillingene.</string><!--Credit Card--><string name="empty_card_error">Angi kredittkortnummeret</string>
+    <string name="invalid_card_error">Ugyldig kredittkortnummer</string>
     <string name="scan_your_card">Skann kortet ditt</string><!--Notes--><string name="add_order_notes">Legg til bestillingsnotater</string>
     <string name="gift_cart_or_delivery_date_notes">Gavekortmelding | Ønsket leveringsdato</string>
     <string name="add_notes">Legg til notater</string>
@@ -253,7 +253,7 @@ Prøv på nytt.</string>
     <string name="empty_country_error">Angi landet ditt.</string>
     <string name="unknown_country_error">Kunne ikke identifisere det valgte landet.</string>
     <string name="update_address_error">Kunne ikke lagre adressen.</string>
-    <string name="empty_phone_error">«Angi telefonnummeret ditt på forsendelsesskjemaet.»</string>
+    <string name="empty_phone_error">Angi telefonnummeret ditt på forsendelsesskjemaet.</string>
     <string name="beauty_items_error">Skjønnhetsvarer i handlevognen kan bare sendes til USA eller Canada. For å fullføre utsjekking må skjønnhetsvarer fjernes fra handlevognen eller må forsendelsesadressen endres.</string>
     <string name="a11y_selected">Valgt</string>
     <string name="a11y_unselected">Valgt bort</string><!--Processing--><string name="processing_title">Det går greit.
@@ -265,7 +265,7 @@ Vi behandler bestillingen din.</string>
 Takk for bestillingen.</string>
     <string name="checkout_completed_message">Du skal mottat e-postbekreftelse om kort tid</string>
     <string name="review_cart">Gjennomgå handlevognen</string>
-    <string name="processing_checkout_error">«Det var et problem med å fullføre utsjekkingen. Prøv på nytt</string><!--Collection--><string name="sort">Sorter</string>
+    <string name="processing_checkout_error">Det var et problem med å fullføre utsjekkingen. Prøv på nytt</string><!--Collection--><string name="sort">Sorter</string>
     <string name="recommended">Anbefalt</string>
     <string name="whats_new">Nyheter</string>
     <string name="best_selling">Bestselgere</string>
@@ -292,8 +292,8 @@ Takk for bestillingen.</string>
     <string name="klarna" translatable="false">Klarna</string>
     <string name="affirm" translatable="false">Affirm</string>
     <string name="sezzle" translatable="false">Sezze</string>
-    <string name="installment_provider_text">«Kjøp nå, betal senere.
-%d rentefrie betalinger på %s»</string><!--Main--><string name="cart_icon">Handlevogn-ikon</string>
+    <string name="installment_provider_text">Kjøp nå, betal senere.
+%1$d rentefrie betalinger på %2$s</string><!--Main--><string name="cart_icon">Handlevogn-ikon</string>
     <string name="menu_background">Menybakgrunn</string>
     <string name="sure_log_out">Er du sikker på at du vil logge ut av programmet?</string>
     <string name="my_account">Kontoen min</string>
@@ -385,7 +385,7 @@ Takk for bestillingen.</string>
     <string name="review_title_success">Anmeldelsen din er nå lagt inn!</string><!--Recharge--><string name="my_subscriptions">Abonnentene mine</string>
     <string name="manage_subscription_on_web">Håndter abonnenter på nettet</string>
     <string name="recharge" translatable="false">Lad på nytt</string>
-    <string name="subscribe_and_save">«Abonner og spar»</string>
+    <string name="subscribe_and_save">Abonner og spar</string>
     <string name="one_time_purchase">Engangskjøp</string>
     <string name="subscribe_every">Abonner hver %1$s</string>
     <string name="save_percent">Spar %1$d%%</string>
@@ -501,8 +501,8 @@ Fullfør bestillingen nå.</string>
 Gå til kassa nå før den blir utsolgt.</string>
 
     <plurals name="extra_items_message">
-        <item quantity="one">«+ %1$d annet produkt»</item>
-        <item quantity="other">«+ %1$d andre produkter»</item>
+        <item quantity="one">+ %1$d annet produkt</item>
+        <item quantity="other">+ %1$d andre produkter</item>
     </plurals>
     <string name="title_address">Adresse</string><!-- Photo Search --><string name="take_photo">Ta et bilde</string>
     <string name="select_photo">Velg et bilde</string>

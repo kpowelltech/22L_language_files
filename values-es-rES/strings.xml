@@ -317,7 +317,7 @@
 
     <!-- Installment Payments -->
     <!-- TODO move to a constants file -->
-    <string name="installment_provider_text">Compre ahora, pague después. %d pagos sin intereses de %s</string>
+    <string name="installment_provider_text">Compre ahora, pague después. %1$d pagos sin intereses de %2$s</string>
 
     <!--Main-->
     <string name="cart_icon">Icono de carro</string>

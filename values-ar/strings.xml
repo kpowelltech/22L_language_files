@@ -289,7 +289,7 @@
     <string name="klarna" translatable="false">Klarna</string>
     <string name="affirm" translatable="false">يؤكد</string>
     <string name="sezzle" translatable="false">Sezzle</string>
-    <string name="installment_provider_text">&quot;اشتر الآن، وادفع لاحقًا.\n%d مدفوعات بدون فوائد لـ %s&quot; </string><!--Main--><string name="cart_icon">أيقونة العربة </string>
+    <string name="installment_provider_text">&quot;اشتر الآن، وادفع لاحقًا.\n%1$d مدفوعات بدون فوائد لـ %s&quot; </string><!--Main--><string name="cart_icon">أيقونة العربة </string>
     <string name="menu_background">خلفية القائمة </string>
     <string name="sure_log_out">هل أنت متأكد أنك تريد تسجيل الخروج من التطبيق؟ </string>
     <string name="my_account">حسابي </string>

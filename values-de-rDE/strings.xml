@@ -320,8 +320,7 @@ keine Produkte finden.</string>
     <string name="klarna" translatable="false">Klarna</string>
     <string name="affirm" translatable="false">Affirm</string>
     <string name="sezzle" translatable="false">Sezzle</string>
-    <string name="installment_provider_text">Jetzt kaufen, später zahlen.
-%d zinsfreie Zahlungen von %s</string>
+    <string name="installment_provider_text">Jetzt kaufen, später zahlen. %1$d zinsfreie Zahlungen von %2$s</string>
 
 <!--Main-->
 <string name="cart_icon">Warenkorb-Symbol</string>

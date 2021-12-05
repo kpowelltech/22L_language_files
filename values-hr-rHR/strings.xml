@@ -27,9 +27,9 @@
     <string name="my_cart">LA MIA CARTA</string>
     <string name="splash_background">Sfondo splash</string>
     <string name="cancel">Annulla</string>
-    <string name="elapsed_time">%1$d %2$s fa&quot;</string>
-    <string name="value_currency">% 1 $ s% 2 $ s &quot;</string>
-    <string name="card_masked">•••• •••• •••• %1$s&quot;</string>
+    <string name="elapsed_time">%1$d %2$s fa</string>
+    <string name="value_currency">% 1 $ s% 2 $ s </string>
+    <string name="card_masked">•••• •••• •••• %1$s</string>
     <string name="just_now">Proprio adesso</string>
 
     <plurals name="year">
@@ -192,7 +192,7 @@ Riprova.</string>
     <string name="submit_order">Invia ordine</string>
     <string name="complete_order">Completa l&apos;ordine</string>
     <string name="continue_to_payment">Vai al pagamento</string>
-    <string name="signed_in_as">&quot;Accesso eseguito come&quot;</string>
+    <string name="signed_in_as">Accesso eseguito come</string>
     <string name="already_have_account">Hai già un account?</string>
     <string name="underlined_sign_in"><u>Registrati</u></string>
     <string name="underlined_sign_in_sentence"><u>Registrati.</u></string>
@@ -213,13 +213,13 @@ Riprova.</string>
     <string name="in_store_pickup">Ritiro in negozio</string>
     <string name="pick_up_here">Ritira qui</string>
     <string name="update_shopping_cart">Aggiorna il carrello</string>
-    <string name="update_shipping_address">Aggiorna l&apos;indirizzo di spedizione</string><!-- Contact Sharing--><string name="contact_sharing">&quot;Condividi con gli amici&quot;</string>
+    <string name="update_shipping_address">Aggiorna l&apos;indirizzo di spedizione</string><!-- Contact Sharing--><string name="contact_sharing">Condividi con gli amici</string>
     <string name="module_title">Riferimento</string>
     <string name="contact_sharing_cta_contacts">Invita dalla mia lista di contatti</string>
     <string name="contact_sharing_cta_invite">Condividi invito</string>
     <string name="contact_sharing_description_placeholder">Invieremo una carta regalo da $ 20 quando faranno un acquisto. Usa il tuo elenco di contatti per invitare amici.</string>
-    <string name="contact_sharing_permission_denied">Per procedere è necessario l&apos;accesso ai contatti del dispositivo. Fornisci l&apos;accesso ai contatti nelle impostazioni del tuo dispositivo.</string><!--Credit Card--><string name="empty_card_error">&quot;Inserire il numero della carta di credito.&quot;</string>
-    <string name="invalid_card_error">&quot;Il numero della carta di credito non è valido.&quot;</string>
+    <string name="contact_sharing_permission_denied">Per procedere è necessario l&apos;accesso ai contatti del dispositivo. Fornisci l&apos;accesso ai contatti nelle impostazioni del tuo dispositivo.</string><!--Credit Card--><string name="empty_card_error">Inserire il numero della carta di credito.</string>
+    <string name="invalid_card_error">Il numero della carta di credito non è valido.</string>
     <string name="scan_your_card">Scansiona la tua carta</string><!--Notes--><string name="add_order_notes">Aggiungi note sull&apos;ordine</string>
     <string name="gift_cart_or_delivery_date_notes">Messaggio della carta regalo | Data di consegna desiderata</string>
     <string name="add_notes">Aggiungi note</string>
@@ -253,7 +253,7 @@ Riprova.</string>
     <string name="empty_country_error">Inserire il Paese.</string>
     <string name="unknown_country_error">Impossibile identificare la nazione selezionata.</string>
     <string name="update_address_error">Impossibile salvare l&apos;indirizzo.</string>
-    <string name="empty_phone_error">&quot;Inserire il numero di telefono nel modulo di spedizione.&quot;</string>
+    <string name="empty_phone_error">Inserire il numero di telefono nel modulo di spedizione.</string>
     <string name="beauty_items_error">Gli articoli di bellezza nel carrello si possono spedire solo negli Stati Uniti o in Canada. Per completare il check-out, rimuovi gli articoli di bellezza nel carrello o aggiorna l&apos;indirizzo di spedizione.</string>
     <string name="a11y_selected">Selezionato</string>
     <string name="a11y_unselected">Non selezionato</string><!--Processing--><string name="processing_title">Pazienta ancora.
@@ -265,7 +265,7 @@ Stiamo elaborando il tuo ordine.</string>
 Grazie del vostro ordine.</string>
     <string name="checkout_completed_message">Dovresti ricevere un&apos;e-mail di conferma a breve</string>
     <string name="review_cart">Rivedi il carrello</string>
-    <string name="processing_checkout_error">&quot;Si è verificato un problema durante il completamento del check-out. Riprovare.&quot;</string><!--Collection--><string name="sort">Ordinamento</string>
+    <string name="processing_checkout_error">Si è verificato un problema durante il completamento del check-out. Riprovare.</string><!--Collection--><string name="sort">Ordinamento</string>
     <string name="recommended">Consigliato</string>
     <string name="whats_new">Cosa c&apos;è di nuovo</string>
     <string name="best_selling">La migliore vendita</string>
@@ -292,8 +292,7 @@ Grazie del vostro ordine.</string>
     <string name="klarna" translatable="false">Klarna</string>
     <string name="affirm" translatable="false">Affirm</string>
     <string name="sezzle" translatable="false">Sezzle</string>
-    <string name="installment_provider_text">&quot;Compra ora, paga dopo.
-%d pagamenti senza interessi di %s&quot;</string><!--Main--><string name="cart_icon">Icona del carrello</string>
+    <string name="installment_provider_text">Compra ora, paga dopo. %1$d pagamenti senza interessi di %2$s</string><!--Main--><string name="cart_icon">Icona del carrello</string>
     <string name="menu_background">Sfondo del menu</string>
     <string name="sure_log_out">Uscire dall&apos;applicazione?</string>
     <string name="my_account">Il mio account</string>
@@ -386,7 +385,7 @@ Instagram e acquista direttamente da qui.</string>
     <string name="review_title_success">La tua recensione è stata pubblicata correttamente!</string><!--Recharge--><string name="my_subscriptions">I miei abbonamenti</string>
     <string name="manage_subscription_on_web">Gestire gli abbonamenti sul Web</string>
     <string name="recharge" translatable="false">Ricarica</string>
-    <string name="subscribe_and_save">&quot;Abbonati e risparmia&quot;</string>
+    <string name="subscribe_and_save">Abbonati e risparmia</string>
     <string name="one_time_purchase">Acquisto una tantum</string>
     <string name="subscribe_every">Abbonati ogni %1$s</string>
     <string name="save_percent">Risparmia %1$d%%</string>
@@ -502,8 +501,8 @@ Completa il tuo ordine ora.</string>
 Acquista ora prima che si esaurisca.</string>
 
     <plurals name="extra_items_message">
-        <item quantity="one">&quot;+ %1$d altro prodotto&quot;</item>
-        <item quantity="other">&quot;+ %1$d altri prodotti&quot;</item>
+        <item quantity="one">+ %1$d altro prodotto</item>
+        <item quantity="other">+ %1$d altri prodotti</item>
     </plurals>
     <string name="title_address">Indirizzo</string><!-- Photo Search --><string name="take_photo">Fai una foto</string>
     <string name="select_photo">Seleziona una foto</string>

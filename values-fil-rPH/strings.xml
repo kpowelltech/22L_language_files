@@ -295,8 +295,7 @@ mga produkto sa koleksyong ito</string>
     <string name="klarna" translatable="false">Klarna</string>
     <string name="affirm" translatable="false">Affirm</string>
     <string name="sezzle" translatable="false">Sezzle</string>
-    <string name="installment_provider_text">&quot;Bumili ngayon, magbayad sa ibang panahon.
-%d walang interes na mga pagbabayad na %s&quot;</string><!--Main--><string name="cart_icon">Icon ng cart</string>
+    <string name="installment_provider_text">&quot;Bumili ngayon, magbayad sa ibang panahon. %1$d walang interes na mga pagbabayad na %2$s&quot;</string><!--Main--><string name="cart_icon">Icon ng cart</string>
     <string name="menu_background">Background ng menu</string>
     <string name="sure_log_out">Sigurado ka bang gusto mong mag-log out sa aplikasyon?</string>
     <string name="my_account">Ang account ko</string>

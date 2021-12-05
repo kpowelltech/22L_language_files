@@ -295,8 +295,9 @@
     <string name="klarna" translatable="false">Klarna</string>
     <string name="affirm" translatable="false">Affirm</string>
     <string name="sezzle" translatable="false">Sezzle</string>
-    <string name="installment_provider_text">&quot;अभी खरीदें, बाद में भुगतान करें।
-%s का %d ब्याज-मुक्त भुगतान&quot;</string><!--Main--><string name="cart_icon">कार्ट आइकन</string>
+    <string name="installment_provider_text">&quot;अभी खरीदें, बाद में भुगतान करें। %2$s का %1$d ब्याज-मुक्त भुगतान&quot;</string>
+    
+    <!--Main--><string name="cart_icon">कार्ट आइकन</string>
     <string name="menu_background">मेनू बैकग्राउंड</string>
     <string name="sure_log_out">क्या आपको वाकई ऐप्लीकेशन से लॉग आउट करना है?</string>
     <string name="my_account">मेरा अकाउंट</string>

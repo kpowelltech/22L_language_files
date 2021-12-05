@@ -290,8 +290,7 @@ Kiitos tilauksestasi.</string>
     <string name="klarna" translatable="false">Klarna</string>
     <string name="affirm" translatable="false">Affirm</string>
     <string name="sezzle" translatable="false">Sezzle</string>
-    <string name="installment_provider_text">&quot;Osta nyt, maksa myöhemmin.
-%d korotonta %s suuruista maksua&quot;</string><!--Main--><string name="cart_icon">Ostoskorikuvake</string>
+    <string name="installment_provider_text">&quot;Osta nyt, maksa myöhemmin. %1$d korotonta %s suuruista maksua&quot;</string><!--Main--><string name="cart_icon">Ostoskorikuvake</string>
     <string name="menu_background">Valikon taustakuva</string>
     <string name="sure_log_out">Oletko varma, että haluat kirjautua ulos sovelluksesta?</string>
     <string name="my_account">Käyttäjätilini</string>

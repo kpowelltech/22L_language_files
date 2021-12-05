@@ -27,9 +27,9 @@
     <string name="my_cart">KERANJANG SAYA</string>
     <string name="splash_background">Latar belakang percikan</string>
     <string name="cancel">Batal</string>
-    <string name="elapsed_time">%1$d %2$s yang lalu&quot;</string>
-    <string name="value_currency">%1$s %2$s&quot;</string>
-    <string name="card_masked">•••• •••• •••• %1$s&quot;</string>
+    <string name="elapsed_time">%1$d %2$s yang lalu</string>
+    <string name="value_currency">%1$s %2$s</string>
+    <string name="card_masked">•••• •••• •••• %1$s</string>
     <string name="just_now">Baru saja</string>
 
     <plurals name="year">
@@ -194,7 +194,7 @@ Coba lagi.</string>
     <string name="submit_order">Kirim Pesanan</string>
     <string name="complete_order">Selesaikan Pesanan</string>
     <string name="continue_to_payment">Lanjutkan ke Pembayaran</string>
-    <string name="signed_in_as">&quot;Masuk sebagai&quot;</string>
+    <string name="signed_in_as">Masuk sebagai</string>
     <string name="already_have_account">Sudah memiliki akun?</string>
     <string name="underlined_sign_in"><u>Masuk</u></string>
     <string name="underlined_sign_in_sentence"><u>Masuk.</u></string>
@@ -220,8 +220,8 @@ Coba lagi.</string>
     <string name="contact_sharing_cta_contacts">Undang dari daftar kontak saya</string>
     <string name="contact_sharing_cta_invite">Bagikan undangan</string>
     <string name="contact_sharing_description_placeholder">Kami akan mengirimkan kartu kado $20 ketika mereka melakukan pembelian. Gunakan daftar kontak Anda untuk merujuk teman.</string>
-    <string name="contact_sharing_permission_denied">Akses ke kontak perangkat diperlukan untuk melanjutkan. Berikan akses kontak di pengaturan perangkat Anda.</string><!--Credit Card--><string name="empty_card_error">&quot;Masukkan nomor kartu kredit Anda.&quot;</string>
-    <string name="invalid_card_error">&quot;Nomor kartu kredit tidak valid.&quot;</string>
+    <string name="contact_sharing_permission_denied">Akses ke kontak perangkat diperlukan untuk melanjutkan. Berikan akses kontak di pengaturan perangkat Anda.</string><!--Credit Card--><string name="empty_card_error">Masukkan nomor kartu kredit Anda.</string>
+    <string name="invalid_card_error">Nomor kartu kredit tidak valid.</string>
     <string name="scan_your_card">Pindai kartu Anda</string><!--Notes--><string name="add_order_notes">Tambah catatan pesanan</string>
     <string name="gift_cart_or_delivery_date_notes">Pesan di Kartu Kado | Tanggal Pengiriman yang Diinginkan</string>
     <string name="add_notes">Tambah Catatan</string>
@@ -255,7 +255,7 @@ Coba lagi.</string>
     <string name="empty_country_error">Masukkan negara Anda.</string>
     <string name="unknown_country_error">Tidak dapat mengidentifikasi negara terpilih.</string>
     <string name="update_address_error">Tidak dapat menyimpan alamat.</string>
-    <string name="empty_phone_error">&quot;Masukkan nomor telepon Anda di formulir pengiriman.&quot;</string>
+    <string name="empty_phone_error">Masukkan nomor telepon Anda di formulir pengiriman.</string>
     <string name="beauty_items_error">Produk Kecantikan di keranjang Anda hanya dapat dikirim ke Amerika Serikat atau Kanada. Untuk menyelesaikan checkout, hapus produk kecantikan yang ada di keranjang Anda atau perbarui alamat pengiriman.</string>
     <string name="a11y_selected">Dipilih</string>
     <string name="a11y_unselected">Tidak dipilih</string><!--Processing--><string name="processing_title">Tunggu sebentar.
@@ -267,7 +267,7 @@ Kami sedang memproses pesanan Anda.</string>
 Terima kasih atas pesanan Anda.</string>
     <string name="checkout_completed_message">Anda akan menerima konfirmasi email sesaat lagi</string>
     <string name="review_cart">Tinjau Keranjang</string>
-    <string name="processing_checkout_error">&quot;Ada masalah saat menyelesaikan checkout Anda. Coba lagi.&quot;</string><!--Collection--><string name="sort">Urutkan</string>
+    <string name="processing_checkout_error">Ada masalah saat menyelesaikan checkout Anda. Coba lagi.</string><!--Collection--><string name="sort">Urutkan</string>
     <string name="recommended">Rekomendasi</string>
     <string name="whats_new">Hal yang Baru</string>
     <string name="best_selling">Paling Banyak Terjual</string>
@@ -295,8 +295,7 @@ produk di koleksi ini</string>
     <string name="klarna" translatable="false">Klarna</string>
     <string name="affirm" translatable="false">Affirm</string>
     <string name="sezzle" translatable="false">Sezzle</string>
-    <string name="installment_provider_text">&quot;Beli sekarang, bayar nanti.
-%d pembayaran tanpa bunga dari %s&quot;</string><!--Main--><string name="cart_icon">Ikon keranjang</string>
+    <string name="installment_provider_text">Beli sekarang, bayar nanti. %1$d pembayaran tanpa bunga dari %2$s</string><!--Main--><string name="cart_icon">Ikon keranjang</string>
     <string name="menu_background">Latar belakang menu</string>
     <string name="sure_log_out">Anda yakin ingin keluar dari aplikasi?</string>
     <string name="my_account">Akun saya</string>
@@ -390,7 +389,7 @@ ulasan</string>
     <string name="review_title_success">Ulasan Anda berhasil dikirim!</string><!--Recharge--><string name="my_subscriptions">Langganan Saya</string>
     <string name="manage_subscription_on_web">Kelola langganan di web</string>
     <string name="recharge" translatable="false">Isi Ulang</string>
-    <string name="subscribe_and_save">&quot;Berlangganan &amp; hemat&quot;</string>
+    <string name="subscribe_and_save">Berlangganan &amp; hemat</string>
     <string name="one_time_purchase">Pembelian Satu Kali</string>
     <string name="subscribe_every">Berlangganan setiap %1$s</string>
     <string name="save_percent">Hemat %1$d%%</string>
@@ -508,8 +507,8 @@ Selesaikan pesanan Anda sekarang.</string>
 Checkout sekarang sebelum kehabisan.</string>
 
     <plurals name="extra_items_message">
-        <item quantity="one">&quot;+ %1$d produk lainnya&quot;</item>
-        <item quantity="other">&quot;+ %1$d produk lainnya&quot;</item>
+        <item quantity="one">+ %1$d produk lainnya</item>
+        <item quantity="other">+ %1$d produk lainnya</item>
     </plurals>
     <string name="title_address">Alamat</string><!-- Photo Search --><string name="take_photo">Ambil Foto</string>
     <string name="select_photo">Pilih Foto</string>

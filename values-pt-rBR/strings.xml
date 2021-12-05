@@ -296,7 +296,7 @@ produtos nesta coleção</string>
     <string name="affirm" translatable="false">Affirm</string>
     <string name="sezzle" translatable="false">Sezzle</string>
     <string name="installment_provider_text">&quot;Compre agora, pague depois.
-%d parcelas de %s sem juros&quot;</string><!--Main--><string name="cart_icon">Ícone do carrinho</string>
+%1$d parcelas de %2$s sem juros&quot;</string><!--Main--><string name="cart_icon">Ícone do carrinho</string>
     <string name="menu_background">Fundo do menu</string>
     <string name="sure_log_out">Tem certeza de que quer sair?</string>
     <string name="my_account">Minha conta</string>
