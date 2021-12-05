@@ -1,5 +1,4 @@
 <resources>
-    <string name="underscore" translatable="false">_</string>
     <string name="item_price_placeholder">Precio de artículo</string>
     <string name="options">Opciones</string>
     <string name="search">Buscar</string>
@@ -105,7 +104,6 @@
     <string name="return_policy_title">Política de devoluciones</string>
     <string name="store_credit_text">Con limitadas excepciones, las devoluciones válidas se reembolsan en forma de crédito de la tienda. Los artículos dañados/defectuosos estarán sujetos a un cambio si quedan existencias. Todo el crédito de tienda, los reembolsos y/o cambios que vencen se emitirán dentro de los 3 a 5 días hábiles posteriores al procesamiento de la devolución. Todos los artículos con precios que terminan en \ ,00; ,96; ,97 y ,98 $ son una venta final y no se pueden devolver para obtener crédito en la tienda. Puede encontrar información adicional sobre nuestra Política de devoluciones</string>
     <string name="store_credit_text_hyperlink">AQUÍ</string>
-    <string name="slash" translatable="false">/</string>
     <string name="free_gift">Obsequio gratuito</string>
     <string name="a11y_original_and_discounted_price">Precio original %1$s, precio de oferta %2$s</string>
     
@@ -319,11 +317,6 @@
 
     <!-- Installment Payments -->
     <!-- TODO move to a constants file -->
-    <string name="quad_pay" translatable="false">QuadPay</string>
-    <string name="after_pay" translatable="false">AfterPay</string>
-    <string name="klarna" translatable="false">Klarna</string>
-    <string name="affirm" translatable="false">Affirm</string>
-    <string name="sezzle" translatable="false">Sezzle</string>
     <string name="installment_provider_text">Compre ahora, pague después. %d pagos sin intereses de %s</string>
 
     <!--Main-->
@@ -401,7 +394,6 @@
     <string name="select">Seleccionar</string>
     <string name="select_something">Seleccione %s</string>
     <string name="size_range">Rango de tallas</string>
-    <string name="initial_time" translatable="false">00:00</string>
     <string name="a11y_play">Reproducir</string>
     <string name="a11y_pause">Pausar</string>
     <string name="a11y_enter_fullscreen">Abrir pantalla completa</string>
@@ -447,7 +439,6 @@
     <!--Recharge-->
     <string name="my_subscriptions">Mis suscripciones</string>
     <string name="manage_subscription_on_web">Gestionar suscripción en Internet</string>
-    <string name="recharge" translatable="false">Recargar</string>
     <string name="subscribe_and_save">Suscribirse y guardar</string>
     <string name="one_time_purchase">Compra de una vez</string>
     <string name="subscribe_every">Suscribirse cada %1$s</string>
@@ -624,11 +615,8 @@
     <string name="photo_search_description">Ahora puede hacer una foto para buscar. ¡O suba una foto, seleccione un artículo que haya en ella y compre!</string>
     <string name="photo_search_feed_description">¿No tiene una foto? Pruebe con una de nuestras redes sociales</string>
     <string name="replace_image">Sustituir imagen</string>
-
-    <string name="photo_search_sort_label" translatable="false">@string/sort</string>
     <string name="photo_search_sort_best_match">Mejor coincidencia</string>
-    <string name="photo_search_sort_price_high_low" translatable="false">@string/price_high_to_low</string>
-    <string name="photo_search_sort_price_low_high" translatable="false">@string/price_low_to_high</string>
+
     <!-- Multicurrency -->
     <string name="change_currency">Cambiar divisa</string>
     <string name="change_currency_msg">Esto recargará su aplicación y los precios aparecerán ahora en la divisa %s.</string>
