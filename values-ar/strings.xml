@@ -442,7 +442,7 @@
     <string name="cannot_apply_multiple_gift_cards">لا يمكن تطبيق بطاقات هدايا متعددة.</string>
     <string name="reward_is_disabled">تم تعطيل المكافأة.  يُرجى المحاولة مرة أخرى لاحقًا. </string>
     <string name="no_rewards_available">لا توجد مكافآت متاحة </string>
-    <string name="setting_up_loyalty">إعداد حساب الولاء الخاص بك... </string>
+    <string name="setting_up_loyalty">إعداد حساب الولاء الخاص بك… </string>
     <string name="discount_not_applicable_error">لا ينطبق الخصم على العناصر الموجودة في عربة التسوق الخاصة بك. </string><!--Subscriptions--><string name="title_subscriptions">الاشتراكات </string>
     <string name="active">نشط </string>
     <string name="inactive">غير نشط </string>

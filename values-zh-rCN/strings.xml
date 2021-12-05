@@ -426,7 +426,7 @@
     <string name="cannot_apply_multiple_gift_cards">无法使用多张礼品卡。</string>
     <string name="reward_is_disabled">奖励被禁用。请稍后重试。</string>
     <string name="no_rewards_available">没有可用的奖励</string>
-    <string name="setting_up_loyalty">设置您的忠诚度账户...</string>
+    <string name="setting_up_loyalty">设置您的忠诚度账户…</string>
     <string name="discount_not_applicable_error">折扣不适用于您购物车中的商品。</string><!--Subscriptions--><string name="title_subscriptions">订阅</string>
     <string name="active">启用</string>
     <string name="inactive">禁用</string>

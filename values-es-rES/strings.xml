@@ -522,7 +522,7 @@
     <string name="cannot_apply_multiple_gift_cards">No se pueden aplicar múltiples tarjetas de regalo.</string>
     <string name="reward_is_disabled">La recompensa está deshabilitada. Vuelva a intentarlo más tarde.</string>
     <string name="no_rewards_available">No hay recompensas disponibles</string>
-    <string name="setting_up_loyalty">Configurando su cuenta de fidelidad...</string>
+    <string name="setting_up_loyalty">Configurando su cuenta de fidelidad…</string>
     <string name="discount_not_applicable_error">El descuento no se aplica a los artículos de su carro.</string>
 
     <!--Subscriptions-->

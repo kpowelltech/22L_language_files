@@ -457,7 +457,7 @@
     <string name="cannot_apply_multiple_gift_cards">कई गिफ्ट कार्डों को लागू नहीं किया जा सकता है।</string>
     <string name="reward_is_disabled">रिवार्ड निष्क्रिय है। बाद में दोबारा प्रयास करें।</string>
     <string name="no_rewards_available">कोई रिवार्ड्स उपलब्ध नहीं है</string>
-    <string name="setting_up_loyalty">आपका लायल्टी अकाउंट सेट किया जा रहा है...</string>
+    <string name="setting_up_loyalty">आपका लायल्टी अकाउंट सेट किया जा रहा है…</string>
     <string name="discount_not_applicable_error">आपके कार्ड में मौजूद आइटमों के लिए डिस्काउंट लागू नहीं होता है।</string><!--Subscriptions--><string name="title_subscriptions">सब्सक्रिप्शन</string>
     <string name="active">सक्रिय</string>
     <string name="inactive">निष्क्रिय</string>

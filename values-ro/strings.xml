@@ -438,7 +438,7 @@
     <string name="cannot_apply_multiple_gift_cards">Nu se pot aplica mai multe carduri cadou.</string>
     <string name="reward_is_disabled">Recompensa este dezactivată. Încercați din nou mai târziu.</string>
     <string name="no_rewards_available">Nu există recompense disponibile</string>
-    <string name="setting_up_loyalty">Se configurează contul de loialitate ...</string>
+    <string name="setting_up_loyalty">Se configurează contul de loialitate …</string>
     <string name="discount_not_applicable_error">Reducerea nu se aplică articolelor din coș.</string><!--Subscriptions--><string name="title_subscriptions">Abonamente</string>
     <string name="active">Activ</string>
     <string name="inactive">Inactiv</string>

@@ -446,7 +446,7 @@ arvostelut</string>
     <string name="cannot_apply_multiple_gift_cards">Useita lahjakortteja ei ole mahdollista lisätä.</string>
     <string name="reward_is_disabled">Palkinto ei ole käytettävissä. Yritä uudelleen myöhemmin.</string>
     <string name="no_rewards_available">Ei saatavilla olevia palkintoja.</string>
-    <string name="setting_up_loyalty">Kanta-asiakkuuttasi luodaan...</string>
+    <string name="setting_up_loyalty">Kanta-asiakkuuttasi luodaan…</string>
     <string name="discount_not_applicable_error">Alennus ei koske ostoskorissasi olevia tuotteita.</string><!--Subscriptions--><string name="title_subscriptions">Tilaukset</string>
     <string name="active">Aktiivinen</string>
     <string name="inactive">Ei aktiivinen</string>

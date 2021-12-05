@@ -454,7 +454,7 @@ para mostrar neste momento</string>
     <string name="cannot_apply_multiple_gift_cards">Vários vales não podem ser aplicados.</string>
     <string name="reward_is_disabled">Recompensas estão desativadas. Tente novamente mais tarde.</string>
     <string name="no_rewards_available">Nenhuma recompensa disponível</string>
-    <string name="setting_up_loyalty">Configurando sua conta de fidelidade...</string>
+    <string name="setting_up_loyalty">Configurando sua conta de fidelidade…</string>
     <string name="discount_not_applicable_error">O desconto não se aplica aos itens em seu carrinho.</string><!--Subscriptions--><string name="title_subscriptions">Assinaturas</string>
     <string name="active">Ativas</string>
     <string name="inactive">Inativas</string>

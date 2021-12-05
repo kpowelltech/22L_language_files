@@ -454,7 +454,7 @@ untuk ditunjukkan ketika ini</string>
     <string name="cannot_apply_multiple_gift_cards">Berbilang kad hadiah tidak boleh digunakan.</string>
     <string name="reward_is_disabled">Ganjaran dinyahdayakan. Cuba lagi kemudian.</string>
     <string name="no_rewards_available">Tiada ganjaran yang tersedia</string>
-    <string name="setting_up_loyalty">Menyediakan akaun kesetiaan anda...</string>
+    <string name="setting_up_loyalty">Menyediakan akaun kesetiaan anda…</string>
     <string name="discount_not_applicable_error">Diskaun tidak dapat digunakan untuk item dalam troli anda.</string><!--Subscriptions--><string name="title_subscriptions">Langganan</string>
     <string name="active">Aktif</string>
     <string name="inactive">Tidak Aktif</string>

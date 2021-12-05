@@ -519,7 +519,7 @@ zum Anzeigen vorhanden</string>
     <string name="cannot_apply_multiple_gift_cards">Es kann nur eine Geschenkkarte verwendet werden.</string>
     <string name="reward_is_disabled">Prämie deaktiviert. Versuchen Sie es bitte später.</string>
     <string name="no_rewards_available">Keine Prämien verfügbar</string>
-    <string name="setting_up_loyalty">Treuekonto wird eingerichtet ...</string>
+    <string name="setting_up_loyalty">Treuekonto wird eingerichtet …</string>
     <string name="discount_not_applicable_error">Der Rabatt gilt nicht für die Artikel in Ihrem Warenkorb.</string>
     
     <!--Subscriptions--><string name="title_subscriptions">Abonnements</string>

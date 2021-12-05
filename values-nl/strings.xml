@@ -448,7 +448,7 @@ Bedankt voor uw bestelling.</string>
     <string name="cannot_apply_multiple_gift_cards">Meerdere cadeaubonnen kunnen niet worden toegepast.</string>
     <string name="reward_is_disabled">Beloning is uitgeschakeld. Probeer het later nog eens.</string>
     <string name="no_rewards_available">Geen beloningen beschikbaar</string>
-    <string name="setting_up_loyalty">Uw loyaliteitsaccount instellen...</string>
+    <string name="setting_up_loyalty">Uw loyaliteitsaccount instellen…</string>
     <string name="discount_not_applicable_error">Korting is niet van toepassing op de artikelen in uw winkelwagen.</string><!--Subscriptions--><string name="title_subscriptions">Abonnementen</string>
     <string name="active">Actief</string>
     <string name="inactive">Inactief</string>

@@ -444,7 +444,7 @@ Tack för din beställning.</string>
     <string name="cannot_apply_multiple_gift_cards">Det går inte att använda flera presentkort.</string>
     <string name="reward_is_disabled">Belöningen är inaktiverad. Försök igen senare.</string>
     <string name="no_rewards_available">Inga belöningar tillgängliga</string>
-    <string name="setting_up_loyalty">Ställer in ditt lojalitetskonto ...</string>
+    <string name="setting_up_loyalty">Ställer in ditt lojalitetskonto …</string>
     <string name="discount_not_applicable_error">Rabatten gäller inte artiklar i din kundvagn.</string><!--Subscriptions--><string name="title_subscriptions">Prenumerationer</string>
     <string name="active">Aktiva</string>
     <string name="inactive">Inaktiva</string>
