@@ -19,7 +19,7 @@
     <string name="items_count_placeholder">Antal artiklar</string>
     <string name="remove_item">ta bort artikeln</string>
     <string name="subtotal">Delsumma</string>
-    <plurals name="cart_items_count">
+    <plurals name="items_count">
         <item quantity="one">%d artikel</item>
         <item quantity="other">%d artiklar</item>
     </plurals>

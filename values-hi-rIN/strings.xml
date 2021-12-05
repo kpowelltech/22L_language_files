@@ -19,7 +19,7 @@
     <string name="items_count_placeholder">आइटमों की संख्या</string>
     <string name="remove_item">आइटम हटाएँ</string>
     <string name="subtotal">कुल योग</string>
-    <plurals name="cart_items_count">
+    <plurals name="items_count">
         <item quantity="one">%d आइटम</item>
         <item quantity="other">%d आइटम</item>
     </plurals>

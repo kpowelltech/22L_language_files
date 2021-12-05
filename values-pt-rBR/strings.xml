@@ -19,7 +19,7 @@
     <string name="items_count_placeholder">Contagem de itens</string>
     <string name="remove_item">remover item</string>
     <string name="subtotal">Subtotal</string>
-    <plurals name="cart_items_count">
+    <plurals name="items_count">
         <item quantity="one">%d item</item>
         <item quantity="other">%d itens</item>
     </plurals>

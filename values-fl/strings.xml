@@ -19,7 +19,7 @@
     <string name="items_count_placeholder">Tuotteiden määrä</string>
     <string name="remove_item">poista tuote</string>
     <string name="subtotal">Välisumma</string>
-    <plurals name="cart_items_count">
+    <plurals name="items_count">
         <item quantity="one">%d tuote</item>
         <item quantity="other">%d tuotetta</item>
     </plurals>

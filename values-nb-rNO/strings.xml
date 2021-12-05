@@ -19,7 +19,7 @@
     <string name="items_count_placeholder">Antall varer</string>
     <string name="remove_item">Fjern vare</string>
     <string name="subtotal">Delsum</string>
-    <plurals name="cart_items_count">
+    <plurals name="items_count">
         <item quantity="one">%d vare</item>
         <item quantity="other">%d varer</item>
     </plurals>

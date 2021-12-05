@@ -19,7 +19,7 @@
     <string name="items_count_placeholder">商品计数</string>
     <string name="remove_item">删除商品</string>
     <string name="subtotal">小计</string>
-    <plurals name="cart_items_count">
+    <plurals name="items_count">
         <item quantity="one">%d 商品</item>
         <item quantity="other">%d 商品</item>
     </plurals>

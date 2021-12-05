@@ -19,7 +19,7 @@
     <string name="items_count_placeholder">Anzahl Artikel</string>
     <string name="remove_item">Artikel entfernen</string>
     <string name="subtotal">Zwischensumme</string>
-    <plurals name="cart_items_count">
+    <plurals name="items_count">
         <item quantity="one">%d Artikel</item>
         <item quantity="other">%d Artikel</item>
     </plurals>

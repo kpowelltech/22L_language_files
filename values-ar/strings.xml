@@ -19,7 +19,7 @@
     <string name="items_count_placeholder">عدد العناصر</string>
     <string name="remove_item">إزالة العنصر</string>
     <string name="subtotal">المجموع الفرعي</string>
-    <plurals name="cart_items_count">
+    <plurals name="items_count">
         <item quantity="one">%d عنصر</item>
         <item quantity="other">%d من العناصر</item>
     </plurals>

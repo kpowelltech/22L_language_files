@@ -19,7 +19,7 @@
     <string name="items_count_placeholder">Aantal artikelen</string>
     <string name="remove_item">verwijder artikel</string>
     <string name="subtotal">Subtotaal</string>
-    <plurals name="cart_items_count">
+    <plurals name="items_count">
         <item quantity="one">%d artikel</item>
         <item quantity="other">%d artikelen</item>
     </plurals>

@@ -19,7 +19,7 @@
     <string name="items_count_placeholder">จำนวนสินค้า</string>
     <string name="remove_item">ลบสินค้า</string>
     <string name="subtotal">ผลรวมย่อย</string>
-    <plurals name="cart_items_count">
+    <plurals name="items_count">
         <item quantity="one">%d รายการ</item>
         <item quantity="other">%d รายการ</item>
     </plurals>

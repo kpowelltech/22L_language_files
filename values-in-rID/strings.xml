@@ -19,7 +19,7 @@
     <string name="items_count_placeholder">Jumlah barang</string>
     <string name="remove_item">hapus barang</string>
     <string name="subtotal">Subtotal</string>
-    <plurals name="cart_items_count">
+    <plurals name="items_count">
         <item quantity="one">%d barang</item>
         <item quantity="other">%d barang</item>
     </plurals>
