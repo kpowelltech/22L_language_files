@@ -20,7 +20,6 @@
     <string name="remove_item">删除商品</string>
     <string name="subtotal">小计</string>
     <plurals name="items_count">
-        <item quantity="one">%d 商品</item>
         <item quantity="other">%d 商品</item>
     </plurals>
     <string name="my_bag">我的购物袋</string>
@@ -33,37 +32,30 @@
     <string name="just_now">刚才</string>
 
     <plurals name="year">
-        <item quantity="one">年</item>
         <item quantity="other">年</item>
     </plurals>
 
     <plurals name="month">
-        <item quantity="one">月</item>
         <item quantity="other">月</item>
     </plurals>
 
     <plurals name="day">
-        <item quantity="one">天</item>
         <item quantity="other">天</item>
     </plurals>
 
     <plurals name="hour">
-        <item quantity="one">小时</item>
         <item quantity="other">小时</item>
     </plurals>
 
     <plurals name="minute">
-        <item quantity="one">分钟</item>
         <item quantity="other">分钟</item>
     </plurals>
 
     <plurals name="second">
-        <item quantity="one">秒</item>
         <item quantity="other">秒</item>
     </plurals>
 
     <plurals name="week">
-        <item quantity="one">周</item>
         <item quantity="other">周</item>
     </plurals>
 
@@ -311,7 +303,6 @@
     <string name="order_total_placeholder">$99.99</string>
     <string name="order_days_placeholder">17 天之前</string>
     <plurals name="order_quantity_count">
-        <item quantity="one">以及 %d 其他商品</item>
         <item quantity="other">以及 %d 其他商品</item>
     </plurals>
     <string name="order">订单</string>
@@ -384,7 +375,6 @@
     <string name="subscription_every">订阅：每 %1$d %2$s</string>
 
     <plurals name="rating_info">
-        <item quantity="one">%2$.2f | %1$d 评论</item>
         <item quantity="other">%2$.2f | %1$d 条评论</item>
     </plurals><!-- Quick Add/Update --><string name="view"><u>查看</u></string>
     <string name="select_your">选择您的 %s</string>
@@ -403,11 +393,9 @@
     <string name="about">关于</string>
     <string name="loyalty_rewards">忠诚度奖励</string>
     <plurals name="your_balance">
-        <item quantity="one">您的余额：&lt;b&gt;%,d 积分&lt;/b&gt;</item>
         <item quantity="other">您的余额：&lt; b&gt;%, d 积分&lt;/b&gt;</item>
     </plurals>
     <plurals name="tier_level">
-        <item quantity="one">%d 中的 %d 级</item>
         <item quantity="other">%d 中的 %d 级</item>
     </plurals>
     <string name="number_with_comma">%,d</string>
@@ -461,15 +449,12 @@
     <string name="a11y_change_quantity">更改数量</string>
 
     <plurals name="day_interval">
-        <item quantity="one">%1$d 天</item>
         <item quantity="other">%1$d 天</item>
     </plurals>
     <plurals name="week_interval">
-        <item quantity="one">%1$d 周</item>
         <item quantity="other">%1$d 周</item>
     </plurals>
     <plurals name="month_interval">
-        <item quantity="one">%1$d 月</item>
         <item quantity="other">%1$d 月</item>
     </plurals><!--Reactivate Subscription--><string name="reactivate_subscription_title">重新启用订阅</string>
     <string name="reactivate_subscription_message">您将在下一个发票开具日被收取费用。</string>
@@ -489,7 +474,6 @@
     <string name="abandoned_cart_title">您将此商品遗忘在了购物车中！ \n立即结账，手慢则无。</string>
 
     <plurals name="extra_items_message">
-        <item quantity="one">“+ %1$d 其他产品”</item>
         <item quantity="other">“+ %1$d 其他产品”</item>
     </plurals>
     <string name="title_address">地址</string><!-- Photo Search --><string name="take_photo">拍摄照片</string>
