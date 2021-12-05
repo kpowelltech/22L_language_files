@@ -27,9 +27,9 @@
     <string name="my_cart">MI CARRO</string>
     <string name="splash_background">Fondo splash</string>
     <string name="cancel">Cancelar</string>
-    <string name="elapsed_time">%1$d %2$s antes&quot;</string>
-    <string name="value_currency">%1$s %2$s&quot;</string>
-    <string name="card_masked">•••• •••• •••• %1$s&quot;</string>
+    <string name="elapsed_time">%1$d %2$s antes</string>
+    <string name="value_currency">%1$s %2$s</string>
+    <string name="card_masked">•••• •••• •••• %1$s</string>
     <string name="just_now">Ahora mismo</string>
 
     <plurals name="year">
@@ -198,7 +198,7 @@
     <string name="submit_order">Enviar pedido</string>
     <string name="complete_order">Finalizar pedido</string>
     <string name="continue_to_payment">Continuar al pago</string>
-    <string name="signed_in_as">&quot;Sesión iniciada como &quot;</string>
+    <string name="signed_in_as">Sesión iniciada como </string>
     <string name="already_have_account">¿Ya tiene una cuenta?</string>
     <string name="underlined_sign_in"><u>Acceso</u></string>
     <string name="underlined_sign_in_sentence"><u>Acceso.</u></string>
@@ -230,8 +230,8 @@
     <string name="contact_sharing_permission_denied">Es necesario acceder a los contactos del dispositivo para continuar. Proporcione acceso a los contactos en la configuración de su dispositivo.</string>
     
     <!--Credit Card-->
-    <string name="empty_card_error">&quot;Introduzca el número de su tarjeta de crédito&quot;.</string>
-    <string name="invalid_card_error">&quot;Número de la tarjeta de crédito no válido&quot;.</string>
+    <string name="empty_card_error">Introduzca el número de su tarjeta de crédito.</string>
+    <string name="invalid_card_error">Número de la tarjeta de crédito no válido.</string>
     <string name="scan_your_card">Escanee su tarjeta</string>
 
     <!--Notes-->
@@ -271,7 +271,7 @@
     <string name="empty_country_error">Introduzca su país.</string>
     <string name="unknown_country_error">No se ha podido identificar el país seleccionado.</string>
     <string name="update_address_error">No se ha podido guardar la dirección.</string>
-    <string name="empty_phone_error">&quot;Introduzca su número de teléfono en el formulario de envío&quot;.</string>
+    <string name="empty_phone_error">Introduzca su número de teléfono en el formulario de envío.</string>
     <string name="beauty_items_error">Los artículos de belleza de su carro solo pueden enviarse a EE. UU. o Canadá. Para completar el pago, elimine los artículos de belleza de su carro o actualice la dirección de envío.</string>
     <string name="a11y_selected">Seleccionado</string>
     <string name="a11y_unselected">No seleccionado</string>
@@ -284,7 +284,7 @@
     <string name="checkout_completed_title">¡Ya está listo! Gracias por su pedido.</string>
     <string name="checkout_completed_message">Debería recibir un correo electrónico de confirmación en breve</string>
     <string name="review_cart">Revisar carro</string>
-    <string name="processing_checkout_error">&quot;Ha habido un problema al completar su pago. Vuelva a intentarlo&quot;.</string>
+    <string name="processing_checkout_error">Ha habido un problema al completar su pago. Vuelva a intentarlo.</string>
 
     <!--Collection-->
     <string name="sort">Ordenar</string>
@@ -324,7 +324,7 @@
     <string name="klarna" translatable="false">Klarna</string>
     <string name="affirm" translatable="false">Affirm</string>
     <string name="sezzle" translatable="false">Sezzle</string>
-    <string name="installment_provider_text">&quot;Compre ahora, pague después. %d pagos sin intereses de %s&quot;</string>
+    <string name="installment_provider_text">Compre ahora, pague después. %d pagos sin intereses de %s</string>
 
     <!--Main-->
     <string name="cart_icon">Icono de carro</string>
@@ -448,7 +448,7 @@
     <string name="my_subscriptions">Mis suscripciones</string>
     <string name="manage_subscription_on_web">Gestionar suscripción en Internet</string>
     <string name="recharge" translatable="false">Recargar</string>
-    <string name="subscribe_and_save">&quot;Suscribirse y guardar&quot;</string>
+    <string name="subscribe_and_save">Suscribirse y guardar</string>
     <string name="one_time_purchase">Compra de una vez</string>
     <string name="subscribe_every">Suscribirse cada %1$s</string>
     <string name="save_percent">Ahorrar %1$d%%</string>
@@ -612,11 +612,11 @@
     <string name="abandoned_cart_title">Ha olvidado esto en su carro. Pague ahora antes de que se agote.</string>
 
     <plurals name="extra_items_message">
-        <item quantity="one">&quot;+ %1$d otro producto&quot;</item>
-        <item quantity="other">&quot;+ %1$d otros productos&quot;</item>
+        <item quantity="one">+ %1$d otro producto</item>
+        <item quantity="other">+ %1$d otros productos</item>
     </plurals>
     <string name="title_address">Dirección</string>
-    
+
     <!-- Photo Search -->
     <string name="take_photo">Hacer una foto</string>
     <string name="select_photo">Seleccionar una foto</string>
