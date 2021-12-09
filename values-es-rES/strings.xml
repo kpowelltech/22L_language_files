@@ -139,7 +139,7 @@
     <string name="underlined_create_account"><u>Crear cuenta</u></string>
     <string name="default_error_message">Vaya, ha ocurrido un error. Por favor, vuelva a intentarlo más tarde.</string>
     <string name="incorrect_email_or_password">Correo electrónico o contraseña incorrectos.</string>
-    <string name="dont_have_an_account">¿No tiene cuenta?</string>
+    <string name="dont_have_an_account">¿No tienes una cuenta?</string>
     <string name="log_out">Cerrar sesión</string>
 
     <!--Cart-->
@@ -185,7 +185,6 @@
     <string name="cart_update_error_title">No se pudo actualizar el carro</string>
     <string name="cart_update_error_discount">Se ha eliminado su código de descuento debido a un problema. Vuelva a intentar añadirlo.</string>
     <string name="cart_update_error_gift_card">Se ha eliminado su tarjeta regalo debido a un problema. Vuelva a intentar añadirla.</string>
-    
     
     <!--Checkout-->
     <string name="gift_card">Tarjeta de regalo</string>
@@ -309,6 +308,11 @@
     <string name="favorite_header">Compartir favoritos</string>
     <string name="share_wish_list">¡Compruebe mis%1$s favoritos!</string>
     <string name="a11y_favorite_button_label">Botón de favoritoz</string>
+    <string name="failed_to_remove_wishlist_item">Hubo un fallo al eliminar el producto de la lista de deseos</string>
+
+     <!--Favorite from DEV-->
+    <!--Todo Compare 22L Favorite with DEV Favorite-->
+
 
     <!--  Read with an accessibility action, e.g. "Double-tap to [action]"  -->
     <string name="a11y_favorite_button_add_action">añadir producto a sus favoritos.</string>
@@ -621,7 +625,6 @@
     <string name="change_currency">Cambiar divisa</string>
     <string name="change_currency_msg">Esto recargará su aplicación y los precios aparecerán ahora en la divisa %s.</string>
     <string name="add_to_list_failed">Hubo un fallo al añadir el artículo a la lista de deseos</string>
-    <string name="failed_to_remove_wishlist_item">Hubo un fallo al eliminar el producto de la lista de deseos</string>
     <string name="default_wishlist_name">Mi lista de deseos</string>
 
 </resources>
