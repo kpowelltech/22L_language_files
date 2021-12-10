@@ -1,5 +1,4 @@
 <resources>
-    <string name="underscore" translatable="false">_</string>
     <string name="item_price_placeholder">Artikelprijs</string>
     <string name="options">Opties</string>
     <string name="search">Zoek</string>
@@ -27,9 +26,9 @@
     <string name="my_cart">MIJN WINKELWAGEN</string>
     <string name="splash_background">Plons achtergrond</string>
     <string name="cancel">Annuleer</string>
-    <string name="elapsed_time">%1$d %2$s geleden&quot;</string>
-    <string name="value_currency">%1$s %2$s&quot;</string>
-    <string name="card_masked">•••• •••• •••• %1$s&quot;</string>
+    <string name="elapsed_time">%1$d %2$s geleden</string>
+    <string name="value_currency">%1$s %2$s</string>
+    <string name="card_masked">•••• •••• •••• %1$s</string>
     <string name="just_now">Net nu</string>
 
     <plurals name="year">
@@ -108,9 +107,11 @@ Alle winkeltegoeden, terugbetalingen en/of omruilingen die verschuldigd zijn, wo
 Alle artikelen met prijzen die eindigen op \$,00, ,96, ,97 en ,98 zijn definitieve verkoop en kunnen niet worden geretourneerd voor winkeltegoed.
 U kunt aanvullende informatie vinden over ons retourbeleid</string>
     <string name="store_credit_text_hyperlink">HIER</string>
-    <string name="slash" translatable="false">/</string>
     <string name="free_gift">Gratis geschenk</string>
-    <string name="a11y_original_and_discounted_price">Oorspronkelijke prijs %1$s, verkoopprijs %2$s</string><!--Account--><string name="account">Account</string>
+    <string name="a11y_original_and_discounted_price">Oorspronkelijke prijs %1$s, verkoopprijs %2$s</string>
+
+    <!--Account-->
+    <string name="account">Account</string>
     <string name="sign_in">Inloggen</string>
     <string name="create_an_account">Account aanmaken</string>
     <string name="already_have_an_account">Heeft u al een account?</string>
@@ -142,7 +143,10 @@ We sturen u een resetlink.</string>
     <string name="default_error_message">Oeps, er is een fout opgetreden. Probeer het later opnieuw.</string>
     <string name="incorrect_email_or_password">Incorrecte e-mail of wachtwoord.</string>
     <string name="dont_have_an_account">Heeft u geen account?</string>
-    <string name="log_out">Uitloggen</string><!--Cart--><string name="add_item">artikel toevoegen</string>
+    <string name="log_out">Uitloggen</string>
+
+    <!--Cart-->
+    <string name="add_item">artikel toevoegen</string>
     <string name="enter_discount_code">Voer kortingscode in</string>
     <string name="enter_gift_card">Voer cadeaubonnummer in</string>
     <string name="apply_discount">Korting toepassen</string>
@@ -184,7 +188,10 @@ Probeer het opnieuw.</string>
     <string name="product_is_sold_out_error">Sorry, het product is uitverkocht.</string>
     <string name="cart_update_error_title">Kan winkelwagen niet bijwerkenJe kortingscode is verwijderd vanwege een probleem.</string>
     <string name="cart_update_error_discount">Uw kortingscode is verwijderd vanwege een probleem. Probeer het opnieuw toe te voegen.</string>
-    <string name="cart_update_error_gift_card">Uw cadeaubon is verwijderd vanwege een probleem. Probeer het opnieuw toe te voegen.</string><!--Checkout--><string name="gift_card">Cadeaubon</string>
+    <string name="cart_update_error_gift_card">Uw cadeaubon is verwijderd vanwege een probleem. Probeer het opnieuw toe te voegen.</string>
+
+    <!--Checkout-->
+    <string name="gift_card">Cadeaubon</string>
     <string name="duties">Invoerrechten</string>
     <string name="shipping">Verzenden</string>
     <string name="tax">Belasting</string>
@@ -192,7 +199,7 @@ Probeer het opnieuw.</string>
     <string name="submit_order">Bevestig bestelling</string>
     <string name="complete_order">Bestelling afronden</string>
     <string name="continue_to_payment">Verder naar betaling</string>
-    <string name="signed_in_as">&quot;Aangemeld als&quot;</string>
+    <string name="signed_in_as">Aangemeld als</string>
     <string name="already_have_account">Heeft u al een account?</string>
     <string name="underlined_sign_in"><u>Inloggen</u></string>
     <string name="underlined_sign_in_sentence"><u>Inloggen.</u></string>
@@ -213,18 +220,30 @@ Probeer het opnieuw.</string>
     <string name="in_store_pickup">Ophalen in winkel</string>
     <string name="pick_up_here">Hier ophalen</string>
     <string name="update_shopping_cart">Winkelwagen bijwerken</string>
-    <string name="update_shipping_address">Verzendadres bijwerken</string><!-- Contact Sharing--><string name="contact_sharing">&quot;Deel met vrienden&quot;</string>
+    <string name="update_shipping_address">Verzendadres bijwerken</string>
+
+    <!-- Contact Sharing-->
+    <string name="contact_sharing">Deel met vrienden</string>
     <string name="module_title">Doorverwijzing</string>
     <string name="contact_sharing_cta_contacts">Uitnodigen uit mijn contactenlijst</string>
     <string name="contact_sharing_cta_invite">Uitnodiging delen</string>
     <string name="contact_sharing_description_placeholder">We sturen een cadeaubon van $20 wanneer ze een aankoop doen. Gebruik uw contactenlijst om vrienden door te verwijzen.</string>
-    <string name="contact_sharing_permission_denied">Toegang tot apparaatcontacten is nodig om door te gaan. Activeer contacttoegang in uw apparaatinstellingen.</string><!--Credit Card--><string name="empty_card_error">&quot;Voer alstublieft uw kredietkaartnummer in.&quot;</string>
-    <string name="invalid_card_error">&quot;Kredietkaartnummer is ongeldig.&quot;</string>
-    <string name="scan_your_card">Scan uw kaart</string><!--Notes--><string name="add_order_notes">Bestelnotities toevoegen</string>
+    <string name="contact_sharing_permission_denied">Toegang tot apparaatcontacten is nodig om door te gaan. Activeer contacttoegang in uw apparaatinstellingen.</string>
+
+    <!--Credit Card-->
+    <string name="empty_card_error">Voer alstublieft uw kredietkaartnummer in.</string>
+    <string name="invalid_card_error">Kredietkaartnummer is ongeldig.</string>
+    <string name="scan_your_card">Scan uw kaart</string>
+
+    <!--Notes-->
+    <string name="add_order_notes">Bestelnotities toevoegen</string>
     <string name="gift_cart_or_delivery_date_notes">Cadeaubonbericht | Gewenste leveringsdatum</string>
     <string name="add_notes">Notities toevoegen</string>
     <string name="notes_hint">Schrijf een notitie bij uw bestelling</string>
-    <string name="update_notes_error">Fout bij bijwerken van notities</string><!--Address--><string name="billing">Facturering</string>
+    <string name="update_notes_error">Fout bij bijwerken van notities</string>
+
+    <!--Address-->
+    <string name="billing">Facturering</string>
     <string name="email">E-mail</string>
     <string name="new_address">Nieuw adres</string>
     <string name="add_new_address">Nieuw adres toevoegen</string>
@@ -253,10 +272,13 @@ Probeer het opnieuw.</string>
     <string name="empty_country_error">Voer uw land in.</string>
     <string name="unknown_country_error">Kon het geselecteerde land niet identificeren.</string>
     <string name="update_address_error">Kon adres niet opslaan.</string>
-    <string name="empty_phone_error">&quot;Voer uw telefoonnummer in het verzendformulier in.&quot;</string>
+    <string name="empty_phone_error">Voer uw telefoonnummer in het verzendformulier in.</string>
     <string name="beauty_items_error">Schoonheidsartikelen in uw winkelwagen kunnen alleen naar de VS of Canada worden verzonden. Om het afrekenen te voltooien, verwijdert u de schoonheidsartikelen in uw winkelwagen of werkt u het verzendadres bij.</string>
     <string name="a11y_selected">Geselecteerd</string>
-    <string name="a11y_unselected">Niet geselecteerd</string><!--Processing--><string name="processing_title">Nog even geduld.
+    <string name="a11y_unselected">Niet geselecteerd</string>
+
+    <!--Processing-->
+    <string name="processing_title">Nog even geduld.
 We zijn uw bestelling aan het verwerken.</string>
     <string name="processing_subtitle">Dit kan enkele seconden duren.</string>
     <string name="out_of_stock_title">We hebben niet genoeg van de door u gevraagde artikelen.</string>
@@ -265,7 +287,10 @@ We zijn uw bestelling aan het verwerken.</string>
 Bedankt voor uw bestelling.</string>
     <string name="checkout_completed_message">U zou zo meteen een e-mailbevestiging moeten ontvangen</string>
     <string name="review_cart">Controleer winkelwagen</string>
-    <string name="processing_checkout_error">&quot;Er is een probleem opgetreden bij het voltooien van uw betaling. Probeer het opnieuw.&quot;</string><!--Collection--><string name="sort">Sorteer</string>
+    <string name="processing_checkout_error">Er is een probleem opgetreden bij het voltooien van uw betaling. Probeer het opnieuw.</string>
+
+    <!--Collection-->
+    <string name="sort">Sorteer</string>
     <string name="recommended">Aanbevolen</string>
     <string name="whats_new">Wat is er nieuw</string>
     <string name="best_selling">Best verkopende</string>
@@ -279,21 +304,27 @@ Bedankt voor uw bestelling.</string>
     <string name="reach_max_favorites_error_message">Overschrijdt limiet van %s, verwijder artikel(en) van verlanglijst.</string>
     <string name="empty_state_collection_title">GEEN PRODUCTEN</string>
     <string name="empty_state_collection_message">We hebben geen producten kunnen vinden in deze collectie</string>
-    <string name="unavailable_collection_message">Deze collectie is niet meer beschikbaar.</string><!--Favorite--><string name="my_wishlist">Mijn verlanglijst</string>
+    <string name="unavailable_collection_message">Deze collectie is niet meer beschikbaar.</string>
+    
+    <!--Favorite-->
+    <string name="my_wishlist">Mijn verlanglijst</string>
     <string name="my_wishlists">Mijn verlanglijsten</string>
     <string name="my_favorites">Mijn favorieten</string>
     <string name="empty_wish_list">Mijn favorieten is leeg</string>
     <string name="favorite_header">Deel uw favorieten</string>
     <string name="share_wish_list">Bekijk mijn %1$s favorieten!</string>
-    <string name="a11y_favorite_button_label">Favorietknop</string><!--  Read with an accessibility action, e.g. "Double-tap to [action]"  --><string name="a11y_favorite_button_add_action">voeg product toe aan uw favorieten</string>
+    <string name="a11y_favorite_button_label">Favorietknop</string>
+    <!--  Read with an accessibility action, e.g. "Double-tap to [action]"  -->
+    <string name="a11y_favorite_button_add_action">voeg product toe aan uw favorieten</string>
     <string name="a11y_favorite_button_remove_action">verwijder product uit uw favorieten</string>
-    <string name="a11y_favorite_button_sign_in_action">inloggen</string><!-- Installment Payments --> <!-- TODO move to a constants file --><string name="quad_pay" translatable="false">QuadPay</string>
-    <string name="after_pay" translatable="false">AfterPay</string>
-    <string name="klarna" translatable="false">Klarna</string>
-    <string name="affirm" translatable="false">Affirm</string>
-    <string name="sezzle" translatable="false">Sezzle</string>
-    <string name="installment_provider_text">&quot;Koop nu, betaal later.
-%1$d renteloze betalingen van %2$s&quot;</string><!--Main--><string name="cart_icon">Winkelwagen-icoon</string>
+    <string name="a11y_favorite_button_sign_in_action">inloggen</string>
+
+    <!-- Installment Payments -->
+    <!-- TODO move to a constants file -->
+    <string name="installment_provider_text">Koop nu, betaal later.
+%1$d renteloze betalingen van %2$s</string>
+<!--Main-->
+<string name="cart_icon">Winkelwagen-icoon</string>
     <string name="menu_background">Menu-achtergrond</string>
     <string name="sure_log_out">Weet u zeker dat u wilt uitloggen uit de applicatie?</string>
     <string name="my_account">Mijn account</string>
@@ -301,7 +332,6 @@ Bedankt voor uw bestelling.</string>
     <string name="video_placeholder">Tijdelijke aanduiding voor video</string>
     <string name="exit_preview">Voorbeeld afsluiten</string>
     <string name="a11y_navigation_icon">Menu</string>
-
     <string name="a11y_video_block_product_destination">Video. Dubbelklik om het product te openen.</string>
     <string name="a11y_video_block_collection_destination">Video. Dubbelklik om %s collectie te openen.</string>
     <string name="a11y_video_block_webpage_destination">Video. Dubbelklik om de webpagina te openen.</string>
@@ -309,13 +339,22 @@ Bedankt voor uw bestelling.</string>
     <string name="a11y_image_block_product_destination">Afbeelding. Dubbelklik om het product te openen.</string>
     <string name="a11y_image_block_collection_destination">Afbeelding. Dubbelklik om %s collectie te openen.</string>
     <string name="a11y_image_block_webpage_destination">Afbeelding. Dubbelklik om de webpagina te openen.</string>
-    <string name="a11y_image_block">Afbeelding</string><!--  Read with an accessibility action, e.g. "Double-tap to [action]"  --><string name="a11y_image_block_action_open_webpage">webpagina openen</string>
-    <string name="a11y_image_block_action_open_collection">collectie openen</string><!--Search--><string name="barcode_scanner">Barcode scannen</string>
+    <string name="a11y_image_block">Afbeelding</string>
+
+    <!--  Read with an accessibility action, e.g. "Double-tap to [action]"  -->
+    <string name="a11y_image_block_action_open_webpage">webpagina openen</string>
+    <string name="a11y_image_block_action_open_collection">collectie openen</string>
+
+    <!--Search-->
+    <string name="barcode_scanner">Barcode scannen</string>
     <string name="photo_search_button">Foto laden</string>
     <string name="search_no_results_description">We konden het artikel dat u zocht niet vinden.</string>
     <string name="search_products">Zoek producten</string>
     <string name="popular_searches">Populaire zoekopdrachten</string>
-    <string name="trending_searches">Populaire zoekopdrachten</string><!--Order--><string name="order_description_placeholder">Tijdelijke aanduiding voor orderbeschrijving</string>
+    <string name="trending_searches">Populaire zoekopdrachten</string>
+
+    <!--Order-->
+    <string name="order_description_placeholder">Tijdelijke aanduiding voor orderbeschrijving</string>
     <string name="order_total_placeholder">$99.99</string>
     <string name="order_days_placeholder">17 dagen geleden</string>
     <plurals name="order_quantity_count">
@@ -325,7 +364,10 @@ Bedankt voor uw bestelling.</string>
     <string name="order">Bestelling</string>
     <string name="you_have_no_orders">U heeft geen bestellingen</string>
     <string name="check_back">Kom terug nadat u uw eerste bestelling hebt gedaan</string>
-    <string name="processing">Verwerken</string><!--ProductDetails--><string name="keep_track">BLIJF UW FAVORIETEN VOLGEN</string>
+    <string name="processing">Verwerken</string>
+
+    <!--ProductDetails-->
+    <string name="keep_track">BLIJF UW FAVORIETEN VOLGEN</string>
     <string name="create_account_to_save_favorites">Maak een %1$s-account om al uw favoriete artikelen op te slaan en te volgen.</string>
     <string name="sign_in_to_save_favorites">Meld u aan bij uw %1$s-account om al uw favoriete artikelen op te slaan en te volgen.</string>
     <string name="create_account_or_sign_in">Account aanmaken of inloggen</string>
@@ -355,7 +397,6 @@ Bedankt voor uw bestelling.</string>
     <string name="select">Selecteren</string>
     <string name="select_something">Selecteer %s</string>
     <string name="size_range">Maatbereik:</string>
-    <string name="initial_time" translatable="false">00:00</string>
     <string name="a11y_play">Afspelen</string>
     <string name="a11y_pause">Pauzeren</string>
     <string name="a11y_enter_fullscreen">Voer volledig scherm in</string>
@@ -363,18 +404,33 @@ Bedankt voor uw bestelling.</string>
     <string name="share_product">Ik dacht dat u dit misschien leuk zou vinden! Haast u, want het kan snel uitverkocht zijn!
 %s</string>
     <string name="unavailable_product_message">Dit product is niet langer beschikbaar.</string>
-    <string name="a11y_variant_sold_out">%s. Niet beschikbaar.</string><!--  Read with an accessibility action, e.g. "Double-tap to [action]"  --><string name="a11y_collapse_action">samenvouwen</string>
-    <string name="a11y_expand_action">uitbreiden</string><!--StoreLocator--><string name="store_locator">Winkelzoeker</string>
+    <string name="a11y_variant_sold_out">%s. Niet beschikbaar.</string>
+
+    <!--  Read with an accessibility action, e.g. "Double-tap to [action]"  -->
+    <string name="a11y_collapse_action">samenvouwen</string>
+    <string name="a11y_expand_action">uitbreiden</string>
+
+    <!--StoreLocator-->
+    <string name="store_locator">Winkelzoeker</string>
     <string name="list">Lijst</string>
     <string name="map">Kaart</string>
     <string name="search_by_postal_code">Zoeken op postcode</string>
     <string name="no_results_description">We konden geen winkels vinden binnen die postcode</string>
     <string name="temporarily_closed">Tijdelijk gesloten</string>
     <string name="store_hours">Winkel openingstijden</string>
-    <string name="a11y_edit_store">Winkel bewerken</string><!--  Read with an accessibility action, e.g. "Double-tap to [action]"  --><string name="a11y_favorite_store_button_add_action">stel deze winkel in als uw favoriet</string>
-    <string name="a11y_favorite_store_button_remove_action">verwijder deze winkel als uw favoriet</string><!--FourSixty--><string name="shop_our_instagram">Winkel onze Instagram</string>
+    <string name="a11y_edit_store">Winkel bewerken</string>
+
+    <!--  Read with an accessibility action, e.g. "Double-tap to [action]"  -->
+    <string name="a11y_favorite_store_button_add_action">stel deze winkel in als uw favoriet</string>
+    <string name="a11y_favorite_store_button_remove_action">verwijder deze winkel als uw favoriet</string>
+
+    <!--FourSixty-->
+    <string name="shop_our_instagram">Winkel onze Instagram</string>
     <string name="four_sixty_header_message">Bekijk wat anderen dragen op Instagram en winkel vanaf hier.</string>
-    <string name="four_sixty_see_it_instagram_header_message">Zie het op Instagram</string><!--Write a Review--><string name="write_a_review">Schrijf een beoordeling</string>
+    <string name="four_sixty_see_it_instagram_header_message">Zie het op Instagram</string>
+
+    <!--Write a Review-->
+    <string name="write_a_review">Schrijf een beoordeling</string>
     <string name="how_would_you_rate">Hoe zou u dit artikel beoordelen?</string>
     <string name="name">Naam</string>
     <string name="title">Titel</string>
@@ -382,10 +438,12 @@ Bedankt voor uw bestelling.</string>
     <string name="submit_review">Beoordeling versturen</string>
     <string name="empty_name_error">Voer uw naam in.</string>
     <string name="review_title_error">Geef de beoordeling een titel.</string>
-    <string name="review_title_success">Uw beoordeling is succesvol geplaatst!</string><!--Recharge--><string name="my_subscriptions">Mijn abonnementen</string>
+    <string name="review_title_success">Uw beoordeling is succesvol geplaatst!</string>
+
+    <!--Recharge-->
+    <string name="my_subscriptions">Mijn abonnementen</string>
     <string name="manage_subscription_on_web">Abonnementen op internet beheren</string>
-    <string name="recharge" translatable="false">Opladen</string>
-    <string name="subscribe_and_save">&quot;Inschrijven en opslaan&quot;</string>
+    <string name="subscribe_and_save">Inschrijven en opslaan</string>
     <string name="one_time_purchase">Eenmalige aankoop</string>
     <string name="subscribe_every">Abonneer elke %1$s</string>
     <string name="save_percent">Bespaar %1$d%%</string>
@@ -395,21 +453,39 @@ Bedankt voor uw bestelling.</string>
     <plurals name="rating_info">
         <item quantity="one">%2$.2f | %1$d Beoordeling</item>
         <item quantity="other">%2$.2f | %1$d Beoordelingen</item>
-    </plurals><!-- Quick Add/Update --><string name="view"><u>Bekijk</u></string>
+    </plurals>
+
+    <!-- Quick Add/Update -->
+    <string name="view"><u>Bekijk</u></string>
     <string name="select_your">Selecteer uw %s</string>
     <string name="quick_add_plus">+ Snel toevoegen</string>
-    <string name="update_cart">Winkelwagen bijwerken</string><!-- Onboarding --><string name="create_account">Account aanmaken</string>
+    <string name="update_cart">Winkelwagen bijwerken</string>
+
+    <!-- Onboarding -->
+    <string name="create_account">Account aanmaken</string>
     <string name="skip">Overslaan</string>
-    <string name="title_onboarding">Aan boord komen</string><!-- Notifications--><string name="no_notifications_title">Geen notificaties</string>
+    <string name="title_onboarding">Aan boord komen</string>
+
+    <!-- Notifications-->
+    <string name="no_notifications_title">Geen notificaties</string>
     <string name="no_notifications_message">Er zijn momenteel geen meldingen om weer te geven</string>
     <string name="notifications_error">Er is iets fout gegaan. Probeer het binnenkort opnieuw.</string>
 
     <string name="title_test">Testtitel</string>
     <string name="title_shoppableinstagram">Winkelbare Instagram</string>
     <string name="title_search">Zoek</string>
-    <string name="title_notifications">Meldingen</string><!--Countdown Timer block --><string name="countdown_timer_number_format">%02d</string><!--QuadPay--><string name="quad_pay_eligible_message">Koop nu, betaal later.
+    <string name="title_notifications">Meldingen</string>
+
+    <!--Countdown Timer block -->
+    <string name="countdown_timer_number_format">%02d</string>
+
+    <!--QuadPay-->
+    <string name="quad_pay_eligible_message">Koop nu, betaal later.
 %1$d renteloze betalingen van %2$s</string>
-    <string name="quad_pay_ineligible_message">%1$d renteloze betalingen voor bestellingen van meer dan $%2$s</string><!--My Rewards--><string name="title_loyalty">Loyaliteit</string>
+    <string name="quad_pay_ineligible_message">%1$d renteloze betalingen voor bestellingen van meer dan $%2$s</string>
+
+    <!--My Rewards-->
+    <string name="title_loyalty">Loyaliteit</string>
     <string name="about">Over</string>
     <string name="loyalty_rewards">Loyaliteitsbeloningen</string>
     <plurals name="your_balance">
@@ -428,7 +504,10 @@ Bedankt voor uw bestelling.</string>
     <string name="close_underlined">&lt;u&gt;Sluiten&lt;/u&gt;</string>
     <string name="a11y_close">Sluiten</string>
     <string name="a11y_back">Terug</string>
-    <string name="share_with_friends">Deel met vrienden</string><!--My Rewards Dialog--><string name="my_rewards">Mijn beloningen</string>
+    <string name="share_with_friends">Deel met vrienden</string>
+
+    <!--My Rewards Dialog-->
+    <string name="my_rewards">Mijn beloningen</string>
     <string name="my_rewards_all_caps">MIJN BELONINGEN</string>
     <string name="choose_reward">Kies beloning</string>
     <string name="choose_a_reward">Kies een beloning:</string>
@@ -449,14 +528,20 @@ Bedankt voor uw bestelling.</string>
     <string name="reward_is_disabled">Beloning is uitgeschakeld. Probeer het later nog eens.</string>
     <string name="no_rewards_available">Geen beloningen beschikbaar</string>
     <string name="setting_up_loyalty">Uw loyaliteitsaccount instellen…</string>
-    <string name="discount_not_applicable_error">Korting is niet van toepassing op de artikelen in uw winkelwagen.</string><!--Subscriptions--><string name="title_subscriptions">Abonnementen</string>
+    <string name="discount_not_applicable_error">Korting is niet van toepassing op de artikelen in uw winkelwagen.</string>
+
+    <!--Subscriptions-->
+    <string name="title_subscriptions">Abonnementen</string>
     <string name="active">Actief</string>
     <string name="inactive">Inactief</string>
     <string name="next_billing_date">Volgende factuurdatum: %1$s</string>
     <string name="skipped_order">Bestelling overgeslagen: %1$s</string>
     <string name="subscription_inactive">Abonnement inactief</string>
     <string name="no_subscriptions">Geen abonnementen</string>
-    <string name="no_subscriptions_yet">U heeft nog geen abonnementen aangemaakt</string><!--Subscription Details--><string name="subscription_details">Abonnementsgegevens</string>
+    <string name="no_subscriptions_yet">U heeft nog geen abonnementen aangemaakt</string>
+
+    <!--Subscription Details-->
+    <string name="subscription_details">Abonnementsgegevens</string>
     <string name="frequency">Frequentie</string>
     <string name="delivered_every">Elke %1$s</string>
     <string name="reactivate_subscription">Abonnement opnieuw activeren</string>
@@ -481,19 +566,47 @@ Bedankt voor uw bestelling.</string>
     <plurals name="month_interval">
         <item quantity="one">%1$d maand</item>
         <item quantity="other">%1$d maanden</item>
-    </plurals><!--Reactivate Subscription--><string name="reactivate_subscription_title">Abonnement opnieuw activeren</string>
+    </plurals>
+
+    <!--Reactivate Subscription-->
+
+    <string name="reactivate_subscription_title">Abonnement opnieuw activeren</string>
     <string name="reactivate_subscription_message">Er worden kosten in rekening gebracht op uw volgende factuurdatum.</string>
-    <string name="confirm">Bevestig</string><!--Deactivate Subscription--><string name="deactivate_subscription_title">Abonnement deactiveren</string>
+    <string name="confirm">Bevestig</string>
+
+    <!--Deactivate Subscription-->
+
+    <string name="deactivate_subscription_title">Abonnement deactiveren</string>
     <string name="deactivate_subscription_message">Weet u zeker dat u uw abonnement wilt deactiveren?</string>
-    <string name="deactivate">Deactiveren</string><!--Skip Charge--><string name="skip_charge_title">Kosten overslaan</string>
+    <string name="deactivate">Deactiveren</string>
+
+    <!--Skip Charge-->
+
+    <string name="skip_charge_title">Kosten overslaan</string>
     <string name="skip_charge_message">Weet u zeker dat u uw volgende abonnementsdatum wilt overslaan?</string>
-    <string name="skip_charge">Overslaan</string><!--Unskip Charge--><string name="unskip_charge_title">Kosten overslaan</string>
+    <string name="skip_charge">Overslaan</string>
+
+    <!--Unskip Charge-->
+
+    <string name="unskip_charge_title">Kosten overslaan</string>
     <string name="unskip_charge_message">Weet u zeker dat u uw volgende abonnementsdatum wilt annuleren?</string>
-    <string name="unskip_charge">Annuleren</string><!--Leave Subscription Unsaved--><string name="leave_unsaved_message">Weet u zeker dat u weg wil? Alle niet-opgeslagen wijzigingen worden genegeerd.</string>
-    <string name="leave">Vertrek</string><!--Recharge Errors--><string name="auth_error_message">Oeps! Er is een authenticatiefout opgetreden</string>
-    <string name="parse_error_message">Oeps! Er is een fout opgetreden bij het voltooien van de taak</string><!--Subscription Address--><string name="select_address">Selecteer adres</string>
+    <string name="unskip_charge">Annuleren</string>
+    <!--Leave Subscription Unsaved-->
+
+    <string name="leave_unsaved_message">Weet u zeker dat u weg wil? Alle niet-opgeslagen wijzigingen worden genegeerd.</string>
+    <string name="leave">Vertrek</string>
+
+    <!--Recharge Errors-->
+    <string name="auth_error_message">Oeps! Er is een authenticatiefout opgetreden</string>
+    <string name="parse_error_message">Oeps! Er is een fout opgetreden bij het voltooien van de taak</string>
+
+    <!--Subscription Address-->
+    <string name="select_address">Selecteer adres</string>
     <string name="edit_address">Wijzig adres</string>
-    <string name="deliver_to_address">Afleveren op dit adres</string><!--Abandoned Items--><string name="finish_checkout">Afrekenen voltooien</string>
+    <string name="deliver_to_address">Afleveren op dit adres</string>
+
+    <!--Abandoned Items-->
+    <string name="finish_checkout">Afrekenen voltooien</string>
     <string name="view_cart">Bekijk winkelwagen</string>
     <string name="abandoned_checkout_title">Ga verder waar u was gebleven!
 Rond nu uw bestelling af.</string>
@@ -501,20 +614,22 @@ Rond nu uw bestelling af.</string>
 Nu afrekenen voordat het uitverkocht is.</string>
 
     <plurals name="extra_items_message">
-        <item quantity="one">&quot;+ %1$d ander product&quot;</item>
-        <item quantity="other">&quot;+ %1$d andere producten&quot;</item>
+        <item quantity="one">+ %1$d ander product</item>
+        <item quantity="other">+ %1$d andere producten</item>
     </plurals>
-    <string name="title_address">Adres</string><!-- Photo Search --><string name="take_photo">Maak een foto</string>
+    <string name="title_address">Adres</string>
+
+    <!-- Photo Search -->
+    <string name="take_photo">Maak een foto</string>
     <string name="select_photo">Selecteer een foto</string>
     <string name="photo_search_toolbar">Afbeelding zoeken</string>
     <string name="photo_search_description">U kunt nu zoeken door een foto te maken. Of laad een foto, selecteer er een artikel in en ga winkelen!</string>
     <string name="photo_search_feed_description">Heeft u geen foto? Probeer er een uit onze sociale collectie</string>
     <string name="replace_image">Afbeelding vervangen</string>
-
-    <string name="photo_search_sort_label" translatable="false">@string/sort</string>
     <string name="photo_search_sort_best_match">Beste overeenkomst</string>
-    <string name="photo_search_sort_price_high_low" translatable="false">@string/price_high_to_low</string>
-    <string name="photo_search_sort_price_low_high" translatable="false">@string/price_low_to_high</string><!-- Multicurrency --><string name="change_currency">Wijzig valuta</string>
+   
+    <!-- Multicurrency -->
+    <string name="change_currency">Wijzig valuta</string>
     <string name="change_currency_msg">Hierdoor wordt uw app opnieuw geladen en worden de prijzen nu weergegeven in %s valuta.</string>
     <string name="add_to_list_failed">Kon artikel niet toevoegen aan verlanglijst</string>
     <string name="failed_to_remove_wishlist_item">Kon product(en) niet van verlanglijst verwijderen</string>
